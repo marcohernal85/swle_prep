@@ -356,6 +356,167 @@
       /***** INITIALIZATION *****/
       updateBankStatus();
     });
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      /***** STATE AND DOM ELEMENTS *****/
+      let questions = []; // This will hold all the questions from combined_data.json
+      let currentExamQuestions = [];
+      let userAnswers = {}; // Store user answers { questionId: answerIndex }
+
+      const subjectSelect = document.getElementById('subjectSelect');
+      const targetCount = document.getElementById('targetCount');
+      const btnBuild = document.getElementById('btnBuild');
+      const buildMsg = document.getElementById('buildMsg');
+      
+      // Removed import elements as we will load directly
+      const examPanel = document.getElementById('examPanel');
+      const examList = document.getElementById('examList');
+      const metaCount = document.getElementById('metaCount');
+      const metaScore = document.getElementById('metaScore');
+      const bar = document.getElementById('bar');
+      const showRationale = document.getElementById('showRationale');
+      const btnAnswerKey = document.getElementById('btnAnswerKey');
+      const btnResetExam = document.getElementById('btnResetExam');
+      const answerKey = document.getElementById('answerKey');
+      
+      // Elements no longer needed in the HTML file for this new approach
+      document.getElementById('importFile').closest('.card').remove();
+      document.getElementById('bankStatus').closest('.card').remove();
+
+      /***** SUBJECT ALLOCATION MATRICES (PRC TOS) *****/
+      const ALLOCATIONS = {
+        HBSE: {
+          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
+          topics:[ { key:"A1", topic:"Philippine Social Realities & Social Work Concepts/Tools", count:17 }, { key:"A2", topic:"Anatomy of Social Problems & Theories", count:3 }, { key:"B", topic:"Filipino Personality & Social Work", count:20 }, { key:"C", topic:"Social Work & Social Deviation", count:20 }, { key:"D", topic:"Social Environment: Family/Group/Community/Org", count:20 }, { key:"E", topic:"Social Change & Development Perspectives", count:20 }, ]
+        },
+        SWPPS: {
+          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
+          topics:[ { key:"A", topic:"Philippine Social Welfare & Development: History, Philosophy, Values", count:20 }, { key:"B", topic:"Social Welfare Policies, Laws, and Programs", count:30 }, { key:"C", topic:"Fields of Social Work & Delivery Systems", count:30 }, { key:"D", topic:"International and Regional Developments", count:20 } ]
+        },
+        "Practice I": {
+          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
+          topics:[ { key:"A", topic:"Social Work Practice with Individuals (Casework)", count:40 }, { key:"B", topic:"Theories, Methods, and Approaches in Casework", count:30 }, { key:"C", topic:"Practice Skills and Techniques", count:30 } ]
+        },
+        "Practice II": {
+          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
+          topics:[ { key:"A", topic:"Social Work Practice with Groups", count:40 }, { key:"B", topic:"Theories, Methods, and Approaches in Group Work", count:30 }, { key:"C", topic:"Practice Skills and Techniques in Group Work", count:30 } ]
+        },
+        "Practice III": {
+          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
+          topics:[ { key:"A", topic:"Social Work Practice with Communities & Organizations", count:40 }, { key:"B", topic:"Theories, Methods, and Approaches in Community/Org Practice", count:30 }, { key:"C", topic:"Practice Skills and Techniques in Community/Org Practice", count:30 } ]
+        }
+      };
+
+      /***** UTILITY FUNCTIONS *****/
+      const shuffle = (array) => {
+        for (let i = array.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+      };
+
+      /***** DATA LOADING LOGIC (New) *****/
+      const loadCombinedData = async () => {
+        try {
+          const response = await fetch('combined_data.json');
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          questions = await response.json();
+          // Update UI to reflect loaded questions
+          document.getElementById('buildMsg').textContent = `Successfully loaded ${questions.length} items.`;
+          document.getElementById('buildMsg').style.color = 'var(--good)';
+          console.log(`Loaded ${questions.length} questions from combined_data.json`);
+        } catch (error) {
+          console.error("Could not load the combined data:", error);
+          document.getElementById('buildMsg').textContent = `Error loading data: ${error.message}`;
+          document.getElementById('buildMsg').style.color = 'var(--bad)';
+        }
+      };
+      
+      /***** EXAM BUILDING LOGIC (Revised) *****/
+      btnBuild.addEventListener('click', () => {
+        const subject = subjectSelect.value;
+        const totalItems = parseInt(targetCount.value);
+        const bank = questions.filter(q => q.subject === subject);
+
+        if (bank.length === 0) {
+          buildMsg.textContent = `Question bank for ${subject} is empty.`;
+          buildMsg.style.color = 'var(--warn)';
+          return;
+        }
+
+        const allocation = ALLOCATIONS[subject];
+        let selectedQuestions = [];
+        let tempBank = shuffle([...bank]); // Use a shuffled copy
+
+        // Distribute questions based on difficulty
+        const requiredEasy = Math.round(totalItems * allocation.difficultySplit.Easy);
+        const requiredMod = Math.round(totalItems * allocation.difficultySplit.Moderate);
+        const requiredDiff = totalItems - requiredEasy - requiredMod;
+
+        const easyQs = tempBank.filter(q => q.difficulty === 'Easy');
+        const modQs = tempBank.filter(q => q.difficulty === 'Moderate');
+        const diffQs = tempBank.filter(q => q.difficulty === 'Difficult');
+
+        selectedQuestions.push(...easyQs.slice(0, requiredEasy));
+        selectedQuestions.push(...modQs.slice(0, requiredMod));
+        selectedQuestions.push(...diffQs.slice(0, requiredDiff));
+        
+        // If not enough questions, take more from what's available
+        let remaining = totalItems - selectedQuestions.length;
+        if(remaining > 0){
+          const remainingQs = tempBank.filter(q => !selectedQuestions.includes(q));
+          selectedQuestions.push(...remainingQs.slice(0, remaining));
+        }
+
+        if (selectedQuestions.length < totalItems) {
+            buildMsg.textContent = `Warning: Not enough questions in the bank to meet the ${totalItems} target. Built with ${selectedQuestions.length}.`;
+            buildMsg.style.color = 'var(--warn)';
+        } else {
+            buildMsg.textContent = `Successfully built exam with ${selectedQuestions.length} items.`;
+            buildMsg.style.color = 'var(--good)';
+        }
+
+        currentExamQuestions = shuffle(selectedQuestions);
+        userAnswers = {};
+        renderExam();
+      });
+
+      /***** EXAM RENDERING AND INTERACTION *****/
+      const renderExam = () => {
+        examPanel.hidden = false;
+        examList.innerHTML = '';
+        currentExamQuestions.forEach((q, index) => {
+          const questionEl = document.createElement('div');
+          questionEl.className = 'q';
+          questionEl.dataset.id = q.id;
+
+          // Re-shuffles choices for each render
+          const shuffledChoices = shuffle([...q.choices]);
+          const choicesHTML = shuffledChoices.map((choice, choiceIndex) => `
+            <div class="choice" data-original-index="${q.choices.indexOf(choice)}">
+              ${choice}
+            </div>
+          `).join('');
+
+          questionEl.innerHTML = `
+            <div><b>${index + 1}.</b> ${q.stem}</div>
+            <div class="choices">${choicesHTML}</div>
+            <div class="rationale hide">${q.rationale}</div>
+          `;
+          examList.appendChild(questionEl);
+        });
+        updateStats();
+        answerKey.classList.add('hide');
+      };
+
+      examList.addEventListener('click', (e) => {
+        if (e.target.classList.contains('choice')) {
+          const questionEl = e.target.closest('.q');
+          const question
   </script>
 </body>
 </html>
+
