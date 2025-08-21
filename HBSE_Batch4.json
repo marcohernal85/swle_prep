@@ -1,0 +1,2928 @@
+[
+  {
+    "id": "HBSE-A1-101",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Poverty measurement",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following approaches to measuring poverty focuses on the inability of individuals and households to meet basic food and non-food needs?",
+    "choices": [
+      "Absolute poverty measurement",
+      "Relative poverty measurement",
+      "Multidimensional poverty index",
+      "Subjective poverty measurement"
+    ],
+    "answerIndex": 0,
+    "rationale": "Absolute poverty measurement is concerned with whether or not a household's income or consumption is above a minimum level required to meet basic needs.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-102",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Globalization",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker observes that the local fishing community is struggling due to increased competition from large, foreign-owned fishing vessels. This situation is an example of what concept and its implications for social work?",
+    "choices": [
+      "Neoliberalism, which promotes state-owned enterprises and local market protection.",
+      "Globalization, which can lead to economic displacement and require social workers to advocate for safety nets.",
+      "Protectionism, which emphasizes a country's self-reliance and exclusion from global markets.",
+      "Communism, which advocates for a stateless society with collective ownership."
+    ],
+    "answerIndex": 1,
+    "rationale": "Globalization connects local economies to global forces. In this case, it leads to competition that displaces local livelihoods, necessitating social work interventions focused on economic stability and advocacy for affected communities.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-103",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "SPECSEG analysis",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "When a social worker uses the SPECSEG framework to analyze a community's struggle with solid waste management, which of the following actions is the most appropriate application of the framework?",
+    "choices": [
+      "Focusing only on the technical aspects of waste disposal.",
+      "Analyzing the issue through its Social, Political, Economic, Cultural, Spiritual, Ecological, and Gender dimensions to develop a holistic intervention.",
+      "Exclusively studying the community's economic capacity to pay for waste services.",
+      "Conducting interviews with religious leaders to understand their spiritual beliefs about waste."
+    ],
+    "answerIndex": 1,
+    "rationale": "The SPECSEG framework is a comprehensive tool for analyzing social realities by examining a problem through a multidimensional lens, including structural and cultural forces across various domains.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-104",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Sectoral analysis",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A social worker is tasked with understanding the unique challenges of the informal vendor sector in a bustling city. Which of the following is the most relevant characteristic to consider for advocacy and support?",
+    "choices": [
+      "Their preference for a specific type of street food.",
+      "Their livelihood insecurity and lack of legal protection.",
+      "Their social media usage.",
+      "Their favorite leisure activities."
+    ],
+    "answerIndex": 1,
+    "rationale": "A key characteristic of the informal vendor sector is livelihood insecurity and weak protections, which makes them vulnerable to sudden losses and sanctions, thus requiring social work advocacy.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-105",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality and Social Work",
+    "subtopic": "Concepts of kapwa, loob, and Filipino values",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "During a family conflict resolution session, a Filipino social worker notices that a family member is holding back their true feelings to maintain harmony. The social worker's understanding of which Filipino value would be most helpful in this situation?",
+    "choices": [
+      "Utang na loob (debt of gratitude)",
+      "Pakikisama (getting along with others)",
+      "Bayanihan (community cooperation)",
+      "Hiya (shame)"
+    ],
+    "answerIndex": 1,
+    "rationale": "Pakikisama, or the value of getting along with others, is a crucial concept in understanding Filipino behavior. The social worker's awareness of this value helps in navigating the family dynamics and encouraging genuine communication while respecting the cultural context.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-106",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality and Social Work",
+    "subtopic": "Filipino personality theories",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker is providing counseling to a teenager struggling with self-worth. To better understand the teenager's behavior and cultural context, the social worker uses Enriquez's Sikolohiyang Pilipino framework. What is the most appropriate application of this framework?",
+    "choices": [
+      "Focusing on Western psychological theories to the exclusion of local context.",
+      "Analyzing the client's behavior solely based on their socioeconomic status.",
+      "Applying the concept of 'kapwa' to understand the client's sense of shared identity and relationship with others.",
+      "Ignoring the client's family background and focusing only on individual choices."
+    ],
+    "answerIndex": 2,
+    "rationale": "The Sikolohiyang Pilipino framework, particularly the concept of 'kapwa' (shared inner self), is essential for a social worker to understand a Filipino client's behavior within the cultural context. It emphasizes the importance of relational well-being and shared identity.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-101",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Intro to Social Deviation",
+    "subtopic": "Types and approaches",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following best describes the **medical model** approach to social deviation?",
+    "choices": [
+      "Views deviant behavior as a symptom of underlying physical or mental illness.",
+      "Views deviant behavior as a result of societal inequality and power structures.",
+      "Views deviant behavior as a violation of social norms and rules.",
+      "Views deviant behavior as a rational choice made by an individual."
+    ],
+    "answerIndex": 0,
+    "rationale": "The medical model frames social deviation as an illness that can be diagnosed and treated, often through a clinical approach. This contrasts with sociological perspectives that focus on societal factors.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-102",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Intro to Social Deviation",
+    "subtopic": "Perspectives and approaches",
+    "bloom": "Compare/Contrast",
+    "difficulty": "Moderate",
+    "stem": "In a social work context, how does the **labeling theory** differ from the **structural-functionalist perspective** on social deviation?",
+    "choices": [
+      "Labeling theory sees deviation as a result of societal reaction, while structural-functionalism sees it as a necessary part of social order.",
+      "Labeling theory focuses on individual moral failings, while structural-functionalism focuses on group dynamics.",
+      "Labeling theory emphasizes the biological roots of deviance, while structural-functionalism highlights psychological factors.",
+      "Labeling theory views deviance as a choice, while structural-functionalism views it as an outcome of poverty."
+    ],
+    "answerIndex": 0,
+    "rationale": "Labeling theory posits that deviance is not inherent in an act but is a social construct based on the reactions of others. In contrast, the structural-functionalist perspective views deviance as serving a function in society, such as clarifying moral boundaries and promoting social cohesion.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-103",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Theoretical Foundation on Social Deviance",
+    "subtopic": "Theoretical foundations",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a youth gang member. The social worker applies a **social learning theory** lens to the situation. Which intervention would be most consistent with this approach?",
+    "choices": [
+      "Focusing on the biological and genetic predispositions of the youth.",
+      "Providing a structured environment with positive role models to model prosocial behaviors.",
+      "Punishing the youth for their deviant acts to deter future behavior.",
+      "Providing one-on-one therapy to address unconscious psychological conflicts."
+    ],
+    "answerIndex": 1,
+    "rationale": "Social learning theory suggests that individuals learn behaviors, including deviant ones, by observing and imitating others and by being reinforced for their actions. An appropriate intervention would involve providing a positive environment with prosocial models to promote learning of alternative behaviors.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-104",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Roles and Skills of Social Work",
+    "subtopic": "Roles and skills",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "In dealing with a client with substance abuse, a social worker's role as a **case manager** would involve which of the following?",
+    "choices": [
+      "Providing direct clinical therapy to the client.",
+      "Coordinating and connecting the client to various services like rehabilitation centers, support groups, and employment agencies.",
+      "Advocating for policy changes to address drug-related issues.",
+      "Conducting research on the prevalence of substance abuse in the community."
+    ],
+    "answerIndex": 1,
+    "rationale": "The role of a case manager is to coordinate services and resources for a client. This involves connecting them to various supports and ensuring they have a comprehensive plan for their well-being.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-101",
+    "subject": "Social Environment and Social Work",
+    "topic": "The social environment as the context of social work practice",
+    "subtopic": "Key concepts",
+    "bloom": "Illustrate",
+    "difficulty": "Easy",
+    "stem": "A social worker applies the **Person-in-Environment (PIE)** perspective to a client's situation. Which of the following best exemplifies this approach?",
+    "choices": [
+      "Focusing solely on the client's psychological issues.",
+      "Ignoring the client's family dynamics and community resources.",
+      "Assessing how the client's personal problems are influenced by their social and physical environment, such as family, community, and economic factors.",
+      "Blaming the client's problems entirely on societal failures."
+    ],
+    "answerIndex": 2,
+    "rationale": "The PIE perspective is a core concept in social work that emphasizes the importance of understanding an individual's behavior and problems within the context of their social and physical environment. It looks at the interplay between the person and their surroundings.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-102",
+    "subject": "Social Environment and Social Work",
+    "topic": "The family: structures, types, dynamics, processes, and functions",
+    "subtopic": "Family types and structures",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "A social worker encounters a family where the mother is working overseas to support the family, and the children are being raised by their grandmother. This family structure is best described as a(n):",
+    "choices": [
+      "Nuclear family",
+      "Extended family",
+      "Transnational family",
+      "Blended family"
+    ],
+    "answerIndex": 2,
+    "rationale": "A transnational family is a family where one or more members live in a different country, often for work, while maintaining strong family ties and responsibilities with the family members who remain in their home country.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-103",
+    "subject": "Social Environment and Social Work",
+    "topic": "The community: structures, types, dynamics, processes, and functions",
+    "subtopic": "Community types",
+    "bloom": "Identify",
+    "difficulty": "Easy",
+    "stem": "A social worker is tasked with organizing an online support group for Overseas Filipino Workers (OFWs). This type of community is best categorized as a(n):",
+    "choices": [
+      "Geographical community",
+      "Rural community",
+      "Mobile/e-community",
+      "Sectoral community"
+    ],
+    "answerIndex": 2,
+    "rationale": "Mobile/e-communities are groups that are connected through technology, such as online forums, social media groups, and online support groups, regardless of their physical location.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-104",
+    "subject": "Social Environment and Social Work",
+    "topic": "The group: structures, types, dynamics, processes, and functions",
+    "subtopic": "Group typologies",
+    "bloom": "Distinguish",
+    "difficulty": "Difficult",
+    "stem": "A social worker is forming a support group for survivors of gender-based violence. Which of the following is a key characteristic that distinguishes this from a task-oriented group?",
+    "choices": [
+      "The primary focus is on accomplishing a specific task, like planning a community event.",
+      "The group is formed to provide mutual support and emotional healing for its members.",
+      "The group's structure is highly formal and hierarchical.",
+      "The group's success is measured by the completion of a project."
+    ],
+    "answerIndex": 1,
+    "rationale": "Support groups, unlike task-oriented groups, are formed for therapeutic and emotional support. They are characterized by a focus on mutual aid, sharing experiences, and promoting healing and personal growth.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-101",
+    "subject": "Social Change and Development",
+    "topic": "Concepts on Social Change and Development",
+    "subtopic": "Concepts of social change",
+    "bloom": "Define",
+    "difficulty": "Easy",
+    "stem": "Which of the following best defines **social change**?",
+    "choices": [
+      "A change in an individual's personal habits.",
+      "A significant alteration over time in behavior patterns and culture, including norms and values.",
+      "A temporary shift in fashion trends.",
+      "A change in a single person's income."
+    ],
+    "answerIndex": 1,
+    "rationale": "Social change refers to a broad and fundamental alteration in the social structure and cultural patterns of a society over a period of time. This includes changes in institutions, social relations, and cultural values.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-102",
+    "subject": "Social Change and Development",
+    "topic": "Social Change and Development Theories",
+    "subtopic": "Neoliberal globalization",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is analyzing the impact of neoliberal globalization on indigenous communities. Which of the following is a potential negative impact of neoliberal policies?",
+    "choices": [
+      "Increased access to traditional land and resources.",
+      "Empowerment of indigenous governance structures.",
+      "The privatization of community-held resources and the commodification of their traditional knowledge.",
+      "Strengthening of local, self-sustaining economies."
+    ],
+    "answerIndex": 2,
+    "rationale": "Neoliberal globalization often promotes privatization and free-market principles, which can lead to the exploitation and commodification of indigenous lands, resources, and traditional knowledge, disrupting their cultural and economic systems.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-103",
+    "subject": "Social Change and Development",
+    "topic": "Social Movements and Its Impact",
+    "subtopic": "Role of mass movements",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is studying the role of the feminist movement in advocating for women's rights in the Philippines. Which of the following best illustrates the role of mass movements in social change?",
+    "choices": [
+      "They are a sign of social instability and should be avoided.",
+      "They are primarily for entertainment and do not have a lasting impact.",
+      "They are a collective effort to challenge the status quo and bring about systemic change by raising public awareness and pressuring institutions.",
+      "They are always violent and disruptive."
+    ],
+    "answerIndex": 2,
+    "rationale": "Social movements are a key mechanism for social change. They represent a collective and organized effort by a group of people to challenge existing power structures and bring about or resist social change through mobilization, advocacy, and protest.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-17",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "What is the primary function of social statistics in a social worker's practice?",
+    "choices": [
+      "To provide a framework for ethical decision-making.",
+      "To collect, analyze, and interpret data to inform social policies and programs.",
+      "To create complex mathematical models for predicting individual behavior.",
+      "To assist in case management without any data analysis."
+    ],
+    "answerIndex": 1,
+    "rationale": "Social statistics are crucial for social workers to understand social problems, evaluate the effectiveness of interventions, and advocate for evidence-based policies and programs. They provide the quantitative data needed for informed decision-making.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-18",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker wants to determine if there is a significant relationship between a client's education level and their employment status. Which statistical test would be most appropriate to apply?",
+    "choices": [
+      "Chi-Square Test of Independence",
+      "T-test",
+      "ANOVA",
+      "Regression analysis"
+    ],
+    "answerIndex": 0,
+    "rationale": "The Chi-Square Test of Independence is used to determine if there is a significant association between two categorical variables, such as education level and employment status, which are not numerical.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-19",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of Social Work Research",
+    "bloom": "Define",
+    "difficulty": "Easy",
+    "stem": "Which of the following statements best defines **Social Work Research**?",
+    "choices": [
+      "It is a research methodology solely focused on individual case studies.",
+      "It is the systematic process of gathering and analyzing information to solve problems and inform practice in the field of social work.",
+      "It is a research method that only uses qualitative data.",
+      "It is a research practice that is not bound by ethical considerations."
+    ],
+    "answerIndex": 1,
+    "rationale": "Social work research is a systematic, evidence-based approach to understanding social problems and evaluating the effectiveness of interventions, adhering to ethical principles to ensure the well-being of participants.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-20",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of Social Work Research",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker is designing a research project to evaluate the effectiveness of a new therapy program for at-risk youth. The social worker's ethical responsibility requires them to obtain informed consent from participants. What is the most critical aspect of this process?",
+    "choices": [
+      "Ensuring participants fully understand the purpose, risks, and benefits of the research before agreeing to participate.",
+      "Obtaining consent verbally without any documentation.",
+      "Obtaining consent from a parent or guardian, even if the youth is capable of making their own decisions.",
+      "Providing financial incentives to encourage participation."
+    ],
+    "answerIndex": 0,
+    "rationale": "Informed consent is a fundamental ethical principle in social work research. It ensures that participants have a clear and comprehensive understanding of the research, including its purpose, procedures, potential risks, and benefits, so they can make a voluntary and informed decision to participate.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-107",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Poverty measurement",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The **multidimensional poverty index** measures poverty beyond just income by also considering deprivations in which of the following areas?",
+    "choices": [
+      "Political affiliation and social media presence.",
+      "Health, education, and living standards.",
+      "Leisure activities and travel history.",
+      "Personal hobbies and musical preferences."
+    ],
+    "answerIndex": 1,
+    "rationale": "The multidimensional poverty index (MPI) is a tool that goes beyond income to measure a household's poverty based on its deprivations in health, education, and living standards. This provides a more comprehensive view of poverty than income-based measures alone.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-108",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Neoliberalism",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "Which of the following is a direct implication of **neoliberalism** on social welfare programs in the Philippines?",
+    "choices": [
+      "Increased government funding for social services and state-run enterprises.",
+      "A shift towards privatization and a reduction in government social spending.",
+      "A focus on collective ownership of resources and services.",
+      "The promotion of state-controlled markets and reduced global trade."
+    ],
+    "answerIndex": 1,
+    "rationale": "Neoliberalism advocates for free-market capitalism, which often leads to the privatization of services and a reduction in government social spending. This can result in a shift from public to private provision of social welfare services, with implications for accessibility and equity.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-109",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Interplay of internal and external factors",
+    "bloom": "Illustrate",
+    "difficulty": "Difficult",
+    "stem": "The implementation of the K-12 program in the Philippines, a response to global educational standards, is an example of the interplay of which factors?",
+    "choices": [
+      "Only internal factors, as it was a domestic policy decision.",
+      "Only external factors, as it was a direct requirement from international bodies.",
+      "Both internal and external factors, as it addresses a domestic need for improved education while also aligning with global standards for labor mobility.",
+      "Neither internal nor external factors, as it is a purely political decision."
+    ],
+    "answerIndex": 2,
+    "rationale": "The K-12 program in the Philippines is a good example of how internal factors (the need to improve the domestic education system) and external factors (alignment with global educational standards and labor market demands) can influence a country's development.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-110",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Social welfare programs",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "The Pantawid Pamilyang Pilipino Program (4Ps) is a conditional cash transfer program. A social worker's analysis of this program should focus on which of the following aspects?",
+    "choices": [
+      "Its effectiveness in addressing the root causes of poverty.",
+      "The political affiliations of the beneficiaries.",
+      "The program's impact on individual spending on luxury goods.",
+      "The program's administrative cost as the sole measure of success."
+    ],
+    "answerIndex": 0,
+    "rationale": "The 4Ps program is a social welfare initiative aimed at alleviating poverty. A social worker's analysis should therefore focus on its effectiveness in achieving this goal, particularly its impact on reducing poverty and improving health and education outcomes for beneficiaries, rather than on superficial or irrelevant metrics.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-105",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Theoretical Foundation on Social Deviance",
+    "subtopic": "Theoretical foundations",
+    "bloom": "Describe",
+    "difficulty": "Easy",
+    "stem": "According to **structural strain theory**, social deviation is caused by:",
+    "choices": [
+      "The inability of individuals to cope with psychological stress.",
+      "The strain or tension between culturally defined goals and the institutionalized means of achieving them.",
+      "Genetic predisposition to criminal behavior.",
+      "A person's free will to choose to deviate from social norms."
+    ],
+    "answerIndex": 1,
+    "rationale": "Structural strain theory, developed by Robert Merton, posits that social deviation arises when there is a disparity between societal goals (e.g., wealth) and the legitimate means to achieve them (e.g., education, jobs). This strain can lead to deviant behaviors like crime.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-106",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Overview of the Different Types of Emotional/Behavioral Disorders",
+    "subtopic": "Manifestations and characteristics",
+    "bloom": "Describe",
+    "difficulty": "Moderate",
+    "stem": "A social worker is assessing a client who exhibits persistent and extreme mood swings, with episodes of intense euphoria and hyperactivity followed by severe depression. The social worker recognizes these as characteristic manifestations of which behavioral disorder?",
+    "choices": [
+      "Schizophrenia",
+      "Bipolar disorder",
+      "Anxiety disorder",
+      "Obsessive-compulsive disorder"
+    ],
+    "answerIndex": 1,
+    "rationale": "Bipolar disorder is characterized by extreme and fluctuating moods, including periods of mania (euphoria, hyperactivity) and depression. A social worker must be able to recognize these clinical manifestations to provide appropriate support and refer the client to mental health professionals.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-107",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Overview of the Different Types of Emotional/Behavioral Disorders",
+    "subtopic": "Social work responses",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a client who has a severe anxiety disorder. Which of the following is an appropriate social work response?",
+    "choices": [
+      "Forcing the client to confront their fears without preparation.",
+      "Prescribing medication to the client.",
+      "Providing the client with counseling and connecting them to support groups and psychiatric services.",
+      "Ignoring the client's disorder and focusing only on their unemployment."
+    ],
+    "answerIndex": 2,
+    "rationale": "Social workers do not prescribe medication, but they play a crucial role in providing psychosocial support, connecting clients to professional mental health care (such as psychiatrists and therapists), and facilitating access to community-based resources like support groups.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-108",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Basic social issues/problems in categorizing deviant acts",
+    "subtopic": "Implications to social work practice",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "The criminalization of poverty is a social issue with significant implications for social work. What is the most important implication for a social worker working with impoverished clients?",
+    "choices": [
+      "The need to treat all poor people as criminals.",
+      "The need to ignore the legal system and focus only on individual behavior.",
+      "The need to understand how social and economic conditions can lead to acts being defined as deviant and to advocate for systemic change and social justice.",
+      "The need to focus on punitive measures to deter deviant behavior."
+    ],
+    "answerIndex": 2,
+    "rationale": "Social workers are committed to social justice. The criminalization of poverty highlights how societal structures can unfairly label and punish people for behaviors that are a direct result of their economic situation. A social worker's role is to challenge these systems and advocate for equitable and just solutions.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-109",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Roles and Skills of Social Work",
+    "subtopic": "Roles and skills",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a workshop for street children on conflict resolution and life skills. This illustrates the social worker's role as a(n):",
+    "choices": [
+      "Therapist",
+      "Advocate",
+      "Educator/Trainer",
+      "Researcher"
+    ],
+    "answerIndex": 2,
+    "rationale": "In this context, the social worker is teaching and imparting knowledge and skills, which falls under the role of an educator or trainer. This is a common and vital function of social work, particularly in community development and prevention.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-105",
+    "subject": "Social Environment and Social Work",
+    "topic": "Theories and perspectives in understanding the social environment",
+    "subtopic": "Theories and perspectives",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "When a social worker uses the **Ecosystems (Ecological) perspective** to understand a client, they are primarily focused on:",
+    "choices": [
+      "The client's individual psychological history.",
+      "The interconnectedness and reciprocal relationships between the client and their environment, such as family, school, and community.",
+      "The client's genetic predispositions to certain behaviors.",
+      "The client's ability to navigate their life without any external assistance."
+    ],
+    "answerIndex": 1,
+    "rationale": "The Ecosystems perspective views individuals as part of an interconnected web of systems, and their problems are understood in the context of their transactions and interactions with these systems. The focus is on the fit between the person and their environment.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-106",
+    "subject": "Social Environment and Social Work",
+    "topic": "The family: structures, types, dynamics, processes, and functions",
+    "subtopic": "Evolving definitions of the Filipino family",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "The evolving definition of the Filipino family is influenced by societal changes. The recognition of **solo parent households** is a direct result of which of the following?",
+    "choices": [
+      "A shift from a traditional, nuclear family structure to a more inclusive and diverse perspective.",
+      "A decrease in the number of children in a family.",
+      "An increase in extended family living arrangements.",
+      "A decrease in the importance of parental roles."
+    ],
+    "answerIndex": 0,
+    "rationale": "The recognition of solo parent households and other non-traditional family structures is a reflection of the evolving nature of the Filipino family, moving beyond the traditional nuclear family definition to include diverse arrangements that are now a reality in society.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-107",
+    "subject": "Social Environment and Social Work",
+    "topic": "The organization: structures, types, dynamics, processes, and functions",
+    "subtopic": "Organizational theories",
+    "bloom": "Illustrate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is employed at a social welfare agency that is highly bureaucratic, with a clear chain of command and strict rules. The social worker finds it difficult to innovate and respond flexibly to clients' needs. This organizational structure is best understood through which theory?",
+    "choices": [
+      "Human Relations Theory",
+      "Scientific Management Theory",
+      "Bureaucratic Theory",
+      "Contingency Theory"
+    ],
+    "answerIndex": 2,
+    "rationale": "Bureaucratic theory, as conceptualized by Max Weber, describes an organization with a rigid hierarchy, specialized tasks, and formal rules. While it promotes efficiency and order, it can also lead to inflexibility and a lack of responsiveness, which is a common challenge for social workers in such settings.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-108",
+    "subject": "Social Environment and Social Work",
+    "topic": "The community: structures, types, dynamics, processes, and functions",
+    "subtopic": "Community structures and functions",
+    "bloom": "Describe",
+    "difficulty": "Moderate",
+    "stem": "Which of the following best describes the **political structure** of a community?",
+    "choices": [
+      "The distribution of wealth and income.",
+      "The belief systems and values of its members.",
+      "The formal and informal institutions that govern and influence decision-making, such as local government units, people's organizations, and community leaders.",
+      "The natural environment and its resources."
+    ],
+    "answerIndex": 2,
+    "rationale": "The political structure of a community involves the power dynamics and decision-making bodies that regulate its functioning. This includes formal entities like local government and informal ones like people's organizations that influence community action.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-104",
+    "subject": "Social Change and Development",
+    "topic": "Conceptions and Dimensions of Development",
+    "subtopic": "Significance of concepts",
+    "bloom": "Explain",
+    "difficulty": "Easy",
+    "stem": "The concept of **sustainable development** is significant because it emphasizes:",
+    "choices": [
+      "Economic growth at the expense of environmental protection.",
+      "Meeting the needs of the present without compromising the ability of future generations to meet their own needs.",
+      "Rapid industrialization without considering social equity.",
+      "A purely economic approach to development."
+    ],
+    "answerIndex": 1,
+    "rationale": "Sustainable development is a key concept that recognizes the interdependence of economic, social, and environmental factors. It advocates for development that is long-term and considers the well-being of future generations.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-105",
+    "subject": "Social Change and Development",
+    "topic": "Social Change and Development Theories",
+    "subtopic": "Development theories",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is using **dependency theory** to analyze the economic challenges of a developing nation. This theory would lead the social worker to which conclusion?",
+    "choices": [
+      "The nation's economic challenges are solely due to its internal policies and corruption.",
+      "The nation's challenges are caused by its reliance on and exploitation by developed nations, perpetuating a state of underdevelopment.",
+      "The nation's development will naturally occur through free-market principles.",
+      "The nation's problems are a result of its lack of modern technology."
+    ],
+    "answerIndex": 1,
+    "rationale": "Dependency theory posits that the underdevelopment of certain nations is not a natural state but a result of historical and ongoing exploitation by more powerful, developed nations. It suggests that development in the periphery is dependent on and constrained by the core's dominance.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-21",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In social work, a **frequency distribution** is a statistical function that helps a social worker to:",
+    "choices": [
+      "Determine the mean and median of a dataset.",
+      "Organize and summarize data to show how often different values or categories occur.",
+      "Predict future outcomes based on current trends.",
+      "Calculate the correlation between two variables."
+    ],
+    "answerIndex": 1,
+    "rationale": "A frequency distribution is a basic statistical tool that organizes raw data into a more manageable format by showing the number of times each value or category appears in a dataset. This helps social workers to quickly understand the prevalence of certain issues or characteristics in a population.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-22",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "A social worker is presenting data on the average income of a community. The data has a few extremely high values (outliers). Which measure of central tendency would be least affected by these outliers and therefore be the most representative?",
+    "choices": [
+      "Mean",
+      "Mode",
+      "Median",
+      "Standard deviation"
+    ],
+    "answerIndex": 2,
+    "rationale": "The median is the middle value in a dataset when it is ordered from least to greatest. It is not affected by extreme values or outliers, making it a more robust measure of central tendency than the mean when the data is skewed.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-23",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Explain",
+    "difficulty": "Easy",
+    "stem": "The **research hypothesis** is a critical component of the research process because it:",
+    "choices": [
+      "Summarizes the findings of the research.",
+      "Is a statement of the predicted relationship between two or more variables that is to be tested.",
+      "Is the final conclusion of a study.",
+      "Is an ethical principle of research."
+    ],
+    "answerIndex": 1,
+    "rationale": "A research hypothesis is a testable statement that predicts the relationship between variables. It serves as the foundation for the research design and guides the data collection and analysis to either support or reject the prediction.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-24",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting a research study on the impact of a community-based intervention. To ensure the findings are valid, the social worker must address **internal validity**. This means the social worker needs to ensure that:",
+    "choices": [
+      "The findings can be generalized to other populations.",
+      "The changes in the dependent variable are a direct result of the intervention, and not other factors.",
+      "The research is easy to replicate by other researchers.",
+      "The research is conducted in a natural and non-intrusive setting."
+    ],
+    "answerIndex": 1,
+    "rationale": "Internal validity refers to the extent to which a study's findings are a direct result of the intervention being tested and not due to extraneous variables. Ensuring high internal validity is crucial for establishing a cause-and-effect relationship.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-111",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality and Social Work",
+    "subtopic": "Interrelationship of factors in human growth",
+    "bloom": "Discuss",
+    "difficulty": "Moderate",
+    "stem": "In the context of human growth and development, the **bio-psycho-social-spiritual framework** is important for social workers because it emphasizes:",
+    "choices": [
+      "That a person's behavior is determined by a single factor, such as their biology.",
+      "That only psychological and social factors matter in understanding human behavior.",
+      "The holistic and interconnected nature of an individual's well-being, recognizing that biological, psychological, social, and spiritual factors all influence one another.",
+      "That spiritual beliefs are irrelevant to a person's overall health."
+    ],
+    "answerIndex": 2,
+    "rationale": "The bio-psycho-social-spiritual framework is a cornerstone of social work, promoting a holistic understanding of a person's life by acknowledging that health and well-being are influenced by the complex interplay of these four dimensions.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-112",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality and Social Work",
+    "subtopic": "Personality theories",
+    "bloom": "Explain",
+    "difficulty": "Moderate",
+    "stem": "According to **Social-Learning Theory**, an individual's personality is shaped by:",
+    "choices": [
+      "Unconscious conflicts and childhood experiences.",
+      "The innate drive to self-actualize.",
+      "Observational learning and the environment.",
+      "Genetic and biological factors."
+    ],
+    "answerIndex": 2,
+    "rationale": "Social-learning theory, developed by Albert Bandura, emphasizes that people learn new behaviors and personality traits by observing and imitating others, as well as through environmental factors and direct reinforcement.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-110",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Social Work and Social Deviation",
+    "subtopic": "Social issues/problems in categorizing deviant acts",
+    "bloom": "Discuss",
+    "difficulty": "Difficult",
+    "stem": "The concept of **medicalization of deviance** has significant implications for social work. What is a key implication of this concept?",
+    "choices": [
+      "It promotes a purely criminal justice approach to deviance.",
+      "It encourages individuals to take personal responsibility for their actions.",
+      "It redefines deviant behaviors as medical illnesses, which can lead to a shift from punishment to treatment but may also pathologize normal behaviors.",
+      "It eliminates the need for social work intervention."
+    ],
+    "answerIndex": 2,
+    "rationale": "The medicalization of deviance is the process by which a wide range of human behaviors, from alcoholism to hyperactivity, are redefined as medical conditions. This can have the positive effect of reducing stigma and promoting treatment over punishment, but it can also lead to the over-pathologizing of normal behaviors and may not address the underlying social and structural causes of the behavior.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-25",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting a study to see if there is a relationship between the number of therapy sessions a client attends and the reduction in their depression symptoms. The social worker must use a statistical model that can analyze this relationship. Which test is most appropriate?",
+    "choices": [
+      "Chi-Square Test of Independence",
+      "Pearson correlation coefficient",
+      "T-test",
+      "ANOVA"
+    ],
+    "answerIndex": 1,
+    "rationale": "The Pearson correlation coefficient is the most appropriate statistical test for this scenario. It is used to measure the linear relationship between two continuous variables, in this case, the number of therapy sessions and the level of depression symptoms.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-26",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Explain",
+    "difficulty": "Moderate",
+    "stem": "What is the key difference between **qualitative** and **quantitative** research in social work?",
+    "choices": [
+      "Qualitative research uses numerical data, while quantitative research uses interviews and observations.",
+      "Qualitative research focuses on numerical data to test a hypothesis, while quantitative research focuses on stories and lived experiences to gain a deeper understanding of a social phenomenon.",
+      "Qualitative research focuses on stories and lived experiences, while quantitative research focuses on numerical data to test a hypothesis.",
+      "There is no difference between qualitative and quantitative research."
+    ],
+    "answerIndex": 2,
+    "rationale": "Qualitative research is an in-depth approach that uses non-numerical data like interviews and focus groups to explore a social issue and understand a person's experience. Quantitative research, on the other hand, uses numerical data, surveys, and statistical analysis to test a hypothesis and measure a social phenomenon.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-113",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality and Social Work",
+    "subtopic": "Kapwa and core Filipino values",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "A social worker observes a community coming together to help a family rebuild their home after a fire. This act of collective assistance is a clear example of which Filipino core value?",
+    "choices": [
+      "Hiya (shame)",
+      "Utang na loob (debt of gratitude)",
+      "Bayanihan (community cooperation)",
+      "Pakikisama (getting along with others)"
+    ],
+    "answerIndex": 2,
+    "rationale": "Bayanihan is a well-known Filipino value that embodies the spirit of community cooperation, mutual help, and collective action. This is most evident in situations where people come together to help a neighbor in need.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-114",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Anatomy of social problems",
+    "bloom": "Cite",
+    "difficulty": "Easy",
+    "stem": "According to **Anatomy of Social Problems and Related Theories on Social Problems**, which of the following is a social problem that can lead to poverty?",
+    "choices": [
+      "Individual laziness.",
+      "The lack of access to quality education.",
+      "An individual's personal choices in life.",
+      "Bad luck."
+    ],
+    "answerIndex": 1,
+    "rationale": "While individual factors may play a role, the Anatomy of Social Problems and Related Theories on Social Problems often focuses on systemic issues. The lack of access to quality education is a structural problem that perpetuates poverty by limiting a person's opportunities for social mobility and stable employment.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-111",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Roles and Skills of Social Work",
+    "subtopic": "Appreciation of social work profession",
+    "bloom": "Demonstrate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a client who has been diagnosed with a mental health disorder. The social worker's appreciation for the importance of the profession is demonstrated by which of the following actions?",
+    "choices": [
+      "Telling the client to 'just get over it' and stop being lazy.",
+      "Blaming the client's family for their problems.",
+      "Understanding the client's situation from a holistic perspective, advocating for their rights, and facilitating their access to appropriate mental health and social services.",
+      "Referring the client to a different professional because the social worker is not a psychiatrist."
+    ],
+    "answerIndex": 2,
+    "rationale": "The social worker's appreciation for their profession is demonstrated through a commitment to ethical practice. This includes understanding the client from a holistic perspective, advocating for their rights, and providing a gateway to the necessary services and support, rather than being dismissive or passing the client on to someone else.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-109",
+    "subject": "Social Environment and Social Work",
+    "topic": "The organization: structures, types, dynamics, processes, and functions",
+    "subtopic": "Types and classifications of social organizations",
+    "bloom": "Identify",
+    "difficulty": "Easy",
+    "stem": "A social worker is helping to establish a local **people's organization (PO)** to advocate for community development. This type of organization is best classified as a(n):",
+    "choices": [
+      "Profit-oriented business corporation.",
+      "Government agency.",
+      "Non-governmental organization (NGO) or a community-based organization.",
+      "Religious institution."
+    ],
+    "answerIndex": 2,
+    "rationale": "People's organizations (POs) are a type of non-governmental or community-based organization. They are typically grassroots organizations formed by and for local community members to address their specific needs and advocate for their rights. They are distinct from government and for-profit entities.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-106",
+    "subject": "Social Change and Development",
+    "topic": "Perspectives and approaches on Social Development",
+    "subtopic": "Perspectives and approaches",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is analyzing a community development project using the **Rights-Based Approach (RBA)**. This approach would lead the social worker to focus on:",
+    "choices": [
+      "The community's economic growth as the sole indicator of success.",
+      "Ensuring that the project's design and implementation respects, protects, and fulfills the human rights of community members, particularly marginalized groups.",
+      "Providing charity and handouts to the community.",
+      "Implementing a top-down approach where decisions are made by external experts."
+    ],
+    "answerIndex": 1,
+    "rationale": "The Rights-Based Approach to social development is a framework that emphasizes that all people are rights-holders and states are duty-bearers. The social worker's role is to ensure that development projects empower people to claim their rights and that the government and other institutions are accountable for fulfilling these rights.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-27",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker is comparing the average test scores of two different groups of clients to see if there is a significant difference between them. The most appropriate statistical test to use is:",
+    "choices": [
+      "Chi-Square Test",
+      "T-test",
+      "Pearson correlation coefficient",
+      "Regression analysis"
+    ],
+    "answerIndex": 1,
+    "rationale": "A T-test is used to compare the means of two groups to determine if there is a statistically significant difference between them. This is the correct test for comparing the average test scores of two distinct groups.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-28",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of Social Work Research",
+    "bloom": "Differentiate",
+    "difficulty": "Moderate",
+    "stem": "What is the key difference between **social work research** and **other forms of research**?",
+    "choices": [
+      "Social work research is a purely theoretical endeavor, while other research is practical.",
+      "Social work research is solely for academic purposes, while other research is for policy-making.",
+      "Social work research is a form of applied research that aims to inform and improve social work practice and address social problems.",
+      "Social work research does not need to adhere to any ethical guidelines."
+    ],
+    "answerIndex": 2,
+    "rationale": "Social work research is distinct from other forms of research in that it is fundamentally an applied discipline. Its primary goal is to generate knowledge that can be directly used to improve the lives of individuals, families, and communities, and to inform social work practice and policy.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-29",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Describe",
+    "difficulty": "Easy",
+    "stem": "In the research process, the **literature review** serves what purpose?",
+    "choices": [
+      "To summarize the entire research study.",
+      "To identify existing knowledge on the topic, highlight gaps, and inform the research question.",
+      "To collect raw data from participants.",
+      "To present the final conclusions of the study."
+    ],
+    "answerIndex": 1,
+    "rationale": "The literature review is an essential early step in the research process. It involves a systematic examination of existing scholarly works, which helps the researcher to understand what is already known about a topic, identify what is missing, and refine their own research question.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-30",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Relate",
+    "difficulty": "Moderate",
+    "stem": "A social worker is conducting a study and must ensure that the research is **ethical**. This is most closely related to which of the following?",
+    "choices": [
+      "The sample size.",
+      "The cost of the research project.",
+      "The protection of human subjects, confidentiality, and the avoidance of harm.",
+      "The number of variables being studied."
+    ],
+    "answerIndex": 2,
+    "rationale": "Ethics are a cornerstone of social work research. Key ethical practices include protecting the rights and well-being of human subjects, ensuring their confidentiality, and avoiding any physical, psychological, or social harm. This is a primary consideration in all research design.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-31",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Identify",
+    "difficulty": "Easy",
+    "stem": "Which of the following best describes the role of a social worker when using social statistics?",
+    "choices": [
+      "A consumer of statistical data to inform practice and a producer of data for program evaluation.",
+      "A producer of raw data only, with no involvement in analysis.",
+      "A person who only uses qualitative data.",
+      "A person who has no need to understand statistics."
+    ],
+    "answerIndex": 0,
+    "rationale": "Social workers are both consumers and producers of statistical data. They consume data from research to inform their practice and they produce data through program evaluation and needs assessments to demonstrate the effectiveness of their interventions and to advocate for resources.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-32",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Describe",
+    "difficulty": "Moderate",
+    "stem": "A social worker is gathering data on the age of clients served by a program. This type of data is considered a **nominal variable** if:",
+    "choices": [
+      "The data can be measured on a continuous scale.",
+      "The data can be categorized but not ranked.",
+      "The data has a true zero point.",
+      "The data is in a graphical format."
+    ],
+    "answerIndex": 1,
+    "rationale": "Nominal variables are a type of categorical data where the categories are used for identification or classification. They do not have a natural order or ranking. For example, marital status (single, married, divorced) is a nominal variable.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-33",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker wants to test the hypothesis that a new family therapy program is more effective than the standard program in reducing family conflict. Which statistical test would be most appropriate?",
+    "choices": [
+      "ANOVA",
+      "Chi-Square Test",
+      "Pearson Correlation",
+      "Regression"
+    ],
+    "answerIndex": 0,
+    "rationale": "ANOVA (Analysis of Variance) is a statistical test used to compare the means of two or more groups to determine if there are statistically significant differences among them. In this case, it would be used to compare the new family therapy program with the standard program.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-34",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of Social Work Research",
+    "bloom": "Describe",
+    "difficulty": "Easy",
+    "stem": "The role of a social worker as a **researcher** is best described as:",
+    "choices": [
+      "A professional who only collects data for others to analyze.",
+      "A professional who uses research to inform practice and contribute to the knowledge base of the profession.",
+      "A person who is not allowed to conduct research.",
+      "A professional who only studies research methods."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker as a researcher is a professional who actively engages in research to advance the social work profession. This involves using research to improve practice, evaluate programs, and contribute to the body of knowledge in social work.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-35",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Relate",
+    "difficulty": "Moderate",
+    "stem": "The ethical practice of **confidentiality** in social work research is most closely related to which of the following?",
+    "choices": [
+      "Ensuring that participants' identities and personal information are kept private and secure.",
+      "The number of participants in the study.",
+      "The type of statistical analysis used in the study.",
+      "The duration of the research project."
+    ],
+    "answerIndex": 0,
+    "rationale": "Confidentiality is a fundamental ethical principle that is a cornerstone of social work practice and research. It refers to the researcher's responsibility to protect the privacy of participants by ensuring their personal information is not disclosed without their permission.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-115",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality and Social Work",
+    "subtopic": "Filipino personality theories",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a training on mental health awareness for a group of Filipinos. To be culturally sensitive, the social worker should apply the concept of **'loob'** by emphasizing which of the following?",
+    "choices": [
+      "Focusing on individual, self-contained emotions.",
+      "Recognizing that a person's inner self and feelings are complex and are often expressed in relation to others and the social context.",
+      "Ignoring the client's inner thoughts and focusing only on their external behavior.",
+      "Promoting a strictly individualistic approach to mental health."
+    ],
+    "answerIndex": 1,
+    "rationale": "The concept of 'loob' (inner self) is a core aspect of Filipino psychology. It recognizes that a person's inner world is not isolated but is intricately connected to their relationships and social environment. A culturally sensitive social worker would therefore approach mental health from this relational perspective.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-116",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality and Social Work",
+    "subtopic": "Human growth and development",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a client who experienced significant trauma during childhood. The social worker's analysis of the situation from a **developmental theory** perspective would focus on:",
+    "choices": [
+      "The client's current symptoms only.",
+      "How the childhood trauma may have affected the client's development across various life stages and shaped their current functioning.",
+      "The client's ability to earn a living.",
+      "The client's social media usage."
+    ],
+    "answerIndex": 1,
+    "rationale": "Developmental theories focus on how people change and grow over their lifespan. A social worker using this perspective would analyze how a past event, like childhood trauma, may have impacted the client's progression through various developmental stages and how that may manifest in their current behaviors and challenges.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-112",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Theoretical Foundation on Social Deviance",
+    "subtopic": "Theoretical foundations",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a client who engages in petty theft. The social worker uses a **Social Control Theory** lens to understand the behavior. Which of the following questions is most relevant to this perspective?",
+    "choices": [
+      "What unconscious psychological conflicts are driving the behavior?",
+      "Who is the client learning this behavior from?",
+      "What is the client's socioeconomic status?",
+      "What are the client's bonds to society, such as family, school, or employment?"
+    ],
+    "answerIndex": 3,
+    "rationale": "Social control theory posits that deviance occurs when an individual's bonds to society are weak or broken. These bonds include attachment to others, commitment to conventional activities, involvement in society, and belief in social norms. A social worker applying this theory would focus on strengthening these bonds to prevent or reduce deviant behavior.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-36",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Utilize",
+    "difficulty": "Difficult",
+    "stem": "A social worker has a dataset of clients' test scores that follow a normal distribution. If a client's score is one standard deviation above the mean, what can the social worker conclude about the client's performance relative to the other clients?",
+    "choices": [
+      "The client's score is below average.",
+      "The client's score is average.",
+      "The client's score is at the 84th percentile, meaning they performed better than approximately 84% of the other clients.",
+      "The client's score is at the 50th percentile."
+    ],
+    "answerIndex": 2,
+    "rationale": "In a normal distribution, a score that is one standard deviation above the mean is at the 84th percentile. This means the client's score is higher than approximately 84% of the other scores in the dataset. This understanding of standard scores is crucial for social workers to interpret client data.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-37",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is conducting a study using a **qualitative research** method. Which of the following is an example of the data that would be collected?",
+    "choices": [
+      "A client satisfaction survey with a rating scale from 1 to 5.",
+      "Interviews with clients about their lived experiences of poverty.",
+      "The number of clients served by a social welfare agency in a year.",
+      "A client's age and income level."
+    ],
+    "answerIndex": 1,
+    "rationale": "Qualitative research focuses on non-numerical data to gain a deeper understanding of a phenomenon. Interviews, focus groups, and observations are all common methods of collecting qualitative data. This contrasts with quantitative methods that rely on numerical data like surveys and statistics.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-117",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality and Social Work",
+    "subtopic": "Personality development",
+    "bloom": "Identify",
+    "difficulty": "Easy",
+    "stem": "According to **Erikson's stages of psychosocial development**, the primary task of a teenager is to achieve:",
+    "choices": [
+      "Trust vs. Mistrust",
+      "Autonomy vs. Shame and Doubt",
+      "Initiative vs. Guilt",
+      "Identity vs. Role Confusion"
+    ],
+    "answerIndex": 3,
+    "rationale": "Erikson's stage of 'Identity vs. Role Confusion' is the primary psychosocial task for adolescents. During this stage, teenagers are trying to figure out who they are and what their role in the world is, which can lead to a sense of identity if successful or confusion if not.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-118",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality and Social Work",
+    "subtopic": "Filipino culture and behavior",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker observes a client who is hesitant to express their personal opinion in a group setting, often deferring to the group leader. An analysis of this behavior in the context of Filipino culture and behavior would likely highlight the influence of:",
+    "choices": [
+      "Individualism",
+      "Kanya-kanya mentality",
+      "Hierarchical social structures and the value of respect for authority figures.",
+      "A preference for direct and confrontational communication."
+    ],
+    "answerIndex": 2,
+    "rationale": "Filipino culture is often characterized by a respect for authority and hierarchical social structures. This can manifest in a deference to authority figures and a reluctance to challenge their opinions, particularly in group settings.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-113",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Overview of the Different Types of Emotional/Behavioral Disorders",
+    "subtopic": "Social work responses",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a client who has a substance use disorder. Which of the following is an example of an appropriate social work response?",
+    "choices": [
+      "Ignoring the substance use and focusing only on family problems.",
+      "Providing the client with an unlimited supply of money to address their financial problems.",
+      "Developing a treatment plan that includes counseling, support groups, and a referral to a rehabilitation center.",
+      "Telling the client that they should just stop using drugs."
+    ],
+    "answerIndex": 2,
+    "rationale": "An appropriate social work response to a substance use disorder is a holistic and comprehensive one. It involves developing a treatment plan that addresses the client's needs from multiple angles, including counseling, support groups, and referrals to specialized services like rehabilitation centers.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-110",
+    "subject": "Social Environment and Social Work",
+    "topic": "The organization: structures, types, dynamics, processes, and functions",
+    "subtopic": "Organizational theories",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "A social worker is part of an agency that values employee well-being, teamwork, and open communication. This organizational culture aligns with which of the following theories?",
+    "choices": [
+      "Bureaucratic Theory",
+      "Scientific Management Theory",
+      "Human Relations Theory",
+      "Structural Theory"
+    ],
+    "answerIndex": 2,
+    "rationale": "Human Relations Theory emphasizes the importance of social and psychological factors in the workplace. It focuses on the well-being of employees, communication, and teamwork, which is in direct contrast to the more rigid and hierarchical structures of other organizational theories.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-107",
+    "subject": "Social Change and Development",
+    "topic": "Perspectives and approaches on Social Development",
+    "subtopic": "Approaches to social development",
+    "bloom": "Critically analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is tasked with analyzing a community's challenges using a **Feminist/Gender and Development (GAD)** perspective. What is the most critical question the social worker should ask?",
+    "choices": [
+      "Are women and men equally represented in the project's leadership and are the project's outcomes addressing gender-based inequalities?",
+      "Is the project economically viable?",
+      "Is the project environmentally sustainable?",
+      "Is the project culturally appropriate?"
+    ],
+    "answerIndex": 0,
+    "rationale": "A Feminist/Gender and Development (GAD) perspective critically analyzes how gender roles and power relations affect development outcomes. The social worker's primary task is to ensure that development initiatives address the specific needs and challenges of women and other marginalized genders and that they promote gender equity and empowerment.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-38",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is using sex-disaggregated data to determine if there is a difference in poverty rates between men and women. This is an example of applying which statistical model?",
+    "choices": [
+      "Sampling distribution",
+      "Hypothesis testing",
+      "Measures of central tendency",
+      "Normal distribution"
+    ],
+    "answerIndex": 0,
+    "rationale": "Sampling distribution is the distribution of a statistic (such as poverty rate) from all possible samples of a given size from a population. In this case, the social worker is using a sample of sex-disaggregated data to infer about the broader population, which is an application of sampling distribution.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-39",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting a survey on the mental health of a community. The survey questions are poorly worded and confusing, leading to inconsistent and unreliable responses. This threatens the **reliability** of the study because:",
+    "choices": [
+      "The results will be too difficult to generalize to a broader population.",
+      "The results will not be consistent if the study is repeated with a different group of people.",
+      "The results will not be useful for policy-making.",
+      "The results will not be statistically significant."
+    ],
+    "answerIndex": 1,
+    "rationale": "Reliability in research refers to the consistency and stability of a measure. If a survey or tool is not reliable, it will not produce the same results if it is used again, which makes the findings of the study questionable and untrustworthy.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-40",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Relate",
+    "difficulty": "Easy",
+    "stem": "Which of the following is a common way of knowing the world that is not based on scientific method and is often used by individuals in their daily lives?",
+    "choices": [
+      "Authority (e.g., listening to an expert)",
+      "Intuition (e.g., a 'gut feeling')",
+      "Experience (e.g., personal observation)",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "rationale": "All of these are common ways of knowing that are not based on the scientific method. Authority is knowing something because an expert told you. Intuition is knowing something from a feeling. Experience is knowing something from personal observation. While these are common, they are not a substitute for evidence-based practice and research in social work.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-119",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality and Social Work",
+    "subtopic": "Filipino culture and behavior",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is providing counseling to a client who believes that their life circumstances are determined by 'tadhana' (destiny). This belief is an example of which aspect of Filipino culture and behavior that a social worker should understand?",
+    "choices": [
+      "The value of personal accountability.",
+      "A fatalistic worldview that can affect a person's motivation and outlook on life.",
+      "A proactive and problem-solving orientation.",
+      "A belief in individual self-determination."
+    ],
+    "answerIndex": 1,
+    "rationale": "A fatalistic worldview, a belief in 'tadhana' or destiny, is a common aspect of Filipino culture that can influence a person's behavior and outlook. A social worker needs to understand this worldview to effectively work with the client, as it may affect their motivation to change their circumstances.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-114",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Overview of the Different Types of Emotional/Behavioral Disorders",
+    "subtopic": "Manifestations and characteristics",
+    "bloom": "Describe",
+    "difficulty": "Moderate",
+    "stem": "A social worker is assessing a client who exhibits a persistent lack of interest in daily activities, feelings of hopelessness, and significant changes in sleep and appetite. These are classic manifestations of which of the following disorders?",
+    "choices": [
+      "Bipolar disorder",
+      "Major depressive disorder",
+      "Obsessive-compulsive disorder",
+      "Schizophrenia"
+    ],
+    "answerIndex": 1,
+    "rationale": "Major depressive disorder is a common and serious medical illness that is characterized by persistent feelings of sadness, loss of interest in activities, changes in sleep and appetite, and feelings of worthlessness. These symptoms must persist for at least two weeks for a diagnosis.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-111",
+    "subject": "Social Environment and Social Work",
+    "topic": "The family: structures, types, dynamics, processes, and functions",
+    "subtopic": "Family assessment tools",
+    "bloom": "Differentiate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is using a **genogram** to assess a family's situation. How does a genogram differ from an ecomap as a family assessment tool?",
+    "choices": [
+      "A genogram shows the family's external relationships with other systems, while an ecomap shows the family's internal structure and relationships across generations.",
+      "A genogram shows the family's internal structure and relationships across generations, while an ecomap shows the family's external relationships with other systems.",
+      "A genogram is a tool for community assessment, while an ecomap is for family assessment.",
+      "A genogram and an ecomap are two names for the same tool."
+    ],
+    "answerIndex": 1,
+    "rationale": "A genogram is a visual representation of a family's structure and relationships over several generations. An ecomap, on the other hand, is a tool that visually represents the family's connections and relationships with their external environment, such as schools, work, and community resources. Both are valuable tools for social workers but serve different purposes.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-108",
+    "subject": "Social Change and Development",
+    "topic": "Concepts on Social Change and Development",
+    "subtopic": "Sources and means of social change",
+    "bloom": "Define",
+    "difficulty": "Easy",
+    "stem": "Which of the following is considered a primary **source of social change**?",
+    "choices": [
+      "A change in an individual's diet.",
+      "A natural disaster, such as an earthquake or a typhoon.",
+      "An individual's personal decision to get a new job.",
+      "A change in a family's vacation plans."
+    ],
+    "answerIndex": 1,
+    "rationale": "Natural disasters are a significant source of social change as they can disrupt entire communities, displace populations, and necessitate fundamental changes in social systems, infrastructure, and policies.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-109",
+    "subject": "Social Change and Development",
+    "topic": "Social Change and Development Theories",
+    "subtopic": "Development theories",
+    "bloom": "Use",
+    "difficulty": "Moderate",
+    "stem": "A social worker is analyzing a community that has successfully implemented a sustainable livelihood project. To understand this success, the social worker can use **Modernization Theory** to explain:",
+    "choices": [
+      "How the community's success is a result of their cultural and spiritual values.",
+      "How the community's progress is a result of adopting modern institutions, technology, and economic practices.",
+      "How the community's progress is a result of their struggle against global power imbalances.",
+      "How the community's success is an anomaly and not a repeatable outcome."
+    ],
+    "answerIndex": 1,
+    "rationale": "Modernization theory posits that developing societies will progress and modernize by adopting the social and economic practices of developed nations, such as industrialization, technology, and market-based economies. A social worker using this theory would analyze the community's success through this lens.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-110",
+    "subject": "Social Change and Development",
+    "topic": "Social Movements and Its Impact",
+    "subtopic": "Importance of mass movements",
+    "bloom": "Explain",
+    "difficulty": "Easy",
+    "stem": "The importance of **mass movements** in transforming societies is that they can:",
+    "choices": [
+      "Maintain the status quo and prevent any change.",
+      "Create chaos and disorder without any purpose.",
+      "Raise awareness, challenge injustice, and mobilize people to demand political and social reforms.",
+      "Only benefit a small, elite group of people."
+    ],
+    "answerIndex": 2,
+    "rationale": "Mass movements are a crucial part of social change. They empower marginalized groups, raise public awareness about social issues, and apply pressure on governments and institutions to enact reforms that address systemic injustices.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-41",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of Social Work Research",
+    "bloom": "Differentiate",
+    "difficulty": "Moderate",
+    "stem": "What is the key difference between **applied research** and **basic research** in social work?",
+    "choices": [
+      "Applied research aims to solve a practical problem, while basic research aims to expand the general knowledge base.",
+      "Applied research is more expensive than basic research.",
+      "Applied research is always quantitative, while basic research is always qualitative.",
+      "Applied research is not bound by ethical guidelines."
+    ],
+    "answerIndex": 0,
+    "rationale": "Applied research is a type of research that is designed to solve a specific, practical problem. Basic research, in contrast, is designed to advance knowledge for its own sake, without a direct practical application in mind. Social work research is primarily applied research.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-120",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality and Social Work",
+    "subtopic": "Human growth and development",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting a needs assessment for a community. The social worker's analysis of the community's needs from a **social development perspective** would focus on:",
+    "choices": [
+      "The community's ability to compete in the global market.",
+      "The community's capacity to create a more inclusive, equitable, and sustainable social and economic system.",
+      "The community's reliance on external aid.",
+      "The community's ability to produce more goods and services."
+    ],
+    "answerIndex": 1,
+    "rationale": "The social development perspective focuses on the capacity of a community or society to create a more just and equitable social system. It goes beyond economic growth to include social well-being, human rights, and the empowerment of marginalized groups.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-115",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Basic social issues/problems in categorizing deviant acts",
+    "subtopic": "Implications to social work practice",
+    "bloom": "Discuss",
+    "difficulty": "Difficult",
+    "stem": "The concept of **social construction of deviance** is crucial for social workers to understand because it implies that:",
+    "choices": [
+      "Deviant acts are inherently wrong and immoral.",
+      "Deviance is a fixed and universal category.",
+      "What is considered deviant behavior is not fixed but is defined by society, culture, and power structures, requiring social workers to critically examine these definitions and advocate for change.",
+      "Social workers should not interfere with people who are considered deviant."
+    ],
+    "answerIndex": 2,
+    "rationale": "The social construction of deviance means that what is considered deviant behavior varies across cultures and over time. A social worker's understanding of this concept is vital to avoid pathologizing a client and to instead focus on the societal factors that create and maintain the definition of deviance, allowing the social worker to advocate for a more just and inclusive society.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-112",
+    "subject": "Social Environment and Social Work",
+    "topic": "The group: structures, types, dynamics, processes, and functions",
+    "subtopic": "Group structures and processes",
+    "bloom": "Recall",
+    "difficulty": "Easy",
+    "stem": "In the **forming stage** of group development, the primary task of the group is to:",
+    "choices": [
+      "Resolve conflicts and disagreements.",
+      "Establish trust, ground rules, and a sense of shared purpose.",
+      "Work towards achieving the group's goals.",
+      "Disband and end the group."
+    ],
+    "answerIndex": 1,
+    "rationale": "The forming stage is the first phase of group development. During this stage, members are getting to know each other and the group's purpose. The primary tasks are to establish a sense of trust, create ground rules, and begin to form a shared identity and purpose.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-111",
+    "subject": "Social Change and Development",
+    "topic": "Conceptions and Dimensions of Development",
+    "subtopic": "Dimensions of development",
+    "bloom": "Explain",
+    "difficulty": "Moderate",
+    "stem": "Beyond economic growth, the concept of **development** is significant because it also encompasses which of the following dimensions?",
+    "choices": [
+      "Social, political, and cultural dimensions.",
+      "Individual wealth and personal success.",
+      "A country's military strength.",
+      "A country's ability to attract foreign investment."
+    ],
+    "answerIndex": 0,
+    "rationale": "Development is a holistic concept that goes beyond mere economic growth. It also includes social dimensions (e.g., social equity, well-being), political dimensions (e.g., democratic governance, human rights), and cultural dimensions (e.g., cultural preservation, freedom of expression).",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-42",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "A social worker is presenting a report on the number of clients served each month. To visually represent the data and show the trend over time, the social worker should use a:",
+    "choices": [
+      "Pie chart",
+      "Bar graph",
+      "Line graph",
+      "Histogram"
+    ],
+    "answerIndex": 2,
+    "rationale": "A line graph is the most appropriate graphical presentation for this data. It is particularly useful for showing trends over time, such as the number of clients served each month, as it can easily show increases, decreases, and stability.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-43",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker wants to test if there is a difference in the effectiveness of three different therapeutic interventions on reducing anxiety scores. Which statistical test should the social worker use?",
+    "choices": [
+      "T-test",
+      "ANOVA",
+      "Chi-Square Test",
+      "Regression analysis"
+    ],
+    "answerIndex": 1,
+    "rationale": "ANOVA (Analysis of Variance) is the appropriate statistical test for this scenario. It is used to compare the means of more than two groups to determine if there are significant differences among them. In this case, the social worker is comparing three different interventions.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-44",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of Social Work Research",
+    "bloom": "Explain",
+    "difficulty": "Moderate",
+    "stem": "The principle of **respect for persons** in social work research means that a social worker should:",
+    "choices": [
+      "Ignore the autonomy of participants and focus on the research goals.",
+      "Only conduct research on people with high income.",
+      "Protect the autonomy of participants and ensure they are treated with courtesy and respect.",
+      "Force people to participate in research."
+    ],
+    "answerIndex": 2,
+    "rationale": "Respect for persons is a core ethical principle in research that requires researchers to treat individuals as autonomous agents and to protect those with diminished autonomy. This includes obtaining informed consent, ensuring confidentiality, and treating participants with dignity and respect.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-121",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality and Social Work",
+    "subtopic": "Human growth and development",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is assessing the needs of a family with a child with a disability. To provide a holistic assessment, the social worker must consider the interplay of various factors. Which of the following best exemplifies this approach?",
+    "choices": [
+      "Focusing only on the child's physical disability.",
+      "Considering the child's physical and psychological health, the family's social support system, economic situation, and cultural beliefs about disability.",
+      "Ignoring the family's spiritual beliefs.",
+      "Blaming the disability on the family's lack of support."
+    ],
+    "answerIndex": 1,
+    "rationale": "A holistic approach in social work requires considering the complex interplay of various factors that affect an individual's or family's well-being. This includes biological (physical disability), psychological (emotional health), social (family support), and cultural (beliefs about disability) factors.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-116",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Roles and Skills of Social Work",
+    "subtopic": "Roles and skills",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a youth who has been in trouble with the law. The social worker's role as a **mediator** would involve which of the following actions?",
+    "choices": [
+      "Making decisions for the youth and their family.",
+      "Providing one-on-one therapy to the youth.",
+      "Facilitating a meeting between the youth and their parents to help them communicate and resolve their conflict.",
+      "Telling the parents how to discipline their child."
+    ],
+    "answerIndex": 2,
+    "rationale": "A mediator is a neutral third party who helps to facilitate communication and negotiation between two or more parties in conflict. In this case, the social worker is helping the youth and their parents to resolve their conflict and reach an amicable solution.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-113",
+    "subject": "Social Environment and Social Work",
+    "topic": "The group: structures, types, dynamics, processes, and functions",
+    "subtopic": "Group typologies",
+    "bloom": "Distinguish",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a **self-help group** for recovering addicts. A key characteristic that distinguishes this from a therapy group is that a self-help group:",
+    "choices": [
+      "Is led by a licensed social worker or therapist.",
+      "Is composed of people who share a common problem and are led by members who have also experienced the same problem.",
+      "Is focused on providing a professional diagnosis and treatment plan.",
+      "Does not have a specific purpose."
+    ],
+    "answerIndex": 1,
+    "rationale": "Self-help groups are a type of mutual aid group where members with a shared problem support one another in recovery. They are typically led by members who have successfully navigated the same challenges, which distinguishes them from professionally led therapy groups.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-112",
+    "subject": "Social Change and Development",
+    "topic": "Perspectives and approaches on Social Development",
+    "subtopic": "Approaches to social development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is using the **Strengths-Based Perspective** to help a community address a local health crisis. This approach would lead the social worker to focus on:",
+    "choices": [
+      "The community's problems and deficits.",
+      "The community's assets, resources, and capacities to overcome the crisis.",
+      "Blaming the community for its problems.",
+      "Providing a top-down, one-size-fits-all solution."
+    ],
+    "answerIndex": 1,
+    "rationale": "The Strengths-Based Perspective is a core concept in social work that emphasizes a focus on an individual's or community's strengths, resources, and assets rather than their problems and deficits. The social worker's role is to identify and build on these strengths to empower the client to achieve their goals.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-45",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is studying the relationship between the number of hours a client spends in a therapy program and their score on a self-esteem scale. The social worker wants to use a statistical model that can predict the client's self-esteem score based on the number of hours they spend in the program. Which statistical model is most appropriate?",
+    "choices": [
+      "Chi-Square Test",
+      "Regression analysis",
+      "T-test",
+      "ANOVA"
+    ],
+    "answerIndex": 1,
+    "rationale": "Regression analysis is a statistical tool used to predict the value of a dependent variable (self-esteem score) based on the value of an independent variable (hours spent in therapy). This is the most appropriate statistical model for predicting outcomes and understanding the relationship between variables.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-46",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of Social Work Research",
+    "bloom": "Describe",
+    "difficulty": "Easy",
+    "stem": "Which of the following is considered a **basic ethical practice** in social work research?",
+    "choices": [
+      "Lying to participants to get a desired outcome.",
+      "Coercing people to participate in the research.",
+      "Ensuring that participants are not harmed and their privacy is protected.",
+      "Sharing participant information with the public without consent."
+    ],
+    "answerIndex": 2,
+    "rationale": "Protecting participants from harm and ensuring their privacy are fundamental ethical practices in social work research. This includes obtaining informed consent, maintaining confidentiality, and ensuring that no physical or psychological harm comes to participants during the research process.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-122",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Anatomy of social problems",
+    "bloom": "Discuss",
+    "difficulty": "Moderate",
+    "stem": "A social worker is discussing the roots of drug abuse in a community. A discussion guided by the **Anatomy of Social Problems and Related Theories** would highlight which of the following?",
+    "choices": [
+      "That drug abuse is a personal choice with no external factors.",
+      "That drug abuse is caused by a single factor, such as poverty.",
+      "That drug abuse is a complex social problem with multiple interconnected causes, including economic hardship, lack of social support, and easy access to substances.",
+      "That drug abuse is caused by a lack of law enforcement."
+    ],
+    "answerIndex": 2,
+    "rationale": "Social problems are rarely caused by a single factor. The Anatomy of Social Problems and Related Theories emphasizes a multi-faceted approach, recognizing that social problems like drug abuse are often caused by a complex interplay of personal, social, and structural factors.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-117",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Basic social issues/problems in categorizing deviant acts",
+    "subtopic": "Implications to social work practice",
+    "bloom": "Discuss",
+    "difficulty": "Difficult",
+    "stem": "The concept of **deviance as a social construct** has significant implications for social work. What is the most important implication of this concept?",
+    "choices": [
+      "It allows social workers to ignore deviant behavior.",
+      "It requires social workers to understand how a behavior is defined as deviant in a given society, and to advocate for a more inclusive and just definition of normal behavior.",
+      "It means that social workers should only focus on the individual who is considered deviant.",
+      "It means that social workers must conform to the norms of society."
+    ],
+    "answerIndex": 1,
+    "rationale": "The social construction of deviance means that what is considered deviant is not fixed or universal but is defined by society. A social worker's understanding of this concept allows them to critically examine these definitions and to advocate for a more just and inclusive society that does not unfairly label individuals or groups.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-114",
+    "subject": "Social Environment and Social Work",
+    "topic": "The organization: structures, types, dynamics, processes, and functions",
+    "subtopic": "Organizational types",
+    "bloom": "Identify",
+    "difficulty": "Easy",
+    "stem": "A social worker is employed at a government agency that provides social welfare services to the public. This type of organization is best classified as a(n):",
+    "choices": [
+      "For-profit organization.",
+      "Non-governmental organization (NGO).",
+      "Public/Government organization.",
+      "Private corporation."
+    ],
+    "answerIndex": 2,
+    "rationale": "A public or government organization is an entity that is established by and funded by the government to provide services to the public. This is in contrast to for-profit or non-governmental organizations.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-113",
+    "subject": "Social Change and Development",
+    "topic": "Social Change and Development Theories",
+    "subtopic": "Development theories",
+    "bloom": "Use",
+    "difficulty": "Moderate",
+    "stem": "When a social worker uses **Participatory Development Theory** to plan a community project, they are most likely to:",
+    "choices": [
+      "Make all the decisions for the community to ensure the project's success.",
+      "Involve community members in all stages of the project, from planning to implementation and evaluation.",
+      "Focus on attracting foreign aid and investment to the community.",
+      "Focus on the community's economic growth as the sole indicator of success."
+    ],
+    "answerIndex": 1,
+    "rationale": "Participatory Development Theory is a framework that emphasizes the importance of involving the community in their own development. The social worker's role is to facilitate this process, empowering the community to take ownership of the project and make their own decisions.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-47",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting a study to see if there is a statistically significant difference in the average income of three different groups of clients. The social worker should use which statistical test?",
+    "choices": [
+      "Chi-Square Test",
+      "T-test",
+      "ANOVA",
+      "Regression analysis"
+    ],
+    "answerIndex": 2,
+    "rationale": "ANOVA (Analysis of Variance) is the appropriate statistical test for this scenario. It is used to compare the means of more than two groups to determine if there is a statistically significant difference among them. In this case, the social worker is comparing the average income of three different groups.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-48",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is designing a research project on the effects of a new program for homeless individuals. The social worker must ensure the research is **valid**. This means:",
+    "choices": [
+      "The research is conducted in a laboratory setting.",
+      "The research tool or instrument accurately measures what it is supposed to measure.",
+      "The research is easy to replicate by other researchers.",
+      "The research is affordable."
+    ],
+    "answerIndex": 1,
+    "rationale": "Validity in research refers to the extent to which a research tool or instrument accurately measures what it is intended to measure. For example, if a survey is intended to measure depression, a valid survey would accurately capture the level of depression in the participants.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-123",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Social welfare programs",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is evaluating the implementation of a new social welfare program aimed at poverty alleviation. An effective analysis would focus on which of the following?",
+    "choices": [
+      "Whether the program's outcomes align with its goals and whether it has unintended consequences.",
+      "Whether the program's budget is bigger than the previous program.",
+      "The political party of the program's implementers.",
+      "Whether the program has a catchy name."
+    ],
+    "answerIndex": 0,
+    "rationale": "An effective analysis of a social welfare program goes beyond superficial metrics and focuses on its effectiveness in achieving its stated goals. It also considers any unintended consequences, both positive and negative, on the target population and the broader community.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SW-C1-118",
+    "subject": "Social Work and Social Deviation",
+    "topic": "Roles and Skills of Social Work",
+    "subtopic": "Roles and skills",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a youth who is a victim of bullying. The social worker's role as a **mediator** would involve which of the following actions?",
+    "choices": [
+      "Telling the youth to ignore the bully.",
+      "Facilitating a meeting between the youth and the bully's parents to resolve the conflict.",
+      "Telling the bully's parents to discipline their child.",
+      "Helping the youth to cope with the bullying by developing a coping plan."
+    ],
+    "answerIndex": 1,
+    "rationale": "A mediator is a neutral third party who helps to facilitate communication and negotiation between two or more parties in conflict. In this case, the social worker is helping the youth and the bully's parents to resolve the conflict and reach an amicable solution.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SE-D1-115",
+    "subject": "Social Environment and Social Work",
+    "topic": "The community: structures, types, dynamics, processes, and functions",
+    "subtopic": "Community structures and functions",
+    "bloom": "Describe",
+    "difficulty": "Moderate",
+    "stem": "Which of the following best describes the **social structure** of a community?",
+    "choices": [
+      "The distribution of wealth and income.",
+      "The formal and informal institutions that govern and influence decision-making.",
+      "The pattern of relationships among community members, including families, groups, and organizations.",
+      "The natural environment and its resources."
+    ],
+    "answerIndex": 2,
+    "rationale": "The social structure of a community refers to the pattern of relationships that shape its functioning. This includes the relationships between individuals, families, groups, and organizations, which all play a role in how the community operates.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SC-E1-114",
+    "subject": "Social Change and Development",
+    "topic": "Perspectives and approaches on Social Development",
+    "subtopic": "Approaches to social development",
+    "bloom": "Critically analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is analyzing a development project using a **Social Justice Perspective**. The social worker's analysis would focus on which of the following?",
+    "choices": [
+      "The project's financial viability.",
+      "The project's potential to address the root causes of inequality and promote a more just and equitable society.",
+      "The project's adherence to traditional social norms.",
+      "The project's ability to attract foreign investors."
+    ],
+    "answerIndex": 1,
+    "rationale": "The Social Justice Perspective is a core concept in social work that requires the social worker to critically analyze how social, economic, and political structures contribute to inequality. The social worker's role is to advocate for policies and programs that address these root causes and promote a more just and equitable society.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-49",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of Social Work Research",
+    "bloom": "Relate",
+    "difficulty": "Moderate",
+    "stem": "A social worker is conducting a study to evaluate a new program. The social worker must ensure the research is **ethical**. This is most closely related to which of the following?",
+    "choices": [
+      "The cost of the research project.",
+      "The protection of human subjects, confidentiality, and the avoidance of harm.",
+      "The number of variables being studied.",
+      "The type of statistical analysis used."
+    ],
+    "answerIndex": 1,
+    "rationale": "Ethics are a cornerstone of social work research. Key ethical practices include protecting the rights and well-being of human subjects, ensuring their confidentiality, and avoiding any physical, psychological, or social harm. This is a primary consideration in all research design.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-50",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is designing a research project on the effects of a new program for homeless individuals. The social worker must ensure the research is **valid**. This means:",
+    "choices": [
+      "The research is conducted in a laboratory setting.",
+      "The research tool or instrument accurately measures what it is supposed to measure.",
+      "The research is easy to replicate by other researchers.",
+      "The research is affordable."
+    ],
+    "answerIndex": 1,
+    "rationale": "Validity in research refers to the extent to which a research tool or instrument accurately measures what it is intended to measure. For example, if a survey is intended to measure depression, a valid survey would accurately capture the level of depression in the participants.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-51",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following best describes the role of a social worker when using social statistics?",
+    "choices": [
+      "A consumer of statistical data to inform practice and a producer of data for program evaluation.",
+      "A producer of raw data only, with no involvement in analysis.",
+      "A person who only uses qualitative data.",
+      "A person who has no need to understand statistics."
+    ],
+    "answerIndex": 0,
+    "rationale": "Social workers are both consumers and producers of statistical data. They consume data from research to inform their practice and they produce data through program evaluation and needs assessments to demonstrate the effectiveness of their interventions and to advocate for resources.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-52",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Describe",
+    "difficulty": "Moderate",
+    "stem": "A social worker is gathering data on the age of clients served by a program. This type of data is considered a **nominal variable** if:",
+    "choices": [
+      "The data can be measured on a continuous scale.",
+      "The data can be categorized but not ranked.",
+      "The data has a true zero point.",
+      "The data is in a graphical format."
+    ],
+    "answerIndex": 1,
+    "rationale": "Nominal variables are a type of categorical data where the categories are used for identification or classification. They do not have a natural order or ranking. For example, marital status (single, married, divorced) is a nominal variable.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-53",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker wants to test the hypothesis that a new family therapy program is more effective than the standard program in reducing family conflict. Which statistical test would be most appropriate?",
+    "choices": [
+      "ANOVA",
+      "Chi-Square Test",
+      "Pearson Correlation",
+      "Regression"
+    ],
+    "answerIndex": 0,
+    "rationale": "ANOVA (Analysis of Variance) is a statistical test used to compare the means of two or more groups to determine if there are statistically significant differences among them. In this case, it would be used to compare the new family therapy program with the standard program.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-54",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of Social Work Research",
+    "bloom": "Describe",
+    "difficulty": "Easy",
+    "stem": "The role of a social worker as a **researcher** is best described as:",
+    "choices": [
+      "A professional who only collects data for others to analyze.",
+      "A professional who uses research to inform practice and contribute to the knowledge base of the profession.",
+      "A person who is not allowed to conduct research.",
+      "A professional who only studies research methods."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker as a researcher is a professional who actively engages in research to advance the social work profession. This involves using research to improve practice, evaluate programs, and contribute to the body of knowledge in social work.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-55",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Relate",
+    "difficulty": "Moderate",
+    "stem": "The ethical practice of **confidentiality** in social work research is most closely related to which of the following?",
+    "choices": [
+      "Ensuring that participants' identities and personal information are kept private and secure.",
+      "The number of participants in the study.",
+      "The type of statistical analysis used in the study.",
+      "The duration of the research project."
+    ],
+    "answerIndex": 0,
+    "rationale": "Confidentiality is a fundamental ethical principle that is a cornerstone of social work practice and research. It refers to the researcher's responsibility to protect the privacy of participants by ensuring their personal information is not disclosed without their permission.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-56",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Utilize",
+    "difficulty": "Difficult",
+    "stem": "A social worker has a dataset of clients' test scores that follow a normal distribution. If a client's score is one standard deviation above the mean, what can the social worker conclude about the client's performance relative to the other clients?",
+    "choices": [
+      "The client's score is below average.",
+      "The client's score is average.",
+      "The client's score is at the 84th percentile, meaning they performed better than approximately 84% of the other clients.",
+      "The client's score is at the 50th percentile."
+    ],
+    "answerIndex": 2,
+    "rationale": "In a normal distribution, a score that is one standard deviation above the mean is at the 84th percentile. This means the client's score is higher than approximately 84% of the other scores in the dataset. This understanding of standard scores is crucial for social workers to interpret client data.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-57",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is conducting a study using a **qualitative research** method. Which of the following is an example of the data that would be collected?",
+    "choices": [
+      "A client satisfaction survey with a rating scale from 1 to 5.",
+      "Interviews with clients about their lived experiences of poverty.",
+      "The number of clients served by a social welfare agency in a year.",
+      "A client's age and income level."
+    ],
+    "answerIndex": 1,
+    "rationale": "Qualitative research focuses on non-numerical data to gain a deeper understanding of a phenomenon. Interviews, focus groups, and observations are all common methods of collecting qualitative data. This contrasts with quantitative methods that rely on numerical data like surveys and statistics.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-58",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Relate",
+    "difficulty": "Easy",
+    "stem": "Which of the following is a common way of knowing the world that is not based on scientific method and is often used by individuals in their daily lives?",
+    "choices": [
+      "Authority (e.g., listening to an expert)",
+      "Intuition (e.g., a 'gut feeling')",
+      "Experience (e.g., personal observation)",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "rationale": "All of these are common ways of knowing that are not based on the scientific method. Authority is knowing something because an expert told you. Intuition is knowing something from a feeling. Experience is knowing something from personal observation. While these are common, they are not a substitute for evidence-based practice and research in social work.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-59",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting a study to see if there is a relationship between the number of therapy sessions a client attends and the reduction in their depression symptoms. The social worker must use a statistical model that can analyze this relationship. Which test is most appropriate?",
+    "choices": [
+      "Chi-Square Test of Independence",
+      "Pearson correlation coefficient",
+      "T-test",
+      "ANOVA"
+    ],
+    "answerIndex": 1,
+    "rationale": "The Pearson correlation coefficient is the most appropriate statistical test for this scenario. It is used to measure the linear relationship between two continuous variables, in this case, the number of therapy sessions and the level of depression symptoms.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-60",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Explain",
+    "difficulty": "Moderate",
+    "stem": "What is the key difference between **qualitative** and **quantitative** research in social work?",
+    "choices": [
+      "Qualitative research uses numerical data, while quantitative research uses interviews and observations.",
+      "Qualitative research focuses on numerical data to test a hypothesis, while quantitative research focuses on stories and lived experiences to gain a deeper understanding of a social phenomenon.",
+      "Qualitative research focuses on stories and lived experiences, while quantitative research focuses on numerical data to test a hypothesis.",
+      "There is no difference between qualitative and quantitative research."
+    ],
+    "answerIndex": 2,
+    "rationale": "Qualitative research is an in-depth approach that uses non-numerical data like interviews and focus groups to explore a social issue and understand a person's experience. Quantitative research, on the other hand, uses numerical data, surveys, and statistical analysis to test a hypothesis and measure a social phenomenon.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-61",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In social work, a **frequency distribution** is a statistical function that helps a social worker to:",
+    "choices": [
+      "Determine the mean and median of a dataset.",
+      "Organize and summarize data to show how often different values or categories occur.",
+      "Predict future outcomes based on current trends.",
+      "Calculate the correlation between two variables."
+    ],
+    "answerIndex": 1,
+    "rationale": "A frequency distribution is a basic statistical tool that organizes raw data into a more manageable format by showing the number of times each value or category appears in a dataset. This helps social workers to quickly understand the prevalence of certain issues or characteristics in a population.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-62",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "A social worker is presenting data on the average income of a community. The data has a few extremely high values (outliers). Which measure of central tendency would be least affected by these outliers and therefore be the most representative?",
+    "choices": [
+      "Mean",
+      "Mode",
+      "Median",
+      "Standard deviation"
+    ],
+    "answerIndex": 2,
+    "rationale": "The median is the middle value in a dataset when it is ordered from least to greatest. It is not affected by extreme values or outliers, making it a more robust measure of central tendency than the mean when the data is skewed.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-63",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Explain",
+    "difficulty": "Easy",
+    "stem": "The **research hypothesis** is a critical component of the research process because it:",
+    "choices": [
+      "Summarizes the findings of the research.",
+      "Is a statement of the predicted relationship between two or more variables that is to be tested.",
+      "Is the final conclusion of a study.",
+      "Is an ethical principle of research."
+    ],
+    "answerIndex": 1,
+    "rationale": "A research hypothesis is a testable statement that predicts the relationship between variables. It serves as the foundation for the research design and guides the data collection and analysis to either support or reject the prediction.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-64",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting a research study on the impact of a community-based intervention. To ensure the findings are valid, the social worker must address **internal validity**. This means the social worker needs to ensure that:",
+    "choices": [
+      "The findings can be generalized to other populations.",
+      "The changes in the dependent variable are a direct result of the intervention, and not other factors.",
+      "The research is easy to replicate by other researchers.",
+      "The research is conducted in a natural and non-intrusive setting."
+    ],
+    "answerIndex": 1,
+    "rationale": "Internal validity refers to the extent to which a study's findings are a direct result of the intervention being tested and not due to extraneous variables. Ensuring high internal validity is crucial for establishing a cause-and-effect relationship.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-65",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker wants to test the hypothesis that a new family therapy program is more effective than the standard program in reducing family conflict. Which statistical test would be most appropriate?",
+    "choices": [
+      "ANOVA",
+      "Chi-Square Test",
+      "Pearson Correlation",
+      "Regression"
+    ],
+    "answerIndex": 0,
+    "rationale": "ANOVA (Analysis of Variance) is a statistical test used to compare the means of two or more groups to determine if there are statistically significant differences among them. In this case, it would be used to compare the new family therapy program with the standard program.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-66",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of Social Work Research",
+    "bloom": "Differentiate",
+    "difficulty": "Moderate",
+    "stem": "What is the key difference between **social work research** and **other forms of research**?",
+    "choices": [
+      "Social work research is a purely theoretical endeavor, while other research is practical.",
+      "Social work research is solely for academic purposes, while other research is for policy-making.",
+      "Social work research is a form of applied research that aims to inform and improve social work practice and address social problems.",
+      "Social work research does not need to adhere to any ethical guidelines."
+    ],
+    "answerIndex": 2,
+    "rationale": "Social work research is distinct from other forms of research in that it is fundamentally an applied discipline. Its primary goal is to generate knowledge that can be directly used to improve the lives of individuals, families, and communities, and to inform social work practice and policy.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-67",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Describe",
+    "difficulty": "Easy",
+    "stem": "In the research process, the **literature review** serves what purpose?",
+    "choices": [
+      "To summarize the entire research study.",
+      "To identify existing knowledge on the topic, highlight gaps, and inform the research question.",
+      "To collect raw data from participants.",
+      "To present the final conclusions of the study."
+    ],
+    "answerIndex": 1,
+    "rationale": "The literature review is an essential early step in the research process. It involves a systematic examination of existing scholarly works, which helps the researcher to understand what is already known about a topic, identify what is missing, and refine their own research question.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-68",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Relate",
+    "difficulty": "Moderate",
+    "stem": "The ethical practice of **confidentiality** in social work research is most closely related to which of the following?",
+    "choices": [
+      "Ensuring that participants' identities and personal information are kept private and secure.",
+      "The number of participants in the study.",
+      "The type of statistical analysis used in the study.",
+      "The duration of the research project."
+    ],
+    "answerIndex": 0,
+    "rationale": "Confidentiality is a fundamental ethical principle that is a cornerstone of social work practice and research. It refers to the researcher's responsibility to protect the privacy of participants by ensuring their personal information is not disclosed without their permission.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-69",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following best describes the role of a social worker when using social statistics?",
+    "choices": [
+      "A consumer of statistical data to inform practice and a producer of data for program evaluation.",
+      "A producer of raw data only, with no involvement in analysis.",
+      "A person who only uses qualitative data.",
+      "A person who has no need to understand statistics."
+    ],
+    "answerIndex": 0,
+    "rationale": "Social workers are both consumers and producers of statistical data. They consume data from research to inform their practice and they produce data through program evaluation and needs assessments to demonstrate the effectiveness of their interventions and to advocate for resources.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-70",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Describe",
+    "difficulty": "Moderate",
+    "stem": "A social worker is gathering data on the age of clients served by a program. This type of data is considered a **nominal variable** if:",
+    "choices": [
+      "The data can be measured on a continuous scale.",
+      "The data can be categorized but not ranked.",
+      "The data has a true zero point.",
+      "The data is in a graphical format."
+    ],
+    "answerIndex": 1,
+    "rationale": "Nominal variables are a type of categorical data where the categories are used for identification or classification. They do not have a natural order or ranking. For example, marital status (single, married, divorced) is a nominal variable.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-71",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker wants to test the hypothesis that a new family therapy program is more effective than the standard program in reducing family conflict. Which statistical test would be most appropriate?",
+    "choices": [
+      "ANOVA",
+      "Chi-Square Test",
+      "Pearson Correlation",
+      "Regression"
+    ],
+    "answerIndex": 0,
+    "rationale": "ANOVA (Analysis of Variance) is a statistical test used to compare the means of two or more groups to determine if there are statistically significant differences among them. In this case, it would be used to compare the new family therapy program with the standard program.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-72",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of Social Work Research",
+    "bloom": "Describe",
+    "difficulty": "Easy",
+    "stem": "The role of a social worker as a **researcher** is best described as:",
+    "choices": [
+      "A professional who only collects data for others to analyze.",
+      "A professional who uses research to inform practice and contribute to the knowledge base of the profession.",
+      "A person who is not allowed to conduct research.",
+      "A professional who only studies research methods."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker as a researcher is a professional who actively engages in research to advance the social work profession. This involves using research to improve practice, evaluate programs, and contribute to the body of knowledge in social work.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-73",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Relate",
+    "difficulty": "Moderate",
+    "stem": "The ethical practice of **confidentiality** in social work research is most closely related to which of the following?",
+    "choices": [
+      "Ensuring that participants' identities and personal information are kept private and secure.",
+      "The number of participants in the study.",
+      "The type of statistical analysis used in the study.",
+      "The duration of the research project."
+    ],
+    "answerIndex": 0,
+    "rationale": "Confidentiality is a fundamental ethical principle that is a cornerstone of social work practice and research. It refers to the researcher's responsibility to protect the privacy of participants by ensuring their personal information is not disclosed without their permission.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-74",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Utilize",
+    "difficulty": "Difficult",
+    "stem": "A social worker has a dataset of clients' test scores that follow a normal distribution. If a client's score is one standard deviation above the mean, what can the social worker conclude about the client's performance relative to the other clients?",
+    "choices": [
+      "The client's score is below average.",
+      "The client's score is average.",
+      "The client's score is at the 84th percentile, meaning they performed better than approximately 84% of the other clients.",
+      "The client's score is at the 50th percentile."
+    ],
+    "answerIndex": 2,
+    "rationale": "In a normal distribution, a score that is one standard deviation above the mean is at the 84th percentile. This means the client's score is higher than approximately 84% of the other scores in the dataset. This understanding of standard scores is crucial for social workers to interpret client data.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-75",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is conducting a study using a **qualitative research** method. Which of the following is an example of the data that would be collected?",
+    "choices": [
+      "A client satisfaction survey with a rating scale from 1 to 5.",
+      "Interviews with clients about their lived experiences of poverty.",
+      "The number of clients served by a social welfare agency in a year.",
+      "A client's age and income level."
+    ],
+    "answerIndex": 1,
+    "rationale": "Qualitative research focuses on non-numerical data to gain a deeper understanding of a phenomenon. Interviews, focus groups, and observations are all common methods of collecting qualitative data. This contrasts with quantitative methods that rely on numerical data like surveys and statistics.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-76",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Relate",
+    "difficulty": "Easy",
+    "stem": "Which of the following is a common way of knowing the world that is not based on scientific method and is often used by individuals in their daily lives?",
+    "choices": [
+      "Authority (e.g., listening to an expert)",
+      "Intuition (e.g., a 'gut feeling')",
+      "Experience (e.g., personal observation)",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "rationale": "All of these are common ways of knowing that are not based on the scientific method. Authority is knowing something because an expert told you. Intuition is knowing something from a feeling. Experience is knowing something from personal observation. While these are common, they are not a substitute for evidence-based practice and research in social work.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-77",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting a study to see if there is a relationship between the number of therapy sessions a client attends and the reduction in their depression symptoms. The social worker must use a statistical model that can analyze this relationship. Which test is most appropriate?",
+    "choices": [
+      "Chi-Square Test of Independence",
+      "Pearson correlation coefficient",
+      "T-test",
+      "ANOVA"
+    ],
+    "answerIndex": 1,
+    "rationale": "The Pearson correlation coefficient is the most appropriate statistical test for this scenario. It is used to measure the linear relationship between two continuous variables, in this case, the number of therapy sessions and the level of depression symptoms.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-78",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Explain",
+    "difficulty": "Moderate",
+    "stem": "What is the key difference between **qualitative** and **quantitative** research in social work?",
+    "choices": [
+      "Qualitative research uses numerical data, while quantitative research uses interviews and observations.",
+      "Qualitative research focuses on numerical data to test a hypothesis, while quantitative research focuses on stories and lived experiences to gain a deeper understanding of a social phenomenon.",
+      "Qualitative research focuses on stories and lived experiences, while quantitative research focuses on numerical data to test a hypothesis.",
+      "There is no difference between qualitative and quantitative research."
+    ],
+    "answerIndex": 2,
+    "rationale": "Qualitative research is an in-depth approach that uses non-numerical data like interviews and focus groups to explore a social issue and understand a person's experience. Quantitative research, on the other hand, uses numerical data, surveys, and statistical analysis to test a hypothesis and measure a social phenomenon.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-79",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In social work, a **frequency distribution** is a statistical function that helps a social worker to:",
+    "choices": [
+      "Determine the mean and median of a dataset.",
+      "Organize and summarize data to show how often different values or categories occur.",
+      "Predict future outcomes based on current trends.",
+      "Calculate the correlation between two variables."
+    ],
+    "answerIndex": 1,
+    "rationale": "A frequency distribution is a basic statistical tool that organizes raw data into a more manageable format by showing the number of times each value or category appears in a dataset. This helps social workers to quickly understand the prevalence of certain issues or characteristics in a population.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-80",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "A social worker is presenting data on the average income of a community. The data has a few extremely high values (outliers). Which measure of central tendency would be least affected by these outliers and therefore be the most representative?",
+    "choices": [
+      "Mean",
+      "Mode",
+      "Median",
+      "Standard deviation"
+    ],
+    "answerIndex": 2,
+    "rationale": "The median is the middle value in a dataset when it is ordered from least to greatest. It is not affected by extreme values or outliers, making it a more robust measure of central tendency than the mean when the data is skewed.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-81",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Explain",
+    "difficulty": "Easy",
+    "stem": "The **research hypothesis** is a critical component of the research process because it:",
+    "choices": [
+      "Summarizes the findings of the research.",
+      "Is a statement of the predicted relationship between two or more variables that is to be tested.",
+      "Is the final conclusion of a study.",
+      "Is an ethical principle of research."
+    ],
+    "answerIndex": 1,
+    "rationale": "A research hypothesis is a testable statement that predicts the relationship between variables. It serves as the foundation for the research design and guides the data collection and analysis to either support or reject the prediction.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-82",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting a research study on the impact of a community-based intervention. To ensure the findings are valid, the social worker must address **internal validity**. This means the social worker needs to ensure that:",
+    "choices": [
+      "The findings can be generalized to other populations.",
+      "The changes in the dependent variable are a direct result of the intervention, and not other factors.",
+      "The research is easy to replicate by other researchers.",
+      "The research is conducted in a natural and non-intrusive setting."
+    ],
+    "answerIndex": 1,
+    "rationale": "Internal validity refers to the extent to which a study's findings are a direct result of the intervention being tested and not due to extraneous variables. Ensuring high internal validity is crucial for establishing a cause-and-effect relationship.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-83",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker wants to test the hypothesis that a new family therapy program is more effective than the standard program in reducing family conflict. Which statistical test would be most appropriate?",
+    "choices": [
+      "ANOVA",
+      "Chi-Square Test",
+      "Pearson Correlation",
+      "Regression"
+    ],
+    "answerIndex": 0,
+    "rationale": "ANOVA (Analysis of Variance) is a statistical test used to compare the means of two or more groups to determine if there are statistically significant differences among them. In this case, it would be used to compare the new family therapy program with the standard program.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-84",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of Social Work Research",
+    "bloom": "Describe",
+    "difficulty": "Easy",
+    "stem": "The role of a social worker as a **researcher** is best described as:",
+    "choices": [
+      "A professional who only collects data for others to analyze.",
+      "A professional who uses research to inform practice and contribute to the knowledge base of the profession.",
+      "A person who is not allowed to conduct research.",
+      "A professional who only studies research methods."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker as a researcher is a professional who actively engages in research to advance the social work profession. This involves using research to improve practice, evaluate programs, and contribute to the body of knowledge in social work.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-85",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Relate",
+    "difficulty": "Moderate",
+    "stem": "The ethical practice of **confidentiality** in social work research is most closely related to which of the following?",
+    "choices": [
+      "Ensuring that participants' identities and personal information are kept private and secure.",
+      "The number of participants in the study.",
+      "The type of statistical analysis used in the study.",
+      "The duration of the research project."
+    ],
+    "answerIndex": 0,
+    "rationale": "Confidentiality is a fundamental ethical principle that is a cornerstone of social work practice and research. It refers to the researcher's responsibility to protect the privacy of participants by ensuring their personal information is not disclosed without their permission.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-86",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Utilize",
+    "difficulty": "Difficult",
+    "stem": "A social worker has a dataset of clients' test scores that follow a normal distribution. If a client's score is one standard deviation above the mean, what can the social worker conclude about the client's performance relative to the other clients?",
+    "choices": [
+      "The client's score is below average.",
+      "The client's score is average.",
+      "The client's score is at the 84th percentile, meaning they performed better than approximately 84% of the other clients.",
+      "The client's score is at the 50th percentile."
+    ],
+    "answerIndex": 2,
+    "rationale": "In a normal distribution, a score that is one standard deviation above the mean is at the 84th percentile. This means the client's score is higher than approximately 84% of the other scores in the dataset. This understanding of standard scores is crucial for social workers to interpret client data.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-87",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is conducting a study using a **qualitative research** method. Which of the following is an example of the data that would be collected?",
+    "choices": [
+      "A client satisfaction survey with a rating scale from 1 to 5.",
+      "Interviews with clients about their lived experiences of poverty.",
+      "The number of clients served by a social welfare agency in a year.",
+      "A client's age and income level."
+    ],
+    "answerIndex": 1,
+    "rationale": "Qualitative research focuses on non-numerical data to gain a deeper understanding of a phenomenon. Interviews, focus groups, and observations are all common methods of collecting qualitative data. This contrasts with quantitative methods that rely on numerical data like surveys and statistics.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-88",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Relate",
+    "difficulty": "Easy",
+    "stem": "Which of the following is a common way of knowing the world that is not based on scientific method and is often used by individuals in their daily lives?",
+    "choices": [
+      "Authority (e.g., listening to an expert)",
+      "Intuition (e.g., a 'gut feeling')",
+      "Experience (e.g., personal observation)",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "rationale": "All of these are common ways of knowing that are not based on the scientific method. Authority is knowing something because an expert told you. Intuition is knowing something from a feeling. Experience is knowing something from personal observation. While these are common, they are not a substitute for evidence-based practice and research in social work.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-89",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting a study to see if there is a relationship between the number of therapy sessions a client attends and the reduction in their depression symptoms. The social worker must use a statistical model that can analyze this relationship. Which test is most appropriate?",
+    "choices": [
+      "Chi-Square Test of Independence",
+      "Pearson correlation coefficient",
+      "T-test",
+      "ANOVA"
+    ],
+    "answerIndex": 1,
+    "rationale": "The Pearson correlation coefficient is the most appropriate statistical test for this scenario. It is used to measure the linear relationship between two continuous variables, in this case, the number of therapy sessions and the level of depression symptoms.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-90",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Explain",
+    "difficulty": "Moderate",
+    "stem": "What is the key difference between **qualitative** and **quantitative** research in social work?",
+    "choices": [
+      "Qualitative research uses numerical data, while quantitative research uses interviews and observations.",
+      "Qualitative research focuses on numerical data to test a hypothesis, while quantitative research focuses on stories and lived experiences to gain a deeper understanding of a social phenomenon.",
+      "Qualitative research focuses on stories and lived experiences, while quantitative research focuses on numerical data to test a hypothesis.",
+      "There is no difference between qualitative and quantitative research."
+    ],
+    "answerIndex": 2,
+    "rationale": "Qualitative research is an in-depth approach that uses non-numerical data like interviews and focus groups to explore a social issue and understand a person's experience. Quantitative research, on the other hand, uses numerical data, surveys, and statistical analysis to test a hypothesis and measure a social phenomenon.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-91",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In social work, a **frequency distribution** is a statistical function that helps a social worker to:",
+    "choices": [
+      "Determine the mean and median of a dataset.",
+      "Organize and summarize data to show how often different values or categories occur.",
+      "Predict future outcomes based on current trends.",
+      "Calculate the correlation between two variables."
+    ],
+    "answerIndex": 1,
+    "rationale": "A frequency distribution is a basic statistical tool that organizes raw data into a more manageable format by showing the number of times each value or category appears in a dataset. This helps social workers to quickly understand the prevalence of certain issues or characteristics in a population.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-92",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Illustrate",
+    "difficulty": "Moderate",
+    "stem": "A social worker is presenting data on the average income of a community. The data has a few extremely high values (outliers). Which measure of central tendency would be least affected by these outliers and therefore be the most representative?",
+    "choices": [
+      "Mean",
+      "Mode",
+      "Median",
+      "Standard deviation"
+    ],
+    "answerIndex": 2,
+    "rationale": "The median is the middle value in a dataset when it is ordered from least to greatest. It is not affected by extreme values or outliers, making it a more robust measure of central tendency than the mean when the data is skewed.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-93",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Explain",
+    "difficulty": "Easy",
+    "stem": "The **research hypothesis** is a critical component of the research process because it:",
+    "choices": [
+      "Summarizes the findings of the research.",
+      "Is a statement of the predicted relationship between two or more variables that is to be tested.",
+      "Is the final conclusion of a study.",
+      "Is an ethical principle of research."
+    ],
+    "answerIndex": 1,
+    "rationale": "A research hypothesis is a testable statement that predicts the relationship between variables. It serves as the foundation for the research design and guides the data collection and analysis to either support or reject the prediction.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-94",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting a research study on the impact of a community-based intervention. To ensure the findings are valid, the social worker must address **internal validity**. This means the social worker needs to ensure that:",
+    "choices": [
+      "The findings can be generalized to other populations.",
+      "The changes in the dependent variable are a direct result of the intervention, and not other factors.",
+      "The research is easy to replicate by other researchers.",
+      "The research is conducted in a natural and non-intrusive setting."
+    ],
+    "answerIndex": 1,
+    "rationale": "Internal validity refers to the extent to which a study's findings are a direct result of the intervention being tested and not due to extraneous variables. Ensuring high internal validity is crucial for establishing a cause-and-effect relationship.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-95",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "2. Statistical Models",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker wants to test the hypothesis that a new family therapy program is more effective than the standard program in reducing family conflict. Which statistical test would be most appropriate?",
+    "choices": [
+      "ANOVA",
+      "Chi-Square Test",
+      "Pearson Correlation",
+      "Regression"
+    ],
+    "answerIndex": 0,
+    "rationale": "ANOVA (Analysis of Variance) is a statistical test used to compare the means of two or more groups to determine if there are statistically significant differences among them. In this case, it would be used to compare the new family therapy program with the standard program.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-96",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of Social Work Research",
+    "bloom": "Describe",
+    "difficulty": "Easy",
+    "stem": "The role of a social worker as a **researcher** is best described as:",
+    "choices": [
+      "A professional who only collects data for others to analyze.",
+      "A professional who uses research to inform practice and contribute to the knowledge base of the profession.",
+      "A person who is not allowed to conduct research.",
+      "A professional who only studies research methods."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker as a researcher is a professional who actively engages in research to advance the social work profession. This involves using research to improve practice, evaluate programs, and contribute to the body of knowledge in social work.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-97",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Relate",
+    "difficulty": "Moderate",
+    "stem": "The ethical practice of **confidentiality** in social work research is most closely related to which of the following?",
+    "choices": [
+      "Ensuring that participants' identities and personal information are kept private and secure.",
+      "The number of participants in the study.",
+      "The type of statistical analysis used in the study.",
+      "The duration of the research project."
+    ],
+    "answerIndex": 0,
+    "rationale": "Confidentiality is a fundamental ethical principle that is a cornerstone of social work practice and research. It refers to the researcher's responsibility to protect the privacy of participants by ensuring their personal information is not disclosed without their permission.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-98",
+    "subject": "Social Work Statistics",
+    "topic": "A. SOCIAL WORK STATISTICS",
+    "subtopic": "1. Statistics and Social Work, Differences, Importance, Uses and Functions",
+    "bloom": "Utilize",
+    "difficulty": "Difficult",
+    "stem": "A social worker has a dataset of clients' test scores that follow a normal distribution. If a client's score is one standard deviation above the mean, what can the social worker conclude about the client's performance relative to the other clients?",
+    "choices": [
+      "The client's score is below average.",
+      "The client's score is average.",
+      "The client's score is at the 84th percentile, meaning they performed better than approximately 84% of the other clients.",
+      "The client's score is at the 50th percentile."
+    ],
+    "answerIndex": 2,
+    "rationale": "In a normal distribution, a score that is one standard deviation above the mean is at the 84th percentile. This means the client's score is higher than approximately 84% of the other scores in the dataset. This understanding of standard scores is crucial for social workers to interpret client data.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-99",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is conducting a study using a **qualitative research** method. Which of the following is an example of the data that would be collected?",
+    "choices": [
+      "A client satisfaction survey with a rating scale from 1 to 5.",
+      "Interviews with clients about their lived experiences of poverty.",
+      "The number of clients served by a social welfare agency in a year.",
+      "A client's age and income level."
+    ],
+    "answerIndex": 1,
+    "rationale": "Qualitative research focuses on non-numerical data to gain a deeper understanding of a phenomenon. Interviews, focus groups, and observations are all common methods of collecting qualitative data. This contrasts with quantitative methods that rely on numerical data like surveys and statistics.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  },
+  {
+    "id": "SWLE-100-100",
+    "subject": "Social Work Research",
+    "topic": "B. SOCIAL WORK RESEARCH 1",
+    "subtopic": "1. Overview of the Research Process",
+    "bloom": "Relate",
+    "difficulty": "Easy",
+    "stem": "Which of the following is a common way of knowing the world that is not based on scientific method and is often used by individuals in their daily lives?",
+    "choices": [
+      "Authority (e.g., listening to an expert)",
+      "Intuition (e.g., a 'gut feeling')",
+      "Experience (e.g., personal observation)",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "rationale": "All of these are common ways of knowing that are not based on the scientific method. Authority is knowing something because an expert told you. Intuition is knowing something from a feeling. Experience is knowing something from personal observation. While these are common, they are not a substitute for evidence-based practice and research in social work.",
+    "source": "SWLE Table of Specifications",
+    "tags": []
+  }
+]
