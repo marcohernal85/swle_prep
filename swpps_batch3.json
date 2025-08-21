@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "subject": "SWPPS",
+    "question": "Which measure of central tendency is most appropriate to report the typical income level when the income distribution is highly skewed?",
+    "options": {
+      "A": "Mean",
+      "B": "Median",
+      "C": "Mode",
+      "D": "Standard deviation"
+    },
+    "answer": "B",
+    "topic": "Social Work Statistics",
+    "competency": "Utilize measures of central tendency"
+  },
+  {
+    "id": 2,
+    "subject": "SWPPS",
+    "question": "Which graphical display best shows the distribution of a continuous variable and its skewness?",
+    "options": {
+      "A": "Bar chart",
+      "B": "Pie chart",
+      "C": "Histogram",
+      "D": "Scatterplot"
+    },
+    "answer": "C",
+    "topic": "Social Work Statistics",
+    "competency": "Tabular and graphical presentations"
+  },
+  {
+    "id": 3,
+    "subject": "SWPPS",
+    "question": "If a dataset has a mean of 50 and standard deviation of 5, approximately what percentage of observations fall between 40 and 60 assuming a normal distribution?",
+    "options": {
+      "A": "50%",
+      "B": "68%",
+      "C": "95%",
+      "D": "99%"
+    },
+    "answer": "C",
+    "topic": "Social Work Statistics",
+    "competency": "Utilize normal distribution and standard scores"
+  },
+  {
+    "id": 4,
+    "subject": "SWPPS",
+    "question": "Which statistic assesses the strength and direction of the linear relationship between two continuous variables?",
+    "options": {
+      "A": "Chi-square",
+      "B": "Pearson correlation coefficient",
+      "C": "ANOVA",
+      "D": "Mode"
+    },
+    "answer": "B",
+    "topic": "Social Work Statistics",
+    "competency": "Pearson and Spearman tests"
+  },
+  {
+    "id": 5,
+    "subject": "SWPPS",
+    "question": "Which measure best reflects variability when comparing two groups with different means?",
+    "options": {
+      "A": "Range",
+      "B": "Interquartile range",
+      "C": "Standard deviation",
+      "D": "Median"
+    },
+    "answer": "C",
+    "topic": "Social Work Statistics",
+    "competency": "Variability and score transformations"
+  },
+  {
+    "id": 6,
+    "subject": "SWPPS",
+    "question": "A researcher wants to test if there is an association between gender (male/female) and program participation (yes/no). Which test is most appropriate?",
+    "options": {
+      "A": "Independent t-test",
+      "B": "Chi-square test of independence",
+      "C": "Pearson correlation",
+      "D": "One-way ANOVA"
+    },
+    "answer": "B",
+    "topic": "Social Work Statistics",
+    "competency": "Chi-Square test of independence"
+  },
+  {
+    "id": 7,
+    "subject": "SWPPS",
+    "question": "When sample means are compared across more than two groups, which statistical test is commonly used to detect differences?",
+    "options": {
+      "A": "ANOVA",
+      "B": "Chi-square",
+      "C": "Spearman correlation",
+      "D": "Paired t-test"
+    },
+    "answer": "A",
+    "topic": "Social Work Statistics",
+    "competency": "Hypothesis testing such as ANOVA"
+  },
+  {
+    "id": 8,
+    "subject": "SWPPS",
+    "question": "Which of the following is a purpose of disaggregating data by sex in social work statistics?",
+    "options": {
+      "A": "Simplify datasets",
+      "B": "Promote uniform sampling",
+      "C": "Reveal gender patterns and inequalities",
+      "D": "Reduce sample size"
+    },
+    "answer": "C",
+    "topic": "Social Work Statistics",
+    "competency": "Sampling distribution using sex-disaggregated data"
+  },
+  {
+    "id": 9,
+    "subject": "SWPPS",
+    "question": "If a social worker converts raw test scores into z-scores, what is true about the transformed distribution?",
+    "options": {
+      "A": "Mean becomes 0 and standard deviation 1",
+      "B": "Mean becomes 1 and standard deviation 0",
+      "C": "Distribution becomes uniform",
+      "D": "Original relationships are destroyed"
+    },
+    "answer": "A",
+    "topic": "Social Work Statistics",
+    "competency": "Score transformations and standard scores"
+  },
+  {
+    "id": 10,
+    "subject": "SWPPS",
+    "question": "Which concept explains the likelihood of obtaining sample results given a true population parameter?",
+    "options": {
+      "A": "Descriptive statistics",
+      "B": "Probability theory",
+      "C": "Qualitative analysis",
+      "D": "Content validity"
+    },
+    "answer": "B",
+    "topic": "Social Work Statistics",
+    "competency": "Probability theory and inferential statistics"
+  },
+  {
+    "id": 11,
+    "subject": "SWPPS",
+    "question": "Which of the following best defines social work research?",
+    "options": {
+      "A": "A purely theoretical study of social concepts",
+      "B": "Systematic inquiry to inform social work practice and policy",
+      "C": "Only quantitative surveys used by agencies",
+      "D": "Informal observations during service delivery"
+    },
+    "answer": "B",
+    "topic": "Social Work Research 1",
+    "competency": "Define social work research"
+  },
+  {
+    "id": 12,
+    "subject": "SWPPS",
+    "question": "What ethical principle is most directly violated when a researcher shares identifiable participant data without consent?",
+    "options": {
+      "A": "Beneficence",
+      "B": "Confidentiality",
+      "C": "Objectivity",
+      "D": "Reliability"
+    },
+    "answer": "B",
+    "topic": "Social Work Research 1",
+    "competency": "Research ethics and principles"
+  },
+  {
+    "id": 13,
+    "subject": "SWPPS",
+    "question": "Which method is characteristic of qualitative social work research?",
+    "options": {
+      "A": "Randomized controlled trial",
+      "B": "Structured questionnaire with closed items",
+      "C": "In-depth interviews and thematic analysis",
+      "D": "ANOVA"
+    },
+    "answer": "C",
+    "topic": "Social Work Research 1",
+    "competency": "Differentiate social work research methods"
+  },
+  {
+    "id": 14,
+    "subject": "SWPPS",
+    "question": "Which role does a social worker most commonly play in research activities within practice settings?",
+    "options": {
+      "A": "Statistical programmer only",
+      "B": "Research consumer, investigator, and translator of findings into practice",
+      "C": "Research subject",
+      "D": "None; social workers do not engage in research"
+    },
+    "answer": "B",
+    "topic": "Social Work Research 1",
+    "competency": "Describe the social worker as a researcher"
+  },
+  {
+    "id": 15,
+    "subject": "SWPPS",
+    "question": "Which of the following best represents an ethical requirement in social work research involving human participants?",
+    "options": {
+      "A": "Mandatory publication of raw data",
+      "B": "Informed consent and right to withdraw",
+      "C": "Forced participation if client is a service recipient",
+      "D": "Deception without debriefing"
+    },
+    "answer": "B",
+    "topic": "Social Work Research 1",
+    "competency": "Basic ethical practices in research"
+  },
+  {
+    "id": 16,
+    "subject": "SWPPS",
+    "question": "In the research process, which step comes immediately after formulating a research problem?",
+    "options": {
+      "A": "Data collection",
+      "B": "Hypothesis formulation and conceptual framework",
+      "C": "Dissemination",
+      "D": "Citation checking"
+    },
+    "answer": "B",
+    "topic": "Social Work Research 1",
+    "competency": "Formulating hypothesis and conceptual framework"
+  },
+  {
+    "id": 17,
+    "subject": "SWPPS",
+    "question": "Which research design is most appropriate for exploring lived experiences in-depth?",
+    "options": {
+      "A": "Narrative or phenomenological qualitative design",
+      "B": "Cross-sectional survey",
+      "C": "Experimental design",
+      "D": "Descriptive statistics only"
+    },
+    "answer": "A",
+    "topic": "Social Work Research 1",
+    "competency": "Common research designs and methodologies"
+  },
+  {
+    "id": 18,
+    "subject": "SWPPS",
+    "question": "What is the main purpose of a literature review in social work research?",
+    "options": {
+      "A": "To summarize the researcher's opinion",
+      "B": "To situate the study within existing knowledge and identify gaps",
+      "C": "To present raw data",
+      "D": "To replace the methodology section"
+    },
+    "answer": "B",
+    "topic": "Social Work Research 1",
+    "competency": "Review of related literature"
+  },
+  {
+    "id": 19,
+    "subject": "SWPPS",
+    "question": "Which sampling technique is most likely to produce a representative sample of a large population?",
+    "options": {
+      "A": "Convenience sampling",
+      "B": "Purposive sampling",
+      "C": "Simple random sampling",
+      "D": "Snowball sampling"
+    },
+    "answer": "C",
+    "topic": "Social Work Research 2",
+    "competency": "Sampling methods"
+  },
+  {
+    "id": 20,
+    "subject": "SWPPS",
+    "question": "Which instrument is most suitable to gather standardized quantitative data on household income and expenditure?",
+    "options": {
+      "A": "Semi-structured interview guide",
+      "B": "Structured questionnaire with closed items",
+      "C": "Participant observation notes",
+      "D": "Focus group discussion"
+    },
+    "answer": "B",
+    "topic": "Social Work Research 2",
+    "competency": "Instrument design for data gathering"
+  },
+  {
+    "id": 21,
+    "subject": "SWPPS",
+    "question": "Which method ensures confidentiality in handling digital survey data?",
+    "options": {
+      "A": "Store files with participant names in plain text",
+      "B": "Use encrypted files and anonymize identifiers",
+      "C": "Share datasets publicly without redaction",
+      "D": "Email survey results to all stakeholders"
+    },
+    "answer": "B",
+    "topic": "Social Work Research 2",
+    "competency": "Ethical data collection and storage"
+  },
+  {
+    "id": 22,
+    "subject": "SWPPS",
+    "question": "Which statistical test is appropriate to compare means between two independent groups?",
+    "options": {
+      "A": "Paired t-test",
+      "B": "Independent samples t-test",
+      "C": "Chi-square test",
+      "D": "Spearman correlation"
+    },
+    "answer": "B",
+    "topic": "Social Work Research 2",
+    "competency": "Application of hypothesis testing"
+  },
+  {
+    "id": 23,
+    "subject": "SWPPS",
+    "question": "Which technique is used to check inter-rater reliability for categorical coding?",
+    "options": {
+      "A": "Cronbach's alpha",
+      "B": "Kappa statistic",
+      "C": "t-test",
+      "D": "ANOVA"
+    },
+    "answer": "B",
+    "topic": "Social Work Research 2",
+    "competency": "Reliability measures for instrumentation"
+  },
+  {
+    "id": 24,
+    "subject": "SWPPS",
+    "question": "Which approach is best when presenting qualitative findings to ensure credibility?",
+    "options": {
+      "A": "Triangulation and thick description",
+      "B": "Only numerical tables",
+      "C": "Fabricate quotes for clarity",
+      "D": "Present results without context"
+    },
+    "answer": "A",
+    "topic": "Social Work Research 2",
+    "competency": "Qualitative data analysis and presentation"
+  },
+  {
+    "id": 25,
+    "subject": "SWPPS",
+    "question": "What is the purpose of a research dissemination plan in social work?",
+    "options": {
+      "A": "Hide findings from stakeholders",
+      "B": "Share findings to inform policy, practice, and community",
+      "C": "Only publish in paywalled journals",
+      "D": "Replace ethical review"
+    },
+    "answer": "B",
+    "topic": "Social Work Research 2",
+    "competency": "Validation and dissemination of findings"
+  },
+  {
+    "id": 26,
+    "subject": "SWPPS",
+    "question": "Which of the following best describes social welfare?",
+    "options": {
+      "A": "Private charity only",
+      "B": "Collective public actions and policies to promote well-being and social protection",
+      "C": "Only cash transfers",
+      "D": "Healthcare services exclusively"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Discuss concepts and principles in social welfare"
+  },
+  {
+    "id": 27,
+    "subject": "SWPPS",
+    "question": "Which perspective emphasizes state responsibility for providing minimum income, services, and protections?",
+    "options": {
+      "A": "Social protection perspective",
+      "B": "Laissez-faire perspective",
+      "C": "Charity perspective",
+      "D": "Market-only perspective"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Distinguish social welfare perspectives"
+  },
+  {
+    "id": 28,
+    "subject": "SWPPS",
+    "question": "Which of the following is a core principle when applying gender perspective in social welfare policy?",
+    "options": {
+      "A": "Gender neutrality without assessment",
+      "B": "Assessing differential impacts and promoting gender equity",
+      "C": "Prioritizing only men’s needs",
+      "D": "Avoiding data disaggregation"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Explain gender perspective in policy"
+  },
+  {
+    "id": 29,
+    "subject": "SWPPS",
+    "question": "Which step is part of the generic policy-making process?",
+    "options": {
+      "A": "Problem identification",
+      "B": "Ignoring stakeholders",
+      "C": "Immediate implementation without planning",
+      "D": "Skipping evaluation"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Explain policy-making steps"
+  },
+  {
+    "id": 30,
+    "subject": "SWPPS",
+    "question": "Which funding source is typically considered in public social welfare budgeting in the Philippines?",
+    "options": {
+      "A": "International loans only",
+      "B": "General appropriations from national government",
+      "C": "Private individual donations only",
+      "D": "Corporate taxes exclusively for welfare"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Demonstrate finance component of policy making"
+  },
+  {
+    "id": 31,
+    "subject": "SWPPS",
+    "question": "Which legal instrument forms a primary basis for the formulation of social welfare programs in the Philippines?",
+    "options": {
+      "A": "Constitution and enabling social welfare laws",
+      "B": "Local community bylaws only",
+      "C": "International fashion trends",
+      "D": "Random social media polls"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Distinguish social welfare legislations"
+  },
+  {
+    "id": 32,
+    "subject": "SWPPS",
+    "question": "Which is an important use of policy analysis tools in social welfare?",
+    "options": {
+      "A": "Obscure data to confuse decision-makers",
+      "B": "Assess impacts, costs, and alternatives for policymaking",
+      "C": "Ensure policies are immune to evaluation",
+      "D": "Avoid stakeholder consultation"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Identify tools for policy analysis"
+  },
+  {
+    "id": 33,
+    "subject": "SWPPS",
+    "question": "Which ethical issue commonly arises in policy formulation?",
+    "options": {
+      "A": "Ensuring universal access versus targeted benefits",
+      "B": "Using only one data source",
+      "C": "Ignoring fiscal constraints",
+      "D": "Designing policies without goals"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Identify ethical issues in policymaking"
+  },
+  {
+    "id": 34,
+    "subject": "SWPPS",
+    "question": "Which approach focuses on protection from shocks and chronic deprivation?",
+    "options": {
+      "A": "Social protection",
+      "B": "Pure economic growth approach",
+      "C": "Military strategy",
+      "D": "Cultural tourism"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Apply social welfare perspectives"
+  },
+  {
+    "id": 35,
+    "subject": "SWPPS",
+    "question": "Which of these is a primary objective of social welfare programs?",
+    "options": {
+      "A": "Maximize profits for private companies",
+      "B": "Promote social justice and improve well-being of vulnerable populations",
+      "C": "Exclude marginalized groups",
+      "D": "Reduce public accountability"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Show importance of social welfare concepts"
+  },
+  {
+    "id": 36,
+    "subject": "SWPPS",
+    "question": "Which tool would a policy analyst use to estimate the budgetary impact of a proposed cash transfer program?",
+    "options": {
+      "A": "Stakeholder mapping only",
+      "B": "Cost-benefit or budget impact analysis",
+      "C": "Randomized anecdotes",
+      "D": "Unstructured observation"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Finance component of policy making"
+  },
+  {
+    "id": 37,
+    "subject": "SWPPS",
+    "question": "Which principle requires social welfare programs to respect clients’ rights and dignity?",
+    "options": {
+      "A": "Authoritarianism",
+      "B": "Rights-based and social justice",
+      "C": "Patronage",
+      "D": "Profit-first"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Explain rights-based/social justice perspective"
+  },
+  {
+    "id": 38,
+    "subject": "SWPPS",
+    "question": "Which is an example of a social welfare program aimed at children’s welfare?",
+    "options": {
+      "A": "Child protection and foster care services",
+      "B": "Corporate tax holiday",
+      "C": "Luxury tourism subsidy",
+      "D": "Stock market investment scheme"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Apply social welfare laws to programs"
+  },
+  {
+    "id": 39,
+    "subject": "SWPPS",
+    "question": "Which policy tool helps visualize stakeholders and their influence on a program?",
+    "options": {
+      "A": "Stakeholder mapping",
+      "B": "Histogram",
+      "C": "Regression analysis",
+      "D": "Random sampling"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Tools for policy analysis"
+  },
+  {
+    "id": 40,
+    "subject": "SWPPS",
+    "question": "Which governance mechanism improves transparency and accountability in program implementation?",
+    "options": {
+      "A": "Public reporting and participatory monitoring",
+      "B": "Secrecy in budgeting",
+      "C": "Single-person decision-making",
+      "D": "Ignoring beneficiaries"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Apply tools to improve policy development"
+  },
+  {
+    "id": 41,
+    "subject": "SWPPS",
+    "question": "Which of the following best describes social administration?",
+    "options": {
+      "A": "Administration concerned only with private firms",
+      "B": "Management of public and private welfare agencies to deliver services",
+      "C": "A form of clinical therapy",
+      "D": "Only fundraising activities"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Identify concepts and functions of social administration"
+  },
+  {
+    "id": 42,
+    "subject": "SWPPS",
+    "question": "Which factor significantly influenced social welfare administration during the COVID-19 pandemic?",
+    "options": {
+      "A": "Reduced need for services",
+      "B": "Emerging crisis situations shaping structures and processes",
+      "C": "Elimination of remote service delivery",
+      "D": "Complete privatization of welfare"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Demonstrate pandemic influence on administration"
+  },
+  {
+    "id": 43,
+    "subject": "SWPPS",
+    "question": "Which of the following is an administrative function in social welfare agencies?",
+    "options": {
+      "A": "Program planning and resource allocation",
+      "B": "Only case referral with no documentation",
+      "C": "Ignoring client feedback",
+      "D": "Unregulated hiring"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Identify administrative functions"
+  },
+  {
+    "id": 44,
+    "subject": "SWPPS",
+    "question": "Which approach emphasizes participatory, empowering practices in agency management?",
+    "options": {
+      "A": "Authoritarian management",
+      "B": "Strengths/empowerment perspective",
+      "C": "Hierarchy-only model",
+      "D": "Top-down suppression"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Values and approaches in administration"
+  },
+  {
+    "id": 45,
+    "subject": "SWPPS",
+    "question": "Which leadership style involves mentoring, coaching, and supporting staff development?",
+    "options": {
+      "A": "Transactional authoritarian",
+      "B": "Transformational and coaching approaches",
+      "C": "Laissez-faire with no guidance",
+      "D": "Micromanagement without development"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Leadership and management styles"
+  },
+  {
+    "id": 46,
+    "subject": "SWPPS",
+    "question": "Which supervisory function focuses on professional development and guidance of practitioners?",
+    "options": {
+      "A": "Administrative only",
+      "B": "Clinical/supervisory mentorship",
+      "C": "No supervision",
+      "D": "Financial auditing exclusively"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Scope and levels of supervisory functions"
+  },
+  {
+    "id": 47,
+    "subject": "SWPPS",
+    "question": "Which management theory emphasizes efficiency, rules, and formal structures?",
+    "options": {
+      "A": "Classical management theory",
+      "B": "Human relations theory",
+      "C": "Systems theory",
+      "D": "Empowerment theory"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Theories of management applied to administration"
+  },
+  {
+    "id": 48,
+    "subject": "SWPPS",
+    "question": "Which skill is essential for social welfare administrators when dealing with multicultural clients and staff?",
+    "options": {
+      "A": "Cultural sensitivity and inclusive practice",
+      "B": "Rigid one-size-fits-all policy enforcement",
+      "C": "Ignoring cultural contexts",
+      "D": "Exclusive language use"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Influence of culture on administration"
+  },
+  {
+    "id": 49,
+    "subject": "SWPPS",
+    "question": "Which role is typically performed by a social work administrator?",
+    "options": {
+      "A": "Policy implementation and organizational leadership",
+      "B": "Only clerical work",
+      "C": "Clinical therapy without oversight",
+      "D": "None; administrators are not needed"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Roles and functions of social work administrators"
+  },
+  {
+    "id": 50,
+    "subject": "SWPPS",
+    "question": "What is a key element of effective supervision in social work practice?",
+    "options": {
+      "A": "Regular reflective feedback and professional growth",
+      "B": "Punitive enforcement only",
+      "C": "Avoiding discussions about practice",
+      "D": "Strictly financial oversight"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Value of supervision and supervisory process"
+  },
+  {
+    "id": 51,
+    "subject": "SWPPS",
+    "question": "Which perspective emphasizes planning, organizing, staffing, directing and controlling as management functions in social project implementation?",
+    "options": {
+      "A": "Project management cycle approach",
+      "B": "Ad-hoc approach",
+      "C": "No planning approach",
+      "D": "Sole reliance on volunteer spontaneity"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Project management cycle"
+  },
+  {
+    "id": 52,
+    "subject": "SWPPS",
+    "question": "During project identification, which tool helps assess community needs using gender lens?",
+    "options": {
+      "A": "Harmonized Gender and Development (HGD) Guidelines",
+      "B": "Random photo album",
+      "C": "Solely economic indicators",
+      "D": "None; skip assessment"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Use of HGD Guidelines in project planning"
+  },
+  {
+    "id": 53,
+    "subject": "SWPPS",
+    "question": "Which phase of the project cycle focuses on monitoring, measuring outputs and outcomes, and improving implementation?",
+    "options": {
+      "A": "Identification",
+      "B": "Implementation and monitoring",
+      "C": "Proposal writing only",
+      "D": "Idea brainstorming"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Project implementation, monitoring and evaluation"
+  },
+  {
+    "id": 54,
+    "subject": "SWPPS",
+    "question": "Which document usually contains project goal, objectives, activities, indicators, and budget?",
+    "options": {
+      "A": "Project proposal or program proposal",
+      "B": "Personal diary",
+      "C": "Unstructured note",
+      "D": "Marketing flyer"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Elements of a project proposal"
+  },
+  {
+    "id": 55,
+    "subject": "SWPPS",
+    "question": "Which analysis helps identify strengths, weaknesses, opportunities and threats of a project environment?",
+    "options": {
+      "A": "SWOT analysis",
+      "B": "Histogram analysis",
+      "C": "ANOVA",
+      "D": "Correlation matrix"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Tools for project analysis"
+  },
+  {
+    "id": 56,
+    "subject": "SWPPS",
+    "question": "What is a key characteristic of participatory project planning?",
+    "options": {
+      "A": "Top-down decision-making without local input",
+      "B": "Involving community members in identifying problems and solutions",
+      "C": "Excluding beneficiaries from planning",
+      "D": "Relying solely on external consultants"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Participatory approaches in project development"
+  },
+  {
+    "id": 57,
+    "subject": "SWPPS",
+    "question": "Which indicator type measures the ultimate changes in the lives of beneficiaries due to the project?",
+    "options": {
+      "A": "Output indicator",
+      "B": "Outcome/impact indicator",
+      "C": "Activity indicator",
+      "D": "Process indicator"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Indicators and monitoring frameworks"
+  },
+  {
+    "id": 58,
+    "subject": "SWPPS",
+    "question": "Which budgeting approach estimates the resources required to achieve specific outputs and outcomes?",
+    "options": {
+      "A": "Zero-based or activity-based budgeting",
+      "B": "Ignoring costs",
+      "C": "Vague estimation",
+      "D": "Only in-kind contributions"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Project budgeting and finance planning"
+  },
+  {
+    "id": 59,
+    "subject": "SWPPS",
+    "question": "Which monitoring activity focuses on tracking whether activities are implemented as planned?",
+    "options": {
+      "A": "Process monitoring",
+      "B": "Impact evaluation only",
+      "C": "After-action rumours",
+      "D": "Marketing check"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Monitoring and evaluation activities"
+  },
+  {
+    "id": 60,
+    "subject": "SWPPS",
+    "question": "Which tool is useful for assessing gender implications when designing a community project?",
+    "options": {
+      "A": "Gender analysis framework",
+      "B": "Only financial audit",
+      "C": "Random sampling without disaggregation",
+      "D": "Exclusive focus group with only one sex"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Gender-responsive project design"
+  },
+  {
+    "id": 61,
+    "subject": "SWPPS",
+    "question": "Which of the following best describes a social welfare policy?",
+    "options": {
+      "A": "A voluntary personal practice",
+      "B": "A deliberate course of action by government or institutions to address social needs",
+      "C": "A business marketing strategy",
+      "D": "Only a collection of traditions"
+    },
+    "answer": "B",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Discuss relevant concepts in social welfare"
+  },
+  {
+    "id": 62,
+    "subject": "SWPPS",
+    "question": "Which program is commonly considered a labor market intervention to improve employability?",
+    "options": {
+      "A": "Skills training and livelihood programs",
+      "B": "Luxury vacation packages",
+      "C": "Unregulated loan sharks",
+      "D": "Corporate bonuses"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Apply social welfare perspectives in programs"
+  },
+  {
+    "id": 63,
+    "subject": "SWPPS",
+    "question": "Which legislation would most likely provide the legal basis for a government social protection program?",
+    "options": {
+      "A": "An enabling social welfare law or social protection act",
+      "B": "A municipal traffic ordinance",
+      "C": "A private club charter",
+      "D": "A marketing brochure"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Distinguish social welfare legislations"
+  },
+  {
+    "id": 64,
+    "subject": "SWPPS",
+    "question": "Which policy analysis tool helps predict social outcomes under different scenarios?",
+    "options": {
+      "A": "Scenario analysis and modelling",
+      "B": "Sole reliance on intuition",
+      "C": "Ignoring baseline data",
+      "D": "Random selection"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Apply tools for policy analysis"
+  },
+  {
+    "id": 65,
+    "subject": "SWPPS",
+    "question": "Which ethical principle should guide targeting of benefits to vulnerable populations?",
+    "options": {
+      "A": "Equity and fairness",
+      "B": "Exclusionary favoritism",
+      "C": "Opacity",
+      "D": "Arbitrary selection"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Ethical issues in policy development"
+  },
+  {
+    "id": 66,
+    "subject": "SWPPS",
+    "question": "Which instrument is useful to assess whether a social program reached intended beneficiaries?",
+    "options": {
+      "A": "Beneficiary registry and targeting validation",
+      "B": "Ad hoc rumours",
+      "C": "Only financial accounts",
+      "D": "None; do not assess reach"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Tools for policy implementation and monitoring"
+  },
+  {
+    "id": 67,
+    "subject": "SWPPS",
+    "question": "Which of the following is an example of social development perspective in program design?",
+    "options": {
+      "A": "Community-driven development enhancing capacities and participation",
+      "B": "Top-down imposition without consultation",
+      "C": "Profit maximization at the expense of services",
+      "D": "Ignoring local context"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Apply social development perspectives"
+  },
+  {
+    "id": 68,
+    "subject": "SWPPS",
+    "question": "Which element is essential in applying a rights-based approach to social services?",
+    "options": {
+      "A": "Recognizing clients as rights-holders and the state as duty-bearer",
+      "B": "Treating beneficiaries as passive recipients",
+      "C": "Avoiding legal frameworks",
+      "D": "Prioritizing only funders’ interests"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Rights-based perspective application"
+  },
+  {
+    "id": 69,
+    "subject": "SWPPS",
+    "question": "Which of the following is a typical financing source for local social welfare programs?",
+    "options": {
+      "A": "Local government allocations and grants",
+      "B": "Only donor-imposed funds without local input",
+      "C": "Secret offshore funds",
+      "D": "No funding is necessary"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Finance and budgeting in policy implementation"
+  },
+  {
+    "id": 70,
+    "subject": "SWPPS",
+    "question": "Which policy function involves reviewing legislation, regulations and institutional roles affecting social welfare?",
+    "options": {
+      "A": "Legal and institutional analysis",
+      "B": "Only community rituals",
+      "C": "Solely political campaigning",
+      "D": "Irrelevant to policy"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Distinguish legal instruments for policy"
+  },
+  {
+    "id": 71,
+    "subject": "SWPPS",
+    "question": "Which of the following is a key objective of agency monitoring and evaluation?",
+    "options": {
+      "A": "Improve program effectiveness and accountability",
+      "B": "Conceal poor performance",
+      "C": "Ignore beneficiary feedback",
+      "D": "Only produce reports without use"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Monitoring and evaluation functions"
+  },
+  {
+    "id": 72,
+    "subject": "SWPPS",
+    "question": "Which managerial skill is most critical when coordinating multi-sectoral partnerships for welfare programs?",
+    "options": {
+      "A": "Stakeholder coordination and negotiation",
+      "B": "Solo decision-making without consultation",
+      "C": "Avoiding communication",
+      "D": "Exclusive focus on paperwork"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Coordination skills in agency administration"
+  },
+  {
+    "id": 73,
+    "subject": "SWPPS",
+    "question": "Which supervision model emphasizes reflective practice and professional development?",
+    "options": {
+      "A": "Reflective clinical supervision",
+      "B": "Punitive oversight model",
+      "C": "Ignorant laissez-faire",
+      "D": "Only monitoring attendance"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Supervision models and application"
+  },
+  {
+    "id": 74,
+    "subject": "SWPPS",
+    "question": "Which organizational culture element supports innovation in service delivery?",
+    "options": {
+      "A": "Supportive leadership and openness to learning",
+      "B": "Strict punishment for new ideas",
+      "C": "Rigid bureaucracy that resists change",
+      "D": "Closed communication"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Organizational values and innovation"
+  },
+  {
+    "id": 75,
+    "subject": "SWPPS",
+    "question": "Which of the following best exemplifies mainstreaming gender in agency programs?",
+    "options": {
+      "A": "Integrating gender analysis in planning, budget and M&E",
+      "B": "Token events only",
+      "C": "Ignoring gender-disaggregated data",
+      "D": "Excluding women from decision-making"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Gender and culture influence in administration"
+  },
+  {
+    "id": 76,
+    "subject": "SWPPS",
+    "question": "Which management function includes setting goals, developing policies, and designing structures?",
+    "options": {
+      "A": "Planning and organizing",
+      "B": "Only supervising staff",
+      "C": "Collecting donations only",
+      "D": "Filing only"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Management functions and structures"
+  },
+  {
+    "id": 77,
+    "subject": "SWPPS",
+    "question": "Which leadership behavior most likely increases staff motivation and performance?",
+    "options": {
+      "A": "Providing vision, recognition, and support",
+      "B": "Micromanaging every task",
+      "C": "Withholding feedback",
+      "D": "Using fear tactics"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Leadership styles and staff motivation"
+  },
+  {
+    "id": 78,
+    "subject": "SWPPS",
+    "question": "Which of the following is an important consideration when applying management theories to a social welfare agency?",
+    "options": {
+      "A": "Contextual adaptation and client-centered focus",
+      "B": "Blindly copying corporate models without adaptation",
+      "C": "Ignoring staff welfare",
+      "D": "Rejecting evaluation"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Apply management theories to agencies"
+  },
+  {
+    "id": 79,
+    "subject": "SWPPS",
+    "question": "Which administrative approach supports decentralized decision-making and community empowerment?",
+    "options": {
+      "A": "Participatory and decentralized administration",
+      "B": "Centralized authoritarian control",
+      "C": "Complete secrecy",
+      "D": "Total privatization"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Types of social administration"
+  },
+  {
+    "id": 80,
+    "subject": "SWPPS",
+    "question": "Which mechanism helps ensure ethical service delivery in agencies?",
+    "options": {
+      "A": "Code of ethics and staff training",
+      "B": "No policies",
+      "C": "Encouraging discrimination",
+      "D": "Ignoring complaints"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Agency Administration",
+    "competency": "Ethics and values in administration"
+  },
+  {
+    "id": 81,
+    "subject": "SWPPS",
+    "question": "During the project planning stage, which tool helps sequence activities and identify dependencies?",
+    "options": {
+      "A": "Gantt chart or network diagram",
+      "B": "Random checklist",
+      "C": "Only verbal agreements",
+      "D": "Unordered notes"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Project planning tools"
+  },
+  {
+    "id": 82,
+    "subject": "SWPPS",
+    "question": "Which of the following is crucial when designing a community training module?",
+    "options": {
+      "A": "Clear objectives, participatory methodologies, and inclusive language",
+      "B": "Only long lectures with no activities",
+      "C": "Avoiding needs assessment",
+      "D": "Excluding vulnerable groups"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Community training design"
+  },
+  {
+    "id": 83,
+    "subject": "SWPPS",
+    "question": "Which evaluation type assesses long-term effects and sustainability of a program?",
+    "options": {
+      "A": "Impact evaluation",
+      "B": "Process monitoring only",
+      "C": "Immediate output count",
+      "D": "None; evaluation not needed"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Types of evaluation"
+  },
+  {
+    "id": 84,
+    "subject": "SWPPS",
+    "question": "Which practice demonstrates accountability to beneficiaries in project implementation?",
+    "options": {
+      "A": "Feedback mechanisms and participatory evaluation",
+      "B": "Ignoring community input",
+      "C": "Top-down reporting only",
+      "D": "Deliberately concealing results"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Participatory M&E and accountability"
+  },
+  {
+    "id": 85,
+    "subject": "SWPPS",
+    "question": "Which strategy increases sustainability of livelihood projects?",
+    "options": {
+      "A": "Linking beneficiaries to markets and building local capacities",
+      "B": "Providing one-off handouts only",
+      "C": "Dependence on external subsidies indefinitely",
+      "D": "No skills transfer"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Sustainability strategies"
+  },
+  {
+    "id": 86,
+    "subject": "SWPPS",
+    "question": "Which is an example of a project output indicator?",
+    "options": {
+      "A": "Number of trainings conducted",
+      "B": "Increase in household income after two years",
+      "C": "Change in social norms after five years",
+      "D": "Long-term community resilience"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Outputs vs outcomes distinction"
+  },
+  {
+    "id": 87,
+    "subject": "SWPPS",
+    "question": "Which approach helps ensure inclusion of marginalized groups in project planning?",
+    "options": {
+      "A": "Targeted outreach and participatory appraisal",
+      "B": "Universal approach without adjustments for vulnerability",
+      "C": "Ignoring marginalized groups",
+      "D": "Selective exclusion"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Inclusive project design"
+  },
+  {
+    "id": 88,
+    "subject": "SWPPS",
+    "question": "What is the main benefit of conducting a Pilot phase before full-scale implementation?",
+    "options": {
+      "A": "Test feasibility and make adjustments",
+      "B": "Increase costs without learning",
+      "C": "Guarantee immediate nationwide success",
+      "D": "Replace evaluation"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Pilot testing and adaptive management"
+  },
+  {
+    "id": 89,
+    "subject": "SWPPS",
+    "question": "Which tool helps analyze stakeholders’ influence and interest for program planning?",
+    "options": {
+      "A": "Stakeholder analysis matrix",
+      "B": "Only intuition",
+      "C": "Unstructured gossip",
+      "D": "None"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Stakeholder analysis"
+  },
+  {
+    "id": 90,
+    "subject": "SWPPS",
+    "question": "Which element is important for quality project documentation?",
+    "options": {
+      "A": "Clear records of activities, decisions, M&E data and lessons learned",
+      "B": "Vague notes stored privately",
+      "C": "No documentation",
+      "D": "Only photos without context"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Project/Program Development and Management",
+    "competency": "Documentation and knowledge management"
+  },
+  {
+    "id": 91,
+    "subject": "SWPPS",
+    "question": "Which of the following best defines policy implementation?",
+    "options": {
+      "A": "Putting policy into action through programs, procedures, and resources",
+      "B": "Only drafting laws",
+      "C": "Ignoring executive orders",
+      "D": "Selling the idea to private firms only"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Policy implementation"
+  },
+  {
+    "id": 92,
+    "subject": "SWPPS",
+    "question": "Which mechanism ensures equitable allocation of limited program resources?",
+    "options": {
+      "A": "Transparent eligibility criteria and targeting mechanisms",
+      "B": "First-come-first-served without criteria",
+      "C": "Random allocation by staff preference",
+      "D": "No record-keeping"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Targeting and resource allocation"
+  },
+  {
+    "id": 93,
+    "subject": "SWPPS",
+    "question": "Which monitoring indicator would best show whether a service is accessible to people with disabilities?",
+    "options": {
+      "A": "Percentage of facilities with disability-accessible features",
+      "B": "Number of unrelated meetings held",
+      "C": "Only total budget size",
+      "D": "Irrelevant publicity metrics"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Inclusive M&E indicators"
+  },
+  {
+    "id": 94,
+    "subject": "SWPPS",
+    "question": "Which of the following is an advantage of integrating social programs across sectors (health, education, livelihood)?",
+    "options": {
+      "A": "Holistic impact and efficient resource use",
+      "B": "Duplication and confusion only",
+      "C": "Siloed decision-making",
+      "D": "Worse beneficiary outcomes"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Intersectoral collaboration in policy"
+  },
+  {
+    "id": 95,
+    "subject": "SWPPS",
+    "question": "Which action would improve policy uptake by frontline social workers?",
+    "options": {
+      "A": "Providing clear guidelines, training, and supportive supervision",
+      "B": "Issuing complex instructions with no training",
+      "C": "No communication",
+      "D": "Punitive directives only"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Policy implementation and workforce support"
+  },
+  {
+    "id": 96,
+    "subject": "SWPPS",
+    "question": "Which framework helps ensure gender-responsive budgeting in a social program?",
+    "options": {
+      "A": "Gender-responsive budgeting that allocates and tracks resources for gender equality",
+      "B": "Budgeting without sex-disaggregated data",
+      "C": "Cut all funding",
+      "D": "Only symbolic gestures"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Gender perspective in finance components"
+  },
+  {
+    "id": 97,
+    "subject": "SWPPS",
+    "question": "Which of the following is an example of social welfare legislation that sets entitlement-based benefits?",
+    "options": {
+      "A": "A law establishing conditional cash transfer with entitlement criteria",
+      "B": "A private memo",
+      "C": "A marketing leaflet",
+      "D": "An internally circulated note"
+    },
+    "answer": "A",
+    "topic": "Social Welfare Policies, Programs and Services",
+    "competency": "Social welfare legislations and entitlements"
+  },
+  {
+    "id": 98,
+    "subject": "SWPPS",
+    "question": "Which approach to policy evaluation focuses on whether objectives were met and why?",
+    "options": {
+      "A": "Summative and formative evaluation combined",
+      "B": "No evaluation",
+      "C": "Only anecdotal evidence",
+      "D": "Counting flyers distributed"
+    },
+    "answer": "A",
+    "topic": "Social Work Research 2",
+    "competency": "Evaluation and analysis of program outcomes"
+  },
+  {
+    "id": 99,
+    "subject": "SWPPS",
+    "question": "Which is an ethical obligation when publishing research findings about vulnerable populations?",
+    "options": {
+      "A": "Protect confidentiality and avoid harm in dissemination",
+      "B": "Publish identifiable data without consent",
+      "C": "Sensationalize findings for publicity",
+      "D": "Ignore consent processes"
+    },
+    "answer": "A",
+    "topic": "Social Work Research 2",
+    "competency": "Ethics in dissemination"
+  },
+  {
+    "id": 100,
+    "subject": "SWPPS",
+    "question": "Which practice improves policy relevance of social work research?",
+    "options": {
+      "A": "Engaging policymakers and communities throughout the research process",
+      "B": "Keeping research isolated from stakeholders",
+      "C": "Publishing only in obscure journals",
+      "D": "Avoiding policy implications"
+    },
+    "answer": "A",
+    "topic": "Social Work Research 1",
+    "competency": "Relate research to policy and practice"
+  }
+]
