@@ -3,359 +3,535 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>PRC-Aligned SWLE Exam Builder (All Subjects)</title>
+  <title>SWLE Exam Builder (Updated)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
   <style>
-    :root{
-      --bg:#0f172a;--card:#111827;--muted:#1f2937;--text:#e5e7eb;--accent:#22d3ee;--good:#22c55e;--bad:#ef4444;--warn:#f59e0b;
+    :root {
+      --bg: #0f172a;
+      --card: #111827;
+      --muted: #1f2937;
+      --text: #e5e7eb;
+      --accent: #22d3ee;
+      --good: #22c55e;
+      --bad: #ef4444;
+      --warn: #f59e0b;
+      --shadow: 0 10px 25px rgba(0, 0, 0, .25);
     }
-    *{box-sizing:border-box}
-    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;background:var(--bg);color:var(--text)}
-    .wrap{max-width:1100px;margin:40px auto;padding:0 16px}
-    .row{display:flex;gap:16px;flex-wrap:wrap}
-    .card{background:linear-gradient(180deg,#111827, #0b1220);border:1px solid #1f2937;border-radius:18px;padding:16px;box-shadow:0 10px 25px rgba(0,0,0,.25)}
-    .card h2,.card h3{margin:0 0 12px}
-    .pill{display:inline-block;padding:4px 10px;border-radius:999px;background:#0b1220;border:1px solid #243141;color:#9fb0c5;font-size:12px}
-    button,select,input[type="file"]{background:#0b1220;color:var(--text);border:1px solid #233045;border-radius:12px;padding:10px 14px;cursor:pointer; transition: border-color 0.2s;}
-    button:hover, select:hover, input[type="file"]:hover {border-color:#3b82f6}
-    .primary{background:linear-gradient(180deg,#0ea5e9,#22d3ee);color:#001018;border:none}
-    .primary:hover{filter:brightness(1.1)}
-    .danger{background:#1a0b0b;color:#ffd8d8;border-color:#7f1d1d}
-    .success{background:#0b1a14;color:#d1fae5;border-color:#064e3b}
-    .warn{background:#1a140b;color:#ffedd5;border-color:#7c2d12}
-    .grid{display:grid;gap:16px}
-    .grid.g2{grid-template-columns:repeat(2,minmax(0,1fr))}
-    .grid.g3{grid-template-columns:repeat(3,minmax(0,1fr))}
-    @media(max-width:900px){.grid.g3{grid-template-columns:1fr}.row{flex-direction:column}}
-    .flex{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
-    .right{margin-left:auto}
-    .q{padding:16px;border:1px solid #223046;border-radius:14px;margin:8px 0;background:#0b1220}
-    .choice{padding:10px;border:1px solid #263246;border-radius:12px;margin:8px 0;cursor:pointer; transition: all 0.2s;}
-    .choice.correct{border-color:#14532d;background:#062014; color: var(--good);}
-    .choice.wrong{border-color:#7f1d1d;background:#1a0b0b; color: var(--bad);}
-    .choice.selected{border-color: var(--accent); background: #1c2e4a;}
-    .hide{display:none}
-    .rationale{border-left:3px solid #233045;margin-top:6px;padding-left:10px;color:#bcd; font-size: 14px;}
-    .progress{height:10px;background:#0b1220;border:1px solid #233045;border-radius:999px;overflow:hidden}
-    .bar{height:100%;background:linear-gradient(90deg,#22d3ee,#3b82f6); transition: width 0.3s ease-in-out;}
-    .small{font-size:12px}
-    .input{width:100%;background:#0b1220;border:1px solid #233045;border-radius:10px;padding:10px;color:var(--text)}
-    .help{font-size:12px;color:#9fb0c5; min-height: 16px;}
-    .pillbar{display:flex;gap:8px;flex-wrap:wrap}
+    *{
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+    .wrap {
+      max-width: 1100px;
+      margin: 40px auto;
+      padding: 0 16px;
+    }
+    .row {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .card {
+      background: linear-gradient(180deg, var(--card), #0b1220);
+      border: 1px solid var(--muted);
+      border-radius: 18px;
+      padding: 16px;
+      box-shadow: var(--shadow);
+      margin-bottom: 20px;
+      flex-grow: 1;
+    }
+    .card.full-width {
+      width: 100%;
+    }
+    h2, h3 {
+      margin: 0 0 1rem;
+      color: var(--accent);
+      border-bottom: 1px solid var(--muted);
+      padding-bottom: 8px;
+    }
+    label {
+      display: block;
+      margin-bottom: 8px;
+    }
+    select, input[type="number"] {
+      width: 100%;
+      padding: 10px;
+      border-radius: 8px;
+      border: 1px solid var(--muted);
+      background: var(--muted);
+      color: var(--text);
+      margin-bottom: 16px;
+    }
+    button, .button {
+      padding: 10px 16px;
+      border-radius: 8px;
+      border: none;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background-color 0.2s, transform 0.2s;
+      background-color: var(--accent);
+      color: var(--card);
+    }
+    button:hover, .button:hover {
+      background-color: #22d3ee;
+      transform: translateY(-1px);
+    }
+    button:active, .button:active {
+      transform: translateY(0);
+    }
+    .button-group {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .button-group button {
+      flex-grow: 1;
+    }
+    .stat-bar-wrap {
+      background: var(--muted);
+      border-radius: 8px;
+      height: 12px;
+      overflow: hidden;
+      margin-top: 10px;
+    }
+    .stat-bar {
+      height: 100%;
+      background: var(--accent);
+      transition: width 0.3s ease-in-out;
+    }
+    .exam-status {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 8px;
+      font-size: 0.875rem;
+      color: #9ca3af;
+    }
+    .q {
+      background: var(--card);
+      border: 1px solid var(--muted);
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 16px;
+    }
+    .choices {
+      display: grid;
+      gap: 8px;
+      margin-top: 12px;
+    }
+    .choice {
+      padding: 12px;
+      background: var(--muted);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+    .choice:hover {
+      background: #374151;
+    }
+    .choice.selected {
+      background: var(--accent);
+      color: var(--card);
+      font-weight: 500;
+    }
+    .choice.correct {
+      background-color: var(--good);
+      color: var(--card);
+      font-weight: 500;
+    }
+    .choice.wrong {
+      background-color: var(--bad);
+      color: var(--card);
+      font-weight: 500;
+    }
+    .rationale {
+      font-style: italic;
+      color: #9ca3af;
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px dashed var(--muted);
+    }
+    .hide {
+      display: none;
+    }
+    #buildMsg {
+      margin-top: 16px;
+      font-weight: 500;
+      color: var(--warn);
+    }
+    .dashboard {
+      padding: 16px;
+      background: var(--card);
+      border: 1px solid var(--muted);
+      border-radius: 12px;
+      margin-top: 20px;
+      box-shadow: var(--shadow);
+    }
+    .dashboard h3 {
+      border-bottom: 1px solid var(--muted);
+      padding-bottom: 8px;
+      margin-bottom: 1rem;
+    }
+    .stat-item {
+      display: flex;
+      justify-content: space-between;
+      padding: 8px 0;
+      border-bottom: 1px solid var(--muted);
+      font-weight: 500;
+    }
+    .stat-item:last-child {
+      border-bottom: none;
+    }
+    @media (max-width: 768px) {
+      .row {
+        flex-direction: column;
+      }
+    }
   </style>
 </head>
 <body>
-  <div class="wrap">
-    <div class="row">
-      <div class="card" style="flex:1 1 460px">
-        <h2>PRC-Aligned SWLE Exam Builder</h2>
-        <div class="pillbar">
-          <span class="pill">Subjects: HBSE, SWPPS, Practice I-III</span>
-          <span class="pill">Difficulty split: 30% E • 40% M • 30% D</span>
-          <span class="pill">Local Data Bank via <b>localStorage</b></span>
-        </div>
-        <p class="muted">Build 100-item exams per subject aligned to the PRC Table of Specifications. Import your JSON files to populate the question bank and start practicing.</p>
-        <div class="grid g3">
-          <div class="card">
-            <h3>Build Exam</h3>
-            <label>Subject
-              <select id="subjectSelect" class="input">
-                <option>HBSE</option>
-                <option>SWPPS</option>
-                <option>Practice I</option>
-                <option>Practice II</option>
-                <option>Practice III</option>
-              </select>
-            </label>
-            <label>Target items <input id="targetCount" class="input" type="number" value="100" min="10" max="200"/></label>
-            <div class="flex" style="margin-top:10px">
-              <button class="primary" id="btnBuild">Build Exam</button>
-            </div>
-            <div id="buildMsg" class="help" style="margin-top:8px"></div>
-          </div>
-          <div class="card">
-            <h3>Bank: Import / Export</h3>
-            <div>
-              <input type="file" id="importFile" accept="application/json"/>
-            </div>
-            <div class="flex" style="margin-top:10px">
-              <button id="btnImport">Import</button>
-            </div>
-             <div id="importMsg" class="help" style="margin-top:8px"></div>
-          </div>
-          <div class="card">
-            <h3>Data Bank Status</h3>
-            <div id="bankStatus" class="help">No data loaded. Import a file to begin.</div>
-          </div>
-        </div>
-      </div>
-    </div>
 
-    <!-- Exam Panel -->
-    <div class="card" id="examPanel" style="margin-top:16px" hidden>
-      <div class="flex">
-        <h3 style="margin:0">Exam Mode</h3>
-        <div class="right pillbar">
-          <span class="pill" id="metaCount">Answered: 0/0</span>
-          <span class="pill" id="metaScore">Score: 0%</span>
-          <label class="pill small"><input type="checkbox" id="showRationale" style="margin-right:6px">Show rationales after answering</label>
-        </div>
+<div class="wrap">
+  <header>
+    <h1>SWLE Exam Builder</h1>
+    <p>Build and practice for the Social Worker Licensure Exam.</p>
+  </header>
+  
+  <div class="row">
+    <div class="card full-width">
+      <h2>Exam Settings</h2>
+      <label for="subjectSelect">Exam Type</label>
+      <select id="subjectSelect">
+        <option value="All Subjects">Random (All Subjects)</option>
+        <option value="HBSE">Human Behavior and Social Environment (HBSE)</option>
+        <option value="SWPPS">Social Work Practice with Individuals, Groups, and Communities (SWPPS)</option>
+        <option value="Practice I">Social Work Practice I (Casework)</option>
+        <option value="Practice II">Social Work Practice II (Group Work)</option>
+        <option value="Practice III">Social Work Practice III (Community Organization)</option>
+      </select>
+
+      <label for="targetCount">Number of Questions</label>
+      <input type="number" id="targetCount" value="10" min="1" max="100" />
+      
+      <div class="button-group">
+        <button id="btnBuild">Build Exam</button>
       </div>
-      <div class="progress" style="margin:12px 0 6px"><div class="bar" id="bar" style="width:0%"></div></div>
-      <div id="examList"></div>
-      <div class="flex" style="margin-top:12px">
-        <button id="btnAnswerKey">Show Answer Key</button>
-        <button id="btnResetExam" class="danger">Reset Exam</button>
-      </div>
-      <div id="answerKey" class="q hide"></div>
+      <div id="buildMsg"></div>
     </div>
   </div>
 
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      /***** STATE AND DOM ELEMENTS *****/
-      let currentExamQuestions = [];
-      let userAnswers = {}; // Store user answers { questionId: answerIndex }
+  <div id="examPanel" class="hide">
+    <div class="card">
+      <div class="exam-header">
+        <h2>Current Exam</h2>
+        <div class="exam-meta">
+          <span id="metaCount">Answered: 0/0</span>
+          <span id="metaScore">Score: 0%</span>
+        </div>
+      </div>
+      <div class="stat-bar-wrap">
+        <div id="bar" class="stat-bar" style="width: 0%;"></div>
+      </div>
+      <div class="exam-controls" style="margin-top: 16px;">
+        <button id="btnSubmit">Submit & View Results</button>
+        <button id="btnResetExam" class="hide">Start New Exam</button>
+      </div>
+    </div>
+    <div id="examList"></div>
+  </div>
 
-      const subjectSelect = document.getElementById('subjectSelect');
-      const targetCount = document.getElementById('targetCount');
-      const btnBuild = document.getElementById('btnBuild');
-      const buildMsg = document.getElementById('buildMsg');
-      
-      const importFile = document.getElementById('importFile');
-      const btnImport = document.getElementById('btnImport');
-      const importMsg = document.getElementById('importMsg');
-      const bankStatus = document.getElementById('bankStatus');
+  <div class="dashboard">
+    <div id="dashboardContainer"></div>
+  </div>
+</div>
 
-      const examPanel = document.getElementById('examPanel');
-      const examList = document.getElementById('examList');
-      const metaCount = document.getElementById('metaCount');
-      const metaScore = document.getElementById('metaScore');
-      const bar = document.getElementById('bar');
-      const showRationale = document.getElementById('showRationale');
-      const btnAnswerKey = document.getElementById('btnAnswerKey');
-      const btnResetExam = document.getElementById('btnResetExam');
-      const answerKey = document.getElementById('answerKey');
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    /***** STATE AND DOM ELEMENTS *****/
+    let questions = []; // All questions from the JSON file
+    let currentExamQuestions = []; // Questions for the current exam
+    let userAnswers = {}; // { questionId: answerIndex }
+    let isExamCompleted = false;
+    const LOCAL_STORAGE_KEY = 'swle_exam_scores';
 
-      /***** SUBJECT ALLOCATION MATRICES (PRC TOS) *****/
-      const ALLOCATIONS = {
-        HBSE: {
-          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
-          topics:[ { key:"A1", topic:"Philippine Social Realities & Social Work Concepts/Tools", count:17 }, { key:"A2", topic:"Anatomy of Social Problems & Theories", count:3 }, { key:"B", topic:"Filipino Personality & Social Work", count:20 }, { key:"C", topic:"Social Work & Social Deviation", count:20 }, { key:"D", topic:"Social Environment: Family/Group/Community/Org", count:20 }, { key:"E", topic:"Social Change & Development Perspectives", count:20 }, ]
-        },
-        SWPPS: {
-          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
-          topics:[ { key:"A", topic:"Philippine Social Welfare & Development: History, Philosophy, Values", count:20 }, { key:"B", topic:"Social Welfare Policies, Laws, and Programs", count:30 }, { key:"C", topic:"Fields of Social Work & Delivery Systems", count:30 }, { key:"D", topic:"International and Regional Developments", count:20 } ]
-        },
-        "Practice I": {
-          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
-          topics:[ { key:"A", topic:"Social Work Practice with Individuals (Casework)", count:40 }, { key:"B", topic:"Theories, Methods, and Approaches in Casework", count:30 }, { key:"C", topic:"Practice Skills and Techniques", count:30 } ]
-        },
-        "Practice II": {
-          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
-          topics:[ { key:"A", topic:"Social Work Practice with Groups", count:40 }, { key:"B", topic:"Theories, Methods, and Approaches in Group Work", count:30 }, { key:"C", topic:"Practice Skills and Techniques in Group Work", count:30 } ]
-        },
-        "Practice III": {
-          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
-          topics:[ { key:"A", topic:"Social Work Practice with Communities & Organizations", count:40 }, { key:"B", topic:"Theories, Methods, and Approaches in Community/Org Practice", count:30 }, { key:"C", topic:"Practice Skills and Techniques in Community/Org Practice", count:30 } ]
+    // Exam Controls
+    const subjectSelect = document.getElementById('subjectSelect');
+    const targetCount = document.getElementById('targetCount');
+    const btnBuild = document.getElementById('btnBuild');
+    const buildMsg = document.getElementById('buildMsg');
+
+    // Exam Panel
+    const examPanel = document.getElementById('examPanel');
+    const examList = document.getElementById('examList');
+    const metaCount = document.getElementById('metaCount');
+    const metaScore = document.getElementById('metaScore');
+    const bar = document.getElementById('bar');
+    const btnSubmit = document.getElementById('btnSubmit');
+    const btnResetExam = document.getElementById('btnResetExam');
+
+    // Dashboard
+    const dashboardContainer = document.getElementById('dashboardContainer');
+
+    /***** HELPER FUNCTIONS *****/
+    // A secure and robust way to shuffle array elements
+    const shuffle = (array) => {
+        const newArray = [...array];
+        for (let i = newArray.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
         }
-      };
+        return newArray;
+    };
 
-      /***** UTILITY FUNCTIONS *****/
-      // Function to shuffle an array
-      const shuffle = (array) => {
-        for (let i = array.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [array[i], array[j]] = [array[j], array[i]];
-        }
-        return array;
-      };
-
-      // Function to update the display of the question bank status
-      const updateBankStatus = () => {
-        let statusHTML = '';
-        Object.keys(ALLOCATIONS).forEach(subject => {
-          const questions = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
-          if (questions.length > 0) {
-            statusHTML += `<div><b>${subject}:</b> ${questions.length} items</div>`;
-          }
-        });
-        bankStatus.innerHTML = statusHTML || 'No data loaded. Import a file to begin.';
-      };
-
-      /***** IMPORT LOGIC *****/
-      btnImport.addEventListener('click', () => {
-        if (importFile.files.length === 0) {
-          importMsg.textContent = 'Please select a file to import.';
-          importMsg.style.color = 'var(--warn)';
-          return;
-        }
-
-        const file = importFile.files[0];
-        const reader = new FileReader();
-
-        reader.onload = (event) => {
-          try {
-            const data = JSON.parse(event.target.result);
-            if (!Array.isArray(data) || data.length === 0) {
-              throw new Error('JSON must be a non-empty array.');
+    /***** DATA LOADING LOGIC *****/
+    // This function fetches the combined JSON data
+    const loadCombinedData = async () => {
+        try {
+            const response = await fetch('combined_data.json');
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
             }
-            const subject = data[0].subject;
-            if (!subject || !ALLOCATIONS[subject]) {
-              throw new Error('JSON items must have a valid "subject" property.');
-            }
-            
-            // Merge with existing data if any
-            const existingData = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
-            const combinedData = [...existingData, ...data];
-            // Remove duplicates by ID
-            const uniqueData = Array.from(new Map(combinedData.map(item => [item.id, item])).values());
+            questions = await response.json();
+            buildMsg.textContent = `✅ Successfully loaded ${questions.length} questions.`;
+            buildMsg.style.color = 'var(--good)';
+            console.log(`Loaded ${questions.length} questions from combined_data.json`);
+        } catch (error) {
+            console.error("Could not load the combined data:", error);
+            buildMsg.textContent = `❌ Error loading data: ${error.message}`;
+            buildMsg.style.color = 'var(--bad)';
+        }
+    };
 
-            localStorage.setItem(`questions_${subject}`, JSON.stringify(uniqueData));
-            importMsg.textContent = `Imported and merged ${data.length} items for ${subject}. Total: ${uniqueData.length}.`;
-            importMsg.style.color = 'var(--good)';
-            updateBankStatus();
-            importFile.value = ''; // Reset file input
-          } catch (e) {
-            importMsg.textContent = `Error: ${e.message}`;
-            importMsg.style.color = 'var(--bad)';
-          }
-        };
-        reader.readAsText(file);
-      });
+    /***** DASHBOARD LOGIC *****/
+    const getScoreHistory = () => {
+        try {
+            const history = JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY)) || [];
+            return Array.isArray(history) ? history : [];
+        } catch (e) {
+            console.error("Failed to parse score history from localStorage.", e);
+            return [];
+        }
+    };
 
-      /***** EXAM BUILDING LOGIC *****/
-      btnBuild.addEventListener('click', () => {
-        const subject = subjectSelect.value;
-        const totalItems = parseInt(targetCount.value);
-        const bank = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
+    const saveScore = (score, total) => {
+        const history = getScoreHistory();
+        history.push({ score, total, date: new Date().toISOString() });
+        localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(history));
+        renderDashboard();
+    };
 
-        if (bank.length === 0) {
-          buildMsg.textContent = `Question bank for ${subject} is empty. Please import a file.`;
-          buildMsg.style.color = 'var(--warn)';
-          return;
+    const renderDashboard = () => {
+        const history = getScoreHistory();
+        const totalExams = history.length;
+        const totalScore = history.reduce((sum, entry) => sum + entry.score, 0);
+        const averageScore = totalExams > 0 ? (totalScore / totalExams).toFixed(2) : 'N/A';
+        const formattedHistory = history.map(entry => {
+            const date = new Date(entry.date).toLocaleString();
+            return `<div class="stat-item"><span>${date}</span><span>${entry.score}/${entry.total}</span></div>`;
+        }).join('');
+
+        dashboardContainer.innerHTML = `
+            <h3>Your Performance Dashboard</h3>
+            <div class="stat-item"><span>Exams Completed:</span><span>${totalExams}</span></div>
+            <div class="stat-item"><span>Average Score:</span><span>${averageScore}%</span></div>
+            <div style="margin-top: 1rem;">
+                <h4>Recent Exams</h4>
+                ${formattedHistory || '<p style="font-style:italic;">No completed exams yet.</p>'}
+            </div>
+        `;
+    };
+
+    /***** EXAM BUILDING LOGIC *****/
+    const buildExam = (subject, totalItems) => {
+        if (questions.length === 0) {
+            buildMsg.textContent = 'Data not loaded. Please try refreshing the page.';
+            buildMsg.style.color = 'var(--bad)';
+            return;
         }
 
-        const allocation = ALLOCATIONS[subject];
-        let selectedQuestions = [];
-        let tempBank = shuffle([...bank]); // Use a shuffled copy
+        let questionBank = questions;
+        if (subject !== "All Subjects") {
+            questionBank = questions.filter(q => q.subject === subject);
+        }
 
-        // Distribute questions based on difficulty
-        const requiredEasy = Math.round(totalItems * allocation.difficultySplit.Easy);
-        const requiredMod = Math.round(totalItems * allocation.difficultySplit.Moderate);
+        if (questionBank.length < totalItems) {
+            buildMsg.textContent = `Warning: Not enough questions in the selected bank. Built with ${questionBank.length} items.`;
+            buildMsg.style.color = 'var(--warn)';
+            totalItems = questionBank.length;
+        } else {
+            buildMsg.textContent = `✅ Successfully built exam with ${totalItems} items.`;
+            buildMsg.style.color = 'var(--good)';
+        }
+
+        // Apply difficulty distribution for the total exam
+        const requiredEasy = Math.round(totalItems * 0.30);
+        const requiredMod = Math.round(totalItems * 0.40);
         const requiredDiff = totalItems - requiredEasy - requiredMod;
 
-        const easyQs = tempBank.filter(q => q.difficulty === 'Easy');
-        const modQs = tempBank.filter(q => q.difficulty === 'Moderate');
-        const diffQs = tempBank.filter(q => q.difficulty === 'Difficult');
+        const easyQs = shuffle(questionBank.filter(q => q.difficulty === 'Easy'));
+        const modQs = shuffle(questionBank.filter(q => q.difficulty === 'Moderate'));
+        const diffQs = shuffle(questionBank.filter(q => q.difficulty === 'Difficult'));
 
+        let selectedQuestions = [];
         selectedQuestions.push(...easyQs.slice(0, requiredEasy));
         selectedQuestions.push(...modQs.slice(0, requiredMod));
         selectedQuestions.push(...diffQs.slice(0, requiredDiff));
-
-        if (selectedQuestions.length < totalItems) {
-            buildMsg.textContent = `Warning: Not enough questions in the bank to meet the ${totalItems} target. Built with ${selectedQuestions.length}.`;
-            buildMsg.style.color = 'var(--warn)';
-        } else {
-            buildMsg.textContent = `Successfully built exam with ${selectedQuestions.length} items.`;
-            buildMsg.style.color = 'var(--good)';
+        
+        // Fill any remaining spots with random questions
+        while (selectedQuestions.length < totalItems) {
+            const remainingPool = shuffle(questionBank.filter(q => !selectedQuestions.includes(q)));
+            if (remainingPool.length === 0) break;
+            selectedQuestions.push(remainingPool.pop());
         }
 
         currentExamQuestions = shuffle(selectedQuestions);
         userAnswers = {};
+        isExamCompleted = false;
         renderExam();
-      });
+    };
 
-      /***** EXAM RENDERING AND INTERACTION *****/
-      const renderExam = () => {
-        examPanel.hidden = false;
+    /***** EXAM RENDERING AND INTERACTION *****/
+    const renderExam = () => {
+        examPanel.classList.remove('hide');
+        btnSubmit.classList.remove('hide');
+        btnResetExam.classList.add('hide');
         examList.innerHTML = '';
         currentExamQuestions.forEach((q, index) => {
-          const questionEl = document.createElement('div');
-          questionEl.className = 'q';
-          questionEl.dataset.id = q.id;
+            const questionEl = document.createElement('div');
+            questionEl.className = 'q';
+            questionEl.dataset.id = q.id;
 
-          const choicesHTML = shuffle([...q.choices]).map((choice, choiceIndex) => `
-            <div class="choice" data-index="${q.choices.indexOf(choice)}">
-              ${choice}
-            </div>
-          `).join('');
+            const shuffledChoices = shuffle([...q.choices]);
+            const choicesHTML = shuffledChoices.map((choice, choiceIndex) => `
+                <div class="choice" data-original-index="${q.choices.indexOf(choice)}">
+                    ${choice}
+                </div>
+            `).join('');
 
-          questionEl.innerHTML = `
-            <div><b>${index + 1}.</b> ${q.stem}</div>
-            <div class="choices">${choicesHTML}</div>
-            <div class="rationale hide">${q.rationale}</div>
-          `;
-          examList.appendChild(questionEl);
+            questionEl.innerHTML = `
+                <div><b>${index + 1}.</b> ${q.stem}</div>
+                <div class="choices">${choicesHTML}</div>
+                <div class="rationale hide">${q.rationale}</div>
+            `;
+            examList.appendChild(questionEl);
         });
         updateStats();
-        answerKey.classList.add('hide');
-      };
+    };
 
-      examList.addEventListener('click', (e) => {
-        if (e.target.classList.contains('choice')) {
-          const questionEl = e.target.closest('.q');
-          const questionId = questionEl.dataset.id;
-          const selectedIndex = parseInt(e.target.dataset.index);
-
-          // Prevent changing answer once selected
-          if (userAnswers[questionId] !== undefined) return;
-
-          userAnswers[questionId] = selectedIndex;
-          
-          const question = currentExamQuestions.find(q => q.id === questionId);
-          const isCorrect = selectedIndex === question.answerIndex;
-
-          // Visual feedback
-          e.target.classList.add(isCorrect ? 'correct' : 'wrong');
-          if (!isCorrect) {
-            // Highlight the correct answer
-            questionEl.querySelector(`.choice[data-index="${question.answerIndex}"]`).classList.add('correct');
-          }
-
-          if (showRationale.checked) {
-            questionEl.querySelector('.rationale').classList.remove('hide');
-          }
-          
-          updateStats();
-        }
-      });
-
-      const updateStats = () => {
+    // This updates stats in real-time as the user answers
+    const updateStats = () => {
         const answeredCount = Object.keys(userAnswers).length;
         const totalCount = currentExamQuestions.length;
-        let correctCount = 0;
+        const progress = totalCount > 0 ? (answeredCount / totalCount) * 100 : 0;
         
-        for (const qId in userAnswers) {
-            const question = currentExamQuestions.find(q => q.id === qId);
-            if (question && userAnswers[qId] === question.answerIndex) {
-                correctCount++;
-            }
-        }
-
-        const score = totalCount > 0 ? Math.round((correctCount / totalCount) * 100) : 0;
-        const answeredScore = answeredCount > 0 ? Math.round((correctCount / answeredCount) * 100) : 0;
-
         metaCount.textContent = `Answered: ${answeredCount}/${totalCount}`;
-        metaScore.textContent = `Score: ${answeredScore}%`;
-        bar.style.width = `${(answeredCount / totalCount) * 100}%`;
-      };
+        bar.style.width = `${progress}%`;
+        
+        if (isExamCompleted) {
+            let correctCount = 0;
+            for (const qId in userAnswers) {
+                const question = currentExamQuestions.find(q => q.id === qId);
+                if (question && userAnswers[qId] === question.answerIndex) {
+                    correctCount++;
+                }
+            }
+            const finalScore = totalCount > 0 ? Math.round((correctCount / totalCount) * 100) : 0;
+            metaScore.textContent = `Final Score: ${finalScore}%`;
+            btnSubmit.classList.add('hide');
+            btnResetExam.classList.remove('hide');
+        } else {
+            metaScore.textContent = `Score: 0%`; // Reset score display for new exam
+        }
+    };
 
-      /***** EXAM CONTROLS *****/
-      btnResetExam.addEventListener('click', () => {
-        userAnswers = {};I 
-        renderExam(); // Re-render to clear selections
-      });
-
-      btnAnswerKey.addEventListener('click', () => {
-        answerKey.classList.toggle('hide');
-        answerKey.innerHTML = '<h3>Answer Key</h3>' + currentExamQuestions.map((q, i) => 
-          `<div><b>${i+1}.</b> ${q.choices[q.answerIndex]}</div>`
-        ).join('');
-      });
-
-      /***** INITIALIZATION *****/
-      updateBankStatus();
+    /***** EVENT LISTENERS *****/
+    btnBuild.addEventListener('click', () => {
+        const totalItems = parseInt(targetCount.value);
+        if (totalItems > 0) {
+            buildExam(subjectSelect.value, totalItems);
+        } else {
+            buildMsg.textContent = 'Please enter a valid number of questions.';
+            buildMsg.style.color = 'var(--warn)';
+        }
     });
-  </script>
+
+    examList.addEventListener('click', (e) => {
+        if (isExamCompleted) return; // Prevent changes after submission
+
+        if (e.target.classList.contains('choice')) {
+            const questionEl = e.target.closest('.q');
+            const questionId = questionEl.dataset.id;
+            const selectedOriginalIndex = parseInt(e.target.dataset.original-index);
+
+            // De-select previous answer for the same question
+            const prevSelected = questionEl.querySelector('.choice.selected');
+            if (prevSelected) {
+                prevSelected.classList.remove('selected');
+            }
+
+            // Select the new answer
+            e.target.classList.add('selected');
+            userAnswers[questionId] = selectedOriginalIndex;
+            updateStats();
+        }
+    });
+
+    btnSubmit.addEventListener('click', () => {
+        isExamCompleted = true;
+        let correctCount = 0;
+        const totalCount = currentExamQuestions.length;
+
+        currentExamQuestions.forEach(q => {
+            const questionEl = examList.querySelector(`[data-id="${q.id}"]`);
+            if (!questionEl) return;
+
+            const selectedIndex = userAnswers[q.id];
+            const isCorrect = selectedIndex === q.answerIndex;
+
+            // Show rationale
+            questionEl.querySelector('.rationale').classList.remove('hide');
+
+            // Apply styling
+            const allChoices = questionEl.querySelectorAll('.choice');
+            allChoices.forEach(choiceEl => {
+                choiceEl.classList.remove('selected'); // Remove selected class
+                const originalIndex = parseInt(choiceEl.dataset.original-index);
+                if (originalIndex === q.answerIndex) {
+                    choiceEl.classList.add('correct');
+                } else if (originalIndex === selectedIndex) {
+                    choiceEl.classList.add('wrong');
+                }
+            });
+            
+            if (isCorrect) correctCount++;
+        });
+
+        const finalScore = totalCount > 0 ? Math.round((correctCount / totalCount) * 100) : 0;
+        saveScore(correctCount, totalCount);
+        updateStats(); // Final score update
+        examList.scrollIntoView({ behavior: 'smooth' });
+    });
+
+    btnResetExam.addEventListener('click', () => {
+        examPanel.classList.add('hide');
+        userAnswers = {};
+        currentExamQuestions = [];
+        isExamCompleted = false;
+        metaScore.textContent = 'Score: 0%';
+        bar.style.width = '0%';
+    });
+
+    /***** INITIALIZATION *****/
+    loadCombinedData();
+    renderDashboard();
+});
+</script>
 </body>
 </html>
