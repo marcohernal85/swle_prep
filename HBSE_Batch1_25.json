@@ -1,0 +1,477 @@
+[
+  {
+    "id": "HBSE-A1-101",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Poverty measurement",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A city social worker must explain official poverty statistics at a barangay forum. Which statement is the most appropriate to present to residents for orientation and targeting?",
+    "choices": [
+      "Poverty incidence estimates the share of families below basic food and non food needs",
+      "Consumer trust metrics show how optimistic buyers feel about national retail conditions",
+      "Private hardship scores apply undisclosed weights that cannot be examined by citizens",
+      "Selective stories from interviews replace the need for transparent statistical indicators"
+    ],
+    "answerIndex": 0,
+    "rationale": "Poverty incidence is the standard official measure for planning; others are nontransparent or irrelevant.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-102",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Types of poverty",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "In a coastal sitio, households meet food needs but lack safe water and sanitation. Which classification best describes their situation for program design and monitoring?",
+    "choices": [
+      "They exhibit non income deprivation suggesting multidimensional poverty in basic services",
+      "They are not poor because caloric intake is adequate by nutritional measurement alone",
+      "They have transient hunger that requires seasonal food packs during school vacations only",
+      "They face absolute income poverty that can be solved by adjusting daily wage rates"
+    ],
+    "answerIndex": 0,
+    "rationale": "The case reflects non‑income deprivations; a multidimensional lens guides appropriate interventions.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-103",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Globalization",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A garment subcontractor closes after overseas buyers shift orders. What should the LGU social worker prioritize when briefing affected workers and families about next steps?",
+    "choices": [
+      "Link skills profiling to re skilling and safety nets to buffer trade related job shocks",
+      "Encourage daily monitoring of foreign exchange rates for personal investment choices",
+      "Focus on holiday events that temporarily divert attention from household income loss",
+      "Restrict media consumption so families avoid worrying about global factory closures"
+    ],
+    "answerIndex": 0,
+    "rationale": "Globalization transmits shocks; safety nets and re‑skilling are relevant social work responses.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-104",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "SPECSEG analysis",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "During barangay planning, the team applies SPECSEG to examine realities. Which analysis best reflects the correct use of that framework for integrated assessment and response?",
+    "choices": [
+      "Map structural and cultural forces across social political economic cultural spiritual ecological",
+      "Discuss individual choices only and exclude political or economic structures from analysis",
+      "Prioritize single sector issues while avoiding cross cutting determinants across categories",
+      "Focus solely on spirituality without connecting it to material or institutional conditions"
+    ],
+    "answerIndex": 0,
+    "rationale": "SPECSEG encourages a holistic scan across domains; narrow or single‑factor views are inadequate.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A1-105",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work – Concepts/Tools",
+    "subtopic": "Sectoral analysis",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A worker analyzes the situation of informal vendors displaced by road clearing. Which statement most appropriately frames their sectoral struggles for advocacy and support?",
+    "choices": [
+      "Livelihood insecurity and weak protections expose vendors to sudden losses and sanctions",
+      "Personal stubbornness explains outcomes regardless of regulatory environments and context",
+      "Random fortune decides incomes and there is little value in organizing affected workers",
+      "Individual morals alone determine success without links to policies markets or enforcement"
+    ],
+    "answerIndex": 0,
+    "rationale": "The issue is structural and regulatory; advocacy should address protections and livelihood options.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A2-101",
+    "subject": "HBSE",
+    "topic": "A. Anatomy of Social Problems & Theories",
+    "subtopic": "Social problem framing",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "Reports show rising child absenteeism during harvest months in upland farms. Which framing most accurately guides analysis and coordinated responses across sectors?",
+    "choices": [
+      "Seasonal labor demands and poverty pressures heighten child labor risk requiring supports",
+      "Irresponsible parents need punishment and no coordination with schools or agriculture",
+      "Attendance is random and unrelated to household production cycles or rural livelihoods",
+      "Student preferences drive choices and social services should not intervene in attendance"
+    ],
+    "answerIndex": 0,
+    "rationale": "Patterns indicate structural constraints; coordinated school‑work programs and protection are needed.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-A2-102",
+    "subject": "HBSE",
+    "topic": "A. Anatomy of Social Problems & Theories",
+    "subtopic": "Theories of social problems",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A case conference weighs theories explaining urban homelessness. Which synthesis best reflects multi‑level analysis for program formulation and harm reduction?",
+    "choices": [
+      "Integrate structural factors with life course risks and service access to inform responses",
+      "Center moral judgments alone and exclude housing markets and labor segmentation entirely",
+      "Focus on personality flaws only while dismissing systemic barriers to stable livelihoods",
+      "Treat homelessness as random events and avoid systematic assessment during intakes"
+    ],
+    "answerIndex": 0,
+    "rationale": "An integrative multi‑level view supports comprehensive, humane, and evidence‑based responses.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-B-101",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "subtopic": "Filipino values",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A widowed client declines formal aid but neighbors coordinate shared meals and childcare. What is the most culturally responsive step for the social worker to integrate?",
+    "choices": [
+      "Leverage bayanihan and kagandahang loob by aligning referrals with voluntary supports",
+      "Discourage neighbor involvement because informal aid always risks boundary violations",
+      "Assume refusal of formal help means rejecting all supports including community solidarity",
+      "Focus strictly on paperwork and ignore mutual aid resources present in the community"
+    ],
+    "answerIndex": 0,
+    "rationale": "Strengths‑based practice integrates culturally rooted mutual aid into case planning respectfully.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-B-102",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "subtopic": "Personality theories",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "During supervision, a worker contrasts behavioral and humanistic views. Which distinction correctly compares these perspectives for case formulation and goal setting?",
+    "choices": [
+      "Behavioral emphasizes reinforcement patterns while humanistic highlights self actualization",
+      "Behavioral centers unconscious drives while humanistic rejects growth and lived meanings",
+      "Both require punitive sanctions and avoid collaborative goal setting with clients entirely",
+      "Both claim behavior is fixed at birth and cannot change within social environments"
+    ],
+    "answerIndex": 0,
+    "rationale": "Behavioral focuses on contingencies; humanistic stresses growth, meaning, and client agency.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-B-103",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "subtopic": "Kapwa and loob",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A youth group plans peer support circles. Which facilitation stance best reflects kapwa and loob in cultivating safety, dignity and collective accountability in meetings?",
+    "choices": [
+      "Foster shared personhood norms with reflective listening and mutual responsibility practices",
+      "Enforce rigid hierarchies and restrict members from speaking about personal experiences",
+      "Prioritize individual competition and discourage collaborative problem solving in sessions",
+      "Impose standardized scripts without adapting to community language and evolving context"
+    ],
+    "answerIndex": 0,
+    "rationale": "Kapwa and loob call for mutuality, empathy, and respectful shared responsibility in groups.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-B-104",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "subtopic": "Moral development",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A teen admits to shoplifting snacks for siblings. Using Kohlberg and Gilligan, which formulation best guides a developmentally sensitive and gender aware intervention plan?",
+    "choices": [
+      "Balance justice reasoning with care ethics and address survival pressures and family context",
+      "Focus only on legal punishment and exclude empathy or caregiving responsibilities entirely",
+      "Assume fixed moral stages and ignore cultural relational considerations in assessment",
+      "Treat the behavior as unchangeable and avoid any opportunity for restitution or growth"
+    ],
+    "answerIndex": 0,
+    "rationale": "Integrating justice and care perspectives supports restorative, contextual, and developmental planning.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-B-105",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "subtopic": "HBSE for professional growth",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A junior worker reflects on countertransference when handling grief cases. Which action best applies HBSE knowledge for professional growth and ethical supervision?",
+    "choices": [
+      "Seek reflective supervision and self care planning to sustain empathic yet bounded practice",
+      "Suppress emotions entirely because professional helpers must avoid feelings in all sessions",
+      "Work excessive overtime to prove resilience while ignoring signs of compassion fatigue",
+      "Avoid debriefings and rely on private rumination without feedback from supervisors"
+    ],
+    "answerIndex": 0,
+    "rationale": "Supervision and self‑care help regulate responses and maintain ethical, effective practice.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-C-101",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "subtopic": "Social learning",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A youth repeatedly violates curfew with older peers. Which explanation aligns with social learning when identifying leverage points for behavior change in planning?",
+    "choices": [
+      "Modeling and reinforcement by peers sustain the rule violations within the group context",
+      "Unchangeable traits alone determine behavior and no environmental shifts can help at all",
+      "Neurological illness explains all cases and social contingencies should be disregarded",
+      "Random impulses occur without patterns and therefore assessment is unnecessary here"
+    ],
+    "answerIndex": 0,
+    "rationale": "Social learning highlights modeling and reinforcement; plan to adjust contingencies and cues.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-C-102",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "subtopic": "Labeling theory",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A school labels students as troublemakers. Which social work response best minimizes self‑fulfilling effects while maintaining accountability and supportive discipline?",
+    "choices": [
+      "Promote restorative practices with specific behaviors not fixed identities in communication",
+      "Adopt zero tolerance rules and public shaming to deter all minor infractions on campus",
+      "Ignore incidents entirely and provide no guidance about expectations or consequences",
+      "Use permanent labels in files even after growth to remind staff about past misconduct"
+    ],
+    "answerIndex": 0,
+    "rationale": "Restorative and behavior‑specific approaches reduce stigmatizing labels while upholding norms.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-C-103",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "subtopic": "Deviance and power",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "Street vendors are fined while larger firms violate rules without penalties. Which analysis best reflects conflict perspectives on social deviation and selective enforcement?",
+    "choices": [
+      "Norms are enforced unevenly reflecting power relations and interests in regulating groups",
+      "Deviance is purely biological and unrelated to institutions politics or social positions",
+      "Legal violations always receive equal sanctions regardless of class gender or ethnicity",
+      "Selective enforcement is random chance and cannot be traced to structural inequalities"
+    ],
+    "answerIndex": 0,
+    "rationale": "Conflict perspectives stress how power shapes rule making and enforcement patterns in society.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-C-104",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "subtopic": "Behavioral disorders overview",
+    "bloom": "Understand",
+    "difficulty": "Moderate",
+    "stem": "A client shows persistent impulsivity, conflicts, and academic failure. Which statement best reflects a social work response when behavioral disorders are suspected?",
+    "choices": [
+      "Coordinate assessment referral and family school collaboration while avoiding stigmatizing labels",
+      "Recommend punitive detention only and avoid multi disciplinary assessment or family meetings",
+      "Advise isolation from peers permanently and reject inclusive classroom supports entirely",
+      "Delay any assessment for years because problems usually disappear without planned help"
+    ],
+    "answerIndex": 0,
+    "rationale": "Collaborative assessment and supports are appropriate; punitive or delayed approaches are inadequate.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-D-101",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "subtopic": "PIE and social functioning",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "During intake, the worker frames concerns using person in environment. Which summary best captures the concept for shared understanding and collaborative goal setting?",
+    "choices": [
+      "Assess individual capabilities and environmental demands that shape social role performance",
+      "Focus on inner traits only and disregard community resources and structural pressures",
+      "Describe environment exclusively while ignoring strengths needs and coping capacities",
+      "Use abstract labels without linking them to roles tasks or supports in daily life"
+    ],
+    "answerIndex": 0,
+    "rationale": "PIE integrates person and context to explain functioning and to guide intervention planning.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-D-102",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "subtopic": "Family tools",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A transnational household manages care across countries. Which tools should the worker use first to visualize kinship ties, exchanges, and external supports for assessment?",
+    "choices": [
+      "Prepare a genogram and ecomap to depict relationships roles and resource linkages",
+      "Administer unrelated tests without relevance to family systems or contextual mapping",
+      "Collect pay slips only and ignore caregiving arrangements and cross border dynamics",
+      "Rely on social media posts to infer ties and bypass structured collaborative mapping"
+    ],
+    "answerIndex": 0,
+    "rationale": "Genograms and ecomaps are standard tools for mapping structure and environment in HBSE.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-D-103",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "subtopic": "Small group dynamics",
+    "bloom": "Understand",
+    "difficulty": "Moderate",
+    "stem": "In a parenting skills group, conflict emerges between two members. Which facilitator action best uses small group theory to restore safety and productive processes?",
+    "choices": [
+      "Name the process set norms invite perspectives and guide the group through problem solving",
+      "Ignore the tension hoping time will resolve issues without any structured facilitation",
+      "Remove both members permanently and avoid reflection about needs goals or agreements",
+      "Lecture at length while preventing members from practicing respectful communication skills"
+    ],
+    "answerIndex": 0,
+    "rationale": "Process oriented facilitation supports mutual aid, norms, and collaborative problem solving.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-D-104",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "subtopic": "Organization theory",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "Frontline staff report burnout and unclear roles in a welfare agency. Which analysis best applies organizational theories to guide changes in structure and culture?",
+    "choices": [
+      "Clarify workflows feedback and supervision while aligning incentives with mission and values",
+      "Expect personal resilience only and avoid any redesign of roles processes or decision rights",
+      "Increase surveillance alone without strengthening supports communication or participatory voice",
+      "Ignore data from staff and rely solely on external image management and branding campaigns"
+    ],
+    "answerIndex": 0,
+    "rationale": "Systems and structural analysis point to role clarity, feedback loops, and supportive supervision.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-D-105",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "subtopic": "Community types",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A planner compares sectoral, geographic, and mobile communities. Which description best helps tailor engagement strategies and channels for inclusive participation?",
+    "choices": [
+      "Recognize varied membership bases and adapt outreach methods to context and access needs",
+      "Apply identical tactics everywhere because communities function the same across settings",
+      "Engage leaders only and exclude members to accelerate decisions regardless of buy in",
+      "Use online notices exclusively even where connectivity gaps limit equitable involvement"
+    ],
+    "answerIndex": 0,
+    "rationale": "Different community types require tailored engagement to ensure equitable participation.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-E-101",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "subtopic": "Development approaches",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A disaster prone community proposes cash for work to reinforce drainage and footpaths. Which criterion best evaluates this project through a social development perspective?",
+    "choices": [
+      "Reduces risk builds local capacity and ensures inclusive participation and fair benefits",
+      "Maximizes donor visibility regardless of sustainability outcomes for the neighborhood",
+      "Prioritizes contractors profits while excluding resident knowledge and labor entirely",
+      "Focuses on publicity gains over resilience without local maintenance capacity building"
+    ],
+    "answerIndex": 0,
+    "rationale": "Social development values participation, capacity, equity, and vulnerability reduction outcomes.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-E-102",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "subtopic": "Mass movements",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A lecture covers the role of mass movements in reforms. Which statement best captures why social movements matter for transforming policies and social structures?",
+    "choices": [
+      "They aggregate voices shift norms and pressure institutions to adopt equitable solutions",
+      "They distract citizens from issues and should be ignored by policymakers at all times",
+      "They function as random events with no relationship to collective action or interests",
+      "They rely on isolated leaders only and require no participation from the broader public"
+    ],
+    "answerIndex": 0,
+    "rationale": "Movements mobilize collective power to advance rights and structural change in society.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-E-103",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "subtopic": "Neoliberal globalization",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A fishing village faces fuel hikes and import competition. Which analysis best applies a critical view of neoliberal globalization to guide advocacy and livelihood support?",
+    "choices": [
+      "Examine market deregulation trade exposure and class impacts with protections for workers",
+      "Assume trade always benefits everyone and requires no safety nets for small producers",
+      "Blame individual attitudes exclusively while ignoring pricing rules and market power",
+      "Treat fuel costs as random issues unrelated to policy reforms or global supply chains"
+    ],
+    "answerIndex": 0,
+    "rationale": "Critical analysis links policy regimes to distributional effects and guides protective measures.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "HBSE-E-104",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "subtopic": "Development theories",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "Local leaders debate growth centered versus human development models. Which program choice best reflects human development thinking for inclusive community progress?",
+    "choices": [
+      "Invest in health education voice and livelihoods to expand real freedoms and capabilities",
+      "Channel subsidies to a single firm while disregarding distribution and participation issues",
+      "Prioritize output targets only without considering equity resilience or voice indicators",
+      "Limit planning to short term gains even if human capabilities stagnate in households"
+    ],
+    "answerIndex": 0,
+    "rationale": "Human development emphasizes capabilities, equity, and agency beyond narrow output measures.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  }
+]

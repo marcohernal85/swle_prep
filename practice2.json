@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "P2-A-001",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Definition and Purpose of Social Work Groups",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A social work group is best defined as a structured intervention where members share common concerns and work toward mutually agreed-upon goals with the guidance of a social worker. Which of the following is the primary purpose of forming a social work group?",
+    "choices": [
+      "To provide a setting for individual members to receive a diagnosis for a mental health condition",
+      "To facilitate a collective process of problem-solving and personal growth among members",
+      "To serve as a platform for the social worker to lecture on a specific topic without member participation",
+      "To create a social club where members can interact informally without specific objectives"
+    ],
+    "answerIndex": 1,
+    "rationale": "The primary purpose of a social work group is to facilitate a collective process where members, under professional guidance, engage in problem-solving and personal growth to address shared concerns.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-002",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Types of Social Work Groups",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which type of group is primarily focused on helping members enhance their coping skills and social functioning through a supportive, structured environment?",
+    "choices": [
+      "Task group",
+      "Treatment group",
+      "Psycho-educational group",
+      "Socialization group"
+    ],
+    "answerIndex": 1,
+    "rationale": "A treatment group is designed to help members address specific problems and improve their personal functioning. Task groups focus on completing a task, psycho-educational groups on teaching skills, and socialization groups on improving social relationships.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-003",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Phases of Group Development",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "During the initial phase of group development, members are often cautious and dependent on the social worker for structure and guidance. What is this phase commonly referred to as?",
+    "choices": [
+      "Termination phase",
+      "Working phase",
+      "Transition phase",
+      "Beginning or forming phase"
+    ],
+    "answerIndex": 3,
+    "rationale": "The beginning or forming phase is characterized by members' initial caution and reliance on the leader to establish norms and a safe environment.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-004",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Factors Affecting Group Dynamics",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker observes that a group member is consistently trying to divert the group's focus with jokes and irrelevant stories whenever a serious topic is discussed. This behavior is most likely a manifestation of which group dynamic concept?",
+    "choices": [
+      "Cohesion",
+      "Role conflict",
+      "Resistance",
+      "Group norms"
+    ],
+    "answerIndex": 2,
+    "rationale": "Resistance in a group can manifest as members avoiding or deflecting from difficult or uncomfortable topics. The other options do not fit the description of the behavior.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-005",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Roles",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A group member consistently summarizes the group's discussions and checks for consensus before moving on to the next topic. This member is fulfilling which functional role within the group?",
+    "choices": [
+      "Aggressor",
+      "Encourager",
+      "Gatekeeper",
+      "Coordinator"
+    ],
+    "answerIndex": 3,
+    "rationale": "The coordinator role involves clarifying and summarizing discussions to ensure the group stays on track towards its goals.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-006",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Cohesion",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Group cohesion is a key factor in the success of a social work group. It is best described as:",
+    "choices": [
+      "The level of conflict and disagreement among group members",
+      "The extent to which group members are attracted to the group and want to remain in it",
+      "The process of a social worker terminating a group at its conclusion",
+      "The formal structure and rules established by the social worker"
+    ],
+    "answerIndex": 1,
+    "rationale": "Group cohesion refers to the bonds that hold a group together, making members feel a sense of belonging and a desire to remain part of the group.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-007",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Planning the Group",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is planning a new support group for single parents. The worker decides to screen potential members to ensure they are at a similar stage in their parenting journey. This action is most aligned with which principle of group planning?",
+    "choices": [
+      "Establishing clear rules",
+      "Promoting homogeneity",
+      "Facilitating member feedback",
+      "Developing a termination plan"
+    ],
+    "answerIndex": 1,
+    "rationale": "Screening members to ensure similar life experiences or concerns is a strategy for promoting homogeneity, which can increase cohesion and the group's effectiveness.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-008",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Role of the Social Worker in Group Work",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In the initial stage of a group, a social worker's primary role is to:",
+    "choices": [
+      "Encourage conflict to test the group's boundaries",
+      "Directly solve each member's personal problems",
+      "Establish a safe and trusting environment and clarify group purpose",
+      "Remain passive and allow the group to find its own direction"
+    ],
+    "answerIndex": 2,
+    "rationale": "The social worker's primary role in the beginning phase is to set the stage by building trust, clarifying the purpose, and defining ground rules.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-009",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Benefits of Group Work",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A significant benefit of social work group intervention is that members can learn they are not alone in their struggles through a process of shared experience. This is known as:",
+    "choices": [
+      "Normalization",
+      "Transference",
+      "Counter-transference",
+      "Role-playing"
+    ],
+    "answerIndex": 0,
+    "rationale": "Normalization is the process where members realize their feelings and problems are shared by others, reducing feelings of isolation and shame.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-010",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Size and Composition",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is forming a grief support group. She considers an optimal group size of 6-8 members. What is the most likely reason for this size consideration?",
+    "choices": [
+      "To maximize the amount of individual time the social worker can spend with each member",
+      "To ensure there is always a member who will take on a leadership role",
+      "To facilitate a cohesive and intimate environment where all members can participate meaningfully",
+      "To prevent any potential conflicts from arising within the group"
+    ],
+    "answerIndex": 2,
+    "rationale": "Smaller groups (6-8 members) are often preferred for therapeutic work as they promote intimacy, trust, and allow for meaningful participation from all members.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-011",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Ending the Group",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The termination phase of a social work group should include:",
+    "choices": [
+      "Ignoring the topic of termination to avoid member sadness",
+      "Planning for a new, larger group with all members",
+      "Reviewing member progress, summarizing achievements, and planning for a future without the group",
+      "Introducing new, complex topics to keep the group engaged"
+    ],
+    "answerIndex": 2,
+    "rationale": "Effective termination involves reviewing the group's accomplishments and preparing members for the end of the group experience.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-012",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Leadership",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker adopts a democratic leadership style in a parenting group. Which action best exemplifies this approach?",
+    "choices": [
+      "The social worker makes all decisions about group topics and activities without member input.",
+      "The social worker provides minimal structure and allows members to lead completely on their own.",
+      "The social worker works with members to jointly set goals and decide on meeting topics.",
+      "The social worker assigns specific roles to each member at the beginning of the group."
+    ],
+    "answerIndex": 2,
+    "rationale": "A democratic leadership style is collaborative, involving shared decision-making between the leader and the group members.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-013",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Stages of Group Work",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "During a group session, two members engage in a heated debate, and a third member expresses discomfort, asking the social worker to intervene. This scenario most likely indicates the group is in which stage of development?",
+    "choices": [
+      "Beginning (Forming)",
+      "Middle (Working)",
+      "Transition (Storming)",
+      "Ending (Termination)"
+    ],
+    "answerIndex": 2,
+    "rationale": "Conflict and resistance are characteristic of the 'storming' or transition phase, as members test boundaries, assert their roles, and deal with issues of power and control.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-014",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Norms",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A group has a strong, unspoken rule that members should not share sensitive personal information unless prompted by the social worker. A new member begins to cry while describing a painful experience, and the group remains silent. The group's behavior is a demonstration of:",
+    "choices": [
+      "High group cohesion",
+      "A healthy, supportive group dynamic",
+      "Adherence to a restrictive group norm",
+      "The social worker's leadership style"
+    ],
+    "answerIndex": 2,
+    "rationale": "The group's silence despite the member's distress indicates they are following an unwritten rule, or norm, that discourages open, emotional sharing. This norm restricts the group's potential for therapeutic benefit.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-015",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Communication Patterns",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker notices that during discussions, communication flows primarily from members to the leader and back, with little interaction among the members themselves. This communication pattern suggests the group is struggling with:",
+    "choices": [
+      "A lack of purpose",
+      "Overly strong cohesion",
+      "A dependency on the social worker's authority",
+      "Effective termination"
+    ],
+    "answerIndex": 2,
+    "rationale": "This type of centralized communication pattern indicates that members are dependent on the leader for direction, rather than taking ownership of their own process and interacting with one another. This is often a characteristic of the forming or early stages of a group.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-016",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Role of the Social Worker in Conflict",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "When a conflict arises between two group members, the social worker's most appropriate action is to:",
+    "choices": [
+      "Take a side and support the member who is correct",
+      "Immediately terminate the session to prevent escalation",
+      "Help the members communicate their perspectives directly to each other and find a resolution",
+      "Ignore the conflict and hope it resolves on its own"
+    ],
+    "answerIndex": 2,
+    "rationale": "The social worker's role in conflict is to mediate and facilitate communication, helping members to express themselves constructively and work towards a resolution, rather than taking a side or avoiding the issue.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-017",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Confidentiality in Group Work",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Maintaining confidentiality is a critical ethical standard in social work group practice. What is the social worker's primary responsibility regarding confidentiality?",
+    "choices": [
+      "To guarantee that all information shared in the group will never be revealed by anyone, including members",
+      "To inform members of the limits of confidentiality and encourage them to respect it among themselves",
+      "To report all shared information to the appropriate authorities",
+      "To allow members to decide for themselves if they want to keep information confidential"
+    ],
+    "answerIndex": 1,
+    "rationale": "While a social worker can enforce their own confidentiality, they cannot legally guarantee that group members will not share information. The social worker's role is to educate members on the importance of confidentiality and to establish it as a group norm.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-018",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Purpose and Goals",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Before starting a new group, the social worker and the potential members should collaboratively define the group's purpose. What is the main benefit of this collaborative process?",
+    "choices": [
+      "It allows the social worker to set all the rules and expectations beforehand.",
+      "It ensures that the group will never deviate from the original plan.",
+      "It fosters a sense of ownership and commitment among the members from the beginning.",
+      "It eliminates the need for any formal group contract."
+    ],
+    "answerIndex": 2,
+    "rationale": "Collaboratively defining the purpose and goals of a group promotes a sense of shared ownership and increases member commitment and investment in the group's success.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-019",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Intake and Screening",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is conducting an intake interview for a potential member of a domestic violence survivor group. The worker learns the person is still living with their abuser and is not planning to leave. The social worker's most appropriate action is to:",
+    "choices": [
+      "Immediately accept the member, as they are in the most need.",
+      "Refer the person to individual counseling or crisis services instead of the group at this time.",
+      "Allow the person to join the group but place a restriction on their participation.",
+      "Ask the person to promise to leave their abuser before the next group session."
+    ],
+    "answerIndex": 1,
+    "rationale": "The social worker must prioritize the safety of the individual and the group. Placing the potential member in a group setting while they are still in an unsafe situation could be detrimental. Referral to more immediate and intensive services is the ethical choice.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-020",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Termination",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A group for adolescents transitioning to college is about to end. A member expresses sadness and anger, stating they feel the group is 'abandoning' them. The social worker should interpret this behavior as:",
+    "choices": [
+      "A sign that the member did not benefit from the group experience",
+      "An indication that the social worker failed to establish a safe environment",
+      "A normal and healthy emotional response to the loss of a significant social support system",
+      "A personal attack on the social worker's abilities"
+    ],
+    "answerIndex": 2,
+    "rationale": "Feelings of sadness, grief, or anger during termination are common and can be a healthy response to the loss of a supportive group. The social worker should validate these feelings and help the member process them.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-021",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Intervening in Group Process",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A group member, usually quiet, suddenly speaks up and challenges a statement made by the group's most dominant member. This is a moment of potential change in the group's power dynamics. The social worker's best response is to:",
+    "choices": [
+      "Silence the quiet member to maintain group harmony",
+      "Support the quiet member's courage by acknowledging their contribution and inviting further discussion",
+      "Side with the dominant member to avoid conflict",
+      "Change the topic to something less controversial"
+    ],
+    "answerIndex": 1,
+    "rationale": "The social worker should support the less assertive member to encourage their participation and to model healthy conflict resolution. This can help to redistribute power and promote a more egalitarian group environment.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-022",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Ethical Considerations in Group Work",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following is an ethical consideration unique to group work, as compared to individual casework?",
+    "choices": [
+      "The need to keep client information confidential",
+      "The risk of members sharing sensitive information outside the group",
+      "The importance of client self-determination",
+      "The requirement to obtain informed consent"
+    ],
+    "answerIndex": 1,
+    "rationale": "While confidentiality, self-determination, and informed consent are ethical considerations in both individual and group work, the inability to guarantee confidentiality among all group members is a unique ethical challenge in the group setting.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-023",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Facilitating Group Process",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A group member consistently offers advice and solutions to others without first listening to their feelings or experiences. The social worker wants to challenge this behavior without alienating the member. The most effective approach would be to:",
+    "choices": [
+      "Publicly reprimand the member for their behavior.",
+      "Ignore the behavior, hoping it will stop on its own.",
+      "Privately meet with the member to address the issue.",
+      "Model a more empathetic response by asking the person who shared their feelings how they feel about the advice they received."
+    ],
+    "answerIndex": 3,
+    "rationale": "Modeling and gentle redirection are effective strategies. By demonstrating a more appropriate way to interact, the social worker can teach the desired behavior without shaming the member. This approach also empowers the person who received the unsolicited advice to express their own feelings.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-024",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Leadership Styles",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The group leader who takes a non-directive approach, offering minimal guidance and allowing the group to make its own decisions, is using a(n) _________ leadership style.",
+    "choices": [
+      "authoritarian",
+      "democratic",
+      "laissez-faire",
+      "expert"
+    ],
+    "answerIndex": 2,
+    "rationale": "A laissez-faire leadership style is characterized by a hands-off, non-directive approach, where the group is given the freedom to self-regulate.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-025",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Roles of Group Members",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "In a group meeting, a member states, 'I think we need to stop talking about this and start making a plan to present to the board.' This statement indicates the member is most likely attempting to fulfill which role?",
+    "choices": [
+      "The 'social-emotional' leader",
+      "The 'task-oriented' leader",
+      "The 'aggressor'",
+      "The 'harmonizer'"
+    ],
+    "answerIndex": 1,
+    "rationale": "The statement focuses on the task at hand (making a plan) and moving the group toward its goal. This is a clear example of a task-oriented role.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-026",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Problem-Solving in Group Work",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A group is stuck on a problem and cannot agree on a solution. The social worker suggests a 'brainstorming' session where all members can share ideas without judgment. This technique is an example of:",
+    "choices": [
+      "Confrontation",
+      "Active listening",
+      "Facilitating group process",
+      "Setting group rules"
+    ],
+    "answerIndex": 2,
+    "rationale": "Facilitating group process involves the use of techniques and interventions to help the group function more effectively. Brainstorming is a common technique to unstick a group from a difficult problem.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-027",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Work with Diverse Populations",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is forming a support group for newly arrived immigrants. The worker knows that cultural differences in communication styles may be a challenge. The most culturally competent approach is to:",
+    "choices": [
+      "Insist that all members adopt the communication style of the dominant culture.",
+      "Ignore cultural differences and assume everyone will adjust on their own.",
+      "Discuss communication differences with the group, establishing norms that respect and include various cultural styles.",
+      "Conduct separate groups for each cultural background."
+    ],
+    "answerIndex": 2,
+    "rationale": "The most ethical and effective approach is to acknowledge and address cultural differences directly and respectfully. This promotes a safe and inclusive environment where all members can participate authentically.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-028",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Norms and Deviance",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A group has established a norm of starting and ending sessions on time. A new member consistently arrives late. The social worker's initial intervention should be to:",
+    "choices": [
+      "Publicly call out the member for being late at the start of the session.",
+      "Ignore the behavior to avoid embarrassing the new member.",
+      "Privately speak with the member to understand the reason for their lateness and reinforce the group's norm.",
+      "Change the group's start time to accommodate the new member."
+    ],
+    "answerIndex": 2,
+    "rationale": "The most professional and therapeutic approach is to address the issue privately and respectfully. This allows the social worker to understand any barriers the member is facing while still upholding the group's established norms.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-029",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Development",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following describes the 'working' phase of a group?",
+    "choices": [
+      "The period of group disbandment",
+      "The stage of high conflict and power struggles",
+      "The phase where members are focused on achieving their goals and resolving problems",
+      "The initial period of introductions and forming relationships"
+    ],
+    "answerIndex": 2,
+    "rationale": "The working phase is the productive stage where the group is focused on its purpose and members are actively working towards their goals.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-030",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Dynamics",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "During a group session, two members consistently agree with each other and dismiss the ideas of others, creating a noticeable sub-group. This behavior can lead to a phenomenon known as:",
+    "choices": [
+      "Group cohesion",
+      "Group polarization",
+      "Sub-group formation",
+      "Norm setting"
+    ],
+    "answerIndex": 2,
+    "rationale": "The formation of cliques or sub-groups can be a challenging group dynamic, as it may exclude other members and disrupt the overall group process. It can also lead to group polarization.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-031",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Purpose",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A social work group's purpose should be developed with the participation of both the social worker and the members to ensure:",
+    "choices": [
+      "The group's purpose is a secret until the last session.",
+      "The social worker's goals are prioritized over the members' goals.",
+      "The purpose is clear, relevant, and meaningful to all members.",
+      "The group can function without a social worker."
+    ],
+    "answerIndex": 2,
+    "rationale": "A collaboratively developed purpose ensures it is clear and relevant to everyone, which increases commitment and engagement.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-032",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Stages of Group Development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A group of parents of children with autism has moved past initial pleasantries and is now openly sharing challenges and providing mutual support. The group is most likely in the:",
+    "choices": [
+      "Forming stage",
+      "Storming stage",
+      "Norming stage",
+      "Performing (working) stage"
+    ],
+    "answerIndex": 3,
+    "rationale": "The ability to share deeply and provide mutual support indicates the group has moved into the productive, working phase where members are comfortable and engaged with the group's purpose.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-033",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Intervention in Group Work",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "The social worker notices that one member consistently tries to rescue other members, solving their problems for them. What is the most therapeutic intervention to address this dynamic?",
+    "choices": [
+      "Suggest that the rescuer stop talking so others can share.",
+      "Point out the behavior and ask the rescuer what their motives are.",
+      "Redirect the rescuer's advice-giving to a question, such as 'What do you think would be most helpful for them to do?'",
+      "Let the group continue as it is, as this is a form of support."
+    ],
+    "answerIndex": 2,
+    "rationale": "Redirecting the behavior from giving advice to asking a question encourages the rescuer to shift from problem-solving to a more supportive, facilitative role, which allows the other member to take ownership of their own process. This is a non-confrontational and effective intervention.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-034",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Roles",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following is an example of a dysfunctional group role?",
+    "choices": [
+      "The 'gatekeeper' who controls who gets to speak",
+      "The 'harmonizer' who reduces tension",
+      "The 'information seeker' who asks for facts",
+      "The 'elaborator' who helps clarify ideas"
+    ],
+    "answerIndex": 0,
+    "rationale": "The gatekeeper is a dysfunctional role because it can limit the participation of others and create an unhealthy power dynamic. The other roles are functional and contribute positively to the group process.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-035",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Diversity in Group Work",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "In a group composed of members from various socio-economic backgrounds, a social worker should be particularly mindful of:",
+    "choices": [
+      "The number of members in the group",
+      "The physical setting of the meeting",
+      "Potential power differentials and unspoken assumptions about class and privilege",
+      "The duration of the group sessions"
+    ],
+    "answerIndex": 2,
+    "rationale": "Socio-economic differences can create power imbalances and different lived experiences, which may lead to misunderstanding or conflict. The social worker must be sensitive to these dynamics to ensure an equitable and safe environment for all members.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-036",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Norms",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A group's unwritten rules of conduct and behavior are known as:",
+    "choices": [
+      "Group goals",
+      "Group norms",
+      "Group contracts",
+      "Group stages"
+    ],
+    "answerIndex": 1,
+    "rationale": "Group norms are the informal, often unwritten, rules that govern how members behave and interact within the group.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-037",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Cohesion",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker wants to increase the cohesion of a newly formed group. What is the best strategy to achieve this?",
+    "choices": [
+      "Encourage individual members to keep their concerns to themselves.",
+      "Assign a new task to the group at every session.",
+      "Facilitate open communication and shared experiences among members.",
+      "Increase the size of the group to include more people."
+    ],
+    "answerIndex": 2,
+    "rationale": "Promoting open communication and shared experiences helps members feel a sense of connection and belonging, which are key components of group cohesion.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-038",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Termination Phase",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker decides to terminate a group abruptly after a few sessions due to low member attendance, without a final session. This decision is most likely to:",
+    "choices": [
+      "Be an effective and efficient use of the social worker's time.",
+      "Lead to feelings of unresolved loss and a negative perception of group work for the remaining members.",
+      "Promote the members' independence and self-reliance.",
+      "Increase the group's cohesion in the long run."
+    ],
+    "answerIndex": 1,
+    "rationale": "Abrupt termination can be detrimental to the therapeutic process. It can leave members feeling abandoned, disrupt the progress they have made, and create a negative impression of group work, hindering their future participation in similar interventions.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-039",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Social Work Group Typology",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker forms a group for parents to discuss and find solutions to common challenges, such as dealing with a child's tantrums. This group is best categorized as a:",
+    "choices": [
+      "Socialization group",
+      "Treatment group",
+      "Psycho-educational group",
+      "Task group"
+    ],
+    "answerIndex": 1,
+    "rationale": "This group is focused on addressing a shared problem and providing support, which is the primary characteristic of a treatment group.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-A-040",
+    "subject": "Practice II",
+    "topic": "A. Social Work Practice with Groups",
+    "subtopic": "Group Stages",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The stage of group development where members begin to form a sense of trust and identity as a group is called:",
+    "choices": [
+      "Adjourning",
+      "Forming",
+      "Norming",
+      "Performing"
+    ],
+    "answerIndex": 2,
+    "rationale": "The norming stage is when the group establishes rules, develops trust, and a sense of cohesion begins to emerge.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-001",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Psychodynamic Theory",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In a psychodynamic group, the social worker would focus on:",
+    "choices": [
+      "The here-and-now interactions among members.",
+      "Members' unconscious processes and past experiences.",
+      "Direct behavioral change and skill-building.",
+      "The completion of a specific task."
+    ],
+    "answerIndex": 1,
+    "rationale": "Psychodynamic theory in group work, derived from Freudian principles, emphasizes the influence of unconscious processes and early life experiences on current behavior and relationships within the group.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-002",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Cognitive-Behavioral Theory",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker uses a Cognitive-Behavioral approach in a group for managing anxiety. Which activity would be most consistent with this approach?",
+    "choices": [
+      "Encouraging members to share dreams and analyze them.",
+      "Leading a discussion on childhood trauma.",
+      "Teaching members relaxation techniques and challenging distorted thoughts.",
+      "Facilitating a conversation on group power dynamics."
+    ],
+    "answerIndex": 2,
+    "rationale": "The Cognitive-Behavioral approach focuses on identifying and changing distorted thoughts and maladaptive behaviors, which aligns with teaching relaxation techniques and challenging cognitive distortions.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-003",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Systems Theory",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A social worker using a Systems Theory approach views the group as:",
+    "choices": [
+      "A collection of isolated individuals.",
+      "A set of predetermined roles that members must follow.",
+      "An interconnected whole where each member's behavior influences the entire system.",
+      "A linear process with a clear cause-and-effect chain."
+    ],
+    "answerIndex": 2,
+    "rationale": "Systems theory views a group as a dynamic system where the actions of one member affect all other members and the system as a whole.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-004",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Humanistic Approach",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker leading a support group for single parents employs a humanistic approach. The worker's primary focus would be on:",
+    "choices": [
+      "Analyzing past parenting mistakes to understand current behavior.",
+      "Creating a warm, non-judgmental environment to foster self-exploration and personal growth.",
+      "Teaching specific parenting skills and techniques.",
+      "Developing a group plan to advocate for better social services."
+    ],
+    "answerIndex": 1,
+    "rationale": "The humanistic approach, popularized by Carl Rogers, emphasizes creating a supportive and non-judgmental atmosphere to help individuals achieve their potential and foster personal growth.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-005",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Feminist Theory",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In a social work group, a feminist-informed approach would focus on:",
+    "choices": [
+      "The individual's internal conflicts.",
+      "Empowerment, collective action, and challenging societal power structures.",
+      "Strict adherence to traditional gender roles within the group.",
+      "Teaching group members how to behave more traditionally."
+    ],
+    "answerIndex": 1,
+    "rationale": "A feminist approach to group work emphasizes empowering members, recognizing the impact of social and political structures on personal problems, and using collective action to challenge injustice.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-006",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Solution-Focused Brief Therapy (SFBT)",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is leading a group using a Solution-Focused Brief Therapy (SFBT) approach. A member says, 'I feel hopeless about my situation.' The social worker's most appropriate response would be:",
+    "choices": [
+      "To explore the root causes of their hopelessness from childhood.",
+      "To ask, 'When was a time you felt less hopeless, even for a moment?'",
+      "To challenge the member's irrational beliefs.",
+      "To suggest a family meeting to discuss the problem."
+    ],
+    "answerIndex": 1,
+    "rationale": "SFBT focuses on solutions rather than problems. The 'exception question' ('When was a time...') helps the client identify past successes and build on those strengths, which is a core technique of SFBT.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-007",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Task-Centered Approach",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The primary focus of a Task-Centered approach in group work is to:",
+    "choices": [
+      "Uncover hidden emotions and conflicts.",
+      "Help members identify and achieve specific, measurable tasks related to their problems.",
+      "Provide a safe space for members to vent without a clear goal.",
+      "Analyze the communication patterns of the group."
+    ],
+    "answerIndex": 1,
+    "rationale": "The Task-Centered approach is a short-term model focused on helping clients set and accomplish specific, concrete tasks to address their presenting problems.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-008",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Ecological Systems Theory",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is running a group for parents and utilizes the Ecological Systems Theory. The worker helps members map out their family's relationships with schools, jobs, and the local community. The purpose of this activity is to:",
+    "choices": [
+      "Identify the individual weaknesses of each family member.",
+      "Understand how external systems influence the family's functioning and well-being.",
+      "Help members understand the historical roots of their personal problems.",
+      "Prepare a report for government agencies."
+    ],
+    "answerIndex": 1,
+    "rationale": "Ecological Systems Theory, developed by Urie Bronfenbrenner, emphasizes the importance of understanding an individual's context within multiple, interconnected systems (e.g., family, school, community). Mapping these systems helps the social worker and group members understand how these external factors impact their lives.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-009",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Group Psychotherapy vs. Psycho-educational Groups",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "What is the main difference between a group psychotherapy approach and a psycho-educational approach?",
+    "choices": [
+      "Psychotherapy groups have no professional leader.",
+      "Psychotherapy groups focus on teaching new skills, while psycho-educational groups focus on personal change.",
+      "Psychotherapy groups focus on exploring personal and interpersonal problems, while psycho-educational groups focus on teaching information and skills.",
+      "There is no difference; the terms are interchangeable."
+    ],
+    "answerIndex": 2,
+    "rationale": "Psychotherapy groups are generally more focused on deep, personal exploration, while psycho-educational groups are structured to teach specific skills, information, or coping mechanisms.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-010",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Narrative Therapy",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker uses a Narrative Therapy approach in a group for individuals recovering from substance abuse. The worker's primary goal is to help members:",
+    "choices": [
+      "Admit that they are powerless over their addiction.",
+      "Rewrite their personal stories to separate themselves from their problems.",
+      "Identify their cognitive distortions.",
+      "Share their most traumatic memories with the group."
+    ],
+    "answerIndex": 1,
+    "rationale": "Narrative Therapy is based on the idea that individuals' problems are separate from who they are. The approach helps members 'externalize' their problems and rewrite their life stories to emphasize their strengths and resilience.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-011",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Social Learning Theory",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A social worker applies Social Learning Theory in a group for parents. The worker encourages members to share their successful parenting techniques and role-plays with them. This approach is based on the idea that people learn through:",
+    "choices": [
+      "Unconscious processes",
+      "Modeling and observation",
+      "Analysis of family-of-origin issues",
+      "Confrontation"
+    ],
+    "answerIndex": 1,
+    "rationale": "Social Learning Theory, developed by Bandura, posits that people learn new behaviors and skills by observing and imitating others, a process often referred to as 'modeling.'",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-012",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Gestalt Theory",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker in a Gestalt-oriented group notices that a member is clenching their fists while talking about their boss. The social worker asks, 'What are you feeling in your hands right now?' This intervention is designed to:",
+    "choices": [
+      "Avoid the topic of the boss.",
+      "Help the member become aware of their physical sensations in the 'here and now'.",
+      "Confront the member about their anger.",
+      "Introduce a new topic to the group."
+    ],
+    "answerIndex": 1,
+    "rationale": "Gestalt therapy emphasizes the importance of 'here-and-now' experience and awareness. The intervention is meant to help the member connect their physical sensations with their emotional state to increase self-awareness and integration.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-013",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Conflict Resolution Models",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "During a group session, two members have a disagreement over a topic. The social worker's intervention involves clarifying the facts, identifying the underlying feelings, and helping the members find common ground. This approach most closely resembles:",
+    "choices": [
+      "The psychodynamic approach",
+      "A conflict resolution model",
+      "A task-centered approach",
+      "A behavioral approach"
+    ],
+    "answerIndex": 1,
+    "rationale": "The social worker's actions (clarifying, identifying feelings, finding common ground) are classic steps in a conflict resolution model, designed to mediate disputes and help parties find a mutually agreeable solution.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-014",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Group Process vs. Content",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In a group session, the 'content' refers to:",
+    "choices": [
+      "How members interact with each other.",
+      "The underlying power dynamics of the group.",
+      "What is being discussed—the overt subject matter of the conversation.",
+      "The social worker's professional role."
+    ],
+    "answerIndex": 2,
+    "rationale": "Content is 'what' is being discussed (the overt subject), while process is 'how' the discussion is happening (the interactions, power dynamics, and nonverbal communication).",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-015",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Psychoanalytic Theory",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "From a psychoanalytic perspective, which of the following group behaviors would be most significant for the social worker to analyze?",
+    "choices": [
+      "The number of times a member speaks during a session.",
+      "A member's frequent absences from the group.",
+      "A member's emotional reaction to the social worker, which resembles their relationship with a parent.",
+      "The group's ability to stay on topic."
+    ],
+    "answerIndex": 2,
+    "rationale": "Psychoanalytic theory focuses on transference, which is the unconscious redirection of feelings from one person to another. A member's reaction to the social worker that resembles a parental relationship is a classic example of transference, a key concept in this theory.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-016",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Strengths-Based Approach",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker uses a strengths-based approach in a group for women recovering from addiction. Instead of focusing on their mistakes, the worker asks them to share stories of resilience and past successes. This is an example of:",
+    "choices": [
+      "Focusing on the problem",
+      "Re-enacting past trauma",
+      "Building on existing capabilities and resources",
+      "Creating an overly positive, unrealistic environment"
+    ],
+    "answerIndex": 2,
+    "rationale": "A strengths-based approach intentionally shifts the focus from deficits and problems to the client's inherent strengths, resources, and past successes. It is a core principle of empowerment.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-017",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Existential Theory",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "An existential approach to group work would emphasize:",
+    "choices": [
+      "The individual's search for meaning and purpose in a world without inherent meaning.",
+      "The importance of unconscious defense mechanisms.",
+      "The biological basis of human behavior.",
+      "The use of rewards and punishments to shape behavior."
+    ],
+    "answerIndex": 0,
+    "rationale": "Existential theory centers on fundamental human concerns such as freedom, responsibility, meaning, and death. It encourages individuals to find their own meaning and purpose in life.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-018",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Group Cohesion Theory",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker uses a team-building exercise at the start of a group to help members feel more connected. The social worker's goal is to increase:",
+    "choices": [
+      "Group dependency",
+      "Group polarization",
+      "Group cohesion",
+      "Group isolation"
+    ],
+    "answerIndex": 2,
+    "rationale": "Team-building exercises are designed to increase group cohesion—the sense of unity, belonging, and mutual attraction among members.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-019",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Crisis Intervention Model",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which approach would be most suitable for a group of people who have recently experienced a shared traumatic event, such as a natural disaster?",
+    "choices": [
+      "Long-term psychotherapy",
+      "A crisis intervention model",
+      "A psychoanalytic approach",
+      "A task-centered approach to find housing"
+    ],
+    "answerIndex": 1,
+    "rationale": "A crisis intervention model is a short-term, immediate, and goal-directed approach designed to help people who have just experienced a traumatic event regain a sense of equilibrium.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-020",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Task-Oriented vs. Process-Oriented Groups",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is leading a group to organize a community cleanup project. The group is struggling to agree on roles and responsibilities, leading to frustration. A social worker applying a process-oriented lens would focus on:",
+    "choices": [
+      "The external goal of the cleanup project.",
+      "The underlying reasons for the members' conflict and their communication patterns.",
+      "The historical background of the members.",
+      "The personality traits of each member."
+    ],
+    "answerIndex": 1,
+    "rationale": "A process-oriented lens focuses on 'how' a group is functioning—including communication patterns, power dynamics, and emotional conflicts—rather than just the 'what' (the task itself). Addressing the process is key to resolving the conflict and enabling the group to move forward with the task.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-021",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Feminist Group Work",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A feminist-informed social worker facilitates a women's support group. When a member expresses guilt about prioritizing her career over her family, the social worker's response would most likely be to:",
+    "choices": [
+      "Encourage her to re-evaluate her career choices.",
+      "Help her understand the societal expectations placed on women to be primary caregivers.",
+      "Focus solely on her individual feelings of guilt.",
+      "Advise her to get advice from other members."
+    ],
+    "answerIndex": 1,
+    "rationale": "Feminist theory connects personal struggles to broader social and political issues. By reframing the guilt as a product of societal expectations, the social worker empowers the member and helps her see that her problem is not just a personal failing.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-022",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Psychodynamic Theory",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "In a group where a psychodynamic approach is used, a social worker notices that a member who experienced a neglectful childhood is overly submissive and passive in the group. This behavior is most likely a manifestation of:",
+    "choices": [
+      "Transference",
+      "Resistance",
+      "Sublimation",
+      "Regression"
+    ],
+    "answerIndex": 0,
+    "rationale": "The member's submissive behavior is a form of transference, where they are unconsciously re-enacting a relational pattern from their past (neglectful childhood) with the social worker and group members.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-023",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Cognitive Restructuring",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker using a Cognitive-Behavioral approach asks a member, 'What evidence do you have to support the thought that everyone in this group is judging you?' This technique is known as:",
+    "choices": [
+      "Reframing",
+      "Externalization",
+      "Cognitive restructuring",
+      "Validation"
+    ],
+    "answerIndex": 2,
+    "rationale": "Cognitive restructuring is a core technique in CBT that involves helping clients identify and challenge irrational or distorted thoughts by examining the evidence for and against them.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-024",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Systems Theory",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In a group session, a social worker draws a genogram with a member to explore their family relationships and how they might be affecting their current group behavior. This is an application of:",
+    "choices": [
+      "Social Learning Theory",
+      "Task-Centered Approach",
+      "Psychoanalytic Theory",
+      "Systems Theory"
+    ],
+    "answerIndex": 3,
+    "rationale": "A genogram is a tool used in family systems theory to map out family relationships, patterns, and dynamics, which is consistent with the broader principles of Systems Theory.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-025",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Narrative Therapy",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker notices a group member consistently refers to her anxiety as 'a heavy blanket.' The social worker's most appropriate response from a Narrative Therapy perspective would be to:",
+    "choices": [
+      "Tell the member that her feelings are invalid.",
+      "Ask the member, 'How did the heavy blanket get so heavy? What would happen if you pulled a corner off?'",
+      "Explain the biological basis of anxiety to the member.",
+      "Advise the member on how to manage the 'heavy blanket'."
+    ],
+    "answerIndex": 1,
+    "rationale": "This response is consistent with Narrative Therapy's technique of externalizing the problem. By asking questions about the 'heavy blanket,' the social worker helps the member separate themselves from their anxiety and explore new ways of interacting with it.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-026",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Crisis Intervention",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a group for people who lost their homes in a fire. The group's primary goal is to help members cope with the immediate aftermath. The most important initial step for the social worker is to:",
+    "choices": [
+      "Begin long-term therapy to process the trauma.",
+      "Provide practical assistance, such as information on temporary housing and financial aid.",
+      "Encourage the group to find the cause of the fire.",
+      "Focus on the underlying psychological issues of each member."
+    ],
+    "answerIndex": 1,
+    "rationale": "In a crisis intervention model, the immediate need is to address the practical and tangible needs of the clients before engaging in deeper therapeutic work. Providing resources is a priority.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-027",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Social Learning Theory",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker wants to use the group to model a healthy way to manage conflict. The social worker intentionally demonstrates active listening, validates members' feelings, and summarizes different perspectives during a disagreement. This is an example of:",
+    "choices": [
+      "Covert reinforcement",
+      "Vicarious learning",
+      "Negative punishment",
+      "Classical conditioning"
+    ],
+    "answerIndex": 1,
+    "rationale": "Vicarious learning (or observational learning) is a central concept in Social Learning Theory. The social worker is using their own behavior as a model for members to observe and then learn to emulate, without direct reinforcement or punishment.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-028",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Feminist Theory",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following concepts is central to a feminist approach to group work?",
+    "choices": [
+      "The leader's authority is absolute.",
+      "Gender roles are biologically determined and fixed.",
+      "The personal is political.",
+      "Individual problems are separate from social context."
+    ],
+    "answerIndex": 2,
+    "rationale": "The phrase 'the personal is political' is a cornerstone of feminist theory, highlighting that individuals' private troubles are often connected to broader systemic issues of power and oppression.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-029",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "SFBT Techniques",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "The 'miracle question' is a technique commonly used in which type of group work?",
+    "choices": [
+      "Psychodynamic",
+      "Cognitive-Behavioral",
+      "Solution-Focused Brief Therapy",
+      "Humanistic"
+    ],
+    "answerIndex": 2,
+    "rationale": "The 'miracle question' ('If a miracle happened tonight and your problem was solved, what would be different?') is a classic technique of SFBT to help clients envision a future without their problem, which then helps them set concrete goals.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-B-030",
+    "subject": "Practice II",
+    "topic": "B. Theories, Methods, and Approaches in Group Work",
+    "subtopic": "Task-Centered Group Work",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker facilitates a group to establish a neighborhood watch program. The group's meetings are highly structured, with clear agendas and action steps. The social worker is most likely using a(n):",
+    "choices": [
+      "Psycho-educational approach",
+      "Humanistic approach",
+      "Task-centered approach",
+      "Therapy group approach"
+    ],
+    "answerIndex": 2,
+    "rationale": "A task-centered approach is goal-oriented and highly structured. This is the most suitable approach for a group that is focused on completing a specific, concrete task like organizing a neighborhood watch.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-001",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Active Listening and Reflecting",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "When a social worker uses active listening in a group, what is the primary goal?",
+    "choices": [
+      "To interpret the members' unconscious motivations.",
+      "To demonstrate that the social worker is paying attention and understands the member's message.",
+      "To provide an immediate solution to the member's problem.",
+      "To maintain control of the conversation."
+    ],
+    "answerIndex": 1,
+    "rationale": "Active listening is a fundamental skill that shows the speaker they are being heard and understood, which builds trust and rapport.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-002",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Facilitating Group Discussion",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A group member says, 'I feel so overwhelmed.' The social worker responds by asking, 'Could you tell us more about what that feeling of being overwhelmed is like for you?' This is an example of which technique?",
+    "choices": [
+      "Giving advice",
+      "Challenging",
+      "Summarizing",
+      "Probing or open-ended questioning"
+    ],
+    "answerIndex": 3,
+    "rationale": "The social worker is using an open-ended question to encourage the member to elaborate on their feelings, a technique known as probing. This helps the social worker gather more information and allows the member to explore their emotions more deeply.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-003",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Summarizing",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "At the end of a group session, the social worker restates the key themes and decisions that were made. This is an example of:",
+    "choices": [
+      "Confrontation",
+      "Reflecting",
+      "Summarizing",
+      "Directing"
+    ],
+    "answerIndex": 2,
+    "rationale": "Summarizing involves restating the main points of a conversation or session to provide clarity and reinforce key takeaways.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-004",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Modeling and Role-Playing",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker wants a group member to practice assertively setting a boundary with a family member. The social worker asks another group member to pretend to be the family member while the first member practices what to say. This technique is called:",
+    "choices": [
+      "Confrontation",
+      "Role-playing",
+      "Reframing",
+      "Interpretation"
+    ],
+    "answerIndex": 1,
+    "rationale": "Role-playing is a technique where members act out a scenario to practice new skills and gain insight into their behavior and the behavior of others.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-005",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Confrontation",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In a group context, the use of confrontation by a social worker should be:",
+    "choices": [
+      "Used to shame or punish a member.",
+      "Used sparingly and in a supportive, non-judgmental way to highlight discrepancies in a member's statements or actions.",
+      "Avoided at all costs to maintain group harmony.",
+      "The first intervention used when a member says something incorrect."
+    ],
+    "answerIndex": 1,
+    "rationale": "Confrontation, when used therapeutically, is a skill that points out a discrepancy in a member's behavior or communication to promote self-awareness and growth. It should never be used in a hostile or shaming way.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-006",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Use of Self",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker shares a brief, relevant personal experience to normalize a member's feelings of anxiety. This is an example of using which social work skill?",
+    "choices": [
+      "Directing",
+      "Confronting",
+      "Using silence",
+      "Use of self"
+    ],
+    "answerIndex": 3,
+    "rationale": "Use of self refers to the social worker's conscious and purposeful use of their own personality, insights, and experiences in the therapeutic process.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-007",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Empathetic Communication",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A member of a group says, 'I can't seem to do anything right at work.' An empathetic response from the social worker would be:",
+    "choices": [
+      "That's not true, you just need to try harder.",
+      "Why do you feel that way?",
+      "It sounds like you're feeling a lot of frustration and self-doubt about your work performance.",
+      "What are you going to do about it?"
+    ],
+    "answerIndex": 2,
+    "rationale": "An empathetic response involves reflecting back the feeling and content of what the person said, demonstrating that you understand their emotional state without judgment.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-008",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Focusing and Redirecting",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker notices that the group has been sidetracked by a long, unrelated story from a member. The social worker's most appropriate response is to:",
+    "choices": [
+      "Let the member continue, as it is rude to interrupt.",
+      "Publicly reprimand the member for going off-topic.",
+      "Gently redirect the conversation back to the group's purpose and agenda.",
+      "Ask a different member to tell a story."
+    ],
+    "answerIndex": 2,
+    "rationale": "Redirecting is a key skill for maintaining a productive group. The social worker must gently bring the conversation back to the group's goals while still respecting the member.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-009",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Termination",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is preparing to terminate a group. The most important skill to use during this phase is to:",
+    "choices": [
+      "Introduce new, challenging topics to prepare members for life outside the group.",
+      "Maintain a strictly professional distance to prevent emotional dependency.",
+      "Facilitate a review of the group's work and help members process their feelings about ending the group.",
+      "Avoid discussing the end of the group to prevent sadness."
+    ],
+    "answerIndex": 2,
+    "rationale": "Effective termination involves a careful process of reviewing progress, acknowledging the loss of the group, and helping members process their feelings and plan for a future without the group. It is a critical component of successful group work.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-010",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Conflict Resolution",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker notices a conflict brewing between two members. The social worker intervenes by asking each member to use 'I' statements to express their feelings without blaming the other person. This technique is designed to:",
+    "choices": [
+      "Determine who is at fault.",
+      "Escalate the conflict for therapeutic purposes.",
+      "Help the members communicate more clearly and reduce defensiveness.",
+      "Force the members to apologize to each other."
+    ],
+    "answerIndex": 2,
+    "rationale": "Using 'I' statements helps individuals take ownership of their feelings and thoughts, which can de-escalate a conflict and facilitate more effective communication.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-011",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Non-verbal Communication",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A social worker notices that a member is leaning forward and nodding their head while another member is speaking. This non-verbal communication indicates:",
+    "choices": [
+      "Disinterest and boredom.",
+      "An intention to interrupt the speaker.",
+      "Active listening and engagement.",
+      "A desire to leave the group."
+    ],
+    "answerIndex": 2,
+    "rationale": "Leaning forward and nodding are common non-verbal cues that signal interest, engagement, and active listening.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-012",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Group Contract",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "At the beginning of a group, the social worker works with members to establish a group contract. This document should include:",
+    "choices": [
+      "A guarantee of absolute confidentiality.",
+      "The social worker's personal biography.",
+      "A list of rules and expectations for behavior, such as confidentiality and respect.",
+      "A list of all members' private contact information."
+    ],
+    "answerIndex": 2,
+    "rationale": "A group contract is a formal agreement that outlines the rules and expectations for member behavior, including crucial elements like confidentiality and mutual respect.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-013",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Giving and Receiving Feedback",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker asks group members to give each other feedback on their communication styles. The most helpful feedback is:",
+    "choices": [
+      "Subjective and based on personal opinions.",
+      "Given in a public, confrontational manner.",
+      "Specific, non-judgmental, and focused on observed behavior.",
+      "General and vague, to avoid hurting feelings."
+    ],
+    "answerIndex": 2,
+    "rationale": "Effective feedback is specific (e.g., 'When you said X, I felt Y'), non-judgmental, and based on observable behavior rather than on assumptions or interpretations of a person's character. This is a crucial skill for healthy group functioning.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-014",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Maintaining Boundaries",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following is an example of a healthy boundary for a social worker in a group setting?",
+    "choices": [
+      "Accepting friend requests from all group members on social media.",
+      "Meeting a group member for coffee outside of the scheduled sessions.",
+      "Maintaining a professional role and not sharing personal details unrelated to the group's purpose.",
+      "Lending a member money for a personal emergency."
+    ],
+    "answerIndex": 2,
+    "rationale": "Maintaining professional boundaries involves avoiding dual relationships and keeping personal and professional roles separate to ensure the integrity of the therapeutic relationship.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-015",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Empowerment",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "In a group for community organizing, a social worker helps members identify their shared resources and skills to solve a local problem. This action is most aligned with the social work principle of:",
+    "choices": [
+      "Charity",
+      "Paternalism",
+      "Empowerment",
+      "Directing"
+    ],
+    "answerIndex": 2,
+    "rationale": "Empowerment is a core social work value that involves helping individuals, groups, and communities gain the power and skills to make their own decisions and take control of their lives. This is a clear example of this principle in action.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-016",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Reframing",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A group member says, 'I'm so shy; I never have anything important to say.' The social worker responds, 'It sounds like you are a careful and thoughtful listener, and you contribute when you have something significant to add.' This is an example of:",
+    "choices": [
+      "Confrontation",
+      "Positive reframing",
+      "Minimizing feelings",
+      "Ignoring the problem"
+    ],
+    "answerIndex": 1,
+    "rationale": "Reframing is a technique used to change the way a person views a situation or themselves. Positive reframing helps the member see a seemingly negative trait (shyness) in a more positive light (thoughtful listening), which can boost self-esteem and encourage participation.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-017",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Giving and Receiving Feedback",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "When giving feedback to a group member, a good practice is to focus on:",
+    "choices": [
+      "The person's inherent personality.",
+      "What you have heard and observed them say or do.",
+      "The mistakes they have made in the past.",
+      "Their family history."
+    ],
+    "answerIndex": 1,
+    "rationale": "Effective feedback is based on observable behavior and communication, not on personal judgments or assumptions about a person's character.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-018",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Using Silence",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "During a group session, a member shares a very emotional story and then falls silent. The social worker waits for a moment before speaking, allowing the silence to be present. The most likely reason for this is to:",
+    "choices": [
+      "Show that the social worker has nothing to say.",
+      "Force another member to speak next.",
+      "Allow the member who spoke time to process their emotions and give others a chance to respond.",
+      "Punish the member for being emotional."
+    ],
+    "answerIndex": 2,
+    "rationale": "Therapeutic use of silence allows for reflection, emotional processing, and gives other members a chance to step in and offer support, which can deepen the group process.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-019",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Assessment in Group Work",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The process of assessing a group's progress and the effectiveness of the intervention is an ongoing part of group work. This assessment should be done by:",
+    "choices": [
+      "The social worker only, at the end of the group.",
+      "The group members only, without the social worker's input.",
+      "Both the social worker and the group members throughout the group's life.",
+      "External experts only."
+    ],
+    "answerIndex": 2,
+    "rationale": "Assessment in group work is a collaborative process between the social worker and the group members, and it should occur at various points to ensure goals are being met and the group is functioning effectively.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P2-C-020",
+    "subject": "Practice II",
+    "topic": "C. Practice Skills and Techniques in Group Work",
+    "subtopic": "Ending the Group",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "At the final session of a group, a member says, 'I'm afraid I won't have the support I need without this group.' The social worker's best response is to:",
+    "choices": [
+      "Tell the member they shouldn't worry and that they'll be fine.",
+      "Avoid the topic and move on to a different conversation.",
+      "Acknowledge their feelings and help them identify other sources of support and resources outside the group.",
+      "Suggest that the group can continue meeting without the social worker."
+    ],
+    "answerIndex": 2,
+    "rationale": "The social worker must validate the member's feelings of anxiety and loss while also helping them to identify and plan for future support systems. This facilitates a healthy, empowering termination.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  }
+]

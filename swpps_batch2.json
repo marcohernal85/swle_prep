@@ -1,0 +1,762 @@
+[
+  {
+    "id": "SWPPS-B1-001",
+    "subject": "SWPPS",
+    "topic": "A. Social Welfare, Social Policy & Social Services",
+    "subtopic": "Social Welfare Concepts",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following best defines social welfare as an institution?",
+    "choices": [
+      "A set of organized arrangements that address the well-being of the population.",
+      "The temporary provision of aid to individuals in need.",
+      "A collective of voluntary efforts to assist the less fortunate.",
+      "The government's exclusive responsibility for poverty reduction."
+    ],
+    "answerIndex": 0,
+    "rationale": "Social welfare as an institution refers to the formal and organized systems within a society that provide for the well-being of its members.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-002",
+    "subject": "SWPPS",
+    "topic": "A. Social Welfare, Social Policy & Social Services",
+    "subtopic": "Social Policy Analysis",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is critiquing a new policy that aims to provide conditional cash transfers. Which of the following is a key step in a critical policy analysis?",
+    "choices": [
+      "Evaluating the policy's implementation and outcomes against its stated goals.",
+      "Comparing the policy solely with international standards.",
+      "Focusing only on the financial cost of the policy.",
+      "Determining the political affiliations of the policy's proponents."
+    ],
+    "answerIndex": 0,
+    "rationale": "Policy analysis involves a systematic evaluation of a policy's effects, including how well its implementation achieves its intended goals.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-003",
+    "subject": "SWPPS",
+    "topic": "A. Social Welfare, Social Policy & Social Services",
+    "subtopic": "Social Services Provision",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "A social worker's agency partners with a local community to set up a new feeding program. This activity is an example of:",
+    "choices": [
+      "Social policy formulation.",
+      "Social service provision.",
+      "Social work research.",
+      "Social advocacy."
+    ],
+    "answerIndex": 1,
+    "rationale": "Providing a feeding program is a direct social service aimed at meeting a specific need in the community.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-004",
+    "subject": "SWPPS",
+    "topic": "A. Social Welfare, Social Policy & Social Services",
+    "subtopic": "Historical Context",
+    "bloom": "Understand",
+    "difficulty": "Difficult",
+    "stem": "During the pre-colonial period in the Philippines, social welfare was primarily based on which system?",
+    "choices": [
+      "State-funded institutions and formal policies.",
+      "Foreign mission and charity work.",
+      "Indigenous, informal systems of mutual aid and cooperation.",
+      "The hierarchical structure of the Spanish-era hacienda system."
+    ],
+    "answerIndex": 2,
+    "rationale": "Before Spanish colonization, Filipino communities relied on informal systems of reciprocity and mutual aid, such as bayanihan, to address social needs.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-005",
+    "subject": "SWPPS",
+    "topic": "B. The Filipino Family & Its Influence on Social Work Practice",
+    "subtopic": "Family Structure",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In the context of the Filipino family, which term describes the concept of a strong, deep-rooted sense of obligation to one's parents and elders?",
+    "choices": [
+      "Pakikisama",
+      "Utang na Loob",
+      "Hiya",
+      "Amor Propio"
+    ],
+    "answerIndex": 1,
+    "rationale": "Utang na Loob refers to the debt of gratitude that Filipinos feel towards those who have helped them, particularly within the family.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-006",
+    "subject": "SWPPS",
+    "topic": "B. The Filipino Family & Its Influence on Social Work Practice",
+    "subtopic": "Family Roles",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker observes that the eldest child in a Filipino family has taken on the role of a surrogate parent. This situation is most likely to be influenced by:",
+    "choices": [
+      "The family's economic status.",
+      "Filial piety and respect for elders.",
+      "The absence of a paternal figure.",
+      "The concept of the 'panganay' (eldest child) assuming responsibility for younger siblings."
+    ],
+    "answerIndex": 3,
+    "rationale": "In many Filipino families, the 'panganay' is culturally expected to take on significant responsibilities, including caregiving and financial support for their younger siblings.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-007",
+    "subject": "SWPPS",
+    "topic": "B. The Filipino Family & Its Influence on Social Work Practice",
+    "subtopic": "Challenges to the Filipino Family",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker is designing a program to support families of Overseas Filipino Workers (OFWs). What is the primary challenge to address from a social work perspective?",
+    "choices": [
+      "The low salary of OFWs.",
+      "The disruption of family roles and dynamics due to long-term physical separation.",
+      "The lack of communication technology.",
+      "The difficulty of remitting money back to the Philippines."
+    ],
+    "answerIndex": 1,
+    "rationale": "The most significant challenge for OFW families is often the psychological and social disruption caused by the absence of a parent, leading to shifts in roles and responsibilities within the family unit.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-008",
+    "subject": "SWPPS",
+    "topic": "B. The Filipino Family & Its Influence on Social Work Practice",
+    "subtopic": "Family Communication",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following communication styles is often considered a hallmark of the traditional Filipino family, where direct confrontation is avoided?",
+    "choices": [
+      "Assertive communication.",
+      "Aggressive communication.",
+      "Indirect communication.",
+      "Direct communication."
+    ],
+    "answerIndex": 2,
+    "rationale": "Many Filipinos prefer indirect communication to maintain 'hiya' (shame/dignity) and 'pakikisama' (good relations), avoiding direct confrontation that might lead to conflict or loss of face.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-009",
+    "subject": "SWPPS",
+    "topic": "B. The Filipino Family & Its Influence on Social Work Practice",
+    "subtopic": "Kinship System",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker notes that a family is receiving significant support not just from immediate relatives but also from a wide network of compadres and godparents. This highlights the importance of what aspect of the Filipino family?",
+    "choices": [
+      "Nuclear family structure.",
+      "Fictive kinship.",
+      "Matriarchal family leadership.",
+      "Economic independence."
+    ],
+    "answerIndex": 1,
+    "rationale": "Fictive kinship refers to relationships that are not based on blood or marriage but are treated as such, like the compadrazgo system (sponsors in baptism, confirmation, and marriage).",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-010",
+    "subject": "SWPPS",
+    "topic": "B. The Filipino Family & Its Influence on Social Work Practice",
+    "subtopic": "Resilience",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The ability of the Filipino family to cope with adversity and thrive despite socio-economic challenges is often referred to as:",
+    "choices": [
+      "Family dependency.",
+      "Family resilience.",
+      "Family crisis.",
+      "Family fragmentation."
+    ],
+    "answerIndex": 1,
+    "rationale": "Family resilience is the capacity of the family system to adapt and recover from significant stress and adversity.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-011",
+    "subject": "SWPPS",
+    "topic": "B. The Filipino Family & Its Influence on Social Work Practice",
+    "subtopic": "Social Worker Roles",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "When a social worker engages with a Filipino family, the primary role should be to:",
+    "choices": [
+      "Impose a Western, individualistic model of problem-solving.",
+      "Advise the family on how to break from their traditional structures.",
+      "Work within the existing family dynamics and cultural values to facilitate change.",
+      "Focus exclusively on the individual client's needs, ignoring family influence."
+    ],
+    "answerIndex": 2,
+    "rationale": "Effective social work practice with Filipino families requires a culturally sensitive approach that respects and utilizes existing family structures and values as a resource for intervention.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-012",
+    "subject": "SWPPS",
+    "topic": "B. The Filipino Family & Its Influence on Social Work Practice",
+    "subtopic": "Parenting Styles",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker notes a family where parents enforce strict rules and expect unquestioning obedience from their children. This parenting style can be characterized as:",
+    "choices": [
+      "Authoritative.",
+      "Permissive.",
+      "Neglectful.",
+      "Authoritarian."
+    ],
+    "answerIndex": 3,
+    "rationale": "An authoritarian parenting style is characterized by high demands and low responsiveness, with strict rules and minimal open dialogue.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-013",
+    "subject": "SWPPS",
+    "topic": "C. Theories & Perspectives on Filipino Family Life & Structure",
+    "subtopic": "Structural-Functionalism",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "Using the structural-functionalist perspective, a social worker would view the Filipino family's role as primarily:",
+    "choices": [
+      "A site of power struggles and inequality.",
+      "The main source of conflict in society.",
+      "A stable unit that performs essential functions for societal order.",
+      "A dynamic entity that constantly re-negotiates roles."
+    ],
+    "answerIndex": 2,
+    "rationale": "Structural-functionalism views society as a system with interconnected parts, each performing a function. The family, in this view, performs functions like socialization and economic provision, contributing to societal stability.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-014",
+    "subject": "SWPPS",
+    "topic": "C. Theories & Perspectives on Filipino Family Life & Structure",
+    "subtopic": "Conflict Theory",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker applies conflict theory to a family dealing with domestic abuse. The worker's approach would focus on:",
+    "choices": [
+      "Identifying the family's individual personality traits.",
+      "Understanding the power imbalances and resource distribution within the family.",
+      "Examining the family's shared cultural norms and values.",
+      "Analyzing the family's communication patterns in isolation."
+    ],
+    "answerIndex": 1,
+    "rationale": "Conflict theory highlights competition for power and resources within a social unit. In a family context, this lens helps in understanding issues like domestic abuse as a result of power imbalances.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-015",
+    "subject": "SWPPS",
+    "topic": "C. Theories & Perspectives on Filipino Family Life & Structure",
+    "subtopic": "Feminist Theory",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker using a feminist perspective would analyze a Filipino family's gender roles by focusing on:",
+    "choices": [
+      "The biological basis for men and women's roles.",
+      "How family norms reinforce patriarchal structures and female subordination.",
+      "The economic contributions of all family members equally.",
+      "The psychological development of each gender."
+    ],
+    "answerIndex": 1,
+    "rationale": "Feminist theory examines how gender roles and power dynamics, often rooted in patriarchal systems, shape the experiences of individuals within the family and society, particularly for women.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-016",
+    "subject": "SWPPS",
+    "topic": "C. Theories & Perspectives on Filipino Family Life & Structure",
+    "subtopic": "Symbolic Interactionism",
+    "bloom": "Understand",
+    "difficulty": "Moderate",
+    "stem": "From the perspective of symbolic interactionism, what is the most important element in understanding family life?",
+    "choices": [
+      "Societal expectations and norms.",
+      "The shared meanings and symbols that family members create and use in their interactions.",
+      "The economic functions the family provides.",
+      "Biological and psychological factors."
+    ],
+    "answerIndex": 1,
+    "rationale": "Symbolic interactionism focuses on how individuals create meaning through their interactions with others. In a family, this means understanding the shared symbols, gestures, and meanings that shape their relationships.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-017",
+    "subject": "SWPPS",
+    "topic": "C. Theories & Perspectives on Filipino Family Life & Structure",
+    "subtopic": "Developmental Stage Theory",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is assisting a newly-married Filipino couple. Using a developmental approach, the worker's primary focus would be on helping the couple:",
+    "choices": [
+      "Cope with raising teenagers.",
+      "Adjust to new roles and establish shared goals as a family unit.",
+      "Prepare for retirement and old age.",
+      "Manage an empty nest."
+    ],
+    "answerIndex": 1,
+    "rationale": "Developmental stage theory sees the family as progressing through a series of stages. The first stage, 'beginning family,' involves forming a new identity as a couple and establishing a new family system.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-018",
+    "subject": "SWPPS",
+    "topic": "C. Theories & Perspectives on Filipino Family Life & Structure",
+    "subtopic": "Family Systems Theory",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker observes that a child's behavioral problems intensify whenever there is parental conflict. This is a classic example of what concept from family systems theory?",
+    "choices": [
+      "Scapegoating.",
+      "Triangulation.",
+      "Homeostasis.",
+      "Family roles."
+    ],
+    "answerIndex": 1,
+    "rationale": "Triangulation is a key concept in family systems theory where a third party (in this case, the child) is drawn into the conflict between two others (the parents), often to diffuse tension.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-019",
+    "subject": "SWPPS",
+    "topic": "C. Theories & Perspectives on Filipino Family Life & Structure",
+    "subtopic": "Ecological Systems Theory",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In the context of the Filipino family, a social worker applying ecological systems theory would emphasize:",
+    "choices": [
+      "The family's internal structure and communication.",
+      "The external environments and systems (e.g., community, government) that influence the family.",
+      "The individual's psychological development within the family.",
+      "The family's financial management."
+    ],
+    "answerIndex": 1,
+    "rationale": "Ecological systems theory, developed by Urie Bronfenbrenner, highlights the interconnectedness of different environmental systems, from the micro to the macro, and their influence on the individual and the family.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-020",
+    "subject": "SWPPS",
+    "topic": "C. Theories & Perspectives on Filipino Family Life & Structure",
+    "subtopic": "Modernization Theory",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "According to modernization theory, what is the expected outcome for traditional Filipino family structures as the country develops economically?",
+    "choices": [
+      "They will remain unchanged.",
+      "They will strengthen their traditional roles.",
+      "They will become more nuclear and less extended.",
+      "They will completely disintegrate."
+    ],
+    "answerIndex": 2,
+    "rationale": "Modernization theory posits that as societies industrialize and urbanize, traditional extended family structures tend to give way to smaller, nuclear family units.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-021",
+    "subject": "SWPPS",
+    "topic": "D. Gender and Development & Social Work",
+    "subtopic": "Gender Roles",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which term refers to the socially constructed roles, behaviors, activities, and attributes that a given society considers appropriate for men and women?",
+    "choices": [
+      "Sex",
+      "Biological identity",
+      "Gender",
+      "Sexuality"
+    ],
+    "answerIndex": 2,
+    "rationale": "Gender is a social construct, distinct from biological sex, and refers to the roles and behaviors society ascribes to males and females.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-022",
+    "subject": "SWPPS",
+    "topic": "D. Gender and Development & Social Work",
+    "subtopic": "GAD Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "In a social work intervention, a GAD (Gender and Development) approach would primarily focus on:",
+    "choices": [
+      "Providing separate services for men and women.",
+      "Ensuring that women receive more services than men.",
+      "Examining the unequal power relations and gender roles that affect development outcomes.",
+      "Exclusively on women's issues without considering men's roles."
+    ],
+    "answerIndex": 2,
+    "rationale": "The GAD approach analyzes how gender inequality affects development and aims to address the structural causes of these inequalities, involving both men and women.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-023",
+    "subject": "SWPPS",
+    "topic": "D. Gender and Development & Social Work",
+    "subtopic": "Legal Framework",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker is advocating for a woman's right to maternity leave. This advocacy is supported by which key legal framework in the Philippines?",
+    "choices": [
+      "The Philippine Constitution.",
+      "The Solo Parents' Welfare Act.",
+      "The Magna Carta of Women (RA 9710).",
+      "The Family Code of the Philippines."
+    ],
+    "answerIndex": 2,
+    "rationale": "The Magna Carta of Women (RA 9710) is a comprehensive law that protects and promotes women's rights, including their right to equal employment opportunities and safe working conditions, which includes maternity benefits.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-024",
+    "subject": "SWPPS",
+    "topic": "D. Gender and Development & Social Work",
+    "subtopic": "Masculinity",
+    "bloom": "Understand",
+    "difficulty": "Moderate",
+    "stem": "Which of the following describes the concept of 'machismo' in the Filipino context?",
+    "choices": [
+      "A term used to describe a caring and gentle man.",
+      "A term that only applies to a father's role.",
+      "A strong or aggressive masculine pride and dominance.",
+      "A concept related to gender neutrality."
+    ],
+    "answerIndex": 2,
+    "rationale": "Machismo is a term used to describe a strong or aggressive masculine pride, often associated with dominance, sexual prowess, and a traditional view of men's roles.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-025",
+    "subject": "SWPPS",
+    "topic": "D. Gender and Development & Social Work",
+    "subtopic": "Social Work & Gender Issues",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker observes a family where a woman is expected to do all the household chores despite also working full-time. This is an example of:",
+    "choices": [
+      "Gender equality.",
+      "The gender division of labor.",
+      "Gender neutrality.",
+      "Matriarchy."
+    ],
+    "answerIndex": 1,
+    "rationale": "The gender division of labor refers to the specific roles and tasks that are assigned to individuals based on their gender within a society or family, often leading to unequal workloads.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-026",
+    "subject": "SWPPS",
+    "topic": "D. Gender and Development & Social Work",
+    "subtopic": "LGBTIQ+ Community",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is asked to conduct a sensitivity training for a government office regarding the LGBTIQ+ community. The most appropriate starting point would be to:",
+    "choices": [
+      "Focus on the legal implications of same-sex marriage.",
+      "Explain the differences between sexual orientation and gender identity.",
+      "Advocate for specific political rights only.",
+      "Provide a historical overview of the community's struggles."
+    ],
+    "answerIndex": 1,
+    "rationale": "A foundational step in sensitivity training is clarifying basic terminology to prevent misunderstandings. Distinguishing between sexual orientation (who one is attracted to) and gender identity (one's internal sense of self as male, female, or something else) is crucial.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-027",
+    "subject": "SWPPS",
+    "topic": "D. Gender and Development & Social Work",
+    "subtopic": "Gender Stereotypes",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The belief that all men are naturally strong and unemotional, while all women are naturally nurturing and weak, is an example of a:",
+    "choices": [
+      "Biological fact.",
+      "Gender role.",
+      "Gender stereotype.",
+      "Gender identity."
+    ],
+    "answerIndex": 2,
+    "rationale": "A gender stereotype is a generalized view or preconception about attributes or characteristics that are or ought to be possessed by women and men or the roles that are or should be performed by them.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-028",
+    "subject": "SWPPS",
+    "topic": "D. Gender and Development & Social Work",
+    "subtopic": "GAD Budget",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A local government unit fails to allocate a GAD (Gender and Development) budget. This is a violation of which law?",
+    "choices": [
+      "The Anti-Violence Against Women and their Children Act.",
+      "The Magna Carta of Women (RA 9710).",
+      "The Local Government Code.",
+      "The Solo Parents' Welfare Act."
+    ],
+    "answerIndex": 1,
+    "rationale": "The Magna Carta of Women (RA 9710) mandates that all government agencies and local government units must allocate at least five percent of their total budget to GAD planning and implementation.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-029",
+    "subject": "SWPPS",
+    "topic": "E. Human Sexuality & Social Work",
+    "subtopic": "Concepts of Sexuality",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following best defines human sexuality from a social work perspective?",
+    "choices": [
+      "It is solely determined by biological factors.",
+      "It is an integral part of human identity that includes physical, psychological, social, and spiritual dimensions.",
+      "It is limited to sexual acts and behaviors.",
+      "It is a fixed and unchanging trait from birth."
+    ],
+    "answerIndex": 1,
+    "rationale": "Human sexuality is a holistic concept that encompasses not just the physical but also the emotional, social, and psychological aspects of being human.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-030",
+    "subject": "SWPPS",
+    "topic": "E. Human Sexuality & Social Work",
+    "subtopic": "Sexual Orientation",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is providing counseling to an adolescent who is questioning their sexual orientation. The most appropriate initial intervention would be to:",
+    "choices": [
+      "Encourage the client to choose a specific orientation.",
+      "Refer the client to a therapist who specializes in 'conversion therapy.'",
+      "Create a safe and non-judgmental space for the client to explore their feelings and identity.",
+      "Advise the client to keep their feelings a secret from their family."
+    ],
+    "answerIndex": 2,
+    "rationale": "The role of a social worker is to provide a supportive and affirming environment where clients can safely explore their identity without pressure or judgment. 'Conversion therapy' is considered unethical and harmful by major professional organizations.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-031",
+    "subject": "SWPPS",
+    "topic": "E. Human Sexuality & Social Work",
+    "subtopic": "Reproductive Health",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a session on reproductive health in a rural community. The most effective approach would be to:",
+    "choices": [
+      "Provide information on modern contraceptives only.",
+      "Discuss a broad range of topics including family planning, maternal and child health, and sexual health, while respecting cultural and religious beliefs.",
+      "Condemn traditional family planning methods.",
+      "Focus exclusively on preventing sexually transmitted infections."
+    ],
+    "answerIndex": 1,
+    "rationale": "A comprehensive and culturally sensitive approach to reproductive health acknowledges the various needs of a community and respects their existing belief systems, integrating them with factual information.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-032",
+    "subject": "SWPPS",
+    "topic": "E. Human Sexuality & Social Work",
+    "subtopic": "Sexual Abuse",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a survivor of sexual abuse. The primary goal of intervention, from a trauma-informed perspective, is to:",
+    "choices": [
+      "Force the survivor to confront their abuser immediately.",
+      "Focus on the survivor's immediate physical safety and emotional stability before any other intervention.",
+      "Encourage the survivor to quickly move on from the experience.",
+      "Prioritize legal action over the survivor's psychological well-being."
+    ],
+    "answerIndex": 1,
+    "rationale": "Trauma-informed care prioritizes the survivor's physical and emotional safety, recognizing that trauma can be re-triggered. Ensuring a safe and stable environment is the first and most critical step.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-033",
+    "subject": "SWPPS",
+    "topic": "E. Human Sexuality & Social Work",
+    "subtopic": "Sexuality and Culture",
+    "bloom": "Understand",
+    "difficulty": "Moderate",
+    "stem": "In many Filipino families, the topic of sexuality is considered taboo and is not openly discussed. This cultural phenomenon can lead to:",
+    "choices": [
+      "Increased communication about safe sexual practices.",
+      "A higher comfort level among children to ask questions.",
+      "A lack of accurate information, leading to vulnerability to sexual health risks.",
+      "A decrease in teenage pregnancy rates."
+    ],
+    "answerIndex": 2,
+    "rationale": "The cultural taboo surrounding open discussion of sexuality often leads to misinformation, shame, and a lack of access to crucial sexual health information, which can increase vulnerability to risks like early pregnancy and STIs.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-034",
+    "subject": "SWPPS",
+    "topic": "E. Human Sexuality & Social Work",
+    "subtopic": "Social Work Ethics",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "An ethical dilemma arises when a social worker's personal religious beliefs conflict with a client's decision regarding their sexual lifestyle. The social worker's professional obligation is to:",
+    "choices": [
+      "Refer the client to a social worker with similar beliefs.",
+      "Impose their religious beliefs onto the client for their own good.",
+      "Suspend their personal beliefs and provide non-judgmental, client-centered service based on the Code of Ethics.",
+      "Terminate the professional relationship immediately."
+    ],
+    "answerIndex": 2,
+    "rationale": "The social work Code of Ethics mandates that practitioners must maintain professional boundaries and provide service to all clients without discrimination, respecting the client's self-determination.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-035",
+    "subject": "SWPPS",
+    "topic": "E. Human Sexuality & Social Work",
+    "subtopic": "Gender Identity",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A client identifies as a woman but was assigned male at birth. This client's gender identity is a core component of their personal identity. Which term describes this client's identity?",
+    "choices": [
+      "Cisgender.",
+      "Gender fluid.",
+      "Transgender.",
+      "Intersex."
+    ],
+    "answerIndex": 2,
+    "rationale": "Transgender is an umbrella term for people whose gender identity and/or expression is different from cultural expectations based on the sex they were assigned at birth.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-036",
+    "subject": "SWPPS",
+    "topic": "E. Human Sexuality & Social Work",
+    "subtopic": "Sexual Health Education",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "In a school setting, a social worker is tasked with designing a comprehensive sexual health education program. The most inclusive program would:",
+    "choices": [
+      "Focus exclusively on abstinence.",
+      "Provide information on the risks of pre-marital sex only.",
+      "Include a range of topics from anatomy and puberty to consent, healthy relationships, and safe sexual practices.",
+      "Be taught only to students who are already sexually active."
+    ],
+    "answerIndex": 2,
+    "rationale": "A comprehensive sexual health education program covers a wide range of topics, is medically accurate, and promotes healthy behaviors and relationships, regardless of students' past or future choices.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-037",
+    "subject": "SWPPS",
+    "topic": "F. Human Behavior in the Social Environment",
+    "subtopic": "Systems Theory",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "Using systems theory, a social worker analyzing a client's substance abuse problem would consider not only the individual but also:",
+    "choices": [
+      "Their genetic predispositions and biological makeup.",
+      "The client's own personal motivation to change.",
+      "The interconnectedness of the client with their family, friends, and community systems.",
+      "The client's past experiences in isolation."
+    ],
+    "answerIndex": 2,
+    "rationale": "Systems theory views individuals and families as part of larger, interconnected systems. An issue with one part of the system affects all other parts, so the social worker must consider the client's entire social environment.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-038",
+    "subject": "SWPPS",
+    "topic": "F. Human Behavior in the Social Environment",
+    "subtopic": "Life Course Perspective",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The life course perspective in social work emphasizes that human behavior is shaped by:",
+    "choices": [
+      "Only psychological factors.",
+      "A rigid, predetermined sequence of life stages.",
+      "The cumulative impact of social, historical, and environmental events over a person's lifetime.",
+      "Genetic inheritance alone."
+    ],
+    "answerIndex": 2,
+    "rationale": "The life course perspective looks at how an individual's development is shaped by historical events, cultural norms, and social transitions throughout their life.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-039",
+    "subject": "SWPPS",
+    "topic": "F. Human Behavior in the Social Environment",
+    "subtopic": "Psychodynamic Theory",
+    "bloom": "Apply",
+    "difficulty": "Difficult",
+    "stem": "A social worker using a psychodynamic approach with a client would focus on:",
+    "choices": [
+      "Changing the client's current thought patterns.",
+      "Uncovering how unconscious motivations and childhood experiences influence current behavior.",
+      "Analyzing the client's social and community networks.",
+      "Developing a list of positive and negative reinforcements for the client."
+    ],
+    "answerIndex": 1,
+    "rationale": "Psychodynamic theory, rooted in Freud's work, emphasizes the influence of unconscious processes and early childhood experiences on an individual's adult behavior.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "SWPPS-B1-040",
+    "subject": "SWPPS",
+    "topic": "F. Human Behavior in the Social Environment",
+    "subtopic": "Maslow's Hierarchy of Needs",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is assisting a homeless person. According to Maslow's Hierarchy of Needs, which need must be prioritized first?",
+    "choices": [
+      "The need for love and belonging.",
+      "The need for self-actualization.",
+      "The need for physiological and safety requirements.",
+      "The need for self-esteem."
+    ],
+    "answerIndex": 2,
+    "rationale": "Maslow's Hierarchy of Needs posits that basic needs such as food, water, and shelter (physiological) and personal security (safety) must be met before higher-level needs can be addressed.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  }
+]

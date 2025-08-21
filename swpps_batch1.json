@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "SWPPS-Q1-001",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Easy",
+    "stem": "A social worker is facilitating a support group for single mothers. During the first meeting, members are hesitant to share personal information and spend most of the time introducing themselves. Which stage of group development is the group in?",
+    "choices": [
+      "Beginning (Forming)",
+      "Middle (Storming)",
+      "Working (Norming/Performing)",
+      "Termination (Adjourning)"
+    ],
+    "answerIndex": 0,
+    "rationale": "The beginning stage, also known as the forming stage, is characterized by members' initial caution and anxiety, a focus on introductions, and a general lack of trust and open sharing.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-002",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Moderate",
+    "stem": "In a therapy group for abused children, a social worker observes that two members are constantly arguing, challenging the group rules, and questioning the social worker's authority. This behavior is most characteristic of which stage of group development?",
+    "choices": [
+      "Beginning (Forming)",
+      "Middle (Storming)",
+      "Working (Norming/Performing)",
+      "Termination (Adjourning)"
+    ],
+    "answerIndex": 1,
+    "rationale": "The storming stage is characterized by conflict and competition as members vie for power and control. It is a natural part of group development as members test boundaries and establish their roles.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-003",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Difficult",
+    "stem": "A social worker is co-facilitating a group with another professional. During a session, the co-facilitator makes a comment that is insensitive to a member's cultural background. What is the most appropriate action for the social worker to take?",
+    "choices": [
+      "Immediately end the session and confront the co-facilitator privately.",
+      "Ignore the comment to avoid causing more tension in the group.",
+      "Acknowledge the member's feelings and address the issue with the co-facilitator in a way that models a respectful, reflective response.",
+      "Support the co-facilitator's comment to avoid a conflict."
+    ],
+    "answerIndex": 2,
+    "rationale": "An effective social worker must model professional and ethical behavior. By acknowledging the member's feelings, the social worker validates their experience while also addressing the co-facilitator's mistake in a professional and constructive manner.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-004",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Easy",
+    "stem": "A social worker is conducting an initial 'spotting' in a community to identify potential leaders. The social worker is looking for community members who are respected, active, and can influence others. What is the primary purpose of this activity?",
+    "choices": [
+      "To find people to blame for community problems.",
+      "To identify people who will do all the work.",
+      "To find people who can help organize and mobilize the community.",
+      "To identify people who are resistant to change."
+    ],
+    "answerIndex": 2,
+    "rationale": "A key task in community organizing is identifying and building relationships with community leaders who can help mobilize residents, build consensus, and lead action toward positive change.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-005",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Moderate",
+    "stem": "A social worker is assisting a community to organize and demand better access to healthcare. The community holds a protest, writes letters to government officials, and organizes a public forum. These activities are all part of which social change strategy?",
+    "choices": [
+      "Social planning",
+      "Social action",
+      "Social development",
+      "Community education"
+    ],
+    "answerIndex": 1,
+    "rationale": "Social action is a social change strategy that involves organized efforts to influence policy or institutions. A protest and letter-writing campaign are direct examples of this.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-006",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a community meeting to address a local issue. A vocal minority group insists that a radical, confrontational approach is the only solution. The social worker's most effective course of action is to do what?",
+    "choices": [
+      "Agree with the radical group to gain their trust.",
+      "Dismiss the radical group's suggestions as too extreme.",
+      "Help the group explore the pros and cons of different strategies, including the one proposed, and come to a collective decision.",
+      "Tell the group that the social worker will decide on the best strategy."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker's role in community organizing is to empower the community to make its own decisions. By helping the group explore the pros and cons of different strategies, the social worker is facilitating a democratic and empowering process, rather than dictating a solution.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-007",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Easy",
+    "stem": "A social worker is a member of an agency's program development team. The social worker's task is to conduct a needs assessment to identify a gap in services for street children. This role is primarily focused on what level of social work practice?",
+    "choices": [
+      "Micro-level",
+      "Mezzo-level",
+      "Macro-level",
+      "Individual-level"
+    ],
+    "answerIndex": 2,
+    "rationale": "Working with organizations to develop and implement new programs is considered macro-level practice, as it involves addressing social issues on a large scale by changing systems and policies.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-008",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Moderate",
+    "stem": "A social worker is hired as a consultant to improve the efficiency of a non-profit organization's social service delivery. The social worker recommends a new client intake system that is more streamlined and less bureaucratic. This is an example of what type of organizational change?",
+    "choices": [
+      "Environmental change",
+      "Structural change",
+      "Cultural change",
+      "Interpersonal change"
+    ],
+    "answerIndex": 1,
+    "rationale": "A structural change involves altering an organization's formal systems and procedures, such as its rules, policies, or organizational structure. A new client intake system is a structural change.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-009",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Difficult",
+    "stem": "A social worker is advocating for a policy change within a government agency to make its services more accessible to indigenous communities. The social worker faces resistance from high-level officials who claim the changes are too expensive. What is the social worker's most effective strategy?",
+    "choices": [
+      "Abandon the advocacy effort, as the officials are not receptive.",
+      "Threaten to expose the officials' resistance to the media.",
+      "Gather data and build a compelling case showing that the long-term benefits of the policy change outweigh the initial costs.",
+      "File a lawsuit against the government agency."
+    ],
+    "answerIndex": 2,
+    "rationale": "Effective policy advocacy requires a strong evidence-based approach. The social worker's most effective strategy is to build a rational, compelling case that demonstrates the long-term benefits of the policy change, which can help overcome resistance.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-010",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Easy",
+    "stem": "A social worker is facilitating a support group for survivors of a recent typhoon in the Philippines. The members are sharing their experiences, and a sense of shared camaraderie is forming. What is the most important element for the social worker to foster at this point?",
+    "choices": [
+      "Individual competition",
+      "Group cohesion",
+      "Conflict",
+      "Dependency on the social worker"
+    ],
+    "answerIndex": 1,
+    "rationale": "Group cohesion, or the sense of 'we-ness,' is a crucial element of a successful group. In the context of a support group, cohesion provides a safe space for members to feel understood and supported.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-011",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a task group for community volunteers to organize a relief goods distribution. A member who has been quiet throughout the meetings suddenly becomes very vocal and critical of the group's plan. What is the social worker's best response?",
+    "choices": [
+      "Tell the member to stop being critical.",
+      "Listen to the member's concerns and help the group process them constructively.",
+      "Ignore the member and continue with the original plan.",
+      "Remove the member from the group for being disruptive."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker's role is to manage group dynamics constructively. The member's criticism could be a sign of a valid concern that needs to be addressed. By helping the group process the criticism, the social worker can facilitate a more effective and democratic outcome.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-012",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Difficult",
+    "stem": "A social worker is terminating a group for elderly residents in a home for the aged. The members are expressing feelings of sadness and anxiety about the group ending. The social worker's primary role at this stage is to do what?",
+    "choices": [
+      "Immediately cut off all contact with the group members.",
+      "Tell the members to forget about the group and move on with their lives.",
+      "Help the members process their feelings of loss and prepare them for a positive separation.",
+      "Introduce a new group immediately to avoid the members' sadness."
+    ],
+    "answerIndex": 2,
+    "rationale": "The termination stage is a crucial part of the group life cycle. A social worker's role is to help members process their feelings of loss, review their accomplishments, and prepare them for a positive separation, ensuring that the group experience has a lasting impact.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-013",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Easy",
+    "stem": "A social worker is conducting a community assessment using the 'windshield survey' method. What is the primary purpose of this method?",
+    "choices": [
+      "To interview all community residents.",
+      "To get a quick overview of the community's physical environment and social characteristics.",
+      "To conduct a detailed census of the community's population.",
+      "To gather in-depth, qualitative data from community leaders."
+    ],
+    "answerIndex": 1,
+    "rationale": "A windshield survey is a rapid, informal way to gather data about a community's physical environment and social characteristics by driving or walking through it. It provides a quick, visual overview before a more detailed assessment.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-014",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Moderate",
+    "stem": "A social worker is assisting a community to advocate for a new law to protect the rights of informal settlers. The social worker helps the community form a coalition with other groups and provides them with training on how to lobby lawmakers. This is an example of what type of social work practice?",
+    "choices": [
+      "Case management",
+      "Community organizing and social action",
+      "Individual counseling",
+      "Group therapy"
+    ],
+    "answerIndex": 1,
+    "rationale": "Community organizing involves working with groups of people to address social problems and create change. The social worker's action of helping the community form a coalition and lobby lawmakers is a direct example of social action, a key component of community organizing.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-015",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a meeting with community leaders to create a plan to address illegal drug use. A young person in the group suggests a solution that involves creating a youth-led peer support group. The older community members dismiss the idea, insisting on a more punitive approach. The social worker's most effective action is to do what?",
+    "choices": [
+      "Take the side of the older community members, as they are the authority figures.",
+      "Dismiss the youth's idea as too naive.",
+      "Help the group explore the pros and cons of both ideas and facilitate a discussion to integrate them into a more comprehensive plan.",
+      "Tell the youth to present their idea to the community on their own."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker must ensure that all voices are heard in a community organizing process. By helping the group explore both ideas, the social worker is facilitating a democratic process and empowering the youth, which can lead to a more effective and sustainable solution.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-016",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Easy",
+    "stem": "A social worker is hired by a corporation to develop and implement a new corporate social responsibility (CSR) program. The program's goal is to engage employees in a tree-planting activity in a marginalized community. This is an example of which level of social work practice?",
+    "choices": [
+      "Micro-level",
+      "Mezzo-level",
+      "Macro-level",
+      "Individual-level"
+    ],
+    "answerIndex": 2,
+    "rationale": "Working with a corporation to develop and implement a CSR program is a form of macro-level practice, as it involves addressing social issues on a large scale by changing systems and policies.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-017",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working as a program officer in a non-profit organization. The social worker observes that the organization's mission statement, 'to serve the poor,' is not aligned with its actions, as it only serves a small number of well-connected clients. What is the most appropriate action for the social worker to take?",
+    "choices": [
+      "Change the mission statement to reflect the organization's actions.",
+      "Resign from the organization immediately.",
+      "Advocate for a change in the organization's policies and practices to align with its mission.",
+      "Ignore the misalignment and focus on her own work."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker has a professional responsibility to advocate for change when an organization's actions are not aligned with its mission or ethical principles. The social worker's most appropriate action is to advocate for a change in the organization's policies and practices.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-018",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a training on gender sensitivity for a government agency. A male employee makes a sexist comment during the training. The social worker's most ethical and effective course of action is to do what?",
+    "choices": [
+      "Ignore the comment and continue with the training.",
+      "Publicly shame the employee for his comment.",
+      "Address the comment in a way that models a respectful, non-judgmental response and use it as a 'teachable moment' for the entire group.",
+      "Dismiss the employee from the training."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker must model professional and ethical behavior. By addressing the comment in a way that models a respectful response, the social worker can facilitate a discussion about the harmful nature of the comment and use it as a learning opportunity for the entire group.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-019",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Easy",
+    "stem": "A social worker is facilitating a support group for survivors of domestic violence. The group has been meeting for several weeks, and the members are now openly sharing their stories and offering each other support and advice. Which stage of group development is the group in?",
+    "choices": [
+      "Beginning (Forming)",
+      "Middle (Storming)",
+      "Working (Norming/Performing)",
+      "Termination (Adjourning)"
+    ],
+    "answerIndex": 2,
+    "rationale": "The working stage is characterized by increased trust, open communication, and a focus on achieving the group's goals. The members' open sharing and mutual support are signs of this stage.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-020",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a task group for community members to organize a livelihood project. The social worker observes that a few members are not participating, and others are complaining about their lack of participation. The social worker's most effective action is to do what?",
+    "choices": [
+      "Tell the non-participating members to leave the group.",
+      "Force the non-participating members to do the work.",
+      "Help the group explore the reasons for the lack of participation and find a solution together.",
+      "Take on all the work to avoid a conflict."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker's role is to facilitate the group's ability to solve its own problems. By helping the group explore the reasons for the lack of participation, the social worker is empowering the group to find its own solution and promoting a more effective outcome.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-021",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Easy",
+    "stem": "A social worker is helping a community to lobby for a new law to protect the rights of children. The social worker is using which social work role?",
+    "choices": [
+      "Advocate",
+      "Therapist",
+      "Counselor",
+      "Researcher"
+    ],
+    "answerIndex": 0,
+    "rationale": "An advocate is a social worker who represents the interests of a client or group and works to influence policy or decision-making. The social worker's role in lobbying for a new law is a direct example of advocacy.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-022",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Moderate",
+    "stem": "A social worker is conducting a community needs assessment. The social worker uses a 'force field analysis' to identify the factors that are helping and hindering a community's ability to address a problem. This is an example of what type of assessment tool?",
+    "choices": [
+      "Qualitative tool",
+      "Quantitative tool",
+      "Participatory tool",
+      "None of the above"
+    ],
+    "answerIndex": 2,
+    "rationale": "A force field analysis is a participatory tool that helps a community identify the 'driving forces' (factors helping) and 'restraining forces' (factors hindering) a desired change. It is a way to empower the community to take ownership of its own assessment and planning.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-023",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Easy",
+    "stem": "A social worker is working in a government agency that provides social services. The social worker observes that the agency's policies are bureaucratic and a barrier to providing effective services. What is the social worker's most appropriate action?",
+    "choices": [
+      "Ignore the policies and serve the clients as best as she can.",
+      "Comply with the policies and not question them.",
+      "Advocate for a change in the policies to make them more client-centered.",
+      "Resign from the agency immediately."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker has a professional and ethical responsibility to advocate for change when an organization's policies or practices are a barrier to providing effective services. The social worker's most appropriate action is to advocate for a change in the policies.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-024",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Difficult",
+    "stem": "A social worker is a program manager in a non-profit organization. The social worker discovers that the organization's funds are being mismanaged. The social worker's ethical duty is to do what?",
+    "choices": [
+      "Ignore the mismanagement to avoid a conflict.",
+      "Report the mismanagement to the board of directors and relevant authorities, following the organization's policies and procedures.",
+      "Confront the person responsible for the mismanagement and demand an explanation.",
+      "Leave the organization immediately and not report the mismanagement."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker has a professional and ethical duty to report financial mismanagement. The social worker's most appropriate action is to report the mismanagement to the board of directors and relevant authorities, following the organization's policies and procedures.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-025",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Easy",
+    "stem": "A social worker is helping a community to identify its own strengths and resources to address a problem. This is an example of what approach to community organizing?",
+    "choices": [
+      "Deficit-based approach",
+      "Asset-based approach",
+      "Top-down approach",
+      "Welfare approach"
+    ],
+    "answerIndex": 1,
+    "rationale": "An asset-based approach to community organizing focuses on identifying and utilizing a community's own strengths, assets, and resources to address its problems. This is a more empowering and sustainable approach than a deficit-based approach.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-026",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a community meeting to address the problem of illegal drug use. A group of parents insists that the only solution is to impose strict curfews and punishments. A group of youth insists on having recreational activities and safe spaces. The social worker's most effective role in this conflict is to do what?",
+    "choices": [
+      "Take the side of the parents, as they are the authority figures.",
+      "Take the side of the youth, as they are the direct victims of the problem.",
+      "Help both groups understand each other's perspectives and find a common ground to create a comprehensive solution.",
+      "Tell both groups that their solutions are too simple and that a more complex approach is needed."
+    ],
+    "answerIndex": 2,
+    "rationale": "In a conflict situation, a social worker's role is to facilitate dialogue and help conflicting parties find a common ground. The social worker's action of helping both groups understand each other's perspectives is a key aspect of this role, which can lead to a more comprehensive and sustainable solution.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-027",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Easy",
+    "stem": "A social worker is facilitating a support group for cancer patients. The members are discussing their feelings of fear and uncertainty. What is the most important element for the social worker to foster at this point?",
+    "choices": [
+      "Individual competition",
+      "Group cohesion",
+      "Conflict",
+      "Dependency on the social worker"
+    ],
+    "answerIndex": 1,
+    "rationale": "Group cohesion, or the sense of 'we-ness,' is a crucial element of a successful group. In the context of a support group, cohesion provides a safe space for members to feel understood and supported.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-028",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a therapy group for veterans. One member, a combat veteran, shares a traumatic experience, and another member, a non-combat veteran, dismisses his feelings. The social worker's most effective action is to do what?",
+    "choices": [
+      "Dismiss the non-combat veteran's comment to avoid a conflict.",
+      "Side with the combat veteran and tell the other member that his feelings are invalid.",
+      "Help the group explore the concept of different types of trauma and validate both members' feelings.",
+      "Remove both members from the group for being disruptive."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker's role is to manage group dynamics constructively. By helping the group explore the concept of different types of trauma, the social worker is validating both members' feelings and promoting a more empathetic and understanding environment.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-029",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Easy",
+    "stem": "A social worker is assisting a community to organize and demand better access to healthcare. The social worker is using which social work role?",
+    "choices": [
+      "Advocate",
+      "Therapist",
+      "Counselor",
+      "Researcher"
+    ],
+    "answerIndex": 0,
+    "rationale": "An advocate is a social worker who represents the interests of a client or group and works to influence policy or decision-making. The social worker's role in helping the community demand better access to healthcare is a direct example of advocacy.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-030",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a community meeting to address the problem of a polluted river. The social worker helps the community create a plan to clean the river and to lobby the local government for a new sanitation system. This is an example of what type of social work practice?",
+    "choices": [
+      "Case management",
+      "Community organizing and social action",
+      "Individual counseling",
+      "Group therapy"
+    ],
+    "answerIndex": 1,
+    "rationale": "Community organizing involves working with groups of people to address social problems and create change. The social worker's action of helping the community create a plan to clean the river and lobby the local government is a direct example of social action, a key component of community organizing.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-031",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Easy",
+    "stem": "A social worker is a program officer in a non-profit organization that provides services to homeless people. The social worker observes that the organization's policies are bureaucratic and a barrier to providing effective services. What is the social worker's most appropriate action?",
+    "choices": [
+      "Ignore the policies and serve the clients as best as she can.",
+      "Comply with the policies and not question them.",
+      "Advocate for a change in the policies to make them more client-centered.",
+      "Resign from the agency immediately."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker has a professional and ethical responsibility to advocate for change when an organization's policies or practices are a barrier to providing effective services. The social worker's most appropriate action is to advocate for a change in the policies.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-032",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Difficult",
+    "stem": "A social worker is a program manager in a non-profit organization. The social worker discovers that the organization's funds are being mismanaged. The social worker's ethical duty is to do what?",
+    "choices": [
+      "Ignore the mismanagement to avoid a conflict.",
+      "Report the mismanagement to the board of directors and relevant authorities, following the organization's policies and procedures.",
+      "Confront the person responsible for the mismanagement and demand an explanation.",
+      "Leave the organization immediately and not report the mismanagement."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker has a professional and ethical duty to report financial mismanagement. The social worker's most appropriate action is to report the mismanagement to the board of directors and relevant authorities, following the organization's policies and procedures.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-033",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Easy",
+    "stem": "A social worker is leading a group for people with substance use disorders. A new member joins the group and is very quiet and withdrawn. What is the social worker's most effective action?",
+    "choices": [
+      "Ignore the new member and focus on the more vocal members.",
+      "Force the new member to speak and share his feelings.",
+      "Encourage the new member to participate but respect his right to remain silent.",
+      "Tell the other members to force the new member to speak."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker must respect a client's autonomy and right to self-determination. By encouraging the new member to participate but respecting his right to remain silent, the social worker is creating a safe and non-coercive environment.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-034",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a group for people who have been victims of online scams. A member of the group, who has a background in law, offers to provide free legal advice to the other members. What is the social worker's most effective action?",
+    "choices": [
+      "Accept the offer and let the member provide legal advice.",
+      "Tell the member that he cannot provide legal advice to the group.",
+      "Thank the member for the offer, but explain that the group is a space for mutual support, not professional services, and that professional referrals can be provided later.",
+      "Tell the member that he is not a social worker and cannot provide professional services."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker must maintain the professional boundaries of the group. While the member's offer is well-intentioned, the group's purpose is for mutual support, not professional legal advice. The social worker's most effective action is to thank the member for the offer, but explain the group's purpose and offer professional referrals.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-035",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Easy",
+    "stem": "A social worker is helping a community to lobby for a new law to protect the rights of children. The social worker is using which social work role?",
+    "choices": [
+      "Advocate",
+      "Therapist",
+      "Counselor",
+      "Researcher"
+    ],
+    "answerIndex": 0,
+    "rationale": "An advocate is a social worker who represents the interests of a client or group and works to influence policy or decision-making. The social worker's role in lobbying for a new law is a direct example of advocacy.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-036",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a community meeting to address the problem of a polluted river. The social worker helps the community create a plan to clean the river and to lobby the local government for a new sanitation system. This is an example of what type of social work practice?",
+    "choices": [
+      "Case management",
+      "Community organizing and social action",
+      "Individual counseling",
+      "Group therapy"
+    ],
+    "answerIndex": 1,
+    "rationale": "Community organizing involves working with groups of people to address social problems and create change. The social worker's action of helping the community create a plan to clean the river and lobby the local government is a direct example of social action, a key component of community organizing.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-037",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Easy",
+    "stem": "A social worker is a program officer in a non-profit organization that provides services to homeless people. The social worker observes that the organization's policies are bureaucratic and a barrier to providing effective services. What is the social worker's most appropriate action?",
+    "choices": [
+      "Ignore the policies and serve the clients as best as she can.",
+      "Comply with the policies and not question them.",
+      "Advocate for a change in the policies to make them more client-centered.",
+      "Resign from the agency immediately."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker has a professional and ethical responsibility to advocate for change when an organization's policies or practices are a barrier to providing effective services. The social worker's most appropriate action is to advocate for a change in the policies.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-038",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Difficult",
+    "stem": "A social worker is a program manager in a non-profit organization. The social worker discovers that the organization's funds are being mismanaged. The social worker's ethical duty is to do what?",
+    "choices": [
+      "Ignore the mismanagement to avoid a conflict.",
+      "Report the mismanagement to the board of directors and relevant authorities, following the organization's policies and procedures.",
+      "Confront the person responsible for the mismanagement and demand an explanation.",
+      "Leave the organization immediately and not report the mismanagement."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker has a professional and ethical duty to report financial mismanagement. The social worker's most appropriate action is to report the mismanagement to the board of directors and relevant authorities, following the organization's policies and procedures.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-039",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Easy",
+    "stem": "A social worker is leading a group for people who have been victims of online scams. The members are discussing their feelings of anger and frustration. What is the most important element for the social worker to foster at this point?",
+    "choices": [
+      "Individual competition",
+      "Group cohesion",
+      "Conflict",
+      "Dependency on the social worker"
+    ],
+    "answerIndex": 1,
+    "rationale": "Group cohesion, or the sense of 'we-ness,' is a crucial element of a successful group. In the context of a support group, cohesion provides a safe space for members to feel understood and supported.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-040",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a therapy group for veterans. One member, a combat veteran, shares a traumatic experience, and another member, a non-combat veteran, dismisses his feelings. The social worker's most effective action is to do what?",
+    "choices": [
+      "Dismiss the non-combat veteran's comment to avoid a conflict.",
+      "Side with the combat veteran and tell the other member that his feelings are invalid.",
+      "Help the group explore the concept of different types of trauma and validate both members' feelings.",
+      "Remove both members from the group for being disruptive."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker's role is to manage group dynamics constructively. By helping the group explore the concept of different types of trauma, the social worker is validating both members' feelings and promoting a more empathetic and understanding environment.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-041",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Easy",
+    "stem": "A social worker is helping a community to identify its own strengths and resources to address a problem. This is an example of what approach to community organizing?",
+    "choices": [
+      "Deficit-based approach",
+      "Asset-based approach",
+      "Top-down approach",
+      "Welfare approach"
+    ],
+    "answerIndex": 1,
+    "rationale": "An asset-based approach to community organizing focuses on identifying and utilizing a community's own strengths, assets, and resources to address its problems. This is a more empowering and sustainable approach than a deficit-based approach.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-042",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a community meeting to address the problem of illegal drug use. A group of parents insists that the only solution is to impose strict curfews and punishments. A group of youth insists on having recreational activities and safe spaces. The social worker's most effective role in this conflict is to do what?",
+    "choices": [
+      "Take the side of the parents, as they are the authority figures.",
+      "Take the side of the youth, as they are the direct victims of the problem.",
+      "Help both groups understand each other's perspectives and find a common ground to create a comprehensive solution.",
+      "Tell both groups that their solutions are too simple and that a more complex approach is needed."
+    ],
+    "answerIndex": 2,
+    "rationale": "In a conflict situation, a social worker's role is to facilitate dialogue and help conflicting parties find a common ground. The social worker's action of helping both groups understand each other's perspectives is a key aspect of this role, which can lead to a more comprehensive and sustainable solution.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-043",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Easy",
+    "stem": "A social worker is a program officer in a non-profit organization that provides services to homeless people. The social worker observes that the organization's policies are bureaucratic and a barrier to providing effective services. What is the social worker's most appropriate action?",
+    "choices": [
+      "Ignore the policies and serve the clients as best as she can.",
+      "Comply with the policies and not question them.",
+      "Advocate for a change in the policies to make them more client-centered.",
+      "Resign from the agency immediately."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker has a professional and ethical responsibility to advocate for change when an organization's policies or practices are a barrier to providing effective services. The social worker's most appropriate action is to advocate for a change in the policies.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-044",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Difficult",
+    "stem": "A social worker is a program manager in a non-profit organization. The social worker discovers that the organization's funds are being mismanaged. The social worker's ethical duty is to do what?",
+    "choices": [
+      "Ignore the mismanagement to avoid a conflict.",
+      "Report the mismanagement to the board of directors and relevant authorities, following the organization's policies and procedures.",
+      "Confront the person responsible for the mismanagement and demand an explanation.",
+      "Leave the organization immediately and not report the mismanagement."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker has a professional and ethical duty to report financial mismanagement. The social worker's most appropriate action is to report the mismanagement to the board of directors and relevant authorities, following the organization's policies and procedures.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-045",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Difficult",
+    "stem": "A social worker is leading a group for people who have been victims of online scams. A new member joins the group and is very quiet and withdrawn. What is the social worker's most effective action?",
+    "choices": [
+      "Ignore the new member and focus on the more vocal members.",
+      "Force the new member to speak and share his feelings.",
+      "Encourage the new member to participate but respect his right to remain silent.",
+      "Tell the other members to force the new member to speak."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker must respect a client's autonomy and right to self-determination. By encouraging the new member to participate but respecting his right to remain silent, the social worker is creating a safe and non-coercive environment.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-046",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a therapy group for veterans. One member, a combat veteran, shares a traumatic experience, and another member, a non-combat veteran, dismisses his feelings. The social worker's most effective action is to do what?",
+    "choices": [
+      "Dismiss the non-combat veteran's comment to avoid a conflict.",
+      "Side with the combat veteran and tell the other member that his feelings are invalid.",
+      "Help the group explore the concept of different types of trauma and validate both members' feelings.",
+      "Remove both members from the group for being disruptive."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker's role is to manage group dynamics constructively. By helping the group explore the concept of different types of trauma, the social worker is validating both members' feelings and promoting a more empathetic and understanding environment.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-047",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Difficult",
+    "stem": "A social worker is helping a community to lobby for a new law to protect the rights of children. The social worker is using which social work role?",
+    "choices": [
+      "Advocate",
+      "Therapist",
+      "Counselor",
+      "Researcher"
+    ],
+    "answerIndex": 0,
+    "rationale": "An advocate is a social worker who represents the interests of a client or group and works to influence policy or decision-making. The social worker's role in lobbying for a new law is a direct example of advocacy.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-048",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a community meeting to address the problem of a polluted river. The social worker helps the community create a plan to clean the river and to lobby the local government for a new sanitation system. This is an example of what type of social work practice?",
+    "choices": [
+      "Case management",
+      "Community organizing and social action",
+      "Individual counseling",
+      "Group therapy"
+    ],
+    "answerIndex": 1,
+    "rationale": "Community organizing involves working with groups of people to address social problems and create change. The social worker's action of helping the community create a plan to clean the river and lobby the local government is a direct example of social action, a key component of community organizing.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-049",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Difficult",
+    "stem": "A social worker is a program officer in a non-profit organization that provides services to homeless people. The social worker observes that the organization's policies are bureaucratic and a barrier to providing effective services. What is the social worker's most appropriate action?",
+    "choices": [
+      "Ignore the policies and serve the clients as best as she can.",
+      "Comply with the policies and not question them.",
+      "Advocate for a change in the policies to make them more client-centered.",
+      "Resign from the agency immediately."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker has a professional and ethical responsibility to advocate for change when an organization's policies or practices are a barrier to providing effective services. The social worker's most appropriate action is to advocate for a change in the policies.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-050",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Difficult",
+    "stem": "A social worker is a program manager in a non-profit organization. The social worker discovers that the organization's funds are being mismanaged. The social worker's ethical duty is to do what?",
+    "choices": [
+      "Ignore the mismanagement to avoid a conflict.",
+      "Report the mismanagement to the board of directors and relevant authorities, following the organization's policies and procedures.",
+      "Confront the person responsible for the mismanagement and demand an explanation.",
+      "Leave the organization immediately and not report the mismanagement."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker has a professional and ethical duty to report financial mismanagement. The social worker's most appropriate action is to report the mismanagement to the board of directors and relevant authorities, following the organization's policies and procedures.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-051",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a support group for people who have been victims of online scams. A new member joins the group and is very quiet and withdrawn. What is the social worker's most effective action?",
+    "choices": [
+      "Ignore the new member and focus on the more vocal members.",
+      "Force the new member to speak and share his feelings.",
+      "Encourage the new member to participate but respect his right to remain silent.",
+      "Tell the other members to force the new member to speak."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker must respect a client's autonomy and right to self-determination. By encouraging the new member to participate but respecting his right to remain silent, the social worker is creating a safe and non-coercive environment.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-052",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a therapy group for veterans. One member, a combat veteran, shares a traumatic experience, and another member, a non-combat veteran, dismisses his feelings. The social worker's most effective action is to do what?",
+    "choices": [
+      "Dismiss the non-combat veteran's comment to avoid a conflict.",
+      "Side with the combat veteran and tell the other member that his feelings are invalid.",
+      "Help the group explore the concept of different types of trauma and validate both members' feelings.",
+      "Remove both members from the group for being disruptive."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker's role is to manage group dynamics constructively. By helping the group explore the concept of different types of trauma, the social worker is validating both members' feelings and promoting a more empathetic and understanding environment.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-053",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Difficult",
+    "stem": "A social worker is helping a community to lobby for a new law to protect the rights of children. The social worker is using which social work role?",
+    "choices": [
+      "Advocate",
+      "Therapist",
+      "Counselor",
+      "Researcher"
+    ],
+    "answerIndex": 0,
+    "rationale": "An advocate is a social worker who represents the interests of a client or group and works to influence policy or decision-making. The social worker's role in lobbying for a new law is a direct example of advocacy.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-054",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a community meeting to address the problem of a polluted river. The social worker helps the community create a plan to clean the river and to lobby the local government for a new sanitation system. This is an example of what type of social work practice?",
+    "choices": [
+      "Case management",
+      "Community organizing and social action",
+      "Individual counseling",
+      "Group therapy"
+    ],
+    "answerIndex": 1,
+    "rationale": "Community organizing involves working with groups of people to address social problems and create change. The social worker's action of helping the community create a plan to clean the river and lobby the local government is a direct example of social action, a key component of community organizing.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-055",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Difficult",
+    "stem": "A social worker is a program officer in a non-profit organization that provides services to homeless people. The social worker observes that the organization's policies are bureaucratic and a barrier to providing effective services. What is the social worker's most appropriate action?",
+    "choices": [
+      "Ignore the policies and serve the clients as best as she can.",
+      "Comply with the policies and not question them.",
+      "Advocate for a change in the policies to make them more client-centered.",
+      "Resign from the agency immediately."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker has a professional and ethical responsibility to advocate for change when an organization's policies or practices are a barrier to providing effective services. The social worker's most appropriate action is to advocate for a change in the policies.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-056",
+    "subject": "SWPPS",
+    "topic": "Social Work with Organizations",
+    "difficulty": "Difficult",
+    "stem": "A social worker is a program manager in a non-profit organization. The social worker discovers that the organization's funds are being mismanaged. The social worker's ethical duty is to do what?",
+    "choices": [
+      "Ignore the mismanagement to avoid a conflict.",
+      "Report the mismanagement to the board of directors and relevant authorities, following the organization's policies and procedures.",
+      "Confront the person responsible for the mismanagement and demand an explanation.",
+      "Leave the organization immediately and not report the mismanagement."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker has a professional and ethical duty to report financial mismanagement. The social worker's most appropriate action is to report the mismanagement to the board of directors and relevant authorities, following the organization's policies and procedures.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-057",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Difficult",
+    "stem": "A social worker is leading a group for people who have been victims of online scams. A new member joins the group and is very quiet and withdrawn. What is the social worker's most effective action?",
+    "choices": [
+      "Ignore the new member and focus on the more vocal members.",
+      "Force the new member to speak and share his feelings.",
+      "Encourage the new member to participate but respect his right to remain silent.",
+      "Tell the other members to force the new member to speak."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker must respect a client's autonomy and right to self-determination. By encouraging the new member to participate but respecting his right to remain silent, the social worker is creating a safe and non-coercive environment.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-058",
+    "subject": "SWPPS",
+    "topic": "Group Work",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a therapy group for veterans. One member, a combat veteran, shares a traumatic experience, and another member, a non-combat veteran, dismisses his feelings. The social worker's most effective action is to do what?",
+    "choices": [
+      "Dismiss the non-combat veteran's comment to avoid a conflict.",
+      "Side with the combat veteran and tell the other member that his feelings are invalid.",
+      "Help the group explore the concept of different types of trauma and validate both members' feelings.",
+      "Remove both members from the group for being disruptive."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker's role is to manage group dynamics constructively. By helping the group explore the concept of different types of trauma, the social worker is validating both members' feelings and promoting a more empathetic and understanding environment.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-059",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Difficult",
+    "stem": "A social worker is helping a community to lobby for a new law to protect the rights of children. The social worker is using which social work role?",
+    "choices": [
+      "Advocate",
+      "Therapist",
+      "Counselor",
+      "Researcher"
+    ],
+    "answerIndex": 0,
+    "rationale": "An advocate is a social worker who represents the interests of a client or group and works to influence policy or decision-making. The social worker's role in lobbying for a new law is a direct example of advocacy.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "SWPPS-Q1-060",
+    "subject": "SWPPS",
+    "topic": "Community Organizing",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a community meeting to address the problem of a polluted river. The social worker helps the community create a plan to clean the river and to lobby the local government for a new sanitation system. This is an example of what type of social work practice?",
+    "choices": [
+      "Case management",
+      "Community organizing and social action",
+      "Individual counseling",
+      "Group therapy"
+    ],
+    "answerIndex": 1,
+    "rationale": "Community organizing involves working with groups of people to address social problems and create change. The social worker's action of helping the community create a plan to clean the river and lobby the local government is a direct example of social action, a key component of community organizing.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  }
+]

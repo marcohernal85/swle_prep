@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "P1-E-001",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Phases of Casework",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "During which phase of the casework process does the social worker and client first meet to establish a professional relationship and gather initial information about the presenting problem?",
+    "choices": [
+      "Termination",
+      "Assessment",
+      "Intake",
+      "Evaluation"
+    ],
+    "answerIndex": 2,
+    "rationale": "The Intake phase is the initial point of contact where a client first seeks help from an agency. The social worker's primary task is to gather essential information and determine the appropriateness of the agency's services for the client's needs.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-002",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Psychosocial Approach",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The psychosocial approach in social work casework emphasizes understanding the client's problem as a result of the interplay between their internal psychological state and their external social environment. This approach is primarily based on the work of:",
+    "choices": [
+      "Mary Richmond",
+      "Helen Harris Perlman",
+      "Sigmund Freud",
+      "Florence Hollis"
+    ],
+    "answerIndex": 3,
+    "rationale": "Florence Hollis is the key figure associated with the psychosocial approach. Her work integrated Freudian psychoanalytic theory with an understanding of the client's social situation, coining the term 'person-in-situation' to describe the focus of this approach.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-003",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Interviewing",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "A social worker asks a client, 'Can you tell me more about what happened after you lost your job?' This is an example of what type of interviewing skill?",
+    "choices": [
+      "Reflection of feeling",
+      "Open-ended question",
+      "Closed-ended question",
+      "Summarizing"
+    ],
+    "answerIndex": 1,
+    "rationale": "An open-ended question is a conversational technique that invites the client to provide a detailed, narrative response. It encourages the client to explore their thoughts and feelings rather than providing a simple 'yes' or 'no' answer.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-004",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Principles of Casework",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which fundamental principle of social work ensures that a client's information is kept private and confidential, with exceptions only for safety concerns or legal requirements?",
+    "choices": [
+      "Individualization",
+      "Confidentiality",
+      "Self-determination",
+      "Acceptance"
+    ],
+    "answerIndex": 1,
+    "rationale": "Confidentiality is a cornerstone principle of social work practice. It establishes a relationship of trust by guaranteeing that all information shared by the client will remain private, protecting them from harm or prejudice.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-005",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Problem-Solving Approach",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "A client comes to a social worker needing assistance with finding a new job. The social worker helps the client create a list of steps to achieve this goal, such as updating their resume and attending job fairs. Which casework approach is the social worker using?",
+    "choices": [
+      "Task-centered approach",
+      "Problem-solving approach",
+      "Crisis intervention",
+      "Behavioral modification"
+    ],
+    "answerIndex": 1,
+    "rationale": "The problem-solving approach, developed by Helen Harris Perlman, focuses on helping clients manage and solve their own problems by breaking them down into manageable tasks. It empowers clients by teaching them a structured process for problem resolution.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-006",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Relationship-building",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "A social worker smiles, maintains eye contact, and sits in a relaxed but attentive posture while a client is speaking. This is an example of what core skill?",
+    "choices": [
+      "Active listening",
+      "Non-verbal communication",
+      "Empathy",
+      "Reflecting content"
+    ],
+    "answerIndex": 1,
+    "rationale": "Non-verbal communication includes body language, facial expressions, and posture. These cues are essential for building rapport and conveying to the client that the social worker is engaged, trustworthy, and empathetic.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-007",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Social Investigation",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "Before a court hearing, a social worker is asked to prepare a report detailing a minor's family background, living conditions, and school performance. This process is known as:",
+    "choices": [
+      "Social diagnosis",
+      "Social investigation",
+      "Psychosocial treatment",
+      "Intake interview"
+    ],
+    "answerIndex": 1,
+    "rationale": "Social investigation is the process of gathering comprehensive, fact-based information about a client's life and situation. This is a critical step in social work to ensure that interventions are based on a thorough and accurate understanding of the client's reality.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-008",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Task-Centered Approach",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "A social worker and a client collaboratively set a series of small, concrete, and time-limited tasks for the client to complete, such as 'call two potential employers this week'. This best represents which casework approach?",
+    "choices": [
+      "Crisis intervention",
+      "Problem-solving",
+      "Task-centered",
+      "Functional"
+    ],
+    "answerIndex": 2,
+    "rationale": "The task-centered approach is a short-term model that focuses on alleviating specific, well-defined problems by helping the client complete concrete, measurable tasks. This is a highly structured and goal-oriented approach.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-009",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A social worker's case notes should be written in a manner that is objective and free from personal biases. This practice adheres to the principle of:",
+    "choices": [
+      "Impartiality",
+      "Subjectivity",
+      "Individualization",
+      "Self-determination"
+    ],
+    "answerIndex": 0,
+    "rationale": "Impartiality in documentation means presenting facts and client statements without personal opinion or bias. This ensures that the record is accurate, professional, and useful for other social workers who may handle the case.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-010",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Phases of Casework",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The phase of casework that involves the planned ending of the professional relationship, including reviewing progress and discussing future resources, is called:",
+    "choices": [
+      "Assessment",
+      "Intervention",
+      "Termination",
+      "Evaluation"
+    ],
+    "answerIndex": 2,
+    "rationale": "Termination is the final phase of the helping process. It is a planned conclusion where the social worker and client review the work accomplished, celebrate successes, and prepare the client for continued self-sufficiency after the professional relationship ends.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-011",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Ego Psychology",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "A social worker helps a client who is struggling with finding a job by enhancing their problem-solving and coping abilities. This is an example of which theoretical approach?",
+    "choices": [
+      "Psychodynamic theory",
+      "Ego psychology",
+      "Humanistic theory",
+      "Behavioral theory"
+    ],
+    "answerIndex": 1,
+    "rationale": "Ego psychology, a branch of psychodynamic theory, focuses on the ego's adaptive and coping functions. It helps clients strengthen their ego capacities (e.g., judgment, impulse control, problem-solving) to better manage their life challenges.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-012",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Use of Self",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "When a social worker uses their personality, values, knowledge, and skills to establish a meaningful connection with a client, they are utilizing the professional skill known as:",
+    "choices": [
+      "Empathy",
+      "Congruence",
+      "Use of self",
+      "Active listening"
+    ],
+    "answerIndex": 2,
+    "rationale": "The 'use of self' is a fundamental skill in social work, where the professional consciously and purposefully uses their own personality and professional attributes to create a therapeutic relationship and facilitate change.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-013",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Social Diagnosis",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following describes the purpose of 'social diagnosis' in casework?",
+    "choices": [
+      "To identify the client's psychological disorder.",
+      "To label the client with a specific condition.",
+      "To understand the nature of the client's problem and its contributing factors.",
+      "To determine the agency's legal liability."
+    ],
+    "answerIndex": 2,
+    "rationale": "Social diagnosis is the process of synthesizing all the information gathered during the assessment to formulate a holistic understanding of the client's problem. It looks at the interplay of social, environmental, and individual factors to inform the intervention plan.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-014",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Crisis Intervention",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "A social worker responds to an individual who has just lost their home in a fire. The worker focuses on providing immediate support, safety, and a referral for emergency shelter. This is an example of which casework approach?",
+    "choices": [
+      "Long-term therapy",
+      "Psychosocial casework",
+      "Crisis intervention",
+      "Behavioral modification"
+    ],
+    "answerIndex": 2,
+    "rationale": "Crisis intervention is a short-term, immediate response to a sudden and overwhelming event. Its primary goal is to help the individual stabilize and regain a sense of equilibrium by addressing immediate needs and ensuring safety.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-015",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "The Helping Process",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The process of a social worker and client working together to achieve a mutually agreed-upon goal is known as:",
+    "choices": [
+      "Casework process",
+      "Social investigation",
+      "Social diagnosis",
+      "Service provision"
+    ],
+    "answerIndex": 0,
+    "rationale": "The casework process refers to the sequential, dynamic, and goal-oriented professional relationship between a social worker and an individual client, encompassing the phases of intake, assessment, intervention, and termination.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-016",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Case Recording",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "Which of the following is an ethical reason for a social worker to maintain accurate and complete case records?",
+    "choices": [
+      "To justify the worker's salary",
+      "To protect the agency from legal action",
+      "To ensure continuity of care and accountability",
+      "To track a client's compliance with rules"
+    ],
+    "answerIndex": 2,
+    "rationale": "Accurate case records are vital for ensuring continuity of care. If a social worker leaves a case, the next worker can use the records to understand the client's history, goals, and progress. It also provides a paper trail for professional accountability and supervision.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-017",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Behavioral Modification",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "A social worker helps a client overcome a fear of public speaking by teaching them relaxation techniques and gradually exposing them to speaking situations. This technique is most characteristic of which approach?",
+    "choices": [
+      "Psychodynamic",
+      "Cognitive-behavioral",
+      "Existential",
+      "Systemic"
+    ],
+    "answerIndex": 1,
+    "rationale": "Cognitive-behavioral therapy (CBT) and behavioral modification focus on changing a client's thoughts, feelings, and behaviors by using structured techniques, such as exposure therapy and relaxation exercises, to address specific symptoms or fears.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-018",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Communication",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "When a social worker says, 'I hear that you feel frustrated and overwhelmed by the situation,' they are demonstrating the communication skill of:",
+    "choices": [
+      "Paraphrasing",
+      "Confrontation",
+      "Empathy",
+      "Validation"
+    ],
+    "answerIndex": 3,
+    "rationale": "Validation is the act of recognizing and affirming a client's feelings and experiences. It shows that the social worker is listening and that the client's emotions are legitimate, which strengthens rapport and encourages the client to share more openly.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-019",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "The Client-Worker Relationship",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which principle is defined as the client's right to make their own choices and decisions, with the social worker's role being to facilitate, not direct?",
+    "choices": [
+      "Individualization",
+      "Self-determination",
+      "Confidentiality",
+      "Acceptance"
+    ],
+    "answerIndex": 1,
+    "rationale": "Self-determination is a core value in social work. It recognizes the client's inherent right and capacity to make their own decisions about their lives, and the social worker's ethical responsibility is to support that right while ensuring the client's safety and well-being.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-020",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Interviewing",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "A social worker asks a client, 'How have you been feeling since our last session?' This is an example of what kind of question?",
+    "choices": [
+      "Closed-ended",
+      "Leading",
+      "Open-ended",
+      "Reflective"
+    ],
+    "answerIndex": 2,
+    "rationale": "An open-ended question encourages the client to provide a full and descriptive response, allowing them to express their feelings and thoughts without being limited to a single word or phrase. This is a fundamental skill for gathering detailed information.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-021",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Referral",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "After conducting an initial interview, a social worker determines that a client's needs fall outside the scope of the agency's services. The social worker then provides the client with a list of other organizations that can help. This process is called:",
+    "choices": [
+      "Termination",
+      "Referral",
+      "Assessment",
+      "Monitoring"
+    ],
+    "answerIndex": 1,
+    "rationale": "A referral is the professional process of directing a client to another agency or professional that is better equipped to meet their specific needs. It ensures the client receives appropriate and specialized assistance, even if the social worker's own agency cannot provide it.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-022",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Psychodynamic Approach",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following theoretical approaches in social work is most likely to focus on the impact of early childhood experiences and unconscious conflicts on a client's current behavior?",
+    "choices": [
+      "Systems theory",
+      "Behavioral theory",
+      "Psychodynamic theory",
+      "Humanistic theory"
+    ],
+    "answerIndex": 2,
+    "rationale": "Psychodynamic theory, rooted in the work of Freud, emphasizes the unconscious mind, childhood development, and the influence of past experiences on current personality and behavior. It seeks to uncover and resolve these underlying conflicts.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-023",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Empathy",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "When a social worker attempts to understand a client's feelings and perspective from their point of view, without necessarily agreeing with their actions, they are demonstrating:",
+    "choices": [
+      "Sympathy",
+      "Empathy",
+      "Judgment",
+      "Pity"
+    ],
+    "answerIndex": 1,
+    "rationale": "Empathy is the ability to understand and share the feelings of another. In social work, it is a crucial skill that allows the worker to connect with the client, build rapport, and demonstrate that they are genuinely understood and accepted.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-024",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Social Functioning",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A social worker's main goal is to help a client improve their 'social functioning'. This term refers to the client's ability to:",
+    "choices": [
+      "Get a well-paying job",
+      "Interact with friends and family",
+      "Perform their roles and tasks in society effectively",
+      "Engage in political activism"
+    ],
+    "answerIndex": 2,
+    "rationale": "Social functioning is a central concept in social work. It refers to a person's ability to perform their roles within their social environment (e.g., as a parent, employee, or student) and to meet their basic needs and responsibilities.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-025",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Systems Theory",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A social worker views a client's problem not just as an individual issue, but as a result of the client's interactions with their family, community, and social institutions. Which theoretical framework is the social worker using?",
+    "choices": [
+      "Psychodynamic theory",
+      "Systems theory",
+      "Behavioral theory",
+      "Task-centered approach"
+    ],
+    "answerIndex": 1,
+    "rationale": "Systems theory views individuals as part of interconnected systems, such as family, community, and society. A social worker using this perspective would assess how the client's problem is influenced by these various systems and how changes in one part of the system affect the others.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-026",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Active Listening",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "Which of the following is a key component of 'active listening'?",
+    "choices": [
+      "Silently waiting for your turn to speak",
+      "Interrupting to give your own advice",
+      "Asking questions to show you're paying attention",
+      "Mentally planning your response while the client is talking"
+    ],
+    "answerIndex": 2,
+    "rationale": "Active listening is a communication skill where the listener fully concentrates, understands, responds, and remembers what is being said. Asking clarifying questions is a way to show that you are engaged and trying to fully grasp the client's message.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-027",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Assessment",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The phase of casework that involves a professional judgment about the client's needs, strengths, and the resources available to them is called:",
+    "choices": [
+      "Social investigation",
+      "Assessment",
+      "Intake",
+      "Intervention"
+    ],
+    "answerIndex": 1,
+    "rationale": "Assessment is the ongoing process of gathering and analyzing information to understand the client's situation. It goes beyond simple fact-gathering to make a professional judgment about the client's functioning, strengths, and needs, which then informs the intervention plan.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-028",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Cognitive Behavioral Therapy (CBT)",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "A social worker helps a client who is feeling depressed by challenging the client's negative thought patterns and helping them replace these thoughts with more positive and realistic ones. This is a core technique of which approach?",
+    "choices": [
+      "Psychosocial approach",
+      "Task-centered approach",
+      "Crisis intervention",
+      "Cognitive Behavioral Therapy (CBT)"
+    ],
+    "answerIndex": 3,
+    "rationale": "CBT is a therapeutic approach that focuses on the interconnectedness of thoughts, feelings, and behaviors. The core technique involves identifying and challenging distorted or negative thought patterns (cognitive restructuring) to change emotional responses and behaviors.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-029",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Summarizing",
+    "bloom": "Apply",
+    "difficulty": "Easy",
+    "stem": "At the end of a session, a social worker briefly reviews the key points discussed and the action plan agreed upon with the client. This is an example of what communication skill?",
+    "choices": [
+      "Clarifying",
+      "Confronting",
+      "Summarizing",
+      "Reflecting"
+    ],
+    "answerIndex": 2,
+    "rationale": "Summarizing involves restating the main ideas and feelings that have been expressed. This skill is crucial for ensuring that both the social worker and the client have a shared understanding of what was discussed, clarifying goals, and reinforcing progress.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-E-030",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Role of the Caseworker",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "When a social worker serves as a link between a client and a resource, such as a housing agency or a school, the social worker is fulfilling which role?",
+    "choices": [
+      "Enabler",
+      "Advocate",
+      "Broker",
+      "Mediator"
+    ],
+    "answerIndex": 2,
+    "rationale": "The broker role involves connecting clients to resources and services. The social worker acts as an intermediary, helping the client navigate complex systems to access the support they need.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-001",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Principles of Casework",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a client who is a victim of domestic violence. The client is hesitant to leave their abusive partner due to fear and financial dependence. The social worker must balance the principle of self-determination with the ethical obligation to:",
+    "choices": [
+      "Force the client to leave the partner for their own safety.",
+      "Inform the client's family of the situation without their consent.",
+      "Prioritize the client's safety and well-being over their current decision.",
+      "Respect the client's decision and provide no further assistance."
+    ],
+    "answerIndex": 2,
+    "rationale": "While self-determination is a core principle, it is not absolute. When a client's choices threaten their life or safety, a social worker's ethical duty shifts to prioritizing the client's well-being and protection from harm. The social worker must intervene to ensure safety while still respecting the client's autonomy as much as possible.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-002",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Family Systems Therapy",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a teenager exhibiting behavioral problems. Instead of focusing solely on the teenager, the social worker involves the entire family in the sessions to understand how the family's communication patterns and dynamics contribute to the teenager's behavior. This approach is most consistent with:",
+    "choices": [
+      "Psychodynamic theory",
+      "Ego psychology",
+      "Family systems therapy",
+      "Crisis intervention"
+    ],
+    "answerIndex": 2,
+    "rationale": "Family systems therapy is a therapeutic approach that views the family as a single, interconnected system. It posits that an individual's problems are often symptoms of dysfunction within the family system, and change must occur at the family level to be effective.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-003",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Empathy vs. Sympathy",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker says to a client, 'I feel so sorry for what you are going through.' This statement is an example of sympathy rather than empathy. What is the key distinction between the two in a professional context?",
+    "choices": [
+      "Sympathy is a professional skill; empathy is not.",
+      "Empathy involves understanding feelings from the client's perspective; sympathy involves feeling sorry for the client.",
+      "Sympathy is objective; empathy is subjective.",
+      "Empathy is a formal technique; sympathy is an informal feeling."
+    ],
+    "answerIndex": 1,
+    "rationale": "Sympathy is feeling for someone, whereas empathy is the ability to understand and share the feelings of another from their perspective. In social work, empathy is a professional skill that allows for a deeper connection without losing professional boundaries, while sympathy can create a power imbalance or lead to pity.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-004",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Assessment",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "During an assessment of a client who is experiencing homelessness, a social worker considers not only the client's lack of housing but also the broader issues of systemic poverty, lack of affordable housing, and limited employment opportunities in the area. This approach aligns with which core social work principle?",
+    "choices": [
+      "Individualization",
+      "Self-determination",
+      "Person-in-environment (PIE)",
+      "Confidentiality"
+    ],
+    "answerIndex": 2,
+    "rationale": "The person-in-environment (PIE) perspective is a central concept in social work that emphasizes the dual focus on the individual and their environment. It requires the social worker to assess not only the client's personal issues but also the external factors and social systems that impact their life.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-005",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Functional School of Thought",
+    "bloom": "Understand",
+    "difficulty": "Moderate",
+    "stem": "The Functional School of Thought, heavily influenced by Otto Rank, views the social worker-client relationship as a temporary, time-bound process. The focus is on which of the following?",
+    "choices": [
+      "Understanding unconscious conflicts",
+      "Providing concrete resources",
+      "Using the agency's function to help the client's growth",
+      "Analyzing family dynamics"
+    ],
+    "answerIndex": 2,
+    "rationale": "The Functional School of Thought emphasizes that the purpose and function of the social work agency are central to the helping process. The social worker's role is to help the client use the agency's specific services in a time-limited way to foster their own personal growth and capacity for change.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-006",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Confrontation",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker says to a client, 'You've told me you want to find a job, but you have missed all of our appointments to update your resume.' The social worker is using which skill?",
+    "choices": [
+      "Summarizing",
+      "Clarifying",
+      "Confrontation",
+      "Reflecting"
+    ],
+    "answerIndex": 2,
+    "rationale": "Confrontation in social work is a skill used to gently challenge a client's inconsistencies, discrepancies, or irrational beliefs. The goal is not to accuse or blame, but to bring an issue to the client's awareness so they can take responsibility for their behavior.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-007",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Intervention",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker's intervention with a client includes both direct therapeutic dialogue and connecting the client to external resources like a food bank and a job training program. This approach is known as:",
+    "choices": [
+      "Micro-level intervention only",
+      "Macro-level intervention only",
+      "Direct practice only",
+      "Integrated or multi-level practice"
+    ],
+    "answerIndex": 3,
+    "rationale": "Integrated or multi-level practice combines direct, one-on-one interventions (micro) with interventions that address systemic issues and link the client to resources (mezzo and macro). This holistic approach addresses both the individual's needs and the environmental factors impacting them.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-008",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Cognitive Theory",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a client who believes, 'I am a complete failure because I was fired from my last job.' According to cognitive theory, the social worker should first focus on which of the following?",
+    "choices": [
+      "Exploring the client's childhood experiences",
+      "Challenging the client's irrational belief",
+      "Connecting the client with a new job immediately",
+      "Analyzing the historical context of unemployment"
+    ],
+    "answerIndex": 1,
+    "rationale": "Cognitive theory posits that a person's feelings and behaviors are largely a result of their thoughts and beliefs. The social worker's primary role is to help the client identify and challenge irrational or distorted thought patterns to foster more adaptive responses.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-009",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Confidentiality",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a client who discloses that they are planning to harm a family member. The social worker's duty to maintain confidentiality is now superseded by which ethical principle?",
+    "choices": [
+      "The client's right to self-determination",
+      "The principle of dual relationships",
+      "The duty to warn and protect",
+      "The client's right to privacy"
+    ],
+    "answerIndex": 2,
+    "rationale": "The 'duty to warn and protect' is an ethical and legal mandate that overrides a social worker's obligation to confidentiality when a client poses a serious and imminent threat of harm to themselves or others. The social worker is ethically obligated to take steps to prevent the harm, such as warning the potential victim or notifying law enforcement.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-010",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Social Functioning",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A 35-year-old man who is an only child continues to live with his parents, has never held a job, and relies on them for financial support. From a social functioning perspective, his main area of concern is:",
+    "choices": [
+      "Psychological dysfunction",
+      "Inability to fulfill adult roles and responsibilities",
+      "Lack of social skills",
+      "Anxiety disorder"
+    ],
+    "answerIndex": 1,
+    "rationale": "While other factors may be present, the core issue from a social functioning perspective is the client's inability to perform the roles expected of an adult, such as being financially independent and self-sufficient. This is a direct measure of his current level of social functioning.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-011",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Crisis Intervention",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A key difference between a crisis intervention model and a traditional psychosocial model is that the crisis intervention model focuses on:",
+    "choices": [
+      "In-depth exploration of past trauma",
+      "Long-term, systemic change",
+      "Immediate stabilization and restoring equilibrium",
+      "Building a therapeutic relationship over several months"
+    ],
+    "answerIndex": 2,
+    "rationale": "Crisis intervention is a short-term, time-limited approach that focuses on the immediate event. Its primary goal is to help a person who has experienced a sudden, overwhelming event to regain a sense of balance and control. It is less concerned with long-term, in-depth psychological issues.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-012",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Non-verbal communication",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker observes a client who says they are 'fine' but is fidgeting, avoiding eye contact, and speaking in a low voice. This discrepancy between verbal and non-verbal cues indicates that the social worker should:",
+    "choices": [
+      "Accept the client's verbal statement as true.",
+      "Ignore the non-verbal cues and continue the conversation.",
+      "Gently confront the client about the inconsistency.",
+      "End the session to give the client space."
+    ],
+    "answerIndex": 2,
+    "rationale": "When verbal and non-verbal communication are inconsistent, it often indicates unexpressed feelings or inner conflict. A skilled social worker would gently confront the client about this discrepancy (e.g., 'You're saying you're fine, but you seem uneasy. Is there something else you'd like to share?') to encourage more authentic communication.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-013",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Social Investigation",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "In conducting a social investigation, which of the following would a social worker consider the most reliable source of information about a child's school performance?",
+    "choices": [
+      "A verbal report from the child's parents",
+      "A written report from the school, including grades and attendance",
+      "A brief conversation with the child's teacher",
+      "The child's own self-report"
+    ],
+    "answerIndex": 1,
+    "rationale": "In a social investigation, the most reliable information is objective and verifiable. A written report from the school, which contains official data like grades and attendance, is a more credible source than subjective, verbal reports from individuals who may have a vested interest in the outcome.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-014",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Systems Theory",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker using a systems theory approach would view a client's problem as a result of which of the following?",
+    "choices": [
+      "Internal, psychological conflicts",
+      "A personal choice to engage in a dysfunctional behavior",
+      "The interaction of the client with their environment and social systems",
+      "Their childhood upbringing and relationship with their parents"
+    ],
+    "answerIndex": 2,
+    "rationale": "Systems theory views the individual as an integral part of various systems—family, community, school, etc. A problem is not seen as inherent to the individual but as a manifestation of a breakdown or imbalance within these interconnected systems. The intervention would, therefore, focus on the systems themselves.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-015",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "When documenting a client's case, a social worker writes, 'Client appears to be unmotivated and uncooperative.' This statement violates which principle of effective documentation?",
+    "choices": [
+      "Conciseness",
+      "Clarity",
+      "Objectivity",
+      "Timeliness"
+    ],
+    "answerIndex": 2,
+    "rationale": "Objectivity in documentation means focusing on observable facts and behaviors rather than subjective interpretations or judgments. The social worker's statement is a biased interpretation of the client's behavior and should instead describe what the client is doing (e.g., 'Client did not respond to questions and did not complete assigned tasks').",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-016",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Role of the Caseworker",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "When a social worker assists a client in writing a letter to their landlord to address a housing issue, the social worker is primarily acting in the role of an:",
+    "choices": [
+      "Enabler",
+      "Mediator",
+      "Advocate",
+      "Broker"
+    ],
+    "answerIndex": 2,
+    "rationale": "An advocate works to champion the rights of a client and helps them navigate a system that is unresponsive or unfair. By assisting the client in writing a letter to their landlord, the social worker is actively working to empower the client and secure their rights.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-017",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Solution-Focused Brief Therapy (SFBT)",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker asks a client, 'Imagine that while you were sleeping, a miracle occurred and the problem that brought you here was solved. What would be different when you wake up?' This question is a core technique of which casework approach?",
+    "choices": [
+      "Psychodynamic",
+      "Crisis intervention",
+      "Solution-Focused Brief Therapy (SFBT)",
+      "Problem-solving"
+    ],
+    "answerIndex": 2,
+    "rationale": "The 'miracle question' is a central technique in Solution-Focused Brief Therapy (SFBT). This approach emphasizes a client's strengths and focuses on what is working well in their life, rather than on the source of the problem. The miracle question helps clients envision a positive future and identify the small steps that can lead to it.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-018",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Clarifying",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A client says, 'Everything is just so overwhelming.' The social worker responds by saying, 'When you say overwhelming, can you describe what that feels like or what it means to you?' The social worker is using which skill?",
+    "choices": [
+      "Summarizing",
+      "Clarifying",
+      "Reflecting content",
+      "Confrontation"
+    ],
+    "answerIndex": 1,
+    "rationale": "Clarifying is a communication skill used to gain a clearer understanding of a client's statement. The social worker asks the client to elaborate on a vague term like 'overwhelming' to ensure they have a precise and shared understanding of the problem.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-019",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Referral",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is considering referring a client to another agency. Which of the following is the most important ethical consideration before making the referral?",
+    "choices": [
+      "The agency's reputation",
+      "The client's consent and willingness to be referred",
+      "The financial cost of the service",
+      "The social worker's personal relationship with the other agency"
+    ],
+    "answerIndex": 1,
+    "rationale": "The client's right to self-determination requires that they are actively involved in the decision-making process. The social worker must discuss the reasons for the referral with the client, get their informed consent, and ensure they are willing to accept the services of the other agency.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-020",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Problem-Solving Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker using a problem-solving approach with a client would most likely prioritize which of the following activities?",
+    "choices": [
+      "Examining the client's family history",
+      "Helping the client identify a specific problem to work on",
+      "Exploring the client's subconscious motivations",
+      "Developing a treatment plan for long-term therapy"
+    ],
+    "answerIndex": 1,
+    "rationale": "The problem-solving approach is highly structured and focuses on a client's current, identified problem. The first step is to help the client articulate a specific, manageable problem, which then becomes the focus of the intervention.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-021",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Use of Self",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker shares a brief, personal anecdote to relate to a client's struggles with anxiety. This technique is an example of what ethical 'use of self'?",
+    "choices": [
+      "Self-disclosure",
+      "Imposing values",
+      "Transference",
+      "Countertransference"
+    ],
+    "answerIndex": 0,
+    "rationale": "Self-disclosure is the professional and purposeful sharing of personal information with a client. It should be used judiciously and only for the purpose of strengthening the therapeutic relationship, normalizing a client's experience, or offering a new perspective.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-022",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "The Helping Process",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is providing short-term counseling to a client with depression. After 8 sessions, the client reports feeling much better and is able to cope with their symptoms. The social worker's next step in the helping process should be:",
+    "choices": [
+      "To continue with therapy for an additional 8 sessions.",
+      "To explore new and unrelated problems.",
+      "To initiate the termination phase, discussing progress and future plans.",
+      "To refer the client to a different therapist."
+    ],
+    "answerIndex": 2,
+    "rationale": "Termination is a crucial, planned phase. When a client has achieved their goals and is functioning well, the social worker should begin the termination process. This helps the client transition from professional support to self-sufficiency in a structured and safe way.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-023",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Task-Centered Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker using a task-centered approach would be least likely to focus on which of the following?",
+    "choices": [
+      "Setting a clear, measurable goal",
+      "Exploring the root cause of a problem in childhood",
+      "Developing a contract with the client",
+      "Monitoring the client's progress on agreed-upon tasks"
+    ],
+    "answerIndex": 1,
+    "rationale": "The task-centered approach is a pragmatic, short-term model that focuses on a client's current problems. It explicitly avoids an in-depth exploration of a client's past, as it is seen as an inefficient use of time. Its focus is on the present and the future through the completion of specific tasks.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-024",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Ethical considerations",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A client offers a social worker an expensive gift as a sign of gratitude. The most ethical course of action for the social worker is to:",
+    "choices": [
+      "Accept the gift to avoid offending the client.",
+      "Accept the gift and give it to a charity.",
+      "Politely decline the gift and explain the professional boundaries.",
+      "Accept the gift and document it in the case file."
+    ],
+    "answerIndex": 2,
+    "rationale": "Accepting gifts from clients, especially expensive ones, can create a dual relationship, blur professional boundaries, and lead to ethical conflicts. The most ethical action is to politely decline the gift and explain the reasons for the professional boundary, which reinforces the professional nature of the relationship.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-025",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Principles of Casework",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker's acceptance of a client's values and beliefs, even when they differ from the social worker's own, is an application of which principle?",
+    "choices": [
+      "Self-determination",
+      "Individualization",
+      "Confidentiality",
+      "Acceptance"
+    ],
+    "answerIndex": 3,
+    "rationale": "Acceptance is a core principle of social work that involves valuing the client as a unique individual, with their own strengths, weaknesses, and values. It requires the social worker to treat the client with dignity and respect, without judgment, regardless of their circumstances or beliefs.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-026",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Feminist Theory",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker uses a feminist approach to help a female client who is struggling with low self-esteem. The social worker would most likely focus on which of the following?",
+    "choices": [
+      "Analyzing her childhood experiences with her parents",
+      "Examining how societal gender roles and expectations have impacted her life",
+      "Helping her set concrete tasks to improve her self-esteem",
+      "Connecting her to job training resources"
+    ],
+    "answerIndex": 1,
+    "rationale": "Feminist theory in social work critiques how societal power imbalances, particularly those based on gender, contribute to a person's problems. A social worker using this approach would help the client see how their struggles are not personal failings but are shaped by broader, systemic issues like patriarchal structures and gendered expectations.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-027",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Termination",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "During the termination phase, a client expresses sadness about the end of the professional relationship. What is the most appropriate response for the social worker?",
+    "choices": [
+      "To ignore the client's feelings and move on to the next step.",
+      "To extend the sessions to avoid the client's sadness.",
+      "To acknowledge and validate the client's feelings of sadness.",
+      "To tell the client they shouldn't feel sad because they have made so much progress."
+    ],
+    "answerIndex": 2,
+    "rationale": "Acknowledging and validating the client's feelings is a key part of an ethical and effective termination. It normalizes their emotions and helps them process the ending of a significant relationship. This is a crucial step in preparing the client for future independence.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-028",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Case Recording",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is writing a SOAP note for a case. 'S' stands for subjective data, 'O' for objective data, 'A' for assessment. What does 'P' stand for?",
+    "choices": [
+      "Problem",
+      "Progress",
+      "Plan",
+      "Prognosis"
+    ],
+    "answerIndex": 2,
+    "rationale": "SOAP is a common acronym for documenting case notes. 'P' stands for 'Plan,' which outlines the specific steps the social worker and client will take to address the problem identified in the assessment. It is a forward-looking and action-oriented component of the note.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-029",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Psychosocial Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker using a psychosocial approach would be most likely to use which of the following techniques?",
+    "choices": [
+      "Examining the client's childhood history to identify root causes of behavior",
+      "Administering a series of behavior modification exercises",
+      "Developing a time-limited contract for a specific task",
+      "Focusing exclusively on the client's present-day problems"
+    ],
+    "answerIndex": 0,
+    "rationale": "The psychosocial approach, rooted in psychodynamic theory, emphasizes the importance of past experiences and internal psychological conflicts. It often uses techniques like exploration and reflection to help the client gain insight into how their past affects their present behavior.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-030",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Case Management",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker helps a client with a chronic illness to coordinate services from various providers, including a physician, a physical therapist, and a home health aide. This role is best described as:",
+    "choices": [
+      "Therapist",
+      "Advocate",
+      "Case manager",
+      "Mediator"
+    ],
+    "answerIndex": 2,
+    "rationale": "Case management is a professional role that involves coordinating services from multiple providers and agencies to meet the complex needs of a client. It ensures that the client receives comprehensive, holistic, and uninterrupted care.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-031",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Evaluation",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker uses a rating scale to measure a client's anxiety level before and after a series of sessions. This is a form of:",
+    "choices": [
+      "Process evaluation",
+      "Outcome evaluation",
+      "Needs assessment",
+      "Program evaluation"
+    ],
+    "answerIndex": 1,
+    "rationale": "Outcome evaluation measures the effectiveness of an intervention by assessing whether the desired change or goal has been achieved. In this case, the rating scale measures the outcome (reduction in anxiety) of the social work intervention.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-032",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Humanistic Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "Which of the following is a central concept in the humanistic approach to casework?",
+    "choices": [
+      "The client's irrational thoughts",
+      "The client's unconscious conflicts",
+      "The client's inherent drive for self-actualization",
+      "The client's external environment"
+    ],
+    "answerIndex": 2,
+    "rationale": "Humanistic theory, popularized by figures like Carl Rogers, is based on the belief that every individual has an innate potential for growth and positive change. The social worker's role is to create a supportive environment that allows the client to tap into their own strengths and pursue self-actualization.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-033",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Interviewing",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "During an interview, a social worker notices that a client is getting angry when discussing a specific topic. The social worker then says, 'I see that this topic is making you angry. Would you like to take a break or talk about something else?' This response is an example of:",
+    "choices": [
+      "Reflecting a feeling",
+      "Confrontation",
+      "Clarifying",
+      "Prying"
+    ],
+    "answerIndex": 0,
+    "rationale": "Reflecting a feeling is a crucial skill for demonstrating empathy. The social worker labels the emotion they are observing and gives the client an opportunity to either confirm the feeling or correct it, showing that they are truly listening and attuned to the client's emotional state.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-034",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Assessment",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker's assessment reveals that a client is struggling with both a lack of job skills and untreated depression. The most appropriate plan of action is to:",
+    "choices": [
+      "Address the depression first, as it is the more serious issue.",
+      "Address the job skills first, as they are a more concrete problem.",
+      "Develop an integrated plan that addresses both issues simultaneously.",
+      "Refer the client to two separate agencies to handle each problem."
+    ],
+    "answerIndex": 2,
+    "rationale": "A holistic approach is essential in social work. The PIE perspective suggests that the two issues are likely interconnected. An integrated plan would acknowledge this interplay, helping the client manage their depression while simultaneously working on improving their job skills, as progress in one area will likely impact the other.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-035",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Client-Centered Therapy",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker's primary role, according to client-centered therapy, is to:",
+    "choices": [
+      "Interpret the client's unconscious desires",
+      "Give direct advice and solutions",
+      "Provide unconditional positive regard and empathy",
+      "Set specific, measurable goals for the client"
+    ],
+    "answerIndex": 2,
+    "rationale": "Client-centered therapy, developed by Carl Rogers, is a humanistic approach. The social worker's role is not to direct but to create a safe, non-judgmental environment. This is achieved through three core conditions: unconditional positive regard (acceptance), empathy, and congruence (genuineness), which empower the client to find their own solutions.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-036",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker's case notes should be written as soon as possible after a session to maintain which quality?",
+    "choices": [
+      "Brevity",
+      "Clarity",
+      "Confidentiality",
+      "Timeliness"
+    ],
+    "answerIndex": 3,
+    "rationale": "Timeliness is a critical aspect of effective documentation. Writing notes immediately after a session ensures that all the details, nuances, and emotions of the interaction are still fresh in the social worker's mind, leading to more accurate and comprehensive records.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-037",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "The Helping Process",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker's work with a client does not end when the client leaves the office. The worker may follow up with a phone call or a home visit to check on the client's progress. This phase is best described as:",
+    "choices": [
+      "Assessment",
+      "Intake",
+      "Termination",
+      "Monitoring and follow-up"
+    ],
+    "answerIndex": 3,
+    "rationale": "Monitoring and follow-up are critical parts of the helping process that occur after the main intervention has been implemented. This phase ensures that the client is successfully using the resources and skills they have gained and that the intervention is having the desired effect in the real world.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-038",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Behavioral Theory",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker wants to help a client reduce their habit of smoking. The worker and client agree that for every day the client goes without a cigarette, they can put a small amount of money into a jar for a reward. This technique is an example of:",
+    "choices": [
+      "Punishment",
+      "Negative reinforcement",
+      "Positive reinforcement",
+      "Classical conditioning"
+    ],
+    "answerIndex": 2,
+    "rationale": "Positive reinforcement is a core concept in behavioral theory. It involves adding a positive stimulus (in this case, money) after a desired behavior occurs to increase the likelihood that the behavior (not smoking) will be repeated.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-039",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Professional boundaries",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker feels emotionally drained after a particularly difficult session with a client. The social worker's next professional step is to:",
+    "choices": [
+      "Immediately schedule a follow-up session to address the emotions.",
+      "Take a personal day to recover from the stress.",
+      "Reflect on the session and seek supervision or consultation with a colleague.",
+      "Vent to a family member or friend to release the stress."
+    ],
+    "answerIndex": 2,
+    "rationale": "This situation points to the ethical concept of 'countertransference' and the importance of professional boundaries. A social worker's responsibility is to process their emotional reactions through a professional outlet, such as supervision. This ensures that the worker remains objective and does not let personal feelings interfere with the client's treatment.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-040",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Social Functioning",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker assesses a client's social functioning by examining which of the following areas?",
+    "choices": [
+      "Their intelligence and academic abilities",
+      "Their ability to fulfill their social roles as a parent, employee, and citizen",
+      "Their social media usage and online presence",
+      "Their hobbies and leisure activities"
+    ],
+    "answerIndex": 1,
+    "rationale": "Social functioning is a broad concept that refers to a person's ability to perform their expected roles in society. This includes their responsibilities within their family, their work, and their community. Assessing these areas provides a clear picture of the client's current level of functioning.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-041",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Cognitive Behavioral Therapy (CBT)",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "Which of the following is a primary goal of a social worker using CBT with a client?",
+    "choices": [
+      "To help the client recall repressed memories",
+      "To help the client change irrational thought patterns and beliefs",
+      "To help the client achieve self-actualization",
+      "To connect the client with new social systems"
+    ],
+    "answerIndex": 1,
+    "rationale": "CBT is a goal-oriented and practical approach. Its central tenet is that changing a person's thoughts (cognitions) and behaviors will lead to an improvement in their mood and functioning. Therefore, the primary goal is to help clients identify and correct irrational thought patterns.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-042",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Interviewing",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is conducting an interview with a client. They notice a pattern where the client gives short, one-word answers to questions. The social worker's best response to this pattern is to:",
+    "choices": [
+      "Switch to a different topic to make the client more comfortable.",
+      "End the interview and reschedule for another time.",
+      "Ask a series of open-ended questions to encourage more detailed responses.",
+      "Tell the client that they need to provide more information."
+    ],
+    "answerIndex": 2,
+    "rationale": "One-word answers are often a sign that the social worker is asking too many closed-ended questions. A skilled social worker would pivot to open-ended questions, which are designed to elicit a more narrative response and encourage the client to share more freely.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-043",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Assessment",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is assessing a client who has a history of substance abuse. The social worker knows that a key part of the assessment must be to determine the client's motivation for change. This is an application of which motivational theory?",
+    "choices": [
+      "Maslow's Hierarchy of Needs",
+      "Motivational Interviewing",
+      "Psychosocial theory",
+      "Behavioral theory"
+    ],
+    "answerIndex": 1,
+    "rationale": "Motivational Interviewing is a specific, evidence-based approach used to help clients explore and resolve ambivalence about behavior change. It is non-confrontational and aims to elicit the client's own reasons for change, which is crucial for a successful intervention.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-044",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Ego Psychology",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "An ego-psychology social worker would focus on a client's ability to cope with life's stressors and challenges. This is an example of focusing on which of the following?",
+    "choices": [
+      "Id-related impulses and desires",
+      "The client's defense mechanisms and coping abilities",
+      "Unconscious conflicts from childhood",
+      "External social systems"
+    ],
+    "answerIndex": 1,
+    "rationale": "Ego psychology, unlike classical psychoanalysis, focuses on the ego's role in mediating between the id (impulses), the superego (conscience), and reality. The social worker's goal is to help the client strengthen their ego functions, which include problem-solving, reality testing, and managing stress through effective defense mechanisms.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-045",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Building a Professional Relationship",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker's consistent availability, punctuality, and reliability are key for building a strong professional relationship with a client. This is an example of what core principle of the relationship?",
+    "choices": [
+      "Confidentiality",
+      "Trustworthiness",
+      "Self-determination",
+      "Impartiality"
+    ],
+    "answerIndex": 1,
+    "rationale": "Trustworthiness is a foundational element of any helping relationship. It is built not only through confidentiality and non-judgment but also through consistent and reliable actions that demonstrate the social worker's commitment to the client's well-being.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-046",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Termination",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker and client have a successful relationship that is ready for termination. However, the client begins to regress and presents new, seemingly unrelated problems. This behavior is most likely a sign of:",
+    "choices": [
+      "A failed intervention",
+      "The client's unwillingness to change",
+      "The client's anxiety about termination",
+      "A new crisis that requires a new intervention"
+    ],
+    "answerIndex": 2,
+    "rationale": "Regression or the emergence of new problems is a common form of 'termination anxiety.' The client's behavior is often a subconscious attempt to prolong the professional relationship. The social worker should acknowledge this anxiety and help the client process their feelings about the upcoming separation.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-047",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Psychosocial Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A psychosocial approach would be most effective in a case where a social worker needs to understand how a client's chronic illness is affecting not only their physical health but also their family relationships, their job performance, and their self-esteem. This is because the approach focuses on the:",
+    "choices": [
+      "Client's internal psychological state",
+      "Client's external environment",
+      "Interaction between the person and their social situation",
+      "Client's past trauma"
+    ],
+    "answerIndex": 2,
+    "rationale": "The psychosocial approach, or 'person-in-situation' approach, is specifically designed to assess and intervene in cases where a problem is a result of a complex interplay between a person's psychological functioning and their social environment. It is a holistic, comprehensive approach to human problems.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-048",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "Which of the following would be an appropriate way to document a client's statement in a case note?",
+    "choices": [
+      "'Client says they feel sad.'",
+      "'Client appears depressed.'",
+      "'Client stated, 'I feel so alone since my spouse left.' '",
+      "'The client is depressed.' "
+    ],
+    "answerIndex": 2,
+    "rationale": "Direct quotes from a client should be used to capture their exact words and voice, especially for key statements. Using a direct quote maintains objectivity and ensures that the client's perspective is accurately represented, avoiding the social worker's interpretation or diagnosis.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-049",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Role of the Caseworker",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with two family members who are in a dispute over a financial matter. The social worker's role is to help them find a common ground and reach a mutually agreeable solution. The social worker is fulfilling which role?",
+    "choices": [
+      "Advocate",
+      "Therapist",
+      "Mediator",
+      "Broker"
+    ],
+    "answerIndex": 2,
+    "rationale": "A mediator is a professional who helps two or more people in conflict to resolve their differences and reach a voluntary agreement. The social worker in this role is impartial and facilitates communication and negotiation between the parties.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-050",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Interviewing",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "Which of the following questions is a good example of a closed-ended question?",
+    "choices": [
+      "'Can you tell me more about your family life?'",
+      "'How do you feel about your new living situation?'",
+      "'Did you receive the government assistance check?'",
+      "'What are your plans for the weekend?'"
+    ],
+    "answerIndex": 2,
+    "rationale": "A closed-ended question is one that can be answered with a simple 'yes' or 'no' or a single word, limiting the client's response. This is a useful tool for gathering specific facts or confirming information, as in this case.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-001",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Ethical Dilemmas",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a 15-year-old client who discloses that they are sexually active and do not use contraception. The client explicitly states, 'Don't tell my parents, they'll disown me.' The social worker's agency policy requires all underage clients' health information to be shared with their parents. The social worker is facing a conflict between which two ethical principles?",
+    "choices": [
+      "Self-determination and confidentiality",
+      "Confidentiality and the duty to protect",
+      "Individualization and self-determination",
+      "Confidentiality and agency policy"
+    ],
+    "answerIndex": 3,
+    "rationale": "This is a classic ethical dilemma. The social worker is caught between their ethical obligation to maintain confidentiality and the agency's policy. The social worker must weigh the potential harm of breaking confidentiality (the client being disowned) against the need to follow agency rules. In this case, the duty to protect is not the primary conflict, as the client is not in imminent danger of harm from a third party. The conflict is directly between confidentiality and agency policy.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-002",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Generalist Practice",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker who adopts a 'generalist' practice perspective would be most likely to perform which of the following actions?",
+    "choices": [
+      "Focus exclusively on one-on-one therapy with a client with a history of trauma.",
+      "Conduct a comprehensive assessment that includes the client's family, school, and community.",
+      "Refer every client to a specialist in a different agency.",
+      "Specialize in a single, narrow area like substance abuse."
+    ],
+    "answerIndex": 1,
+    "rationale": "Generalist social work is a broad approach that emphasizes the use of a wide range of skills to address a client's needs at multiple levels, from the individual (micro) to the community (macro). A generalist would conduct a holistic assessment that considers all aspects of the client's life and would be prepared to intervene at multiple levels.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-003",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Transferable Skills",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker who is effective in casework is often effective in community organizing as well. Which of the following is the most transferable skill between the two practice areas?",
+    "choices": [
+      "Advanced therapeutic techniques",
+      "Program evaluation",
+      "Relationship-building and empathy",
+      "Budget management"
+    ],
+    "answerIndex": 2,
+    "rationale": "While all of these skills are useful, relationship-building and empathy are foundational to all areas of social work. Whether working with an individual client or a large community, the social worker's ability to build trust, listen actively, and connect with people is the primary driver of change and progress.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-004",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Ethical Decision-Making",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a client who is undocumented. The client discloses that they are being exploited by their employer but are afraid to report the abuse because of their immigration status. The social worker's primary ethical responsibility is to:",
+    "choices": [
+      "Report the exploitation to the authorities, despite the client's wishes.",
+      "Encourage the client to report the abuse, even if it puts them at risk.",
+      "Prioritize the client's safety and self-determination and discuss all possible options, including the risks of each.",
+      "Ignore the client's disclosure to avoid putting them in danger."
+    ],
+    "answerIndex": 2,
+    "rationale": "In this complex ethical situation, the social worker must prioritize the client's safety and self-determination above all else. The most ethical action is to fully inform the client of all their options and the potential risks and benefits of each, allowing the client to make an informed choice while being supported by the social worker throughout the process.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-005",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Problem-Solving vs. Task-Centered",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "While both the problem-solving approach and the task-centered approach are focused on a client's present difficulties, the key difference between them is that the task-centered approach is:",
+    "choices": [
+      "More concerned with long-term, systemic change.",
+      "More effective in dealing with emotional and psychological issues.",
+      "More structured, time-limited, and goal-oriented.",
+      "Less concerned with a client's strengths and resources."
+    ],
+    "answerIndex": 2,
+    "rationale": "Both approaches are practical and present-focused, but the task-centered approach is distinguished by its strict time-limited nature and its emphasis on concrete, well-defined tasks that are collaboratively agreed upon by the social worker and client. It is a highly structured model, whereas the problem-solving approach can be more flexible.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-006",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Self-Reflection",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker realizes during a session that their personal feelings about a past experience are affecting how they are responding to a client's story. This is an example of:",
+    "choices": [
+      "Transference",
+      "Countertransference",
+      "Burnout",
+      "Compassion fatigue"
+    ],
+    "answerIndex": 1,
+    "rationale": "Countertransference is a term used to describe the social worker's emotional reaction to a client, which may be influenced by the worker's own past experiences. Recognizing and managing countertransference is a critical aspect of ethical and effective practice, and it requires continuous self-reflection and supervision.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-007",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Ethical Decision-Making",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which of the following is the final step in a social worker's ethical decision-making process?",
+    "choices": [
+      "Gathering all the relevant facts of the situation.",
+      "Consulting with a supervisor or colleague.",
+      "Implementing the chosen ethical solution and documenting it.",
+      "Identifying all the ethical principles and values that are in conflict."
+    ],
+    "answerIndex": 2,
+    "rationale": "The ethical decision-making process involves a series of steps. After identifying the problem, gathering facts, consulting, and weighing different options, the final step is to take action. This involves implementing the chosen solution and documenting the entire process, including the rationale for the decision.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-008",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Comparing Approaches",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A client presents with an immediate crisis (sudden job loss) but also has a history of long-standing family conflict and chronic depression. A social worker needs to choose an approach. Which of the following is the most comprehensive and ethical choice?",
+    "choices": [
+      "Use only crisis intervention to address the immediate job loss.",
+      "Use only a psychodynamic approach to explore the history of depression.",
+      "Use an integrated approach, beginning with crisis intervention and transitioning to a more comprehensive, long-term approach.",
+      "Refer the client to two different agencies for each problem."
+    ],
+    "answerIndex": 2,
+    "rationale": "The most ethical and comprehensive choice is to use an integrated approach. The social worker's immediate priority is to address the crisis (job loss) to ensure the client's safety and stability. Once the client is stabilized, the social worker can then transition to a long-term approach to address the underlying issues of depression and family conflict.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-009",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Cultural Competence",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a client from a different cultural background. The social worker is aware of their own cultural biases and actively seeks to understand the client's worldview without imposing their own. This is a demonstration of:",
+    "choices": [
+      "Cultural incompetence",
+      "Cultural awareness",
+      "Cultural empathy",
+      "Cultural competence"
+    ],
+    "answerIndex": 3,
+    "rationale": "Cultural competence is the ability to understand and effectively interact with people from different cultures. It is a multi-step process that begins with cultural awareness (recognizing one's own biases) and moves toward a more profound understanding of and respect for the client's cultural context. The social worker is actively practicing this competence.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-010",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "The Helping Process",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which of the following is the most difficult and often overlooked part of the helping process?",
+    "choices": [
+      "Assessment",
+      "Intervention",
+      "Intake",
+      "Termination"
+    ],
+    "answerIndex": 3,
+    "rationale": "Termination is often the most difficult and overlooked part of the process for both the client and the social worker. It can bring up feelings of sadness, anxiety, or abandonment. However, a planned and well-executed termination is crucial for the client to internalize their gains and prepare for independence.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-011",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Systems Theory",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker using a systems theory approach would evaluate the success of an intervention by measuring:",
+    "choices": [
+      "The client's individual psychological well-being",
+      "The client's satisfaction with the intervention",
+      "Changes in the client's behavior and the dynamics of the surrounding systems",
+      "The number of services the client received"
+    ],
+    "answerIndex": 2,
+    "rationale": "A systems theory approach is holistic. It measures success not only by individual change but also by changes in the client's interactions with their family, community, and other social systems. The ultimate goal is to improve the functioning of the entire system, not just the individual.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-012",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Ethical Considerations",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker learns that a client's former social worker had a personal relationship with the client. The new social worker's ethical responsibility is to:",
+    "choices": [
+      "Ignore the information and continue with the case.",
+      "Confront the former social worker about the dual relationship.",
+      "Report the former social worker to the appropriate licensing board.",
+      "Acknowledge the boundary violation and work to rebuild a professional relationship with the client."
+    ],
+    "answerIndex": 3,
+    "rationale": "While the previous worker's actions are unethical and may need to be reported, the new social worker's immediate and primary responsibility is to the current client. The social worker should address the boundary violation, help the client process it, and work to establish a new, healthy, and professional relationship to ensure the client's well-being is the top priority.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-013",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Ethical Decision-Making",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker receives a subpoena to release confidential client records. The client has not provided consent for the release. The social worker's most appropriate response is to:",
+    "choices": [
+      "Immediately release the records as required by law.",
+      "Destroy the records to protect the client's confidentiality.",
+      "Consult with legal counsel and attempt to negotiate with the court to protect the client's privacy.",
+      "Ask the client for permission to release the records."
+    ],
+    "answerIndex": 2,
+    "rationale": "A subpoena is a complex legal issue that can create a conflict between confidentiality and legal requirements. A social worker's primary responsibility is to protect the client's privacy. The most ethical and professional action is to consult with legal counsel to navigate the situation and attempt to negotiate with the court to find a way to protect the client's information, rather than immediately complying or destroying the records.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-014",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Problem-Solving Approach",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker using the problem-solving approach with a client would most likely consider which of the following to be a sign of a successful intervention?",
+    "choices": [
+      "The client's personality has been completely reformed.",
+      "The client has achieved insight into their unconscious conflicts.",
+      "The client has acquired the skills to solve their own problems in the future.",
+      "The social worker has successfully solved the client's problem for them."
+    ],
+    "answerIndex": 2,
+    "rationale": "The problem-solving approach, as well as the task-centered approach, is about empowering the client. A successful intervention is one where the client has not only solved a specific problem but has also learned the skills and process to address future problems on their own. This is a sign of long-term success and self-sufficiency.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-015",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Boundaries",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker has a client who consistently texts them after business hours. The social worker's most appropriate response is to:",
+    "choices": [
+      "Respond to the texts to show that they are available for the client.",
+      "Block the client's number to maintain their privacy.",
+      "Discuss the issue of after-hours communication with the client during the next session and set clear boundaries.",
+      "Send a text back telling the client that they should not text after hours."
+    ],
+    "answerIndex": 2,
+    "rationale": "Setting and maintaining professional boundaries is a crucial ethical skill. The social worker's responsibility is to address the issue directly and professionally, without being punitive or abrupt. Discussing the behavior during a scheduled session allows for a therapeutic conversation about the client's needs and the professional's boundaries, which strengthens the relationship in the long run.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-016",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Assessment",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is assessing a client for substance abuse and finds that the client is not forthcoming with information. The social worker suspects the client is being dishonest. The most professional course of action is to:",
+    "choices": [
+      "Confront the client directly about their dishonesty.",
+      "Terminate the relationship because the client is not being cooperative.",
+      "Gently challenge the client's inconsistencies and explore their ambivalence about treatment.",
+      "Ignore the dishonesty and continue with the assessment."
+    ],
+    "answerIndex": 2,
+    "rationale": "In a case of suspected dishonesty, the most effective approach is to avoid direct confrontation, which can lead to defensiveness. The social worker should gently point out the inconsistencies in a non-judgmental way and use skills like motivational interviewing to explore the client's ambivalence. This honors the client's self-determination while still addressing the core issue.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-017",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Ecological Systems Theory",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a family that is struggling to find affordable housing. The social worker's approach focuses on the interaction between the family (microsystem), the local housing policies and zoning laws (macrosystem), and the family's relationship with their church community (mesosystem). This approach is based on:",
+    "choices": [
+      "Psychosocial theory",
+      "Ecological systems theory",
+      "Crisis intervention",
+      "Problem-solving approach"
+    ],
+    "answerIndex": 1,
+    "rationale": "Ecological systems theory, developed by Urie Bronfenbrenner, provides a framework for understanding how an individual's development is influenced by a series of interconnected environmental systems, from the immediate family (microsystem) to the broader cultural and political context (macrosystem). A social worker using this approach would assess and intervene at multiple levels.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-018",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which of the following would be an unethical and potentially illegal practice for a social worker to include in a client's case file?",
+    "choices": [
+      "A summary of the client's progress and goals.",
+      "Notes from a supervisor's consultation about the case.",
+      "Confidential information received from a third party without the client's consent.",
+      "A direct quote from the client about a sensitive topic."
+    ],
+    "answerIndex": 2,
+    "rationale": "Ethical and legal principles of confidentiality require that social workers only include information in a client's record that is directly relevant to their care and has been provided with the client's informed consent. Including confidential information from a third party without consent is a serious violation of privacy and trust, and it could lead to legal consequences.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-019",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "The Helping Process",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a client who is now self-sufficient and thriving. The social worker knows that their work is nearing an end. What is the social worker's final ethical responsibility during this process?",
+    "choices": [
+      "To encourage the client to start a new, unrelated intervention.",
+      "To refer the client to a different social worker.",
+      "To ensure the client has the necessary skills and resources to maintain their progress independently.",
+      "To plan a celebration party for the client."
+    ],
+    "answerIndex": 2,
+    "rationale": "The social worker's final ethical responsibility is to ensure that the client has the necessary skills and support systems to maintain their progress. This is the ultimate goal of the termination phase: to empower the client to be a self-sufficient agent of change in their own life. This involves reviewing progress, identifying potential challenges, and ensuring the client is aware of all available resources.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-020",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Comparison of Approaches",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which of the following is a key critique of the psychodynamic approach to casework from a social justice perspective?",
+    "choices": [
+      "It is too focused on the client's environment and not enough on their personal feelings.",
+      "It is not effective for short-term problems.",
+      "It can be culturally biased and may blame the victim by focusing on their internal psychological state rather than on external systemic issues.",
+      "It is too focused on a client's strengths and not enough on their problems."
+    ],
+    "answerIndex": 2,
+    "rationale": "A common critique of psychodynamic theory from a social justice perspective is that it may pathologize a client by focusing exclusively on their internal psychological state. It can overlook the profound impact of systemic issues like poverty, racism, and discrimination, potentially blaming the victim for a problem that is structural in nature.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-021",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Empathy",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is struggling to feel empathy for a client who has committed a crime. The most ethical course of action for the social worker is to:",
+    "choices": [
+      "Pretend to feel empathy to maintain the professional relationship.",
+      "Express their personal judgment to the client.",
+      "Acknowledge their difficulty to a supervisor and work to understand the client's perspective without condoning their actions.",
+      "Terminate the professional relationship immediately."
+    ],
+    "answerIndex": 2,
+    "rationale": "Ethical practice requires social workers to be self-aware. When a social worker struggles with a client, the most professional course of action is to seek supervision. The supervisor can help the social worker process their feelings and find a way to work with the client's reality and humanity without condoning their actions. This upholds the principle of client acceptance while also maintaining professional boundaries.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-022",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Ethical Decision-Making",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a client who is a parent. The client is neglecting their children but is not physically abusing them. The social worker's primary ethical conflict is between:",
+    "choices": [
+      "The client's right to self-determination and the children's right to safety and well-being.",
+      "The client's right to confidentiality and the children's right to privacy.",
+      "The social worker's responsibility to the agency and the social worker's responsibility to the client.",
+      "The client's right to autonomy and the community's right to know."
+    ],
+    "answerIndex": 0,
+    "rationale": "This is a classic 'duty to warn/protect' scenario in a subtle form. While the children are not in immediate physical danger, their well-being is at risk. The social worker must balance the client's right to make their own choices (self-determination) with the ethical obligation to protect the vulnerable (the children). This is a difficult ethical conflict that requires careful consideration and consultation.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-023",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Psychosocial Theory",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A key criticism of the psychosocial approach is that it is:",
+    "choices": [
+      "Too focused on external social factors and not enough on internal feelings.",
+      "Not effective in dealing with long-term, chronic problems.",
+      "Too focused on the client's past, which can be time-consuming and expensive.",
+      "Only applicable to clients with a high level of education."
+    ],
+    "answerIndex": 2,
+    "rationale": "A common critique of the psychosocial approach, which has its roots in psychodynamic theory, is that it is often a long-term process. Because it explores a client's past in-depth, it can be time-consuming and costly, making it an impractical approach for many clients or agencies with limited resources.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-024",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Interviewing",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker uses a mix of open-ended and closed-ended questions during an interview. What is the most likely reason for this strategic choice?",
+    "choices": [
+      "The social worker is unsure of what questions to ask.",
+      "The social worker is trying to confuse the client.",
+      "The social worker is attempting to control the conversation.",
+      "The social worker is balancing the need for specific information with the need for a deeper, more narrative response."
+    ],
+    "answerIndex": 3,
+    "rationale": "A skilled social worker knows that a blend of questions is necessary for a comprehensive interview. Closed-ended questions are used to gather specific, factual information (e.g., 'Do you have health insurance?'). Open-ended questions are used to encourage a client to share more deeply and narratively (e.g., 'Tell me about how the job loss has affected you'). Using both strategically allows the social worker to get a complete picture of the client's situation.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-025",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Assessment",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is assessing a client and notices that the client's report of their life story is inconsistent with information from a reliable source. The social worker's ethical responsibility is to:",
+    "choices": [
+      "Confront the client and accuse them of lying.",
+      "Terminate the relationship due to lack of trust.",
+      "Document the inconsistency and use a non-judgmental approach to explore it with the client.",
+      "Assume the client's information is the most accurate and reliable."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker's job is not to be a detective but a professional helper. The most ethical and professional response to an inconsistency is to document it and then, in a supportive and non-judgmental way, bring it to the client's attention. This allows the client to either clarify the information or to process why they may have been dishonest.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-026",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Family Systems Therapy",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A key limitation of family systems therapy is that it:",
+    "choices": [
+      "Is too focused on the individual and not enough on the family.",
+      "Can be ineffective if a key family member refuses to participate.",
+      "Is too short-term for most problems.",
+      "Is only effective in families with a high level of education."
+    ],
+    "answerIndex": 1,
+    "rationale": "Family systems therapy requires the active participation of all key family members to be effective. If one member refuses to participate, it can prevent the social worker from fully understanding the family's dynamics and can sabotage the entire intervention. This is a key limitation of the approach.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-027",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Self-Reflection",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker notices that they feel a strong personal connection to a client, which is making it difficult for them to maintain professional objectivity. The social worker's most ethical and professional action is to:",
+    "choices": [
+      "Confess their feelings to the client to be honest with them.",
+      "Act as if they are not feeling the connection and continue the session.",
+      "Discuss their feelings with a supervisor to gain a new perspective and manage the feelings.",
+      "Ignore the feelings as long as they are not affecting the case."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker must be aware of their own feelings and how they impact the professional relationship. A strong personal connection can be a sign of transference or countertransference, which can be detrimental to the client's well-being. The most ethical action is to process these feelings in a professional and safe environment, such as supervision, to ensure the client's needs remain the focus of the intervention.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-028",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Ethical Decision-Making",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which of the following is the most effective and ethical response when a social worker is faced with a client who asks for personal advice on a topic outside of the social worker's professional expertise?",
+    "choices": [
+      "Give the advice to build rapport with the client.",
+      "Decline to give advice and explain the professional boundaries and limitations.",
+      "Refer the client to a professional in that field.",
+      "Give general advice that is not too specific."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker's ethical responsibility is to work within their scope of competence. Giving personal advice on topics outside their expertise is a clear boundary violation and can cause harm to the client. The most ethical action is to decline to give advice and to explain the professional boundaries, while also offering to refer the client to a professional who can provide the help they need.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-029",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Ecological Systems Theory",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which of the following is an example of an intervention at the 'microsystem' level?",
+    "choices": [
+      "Advocating for a new housing policy in the community.",
+      "Running a support group for families with children with disabilities.",
+      "Helping a client develop better communication skills with their partner.",
+      "Lobbying the government for an increase in social services funding."
+    ],
+    "answerIndex": 2,
+    "rationale": "Ecological systems theory defines the microsystem as the client's immediate, day-to-day environment, such as their home, school, and family. Helping a client improve their communication skills with their partner is a direct, one-on-one intervention that is focused on a specific microsystem.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-D-030",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Transference vs. Countertransference",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A client begins to express strong feelings of anger towards their social worker, even though the social worker has been nothing but supportive. The social worker's supervisor explains that the client's behavior may be a result of 'transference.' This means that the client is:",
+    "choices": [
+      "Unconsciously projecting feelings from a past relationship onto the social worker.",
+      "Consciously trying to sabotage the professional relationship.",
+      "Expressing anger as a form of manipulation.",
+      "Reacting to the social worker's own anger and frustration."
+    ],
+    "answerIndex": 0,
+    "rationale": "Transference is a key concept in psychodynamic theory. It occurs when a client unconsciously redirects feelings and emotions from a significant past relationship (e.g., with a parent) onto the social worker. Recognizing and understanding transference is crucial for the social worker to maintain objectivity and to help the client gain insight into their emotional patterns.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-051",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Termination",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "After a successful intervention, a social worker and client agree that it is time to end the professional relationship. Which of the following is the most important task to accomplish during this final phase?",
+    "choices": [
+      "Scheduling a follow-up appointment in one year.",
+      "Reviewing the goals achieved and discussing future challenges.",
+      "Providing the client with a list of other social workers.",
+      "Ensuring the client understands that they can never return for services."
+    ],
+    "answerIndex": 1,
+    "rationale": "During the termination phase, the social worker and client should review the progress made and acknowledge the client's achievements. It is also a time to discuss how the client can maintain their progress and cope with future challenges, reinforcing their self-sufficiency.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-052",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Assessment",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker's assessment of a client who is a recent immigrant includes gathering information about the client's cultural background, their experience with the immigration process, and their support system in their new country. This is an application of which ethical principle?",
+    "choices": [
+      "Confidentiality",
+      "Acceptance",
+      "Cultural competence",
+      "Self-determination"
+    ],
+    "answerIndex": 2,
+    "rationale": "Cultural competence is the ability to understand and effectively engage with clients from diverse cultural backgrounds. By assessing the client's cultural context and immigration experience, the social worker is demonstrating a commitment to culturally competent practice.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-053",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Principles of Casework",
+    "bloom": "Understand",
+    "difficulty": "Moderate",
+    "stem": "The principle of 'individualization' in casework is defined as:",
+    "choices": [
+      "The client's right to choose their own goals.",
+      "The belief that every client is a unique individual and should be treated as such.",
+      "The process of separating the client's problem from their personality.",
+      "The social worker's ability to remain objective."
+    ],
+    "answerIndex": 1,
+    "rationale": "Individualization is a core principle of casework that emphasizes treating each client as a unique person with a distinct history, personality, and set of circumstances. It requires the social worker to tailor their approach to the specific needs of the client, rather than using a one-size-fits-all model.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-054",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Social Diagnosis",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is formulating a 'social diagnosis' for a client. Which of the following is the most appropriate question to guide this process?",
+    "choices": [
+      "'What is the client's primary psychological disorder?'",
+      "'What is the client's personal history of trauma?'",
+      "'What is the nature of the client's problem and how is it related to their social environment?'",
+      "'What is the client's intelligence quotient?'"
+    ],
+    "answerIndex": 2,
+    "rationale": "Social diagnosis is a holistic process that links the client's personal problems to their social context. The key question is not just 'what is the problem?' but 'what is the problem and how is it influenced by the person-in-environment?'",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-055",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "The Client-Worker Relationship",
+    "bloom": "Understand",
+    "difficulty": "Moderate",
+    "stem": "The professional relationship between a social worker and client is characterized by which of the following?",
+    "choices": [
+      "It is based on personal friendship and mutual benefit.",
+      "It is professional, time-limited, and goal-oriented.",
+      "It is a one-way relationship where the social worker provides all the solutions.",
+      "It is a relationship that is meant to last a lifetime."
+    ],
+    "answerIndex": 1,
+    "rationale": "The professional relationship in social work is distinct from a personal friendship. It is defined by clear boundaries, a specific purpose (to help the client achieve a goal), and a planned ending (termination). It is not a relationship of equals but one where the social worker uses their professional skills to serve the client.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-056",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Intervention",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker and a client have developed a detailed plan for the client to find a job. The client is now actively searching for a job, attending interviews, and updating their resume. The social worker is providing emotional support and a check-in on the client's progress. This phase of the casework process is known as:",
+    "choices": [
+      "Intake",
+      "Assessment",
+      "Intervention",
+      "Termination"
+    ],
+    "answerIndex": 2,
+    "rationale": "The intervention phase is where the social worker and client implement the plan developed during the assessment. The social worker's role is to provide support, guidance, and resources to help the client execute the plan and achieve their goals.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-057",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Role of the Caseworker",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "When a social worker teaches a client with a history of social anxiety how to use relaxation techniques before a social event, they are primarily acting in the role of a:",
+    "choices": [
+      "Broker",
+      "Therapist or Counselor",
+      "Mediator",
+      "Advocate"
+    ],
+    "answerIndex": 1,
+    "rationale": "A therapist or counselor provides direct therapeutic interventions and teaches a client new skills to manage their emotions, thoughts, and behaviors. Teaching relaxation techniques is a direct therapeutic intervention aimed at improving the client's psychological well-being.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-058",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Social Investigation",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is conducting a social investigation for a child protection case. Which of the following sources of information would be considered the most credible for a court report?",
+    "choices": [
+      "A verbal statement from a family friend.",
+      "A written report from the child's school counselor and a medical doctor.",
+      "A social media post from a neighbor.",
+      "A brief phone call with the child's grandparents."
+    ],
+    "answerIndex": 1,
+    "rationale": "In legal and professional settings, credibility is paramount. A written report from a professional, such as a school counselor or medical doctor, is a highly credible source because it is objective, documented, and based on professional expertise. It is far more reliable than a verbal statement or an informal source like a social media post.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-059",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Feminist Theory",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker using a feminist approach with a male client who is struggling with anger issues would most likely focus on:",
+    "choices": [
+      "Teaching him relaxation techniques to control his anger.",
+      "Helping him understand how societal expectations of masculinity may contribute to his anger.",
+      "Connecting him with a men's support group.",
+      "Referring him to a therapist for individual counseling."
+    ],
+    "answerIndex": 1,
+    "rationale": "A feminist approach is not just for female clients. It is a critical perspective that examines how gender roles and societal expectations impact all individuals. The social worker would help the male client understand how the pressure to conform to traditional masculinity ('men shouldn't cry,' 'men should be tough') may be fueling his anger issues.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-060",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Functional School of Thought",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "Which of the following is a key characteristic of the Functional School of Thought?",
+    "choices": [
+      "It is a long-term therapeutic approach.",
+      "It is based on the idea that every individual has a drive for personal growth.",
+      "It is a highly structured, time-limited, and agency-focused approach.",
+      "It is a therapy that is focused on a client's unconscious conflicts."
+    ],
+    "answerIndex": 2,
+    "rationale": "The Functional School of Thought is distinct from other approaches because it is time-limited and highly structured. It emphasizes the purpose and function of the social work agency as the primary tool for helping the client achieve their goals. The time-limited nature of the intervention is a key characteristic of this approach.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-061",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Empathy vs. Sympathy",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker tells a client, 'I can't imagine how difficult it must be to lose your home in a fire.' This statement is an example of:",
+    "choices": [
+      "Empathy",
+      "Sympathy",
+      "Pity",
+      "A lack of professionalism"
+    ],
+    "answerIndex": 0,
+    "rationale": "This statement is a classic example of empathy. The social worker is not saying 'I feel sorry for you,' which would be sympathy. Instead, they are attempting to understand the client's feelings from their perspective, which demonstrates a willingness to enter the client's world and see things from their point of view.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-062",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Evaluation",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker and a client agree to meet once a week to discuss the client's progress on a list of goals. The social worker is using which type of evaluation?",
+    "choices": [
+      "Outcome evaluation",
+      "Process evaluation",
+      "Needs assessment",
+      "Program evaluation"
+    ],
+    "answerIndex": 1,
+    "rationale": "Process evaluation measures the steps taken during an intervention. In this case, the social worker is evaluating the process of the intervention (the weekly meetings and progress on goals) rather than the final outcome. This is a common way to ensure that an intervention is on track and that the client is engaged in the process.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-063",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Ecological Systems Theory",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "Which of the following would be considered a 'mesosystem' intervention in ecological systems theory?",
+    "choices": [
+      "A social worker helps a client obtain government assistance.",
+      "A social worker helps a family mediate a conflict between a child and their school.",
+      "A social worker lobbies for a new law.",
+      "A social worker helps a client change their irrational thoughts."
+    ],
+    "answerIndex": 1,
+    "rationale": "A mesosystem is the interaction between two of the client's microsystems. For example, the interaction between a family and a school is a mesosystem. A social worker who mediates a conflict between these two systems is intervening at the mesosystem level.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-064",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Boundaries",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A client tells a social worker, 'I feel like we are good friends.' The social worker's best response is to:",
+    "choices": [
+      "Agree with the client to strengthen the relationship.",
+      "Gently correct the client's perception and clarify the professional nature of the relationship.",
+      "Ignore the statement and continue with the session.",
+      "Politely end the session and refer the client to a different social worker."
+    ],
+    "answerIndex": 1,
+    "rationale": "Maintaining professional boundaries is a crucial ethical skill. The social worker should gently correct the client's perception by clarifying that the relationship is professional and designed to help the client achieve their goals. This helps to protect the client and ensures that the relationship remains therapeutic.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-065",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Intervention",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker's intervention strategy with a client with a history of self-harm includes both individual counseling and a referral to a support group. This approach is known as:",
+    "choices": [
+      "Micro-level intervention only",
+      "Macro-level intervention only",
+      "Mezzo-level intervention only",
+      "Integrated or multi-level practice"
+    ],
+    "answerIndex": 3,
+    "rationale": "This is a classic example of integrated practice. The individual counseling is a micro-level intervention, while the referral to a support group is a mezzo-level intervention. By using both, the social worker is providing a holistic and comprehensive approach to the client's well-being.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-066",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Humanistic Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker who uses a humanistic approach would believe that a client's primary drive is to:",
+    "choices": [
+      "Fulfill their unconscious desires.",
+      "Avoid pain and seek pleasure.",
+      "Achieve their full potential and self-actualize.",
+      "Receive social praise and approval."
+    ],
+    "answerIndex": 2,
+    "rationale": "The humanistic approach, as espoused by theorists like Abraham Maslow and Carl Rogers, is based on the belief that all individuals have an innate drive to grow, improve, and reach their full potential, a process known as self-actualization. The social worker's role is to facilitate this process.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-067",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Confrontation",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker says to a client, 'On the one hand, you tell me you want to stop drinking, but on the other hand, you continue to go to parties where you know there will be alcohol.' The social worker is using which skill?",
+    "choices": [
+      "Summarizing",
+      "Confrontation",
+      "Clarifying",
+      "Reflecting"
+    ],
+    "answerIndex": 1,
+    "rationale": "This is a classic example of confrontation. The social worker is pointing out a discrepancy between the client's words (wanting to stop drinking) and their actions (going to parties where there is alcohol). The goal is to bring this inconsistency to the client's attention so they can address it.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-068",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Social Functioning",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "Which of the following is the best example of a social worker intervening at the 'social functioning' level?",
+    "choices": [
+      "Providing a client with a referral to a psychiatrist.",
+      "Helping a client manage their anxiety during a job interview.",
+      "Advocating for a new law to increase employment opportunities.",
+      "Providing a client with a list of job training programs."
+    ],
+    "answerIndex": 1,
+    "rationale": "Social functioning refers to an individual's ability to perform their social roles effectively. Helping a client manage their anxiety during a job interview is a direct intervention that improves their ability to perform their role as a job seeker. This is a clear example of intervening at the social functioning level.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-069",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Crisis Intervention",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a client who is a victim of a natural disaster. The social worker's primary goal in the first few days of the intervention should be to:",
+    "choices": [
+      "Help the client process their feelings of loss and grief.",
+      "Connect the client with long-term psychological support.",
+      "Ensure the client has access to immediate needs like food, water, and shelter.",
+      "Help the client understand the root cause of the crisis."
+    ],
+    "answerIndex": 2,
+    "rationale": "In a crisis intervention model, the primary goal is to address immediate needs and ensure safety. This is a prerequisite for any other therapeutic work. The social worker must first ensure the client has their basic needs met before they can begin to process the trauma of the event.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-070",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Interviewing",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "Which of the following is a good example of a 'clarifying' question?",
+    "choices": [
+      "'Did you enjoy your vacation?'",
+      "'How did you feel about that?'",
+      "'You mentioned your brother, but I'm not sure who he is. Can you tell me more about him?'",
+      "'What do you want to accomplish today?'"
+    ],
+    "answerIndex": 2,
+    "rationale": "A clarifying question is used to clear up confusion and ensure a shared understanding. The social worker is asking for more information about a specific detail (the brother) to get a clearer picture of the client's story.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-071",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Ethical Principles",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a client who is a mandated reporter. The social worker's ethical responsibility is to:",
+    "choices": [
+      "Report the client's child abuse immediately.",
+      "Tell the client that they must report the abuse.",
+      "Obtain the client's consent before making the report.",
+      "Inform the client of the limits to confidentiality and their responsibility as a mandated reporter."
+    ],
+    "answerIndex": 3,
+    "rationale": "In a mandated reporting situation, the social worker must inform the client about the limits to confidentiality at the beginning of the relationship. This is a crucial step in upholding the principle of informed consent and ensuring that the client is aware of the social worker's ethical and legal obligations.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-072",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Problem-Solving Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker using a problem-solving approach would likely use which of the following as a primary tool?",
+    "choices": [
+      "A genogram to explore family history.",
+      "A miracle question to identify a client's goals.",
+      "A series of structured, time-limited tasks.",
+      "A detailed plan with clear steps and measurable outcomes."
+    ],
+    "answerIndex": 3,
+    "rationale": "The problem-solving approach is a practical, goal-oriented model. Its primary tool is a structured plan with clear steps and measurable outcomes. The social worker and client work together to develop this plan, which serves as a roadmap for the intervention.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-073",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "When documenting a client's case, a social worker writes, 'Client seems to be responding well to the intervention.' This statement is a violation of which principle of effective documentation?",
+    "choices": [
+      "Clarity",
+      "Conciseness",
+      "Objectivity",
+      "Timeliness"
+    ],
+    "answerIndex": 2,
+    "rationale": "The phrase 'seems to be responding well' is a subjective judgment. It is not an objective statement and lacks specific, measurable details. The social worker should instead document observable behaviors, such as 'Client reports a decrease in anxiety symptoms' or 'Client has attended all scheduled sessions.'",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-074",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Social Functioning",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "Which of the following is the most appropriate way for a social worker to assess a client's social functioning?",
+    "choices": [
+      "By administering a personality test.",
+      "By observing the client's interactions with others in their natural environment.",
+      "By asking the client a series of questions about their feelings.",
+      "By reviewing the client's medical history."
+    ],
+    "answerIndex": 1,
+    "rationale": "Social functioning is best assessed by observing how the client interacts with their environment. While other methods can provide useful information, observing the client's behavior in a real-world setting provides the most accurate and holistic picture of their ability to perform their social roles.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-075",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Psychodynamic Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A key difference between a psychodynamic approach and a cognitive-behavioral approach is that the psychodynamic approach focuses on:",
+    "choices": [
+      "Changing irrational thought patterns.",
+      "The client's unconscious and past experiences.",
+      "Teaching the client new coping skills.",
+      "The client's immediate, presenting problem."
+    ],
+    "answerIndex": 1,
+    "rationale": "Psychodynamic theory, unlike CBT, focuses on the client's past, their unconscious mind, and how early childhood experiences have shaped their personality and current behavior. It is an 'insight-oriented' approach, whereas CBT is a 'behavioral' approach.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-076",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Confidentiality",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "Which of the following is a situation where a social worker is ethically required to break confidentiality?",
+    "choices": [
+      "A client is a danger to themselves or others.",
+      "A client tells the social worker that they are using illegal drugs.",
+      "A client tells the social worker that they are feeling sad.",
+      "A client tells the social worker that they are having financial problems."
+    ],
+    "answerIndex": 0,
+    "rationale": "The 'duty to warn and protect' is an ethical and legal mandate that requires a social worker to break confidentiality when a client poses a serious and imminent threat of harm to themselves or others. This is an exception to the rule of confidentiality.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-077",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Principles of Casework",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker's willingness to work with a client who has a history of criminal activity and a negative attitude towards authority is an application of which ethical principle?",
+    "choices": [
+      "Self-determination",
+      "Individualization",
+      "Acceptance",
+      "Confidentiality"
+    ],
+    "answerIndex": 2,
+    "rationale": "Acceptance is the principle of treating a client with dignity and respect, regardless of their circumstances, background, or behavior. It requires the social worker to have a non-judgmental attitude and to see the client as a unique individual with a right to be helped.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-078",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Task-Centered Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker using a task-centered approach would likely be least concerned with:",
+    "choices": [
+      "The client's emotions during a session.",
+      "The client's progress on an agreed-upon task.",
+      "The time-limited nature of the intervention.",
+      "The client's self-determination."
+    ],
+    "answerIndex": 0,
+    "rationale": "The task-centered approach is a practical, goal-oriented model that focuses on the completion of tasks rather than on the client's emotional state. While the social worker would be empathetic, the primary focus is on the task at hand. This is a key difference from more emotionally focused approaches like psychosocial or psychodynamic therapy.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-079",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Interviewing",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker asks a client, 'How has your life changed since you started a new job?' This question is an example of:",
+    "choices": [
+      "An open-ended question.",
+      "A closed-ended question.",
+      "A leading question.",
+      "A confrontational question."
+    ],
+    "answerIndex": 0,
+    "rationale": "This is an open-ended question because it invites the client to provide a narrative response and to share their thoughts and feelings. It encourages the client to reflect on their experiences and to provide a detailed answer, which is essential for a thorough assessment.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-080",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Evaluation",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker asks a client, 'On a scale of 1 to 10, with 1 being 'not at all' and 10 being 'completely,' how much do you feel in control of your life?' This is a form of:",
+    "choices": [
+      "Qualitative evaluation",
+      "Quantitative evaluation",
+      "Needs assessment",
+      "Program evaluation"
+    ],
+    "answerIndex": 1,
+    "rationale": "Quantitative evaluation involves the use of numbers and standardized measures. By asking a client to rate their feelings on a scale, the social worker is gathering quantitative data. This is a useful tool for tracking progress and measuring the effectiveness of an intervention over time.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-081",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Cognitive Behavioral Therapy (CBT)",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker using CBT with a client would most likely focus on which of the following?",
+    "choices": [
+      "The client's childhood history.",
+      "The client's family dynamics.",
+      "The client's irrational thoughts and beliefs.",
+      "The client's unconscious conflicts."
+    ],
+    "answerIndex": 2,
+    "rationale": "CBT is a present-focused, action-oriented approach that aims to change a client's behavior by identifying and changing their irrational thoughts and beliefs. It is a highly practical approach that is often used for a wide range of problems, from anxiety to depression.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-082",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker's case notes should be written in a manner that is concise and to the point. This practice adheres to the principle of:",
+    "choices": [
+      "Clarity",
+      "Objectivity",
+      "Confidentiality",
+      "Brevity"
+    ],
+    "answerIndex": 3,
+    "rationale": "Brevity is an important principle of effective documentation. Case notes should be concise and to the point, containing only the essential information needed to ensure continuity of care and professional accountability. This saves time and ensures that the record is easy to read and understand.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-083",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Ethical Principles",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a client who is a mandated reporter. The social worker's ethical responsibility is to:",
+    "choices": [
+      "Report the client's child abuse immediately.",
+      "Tell the client that they must report the abuse.",
+      "Obtain the client's consent before making the report.",
+      "Inform the client of the limits to confidentiality and their responsibility as a mandated reporter."
+    ],
+    "answerIndex": 3,
+    "rationale": "In a mandated reporting situation, the social worker must inform the client about the limits to confidentiality at the beginning of the relationship. This is a crucial step in upholding the principle of informed consent and ensuring that the client is aware of the social worker's ethical and legal obligations.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-084",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Problem-Solving Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker using a problem-solving approach would likely use which of the following as a primary tool?",
+    "choices": [
+      "A genogram to explore family history.",
+      "A miracle question to identify a client's goals.",
+      "A series of structured, time-limited tasks.",
+      "A detailed plan with clear steps and measurable outcomes."
+    ],
+    "answerIndex": 3,
+    "rationale": "The problem-solving approach is a practical, goal-oriented model. Its primary tool is a structured plan with clear steps and measurable outcomes. The social worker and client work together to develop this plan, which serves as a roadmap for the intervention.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-085",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Use of Self",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker shares a brief, personal anecdote to relate to a client's struggles with anxiety. This technique is an example of what ethical 'use of self'?",
+    "choices": [
+      "Self-disclosure",
+      "Imposing values",
+      "Transference",
+      "Countertransference"
+    ],
+    "answerIndex": 0,
+    "rationale": "Self-disclosure is the professional and purposeful sharing of personal information with a client. It should be used judiciously and only for the purpose of strengthening the therapeutic relationship, normalizing a client's experience, or offering a new perspective.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-086",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "The Helping Process",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker is providing short-term counseling to a client with depression. After 8 sessions, the client reports feeling much better and is able to cope with their symptoms. The social worker's next step in the helping process should be:",
+    "choices": [
+      "To continue with therapy for an additional 8 sessions.",
+      "To explore new and unrelated problems.",
+      "To initiate the termination phase, discussing progress and future plans.",
+      "To refer the client to a different therapist."
+    ],
+    "answerIndex": 2,
+    "rationale": "Termination is a crucial, planned phase. When a client has achieved their goals and is functioning well, the social worker should begin the termination process. This helps the client transition from professional support to self-sufficiency in a structured and safe way.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-087",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Task-Centered Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker using a task-centered approach would be least likely to focus on which of the following?",
+    "choices": [
+      "Setting a clear, measurable goal",
+      "Exploring the root cause of a problem in childhood",
+      "Developing a contract with the client",
+      "Monitoring the client's progress on agreed-upon tasks"
+    ],
+    "answerIndex": 1,
+    "rationale": "The task-centered approach is a pragmatic, short-term model that focuses on a client's current problems. It explicitly avoids an in-depth exploration of a client's past, as it is seen as an inefficient use of time. Its focus is on the present and the future through the completion of specific tasks.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-088",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Ethical considerations",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A client offers a social worker an expensive gift as a sign of gratitude. The most ethical course of action for the social worker is to:",
+    "choices": [
+      "Accept the gift to avoid offending the client.",
+      "Accept the gift and give it to a charity.",
+      "Politely decline the gift and explain the professional boundaries.",
+      "Accept the gift and document it in the case file."
+    ],
+    "answerIndex": 2,
+    "rationale": "Accepting gifts from clients, especially expensive ones, can create a dual relationship, blur professional boundaries, and lead to ethical conflicts. The most ethical action is to politely decline the gift and explain the reasons for the professional boundary, which reinforces the professional nature of the relationship.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-089",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Principles of Casework",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker's acceptance of a client's values and beliefs, even when they differ from the social worker's own, is an application of which principle?",
+    "choices": [
+      "Self-determination",
+      "Individualization",
+      "Confidentiality",
+      "Acceptance"
+    ],
+    "answerIndex": 3,
+    "rationale": "Acceptance is a core principle of social work that involves valuing the client as a unique individual, with their own strengths, weaknesses, and values. It requires the social worker to treat the client with dignity and respect, without judgment, regardless of their circumstances or beliefs.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-090",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Feminist Theory",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker uses a feminist approach to help a female client who is struggling with low self-esteem. The social worker would most likely focus on which of the following?",
+    "choices": [
+      "Analyzing her childhood experiences with her parents",
+      "Examining how societal gender roles and expectations have impacted her life",
+      "Helping her set concrete tasks to improve her self-esteem",
+      "Connecting her to job training resources"
+    ],
+    "answerIndex": 1,
+    "rationale": "Feminist theory in social work critiques how societal power imbalances, particularly those based on gender, contribute to a person's problems. A social worker using this approach would help the client see how their struggles are not personal failings but are shaped by broader, systemic issues like patriarchal structures and gendered expectations.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-091",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Termination",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "During the termination phase, a client expresses sadness about the end of the professional relationship. What is the most appropriate response for the social worker?",
+    "choices": [
+      "To ignore the client's feelings and move on to the next step.",
+      "To extend the sessions to avoid the client's sadness.",
+      "To acknowledge and validate the client's feelings of sadness.",
+      "To tell the client they shouldn't feel sad because they have made so much progress."
+    ],
+    "answerIndex": 2,
+    "rationale": "Acknowledging and validating the client's feelings is a key part of an ethical and effective termination. It normalizes their emotions and helps them process the ending of a significant relationship. This is a crucial step in preparing the client for future independence.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-092",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Case Recording",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is writing a SOAP note for a case. 'S' stands for subjective data, 'O' for objective data, 'A' for assessment. What does 'P' stand for?",
+    "choices": [
+      "Problem",
+      "Progress",
+      "Plan",
+      "Prognosis"
+    ],
+    "answerIndex": 2,
+    "rationale": "SOAP is a common acronym for documenting case notes. 'P' stands for 'Plan,' which outlines the specific steps the social worker and client will take to address the problem identified in the assessment. It is a forward-looking and action-oriented component of the note.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-093",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Psychosocial Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker using a psychosocial approach would be most likely to use which of the following techniques?",
+    "choices": [
+      "Examining the client's childhood history to identify root causes of behavior",
+      "Administering a series of behavior modification exercises",
+      "Developing a time-limited contract for a specific task",
+      "Focusing exclusively on the client's present-day problems"
+    ],
+    "answerIndex": 0,
+    "rationale": "The psychosocial approach, rooted in psychodynamic theory, emphasizes the importance of past experiences and internal psychological conflicts. It often uses techniques like exploration and reflection to help the client gain insight into how their past affects their present behavior.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-094",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Case Management",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker helps a client with a chronic illness to coordinate services from various providers, including a physician, a physical therapist, and a home health aide. This role is best described as:",
+    "choices": [
+      "Therapist",
+      "Advocate",
+      "Case manager",
+      "Mediator"
+    ],
+    "answerIndex": 2,
+    "rationale": "Case management is a professional role that involves coordinating services from multiple providers and agencies to meet the complex needs of a client. It ensures that the client receives comprehensive, holistic, and uninterrupted care.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-095",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Evaluation",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker uses a rating scale to measure a client's anxiety level before and after a series of sessions. This is a form of:",
+    "choices": [
+      "Process evaluation",
+      "Outcome evaluation",
+      "Needs assessment",
+      "Program evaluation"
+    ],
+    "answerIndex": 1,
+    "rationale": "Outcome evaluation measures the effectiveness of an intervention by assessing whether the desired change or goal has been achieved. In this case, the rating scale measures the outcome (reduction in anxiety) of the social work intervention.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-096",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Humanistic Approach",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "Which of the following is a central concept in the humanistic approach to casework?",
+    "choices": [
+      "The client's irrational thoughts",
+      "The client's unconscious conflicts",
+      "The client's inherent drive for self-actualization",
+      "The client's external environment"
+    ],
+    "answerIndex": 2,
+    "rationale": "Humanistic theory, popularized by figures like Carl Rogers, is based on the belief that every individual has an innate potential for growth and positive change. The social worker's role is to create a supportive environment that allows the client to tap into their own strengths and pursue self-actualization.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-097",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Confrontation",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker says to a client, 'I see that this topic is making you angry. Would you like to take a break or talk about something else?' This response is an example of:",
+    "choices": [
+      "Reflecting a feeling",
+      "Confrontation",
+      "Clarifying",
+      "Prying"
+    ],
+    "answerIndex": 0,
+    "rationale": "Reflecting a feeling is a crucial skill for demonstrating empathy. The social worker labels the emotion they are observing and gives the client an opportunity to either confirm the feeling or correct it, showing that they are truly listening and attuned to the client's emotional state.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-098",
+    "subject": "Practice I",
+    "topic": "A. Social Work Practice with Individuals (Casework)",
+    "subtopic": "Assessment",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker's assessment reveals that a client is struggling with both a lack of job skills and untreated depression. The most appropriate plan of action is to:",
+    "choices": [
+      "Address the depression first, as it is the more serious issue.",
+      "Address the job skills first, as they are a more concrete problem.",
+      "Develop an integrated plan that addresses both issues simultaneously.",
+      "Refer the client to two separate agencies to handle each problem."
+    ],
+    "answerIndex": 2,
+    "rationale": "A holistic approach is essential in social work. The PIE perspective suggests that the two issues are likely interconnected. An integrated plan would acknowledge this interplay, helping the client manage their depression while simultaneously working on improving their job skills, as progress in one area will likely impact the other.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-099",
+    "subject": "Practice I",
+    "topic": "B. Theories, Methods, and Approaches in Casework",
+    "subtopic": "Client-Centered Therapy",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker's primary role, according to client-centered therapy, is to:",
+    "choices": [
+      "Interpret the client's unconscious desires",
+      "Give direct advice and solutions",
+      "Provide unconditional positive regard and empathy",
+      "Set specific, measurable goals for the client"
+    ],
+    "answerIndex": 2,
+    "rationale": "Client-centered therapy, developed by Carl Rogers, is a humanistic approach. The social worker's role is not to direct but to create a safe, non-judgmental environment. This is achieved through three core conditions: unconditional positive regard (acceptance), empathy, and congruence (genuineness), which empower the client to find their own solutions.",
+    "source": "Gemini Model"
+  },
+  {
+    "id": "P1-M-100",
+    "subject": "Practice I",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation",
+    "bloom": "Analyze",
+    "difficulty": "Moderate",
+    "stem": "A social worker's case notes should be written as soon as possible after a session to maintain which quality?",
+    "choices": [
+      "Brevity",
+      "Clarity",
+      "Confidentiality",
+      "Timeliness"
+    ],
+    "answerIndex": 3,
+    "rationale": "Timeliness is a critical aspect of effective documentation. Writing notes immediately after a session ensures that all the details, nuances, and emotions of the interaction are still fresh in the social worker's mind, leading to more accurate and comprehensive records.",
+    "source": "Gemini Model"
+  }
+]

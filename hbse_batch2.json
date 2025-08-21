@@ -1,0 +1,257 @@
+[
+  {
+    "id": "HBSE-Q1-001",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Easy",
+    "stem": "Aling Nena, a mother in a low-income urban community, consistently provides nutritious meals for her family despite limited resources by growing vegetables in her backyard and participating in a local community kitchen. Which of the following concepts best describes Aling Nena's behavior?",
+    "choices": [
+      "Social stratification",
+      "Poverty threshold",
+      "Resilience",
+      "Social marginalization"
+    ],
+    "answerIndex": 2,
+    "rationale": "Resilience refers to the capacity to recover quickly from difficulties, demonstrating a resourceful and adaptable response to challenging circumstances like poverty. This concept goes beyond just survival and highlights an individual's ability to thrive despite adversity.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-002",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Moderate",
+    "stem": "The 'bayanihan' spirit, where community members voluntarily help each other without expecting payment, is often seen as a strength in Filipino culture. From a social work perspective, what is the primary function of bayanihan in promoting social well-being?",
+    "choices": [
+      "It promotes individual achievement and competition among neighbors.",
+      "It strengthens social bonds and provides an informal support system.",
+      "It serves as a substitute for formal government assistance programs.",
+      "It encourages dependency on informal community networks."
+    ],
+    "answerIndex": 1,
+    "rationale": "Bayanihan functions as a form of social capital that strengthens community cohesion and provides a network of mutual aid, serving as a vital informal support system in times of need.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-003",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Difficult",
+    "stem": "In the Philippines, the implementation of a new government policy on housing for informal settlers leads to mass displacement. A social worker critiques this policy, arguing that it fails to consider the settlers' social ties and cultural practices. This social worker's action aligns with which core social work value?",
+    "choices": [
+      "Respect for the dignity and worth of the person.",
+      "Promotion of social justice and human rights.",
+      "Service to humanity.",
+      "Integrity and professional competence."
+    ],
+    "answerIndex": 1,
+    "rationale": "By critiquing a policy that neglects the rights and well-being of a marginalized group, the social worker is actively promoting social justice and upholding human rights, which is a foundational value of the profession.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-004",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "difficulty": "Easy",
+    "stem": "A social worker observes that a Filipino client, Mang Jose, prefers to consult with his entire family before making a decision about his health care. This behavior is most likely an expression of which Filipino value?",
+    "choices": [
+      "Pakikipagkapwa-tao",
+      "Hiya",
+      "Amor propio",
+      "Familialism"
+    ],
+    "answerIndex": 3,
+    "rationale": "Familialism is the value that places a strong emphasis on the family as the primary social unit, often making family consultation and approval a priority in major life decisions.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-005",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "difficulty": "Moderate",
+    "stem": "A social worker is providing counseling to a young Filipino client who is struggling to assert their individuality due to fear of offending their parents. The client's behavior is most likely influenced by which cultural concept?",
+    "choices": [
+      "Bahala Na",
+      "Utang na Loob",
+      "Pakikisama",
+      "Hiya"
+    ],
+    "answerIndex": 3,
+    "rationale": "Hiya is the cultural concept of a sense of shame or a feeling of inferiority, which often influences behavior and prevents individuals from asserting themselves for fear of social disapproval or embarrassment.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-006",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Easy",
+    "stem": "A teenager from an impoverished community in Tondo, Manila, is apprehended for petty theft. A social worker handling the case identifies the lack of economic opportunities in the community as a contributing factor. The social worker is using which perspective to understand the behavior?",
+    "choices": [
+      "Psychological perspective",
+      "Biological perspective",
+      "Socio-cultural perspective",
+      "Individual-level perspective"
+    ],
+    "answerIndex": 2,
+    "rationale": "The socio-cultural perspective views human behavior as being shaped by a person's social and cultural context, including factors like poverty, community norms, and social structures.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-007",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Moderate",
+    "stem": "A social worker is called to a local barangay to assist a family whose child is exhibiting behavior considered 'deviant' by community standards. The social worker's first step is to explore the family's definition of 'normal' and 'deviant' behavior. This approach aligns with which social theory of deviation?",
+    "choices": [
+      "Labeling theory",
+      "Conflict theory",
+      "Functionalism",
+      "Strain theory"
+    ],
+    "answerIndex": 0,
+    "rationale": "Labeling theory posits that deviance is not inherent in an act but is a social construct. By examining the family's definition of deviance, the social worker is exploring how the community's labels influence the child's behavior and identity.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-008",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Difficult",
+    "stem": "A social worker is developing an intervention for a group of teenagers who have been labeled as 'delinquent'. The social worker focuses on building their self-esteem, providing positive role models, and connecting them to pro-social community activities. This approach is a direct application of which theory of social deviation?",
+    "choices": [
+      "Rational choice theory",
+      "Social disorganization theory",
+      "Social control theory",
+      "Biological determinism"
+    ],
+    "answerIndex": 2,
+    "rationale": "Social control theory suggests that deviance occurs when an individual's bond to society is weakened. By focusing on building social bonds, providing positive role models, and fostering pro-social activities, the social worker is applying the principles of social control theory.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-009",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Easy",
+    "stem": "A social worker is tasked with assessing the 'social environment' of a client. Which of the following would be a key component of this assessment?",
+    "choices": [
+      "The client's personal financial history and debt.",
+      "The client's medical history and current physical health.",
+      "The nature of the client's family, peer, and community relationships.",
+      "The client's individual personality and psychological traits."
+    ],
+    "answerIndex": 2,
+    "rationale": "The social environment refers to a person's interactions with their family, social groups, and community, which are all critical factors in social work assessments.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-010",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Moderate",
+    "stem": "A social worker observes a family where the father makes all decisions and the children's opinions are not considered. From a systems perspective, this family structure is likely to produce which effect on the children?",
+    "choices": [
+      "Increased financial independence.",
+      "Enhanced critical thinking skills.",
+      "Diminished sense of autonomy and personal agency.",
+      "Stronger emotional bonds with the father."
+    ],
+    "answerIndex": 2,
+    "rationale": "In a rigid, hierarchical family system where children are not allowed to express opinions, their development of autonomy and personal agency may be suppressed.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-011",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Difficult",
+    "stem": "A social worker is asked to evaluate the effectiveness of a community-based rehabilitation program for drug users. The social worker recommends a change from a top-down, punitive approach to a more collaborative, empowerment-based model. This recommendation reflects an understanding of which type of social change?",
+    "choices": [
+      "Revolutionary change",
+      "Incremental change",
+      "Transformative change",
+      "Deviant change"
+    ],
+    "answerIndex": 2,
+    "rationale": "Transformative change involves a fundamental shift in values, power structures, and relationships, moving away from a traditional hierarchical model to a more horizontal and empowering one, which is what the social worker is proposing.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-012",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Easy",
+    "stem": "Which of the following describes the key principle of community empowerment?",
+    "choices": [
+      "Providing the community with all the resources they need.",
+      "Helping the community identify and use its own strengths and assets to create change.",
+      "Establishing a new set of rules to regulate the community.",
+      "Relocating community members to a more developed area."
+    ],
+    "answerIndex": 1,
+    "rationale": "Community empowerment is a process where communities gain control over their lives by taking action based on their own strengths and assets, rather than depending on external aid or regulation.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-013",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Moderate",
+    "stem": "A social worker is mediating a conflict between a local government unit and a community group over a development project. The social worker's role is to ensure that both parties' interests are heard and a mutually beneficial solution is reached. This is an example of which social change strategy?",
+    "choices": [
+      "Consensus-building",
+      "Confrontation",
+      "Social action",
+      "Legislative lobbying"
+    ],
+    "answerIndex": 0,
+    "rationale": "Consensus-building is a strategy that focuses on bringing conflicting parties together to reach a common agreement through dialogue and negotiation, which is the social worker's role in this scenario.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-014",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Difficult",
+    "stem": "A social worker critiques a major infrastructure project for displacing indigenous communities and disrupting their traditional way of life without proper consultation. The social worker is applying a critical perspective that questions the project's sustainability and ethical implications. Which development model does this critique most align with?",
+    "choices": [
+      "Economic growth model",
+      "Modernization model",
+      "Sustainable development model",
+      "Human rights-based approach"
+    ],
+    "answerIndex": 3,
+    "rationale": "A human rights-based approach to development views individuals as active participants and claims-holders, and development as a process that enhances their rights. By focusing on the rights and consultation of the indigenous communities, the social worker's critique is a direct application of this approach, which contrasts with purely economic-focused models.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q1-015",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "difficulty": "Moderate",
+    "stem": "A social worker observes a client who, when asked about their feelings regarding a difficult situation, responds with 'Bahala na' and a smile. How should the social worker interpret this response in the context of Filipino culture?",
+    "choices": [
+      "The client is expressing complete resignation and giving up hope.",
+      "The client is actively avoiding the topic and does not want to discuss it further.",
+      "The client is demonstrating a fatalistic belief and is resistant to change.",
+      "The client is expressing a sense of trusting in a higher power and is prepared to face the outcome."
+    ],
+    "answerIndex": 3,
+    "rationale": "While 'Bahala na' can be misinterpreted as passive resignation, in its deeper cultural context, it often signifies a courageous and resourceful attitude of trusting in a higher power after one has done their best. The social worker should not assume it indicates a lack of will to solve the problem.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  }
+]

@@ -1,0 +1,3042 @@
+[
+  {
+    "id": "P3-A-001",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which principle of community organizing emphasizes that the community members themselves are the primary actors in their own development?",
+    "choices": [
+      "Process orientation",
+      "Self-determination",
+      "Consciousness-raising",
+      "Social investigation"
+    ],
+    "answerIndex": 1,
+    "rationale": "Self-determination is a core social work value that applies to community organizing, asserting the community's right to choose its own direction and actions.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-002",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker facilitates a meeting where community members share their personal stories of hardship. This activity is primarily an example of:",
+    "choices": [
+      "Resource mobilization",
+      "Data tabulation",
+      "Consciousness-raising",
+      "Lobbying"
+    ],
+    "answerIndex": 2,
+    "rationale": "Consciousness-raising is the process of helping people recognize that their personal problems are often linked to larger social issues.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-003",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker observes a local government unit's decision-making process to understand the power dynamics within the community. This activity is most aligned with which principle?",
+    "choices": [
+      "Process orientation over goal orientation",
+      "Catalytic and enabling role of the social worker",
+      "Structural analysis",
+      "Use of external funding"
+    ],
+    "answerIndex": 2,
+    "rationale": "Structural analysis involves examining the underlying social, political, and economic structures that contribute to community problems and power imbalances.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-004",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Before starting a project, a social worker gathers basic information about a community's demographics, history, and social structures. This process is best described as:",
+    "choices": [
+      "Social planning",
+      "Area selection",
+      "Community profiling",
+      "Problem diagnosis"
+    ],
+    "answerIndex": 2,
+    "rationale": "Community profiling is the initial step of gathering baseline data to understand a community before engaging in intervention.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-005",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is choosing a new site for a community project. Which of the following is the most critical factor to consider during the area selection phase?",
+    "choices": [
+      "The physical beauty of the location",
+      "The availability of free public transport",
+      "The presence of a clear need and the community's willingness to participate",
+      "The proximity to the social worker's home"
+    ],
+    "answerIndex": 2,
+    "rationale": "The presence of a clear need and the community's readiness to engage are fundamental to the success of any community organizing effort.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-006",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker's investigation reveals that a community has high unemployment but strong existing informal networks for mutual support. This finding suggests the social worker should prioritize:",
+    "choices": [
+      "Seeking a new area with no problems",
+      "Focusing only on the economic problem",
+      "Building on the community's strengths and informal networks",
+      "Immediately requesting government funds"
+    ],
+    "answerIndex": 2,
+    "rationale": "A strengths-based approach in community work involves identifying and utilizing a community's assets and resources, even amidst challenges.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-007",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Profile & Data Analysis",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following data sources is an example of a secondary data source for a community profile?",
+    "choices": [
+      "A survey conducted by the social worker",
+      "Interviews with key informants",
+      "Census data from the Philippine Statistics Authority (PSA)",
+      "An observation of a community meeting"
+    ],
+    "answerIndex": 2,
+    "rationale": "Secondary data is information that has been collected by someone else for another purpose, such as government census data.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-008",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Profile & Data Analysis",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker has collected data on household income and education levels in a community. The next logical step is to:",
+    "choices": [
+      "Start a fundraising campaign",
+      "Analyze the data to identify patterns and potential needs",
+      "Immediately present the raw data to the community",
+      "Discard the data and start over"
+    ],
+    "answerIndex": 1,
+    "rationale": "After collecting data, a social worker must analyze it to derive meaningful insights that will inform the intervention plan.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-009",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Profile & Data Analysis",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A community profile reveals a high incidence of a particular disease and a lack of access to clean water. A social worker's analysis should first establish a link between these two issues by examining the:",
+    "choices": [
+      "Community's historical records",
+      "Geographic location of the affected households relative to water sources",
+      "Personal beliefs of community members",
+      "Number of doctors in the area"
+    ],
+    "answerIndex": 1,
+    "rationale": "Examining the spatial relationship between the disease and water sources is a key step in analyzing potential cause-and-effect relationships and targeting interventions.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-010",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Profile & Data Analysis",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is evaluating the accuracy of a community profile report. Which of the following is the most reliable indicator of data quality?",
+    "choices": [
+      "The length of the report",
+      "The presence of a bibliography and clear citation of data sources",
+      "The number of colorful charts and graphs",
+      "The emotional tone of the narratives"
+    ],
+    "answerIndex": 1,
+    "rationale": "A bibliography and source citations are crucial for verifying the validity and reliability of the data used in the report.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-011",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Participatory Action Research (PAR)",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following is a key characteristic of Participatory Action Research (PAR)?",
+    "choices": [
+      "The researcher is the sole decision-maker",
+      "It is a top-down research approach",
+      "It involves community members as co-researchers",
+      "It focuses on pure theory with no practical application"
+    ],
+    "answerIndex": 2,
+    "rationale": "PAR is defined by the active involvement of community members in all stages of the research process, from problem identification to action.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-012",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Participatory Action Research (PAR)",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker and a group of farmers collaborate to study the impacts of climate change on their crop yields. They decide to record rainfall and temperature daily. This activity is a classic example of:",
+    "choices": [
+      "Quantitative surveying",
+      "Participatory Action Research (PAR)",
+      "Randomized control trial",
+      "Archival research"
+    ],
+    "answerIndex": 1,
+    "rationale": "This scenario demonstrates PAR because the community members (farmers) are actively participating in the research process to address a problem directly affecting them.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-013",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Participatory Action Research (PAR)",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker's PAR project on food security is successful in identifying local solutions. The next step, according to the PAR cycle, should be to:",
+    "choices": [
+      "Publish a paper without sharing it with the community",
+      "Implement the identified solutions and reflect on the outcomes",
+      "Declare the project finished and move on",
+      "Continue the research without taking action"
+    ],
+    "answerIndex": 1,
+    "rationale": "The PAR cycle is iterative, moving from research to action and then to a new cycle of reflection and planning.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-014",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker has completed a thorough social investigation. Which of the following is the most appropriate action based on the findings?",
+    "choices": [
+      "Immediately start building a new community hall",
+      "Present the findings to the community to validate their accuracy and prioritize issues",
+      "Assume the findings are correct and create a detailed action plan alone",
+      "Submit the report to the funding agency without community feedback"
+    ],
+    "answerIndex": 1,
+    "rationale": "Validating the findings with the community ensures accuracy, fosters ownership, and is a key step in a participatory approach.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-015",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The principle of 'start where the people are' in community organizing refers to:",
+    "choices": [
+      "Beginning the intervention with the community's existing concerns and capacity",
+      "Always starting a project in the poorest area of the community",
+      "Ignoring the social worker's own professional knowledge",
+      "Limiting the project to physical infrastructure"
+    ],
+    "answerIndex": 0,
+    "rationale": "This principle emphasizes that social workers should begin their work based on the community's felt needs and current state of readiness.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-016",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker helps a neighborhood association to identify and contact potential donors for their community garden project. This is an example of the social worker's role as a:",
+    "choices": [
+      "Planner",
+      "Catalyst",
+      "Educator",
+      "Broker"
+    ],
+    "answerIndex": 3,
+    "rationale": "Acting as a broker, the social worker links the community with external resources, such as funding and other forms of support.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-017",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker observes a community's daily life, attending informal gatherings and listening to conversations without formal interviews. This technique is known as:",
+    "choices": [
+      "Participant observation",
+      "Key informant interview",
+      "Social survey",
+      "Focus group discussion"
+    ],
+    "answerIndex": 0,
+    "rationale": "Participant observation involves the social worker immersing themselves in the community to gain a deeper understanding of its culture and dynamics.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-018",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Profile & Data Analysis",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A community profile indicates that a large portion of the population is under 18. This demographic data is most useful for a social worker to plan programs related to:",
+    "choices": [
+      "Retirement benefits and senior care",
+      "Agricultural productivity",
+      "Youth development, education, and health",
+      "Small business loans"
+    ],
+    "answerIndex": 2,
+    "rationale": "The age distribution of a population is a critical demographic indicator that directly informs the type of social services needed, such as those for youth.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-019",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Participatory Action Research (PAR)",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "During a PAR project, community members disagree on the most pressing problem to address. A social worker's most ethical action is to:",
+    "choices": [
+      "Make the final decision based on their professional judgment",
+      "Take a vote and side with the majority",
+      "Facilitate a process for the group to reach a consensus on priorities",
+      "Abandon the project due to conflict"
+    ],
+    "answerIndex": 2,
+    "rationale": "The social worker's role in a participatory process is to facilitate, not dictate. Helping the group reach a consensus respects their self-determination and builds their capacity for collective action.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-020",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In the social investigation phase, what is the primary purpose of a 'spot map'?",
+    "choices": [
+      "To identify the location of key power brokers",
+      "To plot the physical location of social problems or assets in the community",
+      "To list all the members of the community",
+      "To create a beautiful drawing of the area"
+    ],
+    "answerIndex": 1,
+    "rationale": "A spot map is a visual tool used to physically map out the distribution of certain phenomena, such as a high crime rate or the location of social services.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-021",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker spends several weeks building trust and rapport with key community leaders before proposing any action. This is an example of:",
+    "choices": [
+      "Social marketing",
+      "Pre-entry and integration",
+      "Strategic planning",
+      "Feasibility study"
+    ],
+    "answerIndex": 1,
+    "rationale": "Pre-entry and integration are the initial phases of community organizing where the social worker establishes a presence and builds relationships with the community.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-022",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting an initial social investigation. The most critical information to collect first is not what the community lacks, but rather what they have in terms of:",
+    "choices": [
+      "Deficits and weaknesses",
+      "Problems and challenges",
+      "External resources and aid",
+      "Existing resources, strengths, and assets"
+    ],
+    "answerIndex": 3,
+    "rationale": "A strengths-based approach dictates that the initial focus should be on identifying what the community already has (assets) to build upon, rather than just focusing on their needs and deficits.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-023",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker prioritizes building the capacity of a community's core group to lead their own projects, even if it slows down the project's progress. This decision is an example of prioritizing:",
+    "choices": [
+      "Goal-orientation",
+      "Efficiency",
+      "Process orientation",
+      "Funding requirements"
+    ],
+    "answerIndex": 2,
+    "rationale": "Process orientation prioritizes the development of the community's capacity and self-reliance over the immediate achievement of a specific goal.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-024",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Participatory Action Research (PAR)",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The 'action' component in Participatory Action Research (PAR) refers to:",
+    "choices": [
+      "The social worker doing all the work",
+      "The implementation of the solutions collaboratively identified by the community",
+      "Writing a long report for government officials",
+      "Conducting interviews with experts"
+    ],
+    "answerIndex": 1,
+    "rationale": "The 'action' in PAR is a direct outcome of the research and is implemented by the community to address their identified problem.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-025",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Participatory Action Research (PAR)",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "In a PAR project, a community group identifies a lack of safe playgrounds as a problem. They then propose to lobby the local council for funding. This stage is part of the PAR cycle's:",
+    "choices": [
+      "Reflection phase",
+      "Planning for action phase",
+      "Data collection phase",
+      "Evaluation phase"
+    ],
+    "answerIndex": 1,
+    "rationale": "After identifying the problem, the group moves to the planning stage to decide on the most effective action to take.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-026",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Profile & Data Analysis",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker's data analysis reveals that a community has a high percentage of senior citizens living alone. What is the most appropriate program intervention to propose based on this data?",
+    "choices": [
+      "A youth employment program",
+      "A senior citizen social and wellness club",
+      "A livelihood program for farmers",
+      "An after-school tutorial program"
+    ],
+    "answerIndex": 1,
+    "rationale": "The data points directly to a need among the elderly population, making a program tailored to their social and wellness needs the most logical intervention.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-027",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "After conducting a social investigation, a social worker determines a community is not ready to engage in collective action due to strong internal conflicts. What is the most ethical social work response?",
+    "choices": [
+      "Force the community to work together for the project",
+      "Withdraw immediately and find a more suitable community",
+      "Re-evaluate the entry approach and focus on conflict resolution first",
+      "Proceed with a top-down project despite the conflict"
+    ],
+    "answerIndex": 2,
+    "rationale": "The social worker's ethical duty is to adapt their approach to the community's state of readiness, and in this case, addressing internal conflict is a prerequisite for effective organizing.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-028",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The concept of 'organizing around issues' means that a social worker should:",
+    "choices": [
+      "Focus on a single, overarching issue for the entire community",
+      "Help the community identify specific, solvable problems to unite around",
+      "Only address issues that have a lot of media coverage",
+      "Avoid all forms of conflict"
+    ],
+    "answerIndex": 1,
+    "rationale": "Issues-based organizing focuses on specific, winnable issues that can serve as a starting point for building community capacity and momentum.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-029",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Participatory Action Research (PAR)",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "In a community suffering from poor waste management, a social worker facilitates a session where residents map out waste hotspots and discuss the root causes. This is an example of which stage of PAR?",
+    "choices": [
+      "Evaluation",
+      "Action",
+      "Reflection and analysis",
+      "Planning"
+    ],
+    "answerIndex": 2,
+    "rationale": "The activity involves the community reflecting on their situation and analyzing the problem to understand its complexities.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-030",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Profile & Data Analysis",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which of the following would be the most effective way for a social worker to validate data collected from a community survey?",
+    "choices": [
+      "Assume the data is correct since it was collected systematically",
+      "Cross-reference the survey results with data from government agencies like the DSWD or PSA",
+      "Share the results only with the leaders of the community",
+      "Ask a few community members if the results feel right"
+    ],
+    "answerIndex": 1,
+    "rationale": "Triangulation, or cross-referencing data from different sources, is a crucial method for ensuring the validity and reliability of research findings.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-031",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The 'target area' in community organizing refers to the:",
+    "choices": [
+      "Location of the social worker's office",
+      "Specific geographic or social area where the intervention will take place",
+      "Location of the nearest hospital",
+      "Area with the highest income"
+    ],
+    "answerIndex": 1,
+    "rationale": "The target area is the community or neighborhood that has been selected for the social work intervention.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-032",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker ensures that all voices, including those from marginalized groups, are heard during a community meeting. This aligns with the principle of:",
+    "choices": [
+      "Non-involvement",
+      "Inclusion and participation",
+      "Autocracy",
+      "External control"
+    ],
+    "answerIndex": 1,
+    "rationale": "Inclusion and participation are fundamental principles of community organizing, ensuring that everyone in the community has a role in the process.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-033",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Participatory Action Research (PAR)",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker observes a community meeting where one leader dominates the conversation, discouraging others from speaking. In the context of PAR, this dynamic could lead to a flawed outcome because it violates the principle of:",
+    "choices": [
+      "Objective data collection",
+      "Researcher-centered design",
+      "Community participation and empowerment",
+      "Rapid implementation"
+    ],
+    "answerIndex": 2,
+    "rationale": "PAR is founded on the principle of equal participation and empowerment. A dominant leader can undermine this, leading to solutions that do not reflect the community's true needs.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-034",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Profile & Data Analysis",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A 'community profile' primarily aims to:",
+    "choices": [
+      "Rank communities from best to worst",
+      "Provide a comprehensive snapshot of the community's characteristics and resources",
+      "Diagnose individual psychological issues within the community",
+      "Sell products to the community"
+    ],
+    "answerIndex": 1,
+    "rationale": "A community profile is a foundational tool that gives social workers and community members a holistic view of the community's assets and needs.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-035",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "When a community social worker helps residents to develop a shared vision for their neighborhood, they are performing a role that is most closely aligned with which of the following principles?",
+    "choices": [
+      "Top-down planning",
+      "Expert-driven solutions",
+      "Collective decision-making and visioning",
+      "Individual problem-solving"
+    ],
+    "answerIndex": 2,
+    "rationale": "Collective decision-making and visioning are core to community organizing, enabling the group to identify common goals and work together to achieve them.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-036",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In the context of community organizing, the term 'entry' refers to the social worker's:",
+    "choices": [
+      "Formal greeting at a community meeting",
+      "Initial contact and integration into the community",
+      "First day of work at the agency",
+      "Process of leaving the community"
+    ],
+    "answerIndex": 1,
+    "rationale": "Entry is the initial stage where the social worker enters the community, builds trust, and begins the process of social investigation.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-037",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Participatory Action Research (PAR)",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "In a PAR project, a community reports that their new livelihood project is not generating enough income. This feedback is most useful for which part of the PAR cycle?",
+    "choices": [
+      "Identifying a new problem to study",
+      "Ending the project due to failure",
+      "The 'reflection' phase to adjust the action plan",
+      "Proposing an entirely different project"
+    ],
+    "answerIndex": 2,
+    "rationale": "The reflection phase of PAR is critical for evaluating the effectiveness of the action taken and making necessary adjustments to improve outcomes.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-038",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Profile & Data Analysis",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker reviews a community's profile and sees a high rate of school dropouts. To understand the underlying reasons, the social worker should next:",
+    "choices": [
+      "Assume parents are not involved",
+      "Conduct a survey or focus group discussion with the youth and parents to understand the problem from their perspective",
+      "Blame the government for lack of schools",
+      "Provide free school supplies immediately"
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker's role is to go beyond surface-level data. Qualitative methods like surveys and focus groups are essential for understanding the lived experiences and root causes of problems.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-039",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following describes the 'issue-based' approach in community organizing?",
+    "choices": [
+      "Focusing on the personal issues of the social worker",
+      "A systematic process of identifying, analyzing, and acting on specific problems that matter to the community",
+      "Organizing a community to protest a government policy without a clear demand",
+      "Waiting for an issue to become a crisis before acting"
+    ],
+    "answerIndex": 1,
+    "rationale": "Issue-based organizing is a strategic approach that centers a community's actions around concrete, solvable issues to build their power and capacity.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-040",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker has identified two potential communities for a new project. Community A has a clear problem but low readiness to act. Community B has a less severe problem but a strong, organized leadership. Based on social work principles, which community is the better choice for an organizing project?",
+    "choices": [
+      "Community A, because the need is greater",
+      "Community B, because the existing organization and readiness for action are key to success",
+      "Neither, as both have problems",
+      "Both communities simultaneously to save time"
+    ],
+    "answerIndex": 1,
+    "rationale": "In community organizing, the community's readiness and existing capacity are often more important for a successful process than the severity of the problem alone.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-001",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The theory that views a community as a series of interconnected parts, where a change in one part affects the whole, is known as:",
+    "choices": [
+      "Conflict theory",
+      "Social learning theory",
+      "Social systems theory",
+      "Human relations theory"
+    ],
+    "answerIndex": 2,
+    "rationale": "Social systems theory applies the principles of systems to a community, seeing it as a complex system of interacting subsystems.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-002",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker organizes a campaign to protest a new government policy that will displace informal settlers. This approach is most consistent with which community practice model?",
+    "choices": [
+      "Social development",
+      "Social planning",
+      "Locality development",
+      "Social action"
+    ],
+    "answerIndex": 3,
+    "rationale": "Social action is a model of community practice that aims to alter institutional power structures and resource allocation through direct confrontation and advocacy.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-003",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Community Organizing Models",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker uses a community development model that focuses on building consensus and cooperative relationships to improve community life. This model is best for communities that are:",
+    "choices": [
+      "Highly divided by conflict",
+      "Ready to engage in protest and confrontation",
+      "Stable and have a shared sense of identity",
+      "In need of rapid, top-down changes"
+    ],
+    "answerIndex": 2,
+    "rationale": "Consensus-based models like locality development are most effective in stable communities where there is an existing foundation for collaboration and a shared sense of 'community.'",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-004",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker using Conflict Theory would most likely view a community's problems as a result of:",
+    "choices": [
+      "Poor communication among members",
+      "A lack of skills and knowledge",
+      "Inequalities in power and resource distribution",
+      "Natural disasters"
+    ],
+    "answerIndex": 2,
+    "rationale": "Conflict Theory posits that societal problems arise from conflicts between different social classes or groups over power and resources.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-005",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The model of community practice that focuses on technical problem-solving and expertise, often driven by a professional planner, is called:",
+    "choices": [
+      "Locality development",
+      "Social action",
+      "Social planning",
+      "Community education"
+    ],
+    "answerIndex": 2,
+    "rationale": "Social planning emphasizes the use of data and technical expertise to solve community problems in a rational, systematic manner.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-006",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker helps a community identify its internal assets, such as existing organizations, skills, and community spaces. This aligns with the 'Asset-Based Community Development' approach, which is a modern application of:",
+    "choices": [
+      "Deficit models",
+      "Strengths perspective",
+      "Pathology models",
+      "Functionalist theory"
+    ],
+    "answerIndex": 1,
+    "rationale": "Asset-Based Community Development (ABCD) is a direct application of the social work strengths perspective to a community-level intervention.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-007",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is tasked with improving public health services in a large urban area. The approach involves coordinating with various government agencies, NGOs, and hospitals to create a new system. This model is most representative of:",
+    "choices": [
+      "Social action",
+      "Social planning",
+      "Locality development",
+      "Community organizing"
+    ],
+    "answerIndex": 1,
+    "rationale": "This model focuses on rational, technical problem-solving and coordination among multiple stakeholders, which is characteristic of social planning.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-008",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The theory that a community's problems are caused by a breakdown of social norms and institutions is:",
+    "choices": [
+      "Conflict theory",
+      "Symbolic interactionism",
+      "Functionalism",
+      "Rational choice theory"
+    ],
+    "answerIndex": 2,
+    "rationale": "Functionalism views society as a system with interconnected parts. Problems are seen as dysfunctions when one part fails to perform its role, leading to a breakdown of social order.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-009",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Community Organizing Models",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker helps residents of a low-income housing project to form a tenants' association to advocate for better maintenance. This approach is most aligned with:",
+    "choices": [
+      "Locality development",
+      "Social planning",
+      "Social action",
+      "Community education"
+    ],
+    "answerIndex": 2,
+    "rationale": "Social action is used when a disadvantaged segment of the population needs to challenge the power structure to gain more resources or equity.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-010",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker observes that a community with high unemployment also has high rates of juvenile delinquency. A social systems theorist would explain this as:",
+    "choices": [
+      "A coincidence",
+      "A failure of the family system to socialize children correctly",
+      "An interdependence where the dysfunction of the economic subsystem (unemployment) affects the social subsystem (family and youth behavior)",
+      "An individual's personal choice"
+    ],
+    "answerIndex": 2,
+    "rationale": "Social systems theory highlights the interconnectedness of different parts of the system. A problem in one part (the economy) can have ripple effects on other parts (social behavior).",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-011",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The 'Community Development' approach is primarily characterized by:",
+    "choices": [
+      "Centralized decision-making",
+      "The use of external experts to solve problems",
+      "A focus on building social cohesion and human capacity",
+      "The use of protests and confrontation"
+    ],
+    "answerIndex": 2,
+    "rationale": "Community Development, particularly 'Locality Development', prioritizes building internal community capacity and a sense of collective identity.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-012",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Community Organizing Models",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which of the following scenarios would most appropriately use a social action model over a locality development model?",
+    "choices": [
+      "Mobilizing a neighborhood to clean up a local park",
+      "Creating a community-wide literacy program",
+      "Challenging a local politician's decision to cut funding for a public school",
+      "Forming a local crafts cooperative"
+    ],
+    "answerIndex": 2,
+    "rationale": "Social action is the most fitting model for situations involving power imbalances and the need for a direct challenge to authority, such as political decisions affecting the community.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-013",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In Social Systems Theory, the term 'boundary' refers to:",
+    "choices": [
+      "A physical wall around the community",
+      "The limits that define a system and distinguish it from its environment",
+      "A social worker's professional boundaries",
+      "A conflict between two community groups"
+    ],
+    "answerIndex": 1,
+    "rationale": "A boundary in systems theory defines what is part of the system and what is part of its external environment.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-014",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker's role as a 'catalyst' in a community organizing project is most closely associated with the model of:",
+    "choices": [
+      "Social planning",
+      "Locality development",
+      "Social action",
+      "Social development"
+    ],
+    "answerIndex": 1,
+    "rationale": "In locality development, the social worker acts as an enabler or catalyst, helping the community to help themselves and build capacity.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-015",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is trying to understand why a community repeatedly fails to organize. Using a Conflict Theory lens, the social worker might hypothesize that this is due to:",
+    "choices": [
+      "A collective lack of motivation",
+      "The absence of a charismatic leader",
+      "Internal divisions created by competing interests or elite groups maintaining the status quo",
+      "Insufficient external funding"
+    ],
+    "answerIndex": 2,
+    "rationale": "Conflict theory emphasizes how dominant groups may suppress the organizing efforts of marginalized groups to maintain their power and resources.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-016",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Community Organizing Models",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The model of community organizing that focuses on improving relationships between different groups and fostering a sense of shared community is:",
+    "choices": [
+      "Social planning",
+      "Social action",
+      "Locality development",
+      "Advocacy"
+    ],
+    "answerIndex": 2,
+    "rationale": "Locality development prioritizes social cohesion and building a sense of community through collaborative efforts.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-017",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker using an ecological perspective would analyze a community's problems by looking at:",
+    "choices": [
+      "Only the individual behaviors of its members",
+      "The psychological profiles of its leaders",
+      "The interactions between the community and its various environments (e.g., social, economic, political)",
+      "The number of social agencies operating in the area"
+    ],
+    "answerIndex": 2,
+    "rationale": "The ecological perspective examines the complex interplay between individuals, groups, and their surrounding environments to understand a social problem.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-018",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker has a grant to implement a 'Smart City' initiative in a specific district to improve services. The social worker's role is to lead a team of experts and data analysts. This best fits the:",
+    "choices": [
+      "Social action model",
+      "Locality development model",
+      "Social planning model",
+      "Asset-based community development model"
+    ],
+    "answerIndex": 2,
+    "rationale": "The social planning model is characterized by its reliance on technical expertise and a top-down, centralized approach to problem-solving.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-019",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working in a community with a large number of unemployed youth. Which theoretical lens would be most useful for a social worker to understand this problem's relationship to power dynamics and economic structures?",
+    "choices": [
+      "Psychodynamic theory",
+      "Behavioral theory",
+      "Conflict theory",
+      "Systems theory"
+    ],
+    "answerIndex": 2,
+    "rationale": "Conflict theory is the most appropriate lens for analyzing problems rooted in power imbalances, economic inequality, and structural injustices.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-020",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Community Organizing Models",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following is a primary goal of the Social Action model?",
+    "choices": [
+      "Building a consensus for a new park",
+      "Shifting power and resources to marginalized groups",
+      "Conducting a community needs assessment",
+      "Improving communication among neighborhood residents"
+    ],
+    "answerIndex": 1,
+    "rationale": "Social action's primary goal is to address injustice by fundamentally changing power relationships and redistributing resources.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-021",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker's project focuses on creating a local governance body made up of residents to manage community funds. This is a clear application of which model?",
+    "choices": [
+      "Social planning",
+      "Social action",
+      "Locality development",
+      "Social research"
+    ],
+    "answerIndex": 2,
+    "rationale": "Locality development, or community development, focuses on building the capacity of community members to govern themselves and manage their own resources.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-022",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker notices that a community's political subsystem is dysfunctional, leading to poor resource distribution. A systems theorist would conclude that this dysfunction:",
+    "choices": [
+      "Is a result of poor individual choices",
+      "Has no effect on other subsystems",
+      "Is an isolated incident",
+      "Will likely have a negative impact on other subsystems, such as the economic or health systems"
+    ],
+    "answerIndex": 3,
+    "rationale": "Systems theory posits that a breakdown in one subsystem will inevitably affect the functioning of other interconnected subsystems within the larger system.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-023",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which of the following represents the most significant disadvantage of the Social Planning model?",
+    "choices": [
+      "It requires a lot of community participation",
+      "It is too focused on social cohesion",
+      "It can be a top-down, expert-driven process that may not empower the community",
+      "It is too confrontational"
+    ],
+    "answerIndex": 2,
+    "rationale": "The social planning model's primary drawback is its potential to be a paternalistic, non-participatory process where the 'expert' dictates the solution to the community.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-024",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The theory that a community's problems are a result of historical and ongoing struggles for power and resources is:",
+    "choices": [
+      "Humanistic theory",
+      "Conflict theory",
+      "Developmental theory",
+      "Functionalist theory"
+    ],
+    "answerIndex": 1,
+    "rationale": "Conflict theory is based on the premise that social problems arise from the conflict between groups competing for limited resources and power.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-025",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker's project aims to bring together a community's residents, local businesses, and government officials to identify shared goals. This is an example of:",
+    "choices": [
+      "Social action",
+      "Social planning",
+      "Community collaboration",
+      "Lobbying"
+    ],
+    "answerIndex": 2,
+    "rationale": "Community collaboration involves building partnerships among diverse stakeholders to achieve a common objective, which aligns with both locality development and social planning models.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-026",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "Which of the following best differentiates the ecological perspective from systems theory in community practice?",
+    "choices": [
+      "Ecological perspective focuses on the individual, while systems theory focuses on the group.",
+      "Systems theory is a micro-level approach, while the ecological perspective is a macro-level approach.",
+      "The ecological perspective emphasizes the continuous, two-way interaction between the community and its environment, while systems theory focuses on the internal structures of the community itself.",
+      "They are two names for the same theory."
+    ],
+    "answerIndex": 2,
+    "rationale": "While related, the ecological perspective places a greater emphasis on the dynamic, reciprocal interaction between a person (or community) and their environment, whereas systems theory looks at the internal functions and structures of the system.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-027",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Community Organizing Models",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which model of community practice is most likely to be criticized for being too top-down and for potentially ignoring the needs and voices of the community members?",
+    "choices": [
+      "Social action",
+      "Locality development",
+      "Social planning",
+      "Community collaboration"
+    ],
+    "answerIndex": 2,
+    "rationale": "The social planning model is often criticized for its top-down, rational approach, which can sideline community participation and decision-making.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-028",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "What is the key assumption of the Functionalist theory of social problems?",
+    "choices": [
+      "Social problems are inevitable",
+      "Society is a stable, well-integrated system",
+      "Conflict is the primary driver of social change",
+      "Individuals are entirely responsible for their own problems"
+    ],
+    "answerIndex": 1,
+    "rationale": "Functionalism is based on the belief that society is a cohesive system where each part contributes to its overall stability and functioning.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-029",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker focuses on building a neighborhood's capacity by training residents in leadership, grant writing, and project management. This is an application of:",
+    "choices": [
+      "Social planning",
+      "Locality development",
+      "Social action",
+      "Advocacy"
+    ],
+    "answerIndex": 1,
+    "rationale": "This approach is about building the community's internal capacity, which is a core tenet of the locality development model.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-030",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker notices that a community's political leaders consistently favor development projects that benefit wealthy landowners, while ignoring the needs of the poor. A social worker using a Conflict Theory lens would attribute this to:",
+    "choices": [
+      "Lack of leadership skills among the poor",
+      "The leaders' personal ethical failings",
+      "A natural part of community development",
+      "A structural power imbalance that favors the elite"
+    ],
+    "answerIndex": 3,
+    "rationale": "Conflict theory highlights how structural inequalities and power imbalances lead to some groups benefiting at the expense of others, a classic example of which is the political elite prioritizing their own class interests.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-001",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Leadership Development",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In the context of community organizing, 'indigenous leadership' refers to:",
+    "choices": [
+      "Leaders who are from a different community",
+      "Leaders who are already present and respected within the community",
+      "Leaders who are appointed by the social worker",
+      "Leaders who are hired from outside the community"
+    ],
+    "answerIndex": 1,
+    "rationale": "Indigenous leaders are those who emerge naturally from within the community and are trusted by their peers.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-002",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Capability Building",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker conducts a training session on public speaking for a community's core group. This activity is a form of:",
+    "choices": [
+      "Direct service",
+      "Advocacy",
+      "Capability building",
+      "Case management"
+    ],
+    "answerIndex": 2,
+    "rationale": "Capability building is the process of equipping community members with the skills and knowledge needed to address their own problems effectively.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-003",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Development and Management",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker notices that a community organization is struggling with internal conflicts and lacks clear roles for its members. The most effective social work intervention would be to:",
+    "choices": [
+      "Ignore the conflicts and focus on the project",
+      "Take over the leadership of the organization",
+      "Facilitate a session to clarify roles, responsibilities, and communication protocols",
+      "Blame the members for being disorganized"
+    ],
+    "answerIndex": 2,
+    "rationale": "A key skill in organizational development is facilitating a process that helps the organization structure itself and improve its internal functioning.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-004",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is evaluating a community project. The most important metric to assess the project's long-term sustainability is:",
+    "choices": [
+      "The amount of money spent",
+      "The number of meetings held",
+      "The extent to which the community can continue the project without external assistance",
+      "The social worker's personal feelings about the project"
+    ],
+    "answerIndex": 2,
+    "rationale": "Sustainability is a core goal of community organizing, and it is measured by the community's ability to maintain the project's momentum and outcomes on its own.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-005",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Development",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In organizational development, 'bylaws' are primarily used to:",
+    "choices": [
+      "Dictate what members can wear to meetings",
+      "Establish the formal rules and regulations of the organization",
+      "Determine who gets to be a member",
+      "List the names of all members"
+    ],
+    "answerIndex": 1,
+    "rationale": "Bylaws are the foundational rules that govern an organization's internal operations and decision-making processes.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-006",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "During a project's implementation, a social worker regularly checks the progress against the initial plan to ensure it's on track. This is an example of:",
+    "choices": [
+      "Final evaluation",
+      "Needs assessment",
+      "Monitoring",
+      "Proposal writing"
+    ],
+    "answerIndex": 2,
+    "rationale": "Monitoring is a continuous process of tracking and reviewing a project's activities to ensure they are being implemented as planned.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-007",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Leadership Development",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker's goal is to transition leadership from themselves to a core group of community leaders. The most critical skill to develop in this group for a successful transition is:",
+    "choices": [
+      "The ability to follow instructions perfectly",
+      "The ability to network with political figures",
+      "The ability to critically analyze their own project's progress and make adjustments",
+      "The ability to recruit new members"
+    ],
+    "answerIndex": 2,
+    "rationale": "For true independence, the community's leaders must be able to reflect on and adjust their own work. This 'self-evaluation' skill is central to sustaining the project without external help.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-008",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Management",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is advising a community organization that has been highly successful but now struggles with burnout among its members. The most effective advice for long-term health is to:",
+    "choices": [
+      "Work harder and longer hours to achieve more",
+      "Hire a new social worker to take over",
+      "Implement a clear succession plan and create a sustainable workload distribution",
+      "Stop the project entirely"
+    ],
+    "answerIndex": 2,
+    "rationale": "For an organization to be sustainable, it must have clear plans for leadership succession and workload management to prevent burnout among its members.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-009",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The primary purpose of 'documentation' in community practice is to:",
+    "choices": [
+      "Create a list of all community members",
+      "Record the project's activities, processes, and outcomes for future reference and accountability",
+      "Take notes for personal use only",
+      "Write a novel about the community"
+    ],
+    "answerIndex": 1,
+    "rationale": "Documentation is a professional responsibility that provides a formal record of the social work process, ensuring transparency and continuity.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-010",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Capability Building",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker facilitates a meeting where community members learn how to read and interpret financial statements from a project. This skill-building activity is essential for:",
+    "choices": [
+      "Creating more work for the social worker",
+      "Ensuring financial transparency and accountability",
+      "Writing a book about the community",
+      "Securing more loans"
+    ],
+    "answerIndex": 1,
+    "rationale": "Financial literacy and transparency are critical for building trust and ensuring the long-term sustainability and accountability of a community project.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-011",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Leadership Development",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "Which of the following is the most effective long-term strategy for a social worker to ensure that a community's core group can sustain its work after the social worker leaves?",
+    "choices": [
+      "Write a long report for the core group to read",
+      "Provide all the funding the community needs",
+      "Facilitate leadership training that focuses on conflict resolution and internal governance",
+      "Discourage the core group from recruiting new members"
+    ],
+    "answerIndex": 2,
+    "rationale": "Sustainable leadership requires more than just project skills; it requires the ability to manage group dynamics and maintain a functional, self-governing organization.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-012",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker conducts a final evaluation of a community project and finds that while the short-term goals were met, the community's capacity to act collectively did not improve. This outcome suggests a failure in:",
+    "choices": [
+      "The project's financial management",
+      "The social worker's ability to document",
+      "The process-oriented goals of the intervention",
+      "The need to find a new community"
+    ],
+    "answerIndex": 2,
+    "rationale": "A process-oriented goal in community organizing is to build the community's capacity. A failure to achieve this, even if the tangible outcome is met, indicates a flaw in the process.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-013",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Management",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The term 'collective action' in community organizing refers to:",
+    "choices": [
+      "A project done by one person",
+      "The community's ability to work together to achieve a shared goal",
+      "A series of individual protests",
+      "A formal legal agreement"
+    ],
+    "answerIndex": 1,
+    "rationale": "Collective action is the collaborative effort of a group to achieve a common objective, which is the ultimate purpose of community organizing.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-014",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Capability Building",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "To help a community organization become self-sufficient, a social worker trains the members on how to write grant proposals. This is a skill-building activity related to:",
+    "choices": [
+      "Documentation",
+      "Advocacy",
+      "Resource generation",
+      "Monitoring"
+    ],
+    "answerIndex": 2,
+    "rationale": "Grant writing is a direct skill related to resource generation, which is crucial for the financial sustainability of a community organization.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-015",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Management",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A community organization is experiencing declining membership and engagement. A social worker's analysis suggests this is due to a lack of shared vision. The social worker's best intervention is to:",
+    "choices": [
+      "Force members to attend all meetings",
+      "Organize a series of social events to boost morale without addressing the core problem",
+      "Facilitate a vision-casting workshop to help members reconnect with their shared purpose",
+      "Give a personal lecture on the importance of engagement"
+    ],
+    "answerIndex": 2,
+    "rationale": "A lack of shared purpose is a classic organizational problem. Facilitating a vision-casting workshop is a direct and empowering way to address this root cause.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-016",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The process of 'monitoring' a community project is best described as:",
+    "choices": [
+      "A one-time event at the end of the project",
+      "An ongoing, systematic process of gathering data on project activities to ensure they are on track",
+      "An informal chat with community members about the project",
+      "A financial audit"
+    ],
+    "answerIndex": 1,
+    "rationale": "Monitoring is a continuous activity that provides real-time feedback, allowing for timely adjustments to the project plan.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-017",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Leadership Development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker observes a quiet but respected community member and encourages them to take on a leadership role. This is a practice of:",
+    "choices": [
+      "Ignoring the group's natural dynamics",
+      "Identifying and nurturing emergent leadership",
+      "Creating conflict",
+      "Dictating leadership roles"
+    ],
+    "answerIndex": 1,
+    "rationale": "A key skill for a social worker is the ability to identify potential leaders who may not be outwardly assertive and empower them to take on formal roles.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-018",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker's monitoring report shows that a project is behind schedule. The most important next step is to:",
+    "choices": [
+      "Blame the community members for the delay",
+      "Halt the project and cancel it",
+      "Facilitate a discussion with the community to identify the reasons for the delay and adjust the plan",
+      "Ignore the report and hope for the best"
+    ],
+    "answerIndex": 2,
+    "rationale": "A key purpose of monitoring is to provide a basis for informed decision-making. The social worker should use the information to collaboratively problem-solve with the community.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-019",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Management",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is assessing the long-term viability of a community organization. Which of the following is the most critical question to ask?",
+    "choices": [
+      "How many members does the organization have?",
+      "How much money is in the bank account?",
+      "Does the organization have a clear process for making decisions and handling conflict?",
+      "How often do members socialize together?"
+    ],
+    "answerIndex": 2,
+    "rationale": "The ability to manage conflict and make decisions effectively is a fundamental sign of a healthy, sustainable organization.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-020",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Capability Building",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The concept of 'empowerment' in community practice is best defined as:",
+    "choices": [
+      "Giving the community everything they ask for",
+      "The process of enabling people to have control over their own lives and futures",
+      "The social worker doing all the work for the community",
+      "A project that has a lot of media coverage"
+    ],
+    "answerIndex": 1,
+    "rationale": "Empowerment is a central goal of social work, and it means equipping people with the skills, knowledge, and confidence to effect change in their own lives.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-021",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Leadership Development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker works with a community to develop a system for new members to be mentored by experienced ones. This is a skill-building activity for:",
+    "choices": [
+      "Problem-solving",
+      "Fundraising",
+      "Leadership succession",
+      "Advocacy"
+    ],
+    "answerIndex": 2,
+    "rationale": "Creating a mentorship system is a way to ensure that leadership is passed down and sustained, which is a key component of leadership succession planning.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-022",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is writing a final project report. Which of the following should be included to accurately reflect the project's success beyond its tangible outcomes?",
+    "choices": [
+      "A list of all the materials purchased",
+      "A personal opinion on the community leaders",
+      "A narrative account of the community's increased confidence and collaboration",
+      "A detailed budget spreadsheet"
+    ],
+    "answerIndex": 2,
+    "rationale": "A comprehensive evaluation should include both quantitative (budget, number of participants) and qualitative (narrative, changes in morale) data to fully capture the project's impact.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-023",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Management",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The primary role of a social worker in organizational management is to:",
+    "choices": [
+      "Act as the boss and make all decisions",
+      "Control the organization's finances",
+      "Facilitate the community in creating their own effective governance structures",
+      "Give orders to the community members"
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker's role is to empower, not to control. They facilitate the community's own management and decision-making processes.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-024",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Capability Building",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker's workshop on 'community mapping' helps residents identify and draw the locations of local parks, clinics, and businesses. This is a capability building activity that primarily enhances the community's:",
+    "choices": [
+      "Ability to write grants",
+      "Understanding of their internal assets and resources",
+      "Physical fitness",
+      "Relationship with outside donors"
+    ],
+    "answerIndex": 1,
+    "rationale": "Community mapping is a powerful tool that builds a community's awareness of its own strengths and resources, which is a core part of the strengths-based approach.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-025",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is preparing to present a project's outcomes to a funding agency. The most important information to highlight is:",
+    "choices": [
+      "The specific dates and times of all meetings",
+      "The number of social workers involved in the project",
+      "The achievement of both process (e.g., increased community cohesion) and outcome (e.g., number of families served) goals",
+      "The social worker's personal feelings about the project"
+    ],
+    "answerIndex": 2,
+    "rationale": "A successful project evaluation must demonstrate its impact on both the tangible results (outcomes) and the community's capacity and self-reliance (process).",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-026",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Management",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "What is the primary function of a 'core group' in community organizing?",
+    "choices": [
+      "To be the audience for the social worker's presentations",
+      "To serve as the primary movers and leaders of the organizing process",
+      "To represent the external funding agency",
+      "To provide food and drinks during meetings"
+    ],
+    "answerIndex": 1,
+    "rationale": "The core group is the small, committed group of community members who lead the organizing efforts and sustain the project.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-027",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Leadership Development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker encourages a community leader to delegate tasks to other members to prevent burnout. This is an application of a skill in:",
+    "choices": [
+      "Strategic planning",
+      "Financial management",
+      "Organizational management and leadership",
+      "External advocacy"
+    ],
+    "answerIndex": 2,
+    "rationale": "Delegation and workload management are key skills in organizational and leadership development, ensuring the project's sustainability and preventing burnout.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-028",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker receives a report that a project's outcomes are not matching the initial objectives. The most logical conclusion is that there is a problem with the:",
+    "choices": [
+      "External funding",
+      "Initial plan or its implementation",
+      "Community members' commitment",
+      "Social worker's personal dedication"
+    ],
+    "answerIndex": 1,
+    "rationale": "When a project's outcomes deviate from its objectives, the social worker should first look for a mismatch between the original plan and how it was implemented, which is the purpose of monitoring and evaluation.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-029",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Capability Building",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "When a social worker helps a community group develop a system for resolving internal conflicts, they are primarily building the group's capacity for:",
+    "choices": [
+      "External lobbying",
+      "Social cohesion and governance",
+      "Fundraising",
+      "Event planning"
+    ],
+    "answerIndex": 1,
+    "rationale": "The ability to resolve internal conflicts is a fundamental aspect of a group's social cohesion and governance, which is a key component of a successful community organization.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-030",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A community project has successfully completed its goals. To ensure the knowledge gained is not lost, the social worker should prioritize:",
+    "choices": [
+      "A final celebration for the members",
+      "Writing a comprehensive report of the project's journey, successes, and lessons learned",
+      "Starting a new project immediately",
+      "Keeping all the project materials in a private folder"
+    ],
+    "answerIndex": 1,
+    "rationale": "Documentation is a critical skill that ensures the community's learning and successes are preserved and can be shared with others, thus contributing to the broader social work practice.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-041",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following is a primary principle of community organizing?",
+    "choices": [
+      "The social worker is the expert who solves the community's problems.",
+      "The community has the capacity to resolve its own problems.",
+      "Community problems should only be addressed by the government.",
+      "The community must pay for all services received."
+    ],
+    "answerIndex": 1,
+    "rationale": "A core principle of community organizing is the belief in the community's inherent capacity and potential for self-determination.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-042",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker, using a participatory approach, helps a community identify and prioritize their most pressing issues. This action is most aligned with the principle of:",
+    "choices": [
+      "Non-involvement",
+      "Consciousness-raising",
+      "External dependency",
+      "Directive leadership"
+    ],
+    "answerIndex": 1,
+    "rationale": "Consciousness-raising is the process of helping a community recognize their common problems and how they are linked to larger social issues, which is a prerequisite for prioritization.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-043",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker's social investigation reveals that a community has strong informal leaders, but they do not hold formal positions. What should the social worker's next step be?",
+    "choices": [
+      "Ignore the informal leaders and seek out formal ones.",
+      "Work with both informal and formal leaders to build a coalition.",
+      "Convince the informal leaders to run for office immediately.",
+      "Report the informal leaders to the authorities."
+    ],
+    "answerIndex": 1,
+    "rationale": "Effective community organizing involves recognizing and leveraging all sources of power, both formal and informal, to build a strong and representative coalition.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-044",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Profile & Data Analysis",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A community profile that includes data on family structures, religious affiliations, and educational levels is describing the community's:",
+    "choices": [
+      "Physical environment",
+      "Social environment",
+      "Economic environment",
+      "Political environment"
+    ],
+    "answerIndex": 1,
+    "rationale": "The social environment of a community includes its cultural, demographic, and social institutions.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-045",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Participatory Action Research (PAR)",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "After conducting research, a community group identifies a lack of safe public transportation. They then decide to meet with local bus companies to propose a new route. This is an example of the PAR process moving from:",
+    "choices": [
+      "Action to reflection",
+      "Planning to action",
+      "Data collection to analysis",
+      "Entry to investigation"
+    ],
+    "answerIndex": 1,
+    "rationale": "Once the problem is identified (lack of safe transportation), the community group moves to the planning and action phase (meeting with bus companies) to implement a solution.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-046",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker helps a community identify a problem, brainstorm solutions, and then provides a list of external resources to address it. This is an example of a social worker's role as a:",
+    "choices": [
+      "Dictator",
+      "Expert",
+      "Enabler and broker",
+      "Passive observer"
+    ],
+    "answerIndex": 2,
+    "rationale": "The social worker enables the community to identify its own solutions and then acts as a broker by connecting them with the necessary external resources.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-047",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which of the following is the most ethical approach to data collection during social investigation?",
+    "choices": [
+      "Collecting as much data as possible, even if it's irrelevant.",
+      "Only using data that supports the social worker's pre-conceived ideas.",
+      "Obtaining informed consent from participants and ensuring their privacy is protected.",
+      "Collecting data without the community's knowledge to get unbiased information."
+    ],
+    "answerIndex": 2,
+    "rationale": "Informed consent and privacy protection are fundamental ethical principles in all social work practice, including community organizing and research.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-048",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Profile & Data Analysis",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A 'key informant' is best described as:",
+    "choices": [
+      "A community member who is an expert on a specific issue or has a unique perspective.",
+      "A community member who disagrees with the social worker.",
+      "A government official who provides funding.",
+      "The leader of the opposition group."
+    ],
+    "answerIndex": 0,
+    "rationale": "A key informant is a person with specialized knowledge about a community that can provide valuable insights during the social investigation phase.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-049",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Participatory Action Research (PAR)",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker and a community group have successfully implemented a project. They meet to discuss what worked, what didn't, and why. This activity is a crucial part of the PAR cycle's:",
+    "choices": [
+      "Planning phase",
+      "Action phase",
+      "Reflection phase",
+      "Entry phase"
+    ],
+    "answerIndex": 2,
+    "rationale": "The reflection phase is a cyclical process of learning and adapting, where the community and social worker critically analyze their actions and outcomes to inform future steps.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-050",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker's final report on a community project emphasizes the number of people who attended meetings and the number of pamphlets distributed. This evaluation is flawed because it fails to capture:",
+    "choices": [
+      "The budget spent on the project",
+      "The number of social workers involved",
+      "The impact of the project on community members' lives and capacity",
+      "The project's location"
+    ],
+    "answerIndex": 2,
+    "rationale": "A proper evaluation of a community project must go beyond simple 'outputs' (attendance, pamphlets) and assess the real-world 'outcomes' and 'impacts' on the community's well-being and capacity.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-031",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The theory that a community's problems are caused by a lack of social cohesion and shared values is a core tenet of:",
+    "choices": [
+      "Conflict theory",
+      "Functionalism",
+      "Ecological perspective",
+      "Social learning theory"
+    ],
+    "answerIndex": 1,
+    "rationale": "Functionalism posits that society functions as a harmonious whole, and a problem arises when a part of that system (like social cohesion) breaks down.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-032",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker convenes a meeting with residents and government representatives to discuss a new housing project. This approach of bringing different groups to the table to solve a shared problem is called:",
+    "choices": [
+      "Social action",
+      "Community collaboration",
+      "Social planning",
+      "Locality development"
+    ],
+    "answerIndex": 1,
+    "rationale": "Community collaboration is a model that involves working across sectors and with various stakeholders to achieve a shared goal, which can be part of both social planning and locality development.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-033",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker, using an ecological perspective, notices that a community's environmental health problems (e.g., pollution) are linked to a nearby factory's waste disposal. The social worker would most likely propose an intervention that:",
+    "choices": [
+      "Focuses on individual's recycling habits.",
+      "Provides therapy to affected families.",
+      "Addresses the interaction between the community and the factory's environmental policies.",
+      "Starts a donation drive for the community."
+    ],
+    "answerIndex": 2,
+    "rationale": "The ecological perspective looks at the dynamic interplay between the community and its environment. An intervention would therefore target the relationship between the community and the polluting factory.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-034",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Community Organizing Models",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker's project has the goal of getting a local government to pass a new law to protect street vendors' rights. Which model of community practice is most appropriate for this goal?",
+    "choices": [
+      "Locality development",
+      "Social planning",
+      "Social action",
+      "Community education"
+    ],
+    "answerIndex": 2,
+    "rationale": "Social action is the most suitable model for a situation that requires a direct challenge to the power structure (the government) to bring about systemic change (a new law).",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-035",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The 'Locality Development' model emphasizes:",
+    "choices": [
+      "Centralized decision-making by experts.",
+      "The role of conflict in social change.",
+      "Self-help and building community capacity.",
+      "Rapid, top-down interventions."
+    ],
+    "answerIndex": 2,
+    "rationale": "Locality development is a participatory and consensus-oriented model that focuses on building the community's ability to solve its own problems.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-036",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker identifies a local government's lack of a clear anti-poverty program as a 'structural' problem. The social worker's analysis is based on which theoretical perspective?",
+    "choices": [
+      "Individualistic theory",
+      "Psychodynamic theory",
+      "Conflict theory",
+      "Behavioral theory"
+    ],
+    "answerIndex": 2,
+    "rationale": "Conflict theory looks at how systemic or 'structural' issues, such as government policy or lack thereof, contribute to social problems like poverty.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-037",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Community Organizing Models",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A community organization's primary goal is to provide skills training to unemployed youth. It is seeking funding from a government agency. The social worker's role is to write a detailed proposal with clear objectives and a budget. This is a clear application of:",
+    "choices": [
+      "Social action",
+      "Locality development",
+      "Social planning",
+      "Community collaboration"
+    ],
+    "answerIndex": 2,
+    "rationale": "This scenario emphasizes a rational, data-driven approach with a focus on technical planning and securing resources, which are hallmarks of the social planning model.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-038",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which of the following is the most significant criticism of using the Functionalist theory to understand community problems?",
+    "choices": [
+      "It over-emphasizes the role of conflict and inequality.",
+      "It fails to recognize the importance of cultural norms.",
+      "It can overlook the role of power imbalances and systemic injustices in creating problems.",
+      "It is too focused on individual behavior."
+    ],
+    "answerIndex": 2,
+    "rationale": "A key critique of functionalism is that it tends to ignore or downplay social inequalities and power structures, which are central to understanding many community problems.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-039",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A social worker's primary role in the Social Action model is to be a:",
+    "choices": [
+      "Passive observer",
+      "Mediator",
+      "Data analyst",
+      "Advocate or activist"
+    ],
+    "answerIndex": 3,
+    "rationale": "In social action, the social worker takes on a more confrontational and advocacy-oriented role to bring about systemic change.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-040",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker helps a community identify and leverage its internal assets, such as a strong neighborhood watch and a local cooperative. This approach is an example of:",
+    "choices": [
+      "Deficit-based practice",
+      "Strength-based practice",
+      "Conflict-based practice",
+      "Paternalistic practice"
+    ],
+    "answerIndex": 1,
+    "rationale": "Strength-based practice focuses on identifying and building upon a community's existing resources and assets, rather than focusing on its problems and deficits.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-041",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Leadership Development",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The process of identifying community members who can take on leadership roles is called:",
+    "choices": [
+      "Recruitment",
+      "Leadership development",
+      "Succession planning",
+      "Power brokering"
+    ],
+    "answerIndex": 1,
+    "rationale": "Leadership development is a key part of community organizing that focuses on cultivating the leadership potential within the community itself.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-042",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Capability Building",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker facilitates a workshop where community members learn how to run effective meetings and create agendas. This activity is a form of:",
+    "choices": [
+      "Direct financial aid",
+      "Organizational management training",
+      "Individual counseling",
+      "Social research"
+    ],
+    "answerIndex": 1,
+    "rationale": "This training is focused on building the organizational skills necessary for the community to manage itself, which is a key part of capability building.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-043",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Development and Management",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A community organization has a charismatic leader who makes all the decisions. The social worker's goal is to transition the organization to a more democratic structure. The most effective action is to:",
+    "choices": [
+      "Force the leader to resign.",
+      "Wait for the leader to get tired and leave.",
+      "Facilitate a discussion about the importance of shared leadership and decision-making processes.",
+      "Praise the leader for their hard work."
+    ],
+    "answerIndex": 2,
+    "rationale": "For a community organization to be sustainable, it must have democratic processes and shared leadership. The social worker's role is to facilitate this change, not to dictate it.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-044",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting an evaluation to determine if a project's goals were achieved. This type of evaluation is known as:",
+    "choices": [
+      "Needs assessment",
+      "Process evaluation",
+      "Outcome evaluation",
+      "Formative evaluation"
+    ],
+    "answerIndex": 2,
+    "rationale": "Outcome evaluation assesses whether a project's objectives were met and if the desired changes occurred as a result of the intervention.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-045",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Development",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The process of helping a community organization to become more efficient, effective, and self-sufficient is called:",
+    "choices": [
+      "Direct service",
+      "Casework",
+      "Organizational development",
+      "Community therapy"
+    ],
+    "answerIndex": 2,
+    "rationale": "Organizational development is a macro-level social work practice that focuses on improving the internal functioning and sustainability of an organization.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-046",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "To track a community project's expenses, a social worker should maintain a:",
+    "choices": [
+      "Personal diary",
+      "Budget spreadsheet",
+      "List of all community members",
+      "List of project goals"
+    ],
+    "answerIndex": 1,
+    "rationale": "A budget spreadsheet is a critical tool for financial monitoring, ensuring accountability and responsible use of funds.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-047",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Leadership Development",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is training a core group of leaders. The most important lesson to impart for long-term sustainability is:",
+    "choices": [
+      "How to write the best grant proposals.",
+      "How to work with the social worker.",
+      "How to identify and mentor new leaders from within the community.",
+      "How to follow instructions without question."
+    ],
+    "answerIndex": 2,
+    "rationale": "A sustainable organization must have a mechanism for regenerating its own leadership. Training on mentoring and succession planning is crucial for this.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-048",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Management",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A community organization is experiencing a high rate of member turnover. A social worker's assessment reveals that the members feel their contributions are not valued. The most effective social work intervention would be to:",
+    "choices": [
+      "Recruit new members to replace the ones who left.",
+      "Implement a new project to distract from the problem.",
+      "Facilitate a session on recognizing and appreciating members' contributions.",
+      "Scold the members for leaving."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker should address the root cause of the problem. A feeling of being unappreciated leads to turnover; therefore, implementing a system of recognition is the most effective intervention.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-049",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The purpose of a 'process evaluation' is to:",
+    "choices": [
+      "Assess the final outcome of a project.",
+      "Assess how a project was implemented and whether it followed the plan.",
+      "Assess the community's need for the project.",
+      "Assess the social worker's personal feelings about the project."
+    ],
+    "answerIndex": 1,
+    "rationale": "A process evaluation looks at the 'how' of an intervention, focusing on the quality and fidelity of its implementation.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-050",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Capability Building",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker helps a community group draft a formal letter to a government official to advocate for their project. This is a skill-building activity in:",
+    "choices": [
+      "Advocacy and communication",
+      "Financial management",
+      "Needs assessment",
+      "Conflict resolution"
+    ],
+    "answerIndex": 0,
+    "rationale": "Drafting a letter to a government official is a key skill in advocacy and communication, which are crucial for external relations.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-051",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "In community organizing, the principle of 'start where the action is' suggests a social worker should:",
+    "choices": [
+      "Always begin with the most difficult problems.",
+      "Begin with the problems that the community is already concerned about.",
+      "Start with a problem that is easy to solve.",
+      "Wait for the community to ask for help."
+    ],
+    "answerIndex": 1,
+    "rationale": "This principle means that the social worker should begin by addressing the issues that are already a source of concern and motivation for the community members.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-052",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "To determine if a community has a strong social network, a social worker should conduct a:",
+    "choices": [
+      "Geographic map of the community",
+      "Needs assessment survey",
+      "Social network analysis",
+      "Economic analysis"
+    ],
+    "answerIndex": 2,
+    "rationale": "Social network analysis is a specific tool used to map and measure the relationships and interactions within a community.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-053",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Profile & Data Analysis",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker finds that a community's profile has a high population density but a low number of public parks. This data suggests a potential need for a project that focuses on:",
+    "choices": [
+      "Financial literacy",
+      "Mental health support",
+      "Access to recreational spaces and green areas",
+      "Vocational training"
+    ],
+    "answerIndex": 2,
+    "rationale": "A high population density combined with a lack of recreational spaces indicates a potential need for projects that create or advocate for public parks and green areas.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-054",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Participatory Action Research (PAR)",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker's PAR project on local food security has resulted in a successful community garden. The most appropriate next step for the social worker is to:",
+    "choices": [
+      "Start a new project in a different community.",
+      "Help the community evaluate the project's impact and document the lessons learned.",
+      "Continue managing the garden for the community.",
+      "Take all the credit for the project's success."
+    ],
+    "answerIndex": 1,
+    "rationale": "The social worker's role is to facilitate the community's ability to evaluate and learn from their own experiences, ensuring the knowledge is captured and can be applied to future efforts.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-055",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The principle of 'social advocacy' in community practice refers to the social worker's role in:",
+    "choices": [
+      "Providing one-on-one therapy to individuals.",
+      "Acting as a voice for the community to demand change from power structures.",
+      "Creating a financial budget for the community.",
+      "Helping individuals with their personal problems."
+    ],
+    "answerIndex": 1,
+    "rationale": "Social advocacy is a macro-level social work practice that involves fighting for the rights and needs of a community or group on a systemic level.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-056",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker uses a 'transect walk' to gather information about a community. This is a method of data collection that involves:",
+    "choices": [
+      "Talking to community leaders in a formal meeting.",
+      "Walking along a predetermined path through the community to observe and interview people.",
+      "Sending out a large-scale survey.",
+      "Studying historical documents in a library."
+    ],
+    "answerIndex": 1,
+    "rationale": "A transect walk is a rapid assessment tool where the social worker physically walks through the community to observe its features and interact with residents.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-057",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Profile & Data Analysis",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker's data reveals a high correlation between poverty and lack of access to health care. This finding suggests a need for an intervention that addresses:",
+    "choices": [
+      "The individual's choices and behavior.",
+      "The systemic and structural barriers to health care access.",
+      "The psychological impact of poverty.",
+      "The educational levels of the community."
+    ],
+    "answerIndex": 1,
+    "rationale": "A high correlation between two social problems suggests a systemic relationship. An effective intervention would target the structural barriers that prevent the poor from accessing health care.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-058",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Participatory Action Research (PAR)",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The main difference between traditional research and Participatory Action Research (PAR) is that PAR:",
+    "choices": [
+      "Is more expensive.",
+      "Is always qualitative.",
+      "Empowers the community to be co-researchers and change agents.",
+      "Requires less time."
+    ],
+    "answerIndex": 2,
+    "rationale": "PAR is a democratic approach that involves the community as active participants in both the research and the action phases, leading to greater empowerment and ownership.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-059",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Community Organizing Principles",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker ensures that all decisions are made collectively by the community members, rather than by a single leader. This practice upholds the principle of:",
+    "choices": [
+      "Autocratic leadership",
+      "Self-determination and democracy",
+      "External control",
+      "Top-down planning"
+    ],
+    "answerIndex": 1,
+    "rationale": "This practice promotes the community's self-determination and democratic processes, which are central to empowering them to manage their own affairs.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-A-060",
+    "subject": "Practice III",
+    "topic": "A. Social Work Practice with Communities & Organizations",
+    "subtopic": "Social Investigation & Area Selection",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker needs to select a community for a new anti-poverty project. The most important criteria for selection should be:",
+    "choices": [
+      "The community's political affiliation.",
+      "The community's willingness and readiness to engage in the project.",
+      "The number of churches in the community.",
+      "The size of the community's land area."
+    ],
+    "answerIndex": 1,
+    "rationale": "A community's readiness and willingness to engage are the most critical factors for the success of a participatory social work intervention.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-041",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The theory that a community's problems are best solved through a rational, data-driven approach is a key principle of:",
+    "choices": [
+      "Social action",
+      "Locality development",
+      "Social planning",
+      "Conflict theory"
+    ],
+    "answerIndex": 2,
+    "rationale": "Social planning is a model that uses a scientific, rational approach to identify and solve community problems, often led by a professional.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-042",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker organizes a series of community-wide dialogues to address neighborhood disputes and foster reconciliation. This approach is most aligned with:",
+    "choices": [
+      "Social action",
+      "Social planning",
+      "Locality development",
+      "Social research"
+    ],
+    "answerIndex": 2,
+    "rationale": "This approach is focused on building social cohesion and resolving internal conflicts through self-help, which is characteristic of locality development.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-043",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is trying to understand why a community's youth are not interested in community projects. Using a Functionalist lens, the social worker might hypothesize that this is a result of:",
+    "choices": [
+      "A personal choice of the youth.",
+      "A failure of the community's social institutions to engage and integrate the youth.",
+      "A lack of external funding.",
+      "The youth's psychological problems."
+    ],
+    "answerIndex": 1,
+    "rationale": "Functionalism views social problems as a result of a dysfunction or breakdown in the system's ability to perform its function. In this case, the community's social institutions are failing to engage its youth.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-044",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Community Organizing Models",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which of the following scenarios would be the least appropriate for a Social Action model?",
+    "choices": [
+      "A community needs to protest against the closure of a public hospital.",
+      "A group of tenants needs to protest against a rent increase.",
+      "A community needs to organize a Christmas party.",
+      "A group of employees needs to protest against unfair labor practices."
+    ],
+    "answerIndex": 2,
+    "rationale": "Social action is a confrontational model used to address power imbalances. Organizing a Christmas party is a social and communal activity that would be more suited for a locality development model.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-045",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The theory that a community's problems are best understood by examining the relationship between the community and its various environments (e.g., economic, social, political) is:",
+    "choices": [
+      "Conflict theory",
+      "Psychodynamic theory",
+      "Ecological perspective",
+      "Functionalist theory"
+    ],
+    "answerIndex": 2,
+    "rationale": "The ecological perspective is a theoretical framework that emphasizes the dynamic and reciprocal interactions between people and their environments.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-046",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker is hired by a city government to conduct a study on the housing needs of a city's homeless population and propose policy recommendations. This best fits the:",
+    "choices": [
+      "Social action model",
+      "Locality development model",
+      "Social planning model",
+      "Community organizing model"
+    ],
+    "answerIndex": 2,
+    "rationale": "This is a classic example of social planning, which is a rational, technical, and often top-down approach to solving social problems through research and policy recommendations.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-047",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker observes that a community's elderly population is not receiving adequate social security benefits. Using a Conflict Theory lens, the social worker might attribute this to:",
+    "choices": [
+      "The elderly's lack of knowledge about their rights.",
+      "A lack of communication between the elderly and the government.",
+      "A systemic failure in which the government prioritizes other sectors over the needs of the elderly.",
+      "The elderly's personal choices."
+    ],
+    "answerIndex": 2,
+    "rationale": "Conflict theory emphasizes how unequal power dynamics and resource allocation among different social groups can lead to the neglect of vulnerable populations.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-048",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Community Organizing Models",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "Which of the following is a key advantage of the Locality Development model?",
+    "choices": [
+      "It is the fastest way to solve a problem.",
+      "It can be implemented by an individual without community input.",
+      "It is a top-down, expert-driven approach.",
+      "It builds a community's self-reliance and social cohesion for future problems."
+    ],
+    "answerIndex": 3,
+    "rationale": "The primary advantage of locality development is that it leaves the community stronger and more capable of addressing future challenges on its own.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-049",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Theories of Community Change",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "The theory that a community's problems are a result of individuals' failure to adapt to their environment is a concept from the:",
+    "choices": [
+      "Ecological perspective",
+      "Conflict theory",
+      "Functionalist theory",
+      "Behavioral theory"
+    ],
+    "answerIndex": 0,
+    "rationale": "The ecological perspective looks at the fit between individuals and their environment. A problem can arise when there is a mismatch or a failure to adapt.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-B-050",
+    "subject": "Practice III",
+    "topic": "B. Theories, Methods, & Approaches in Community/Org Practice",
+    "subtopic": "Models of Community Development",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker helps a community group to lobby local politicians to address a local issue. This is an application of a skill in:",
+    "choices": [
+      "Social planning",
+      "Social action",
+      "Locality development",
+      "Community education"
+    ],
+    "answerIndex": 1,
+    "rationale": "Lobbying and working with power structures to create change are key components of the social action model, which seeks to redistribute power and resources.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-051",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Leadership Development",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "What is the primary purpose of a 'core group' in community organizing?",
+    "choices": [
+      "To be the face of the organization for the media.",
+      "To provide the social worker with all the information they need.",
+      "To serve as the primary movers and leaders of the organizing process.",
+      "To be the social worker's personal support group."
+    ],
+    "answerIndex": 2,
+    "rationale": "The core group is the heart of the community organizing effort, responsible for leading the process and ensuring its sustainability.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-052",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Capability Building",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker teaches community members how to use online tools for communication and organization. This is a skill-building activity related to:",
+    "choices": [
+      "Casework",
+      "Advocacy",
+      "Technology and communication skills",
+      "Fundraising"
+    ],
+    "answerIndex": 2,
+    "rationale": "This activity directly builds the community's capacity by equipping them with the technical skills needed for modern communication and organization.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-053",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Development and Management",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker observes that a community organization's decision-making process is chaotic and often results in arguments. The most effective social work intervention would be to:",
+    "choices": [
+      "Make the decisions for the group.",
+      "Tell the group they are being unproductive.",
+      "Facilitate the creation of a clear, democratic process for decision-making.",
+      "Dissolve the group and start a new one."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker's role is to facilitate the creation of effective governance structures that empower the community to make its own decisions in an orderly and democratic manner.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-054",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting an 'impact evaluation' of a community project. This type of evaluation aims to determine:",
+    "choices": [
+      "Whether the project was implemented on time.",
+      "Whether the project's goals were achieved and what long-term changes resulted from it.",
+      "The cost of the project.",
+      "The number of people who participated in the project."
+    ],
+    "answerIndex": 1,
+    "rationale": "An impact evaluation assesses the project's overall effect and its contribution to the community's long-term well-being and change.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-055",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Development",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "A community organization's mission statement is primarily used to:",
+    "choices": [
+      "List the names of all the members.",
+      "Describe the organization's purpose and its reason for being.",
+      "Serve as a legal contract.",
+      "List the organization's expenses."
+    ],
+    "answerIndex": 1,
+    "rationale": "A mission statement is a foundational document that clearly articulates the organization's purpose and guides its actions and decisions.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-056",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "During a project, a social worker regularly collects feedback from community members through surveys and interviews. This is an example of a tool used for:",
+    "choices": [
+      "Needs assessment",
+      "Lobbying",
+      "Monitoring and evaluation",
+      "Recruitment"
+    ],
+    "answerIndex": 2,
+    "rationale": "Collecting feedback from stakeholders is a critical component of both monitoring (to ensure the project is on track) and evaluation (to assess its effectiveness).",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-057",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Leadership Development",
+    "bloom": "Analyze",
+    "difficulty": "Difficult",
+    "stem": "A social worker is training a core group of leaders. They have successfully identified a problem and developed an action plan. The most important next step in their leadership development is to train them in:",
+    "choices": [
+      "How to write a grant proposal.",
+      "How to resolve internal conflicts.",
+      "How to find new members.",
+      "How to get a new social worker."
+    ],
+    "answerIndex": 1,
+    "rationale": "A group's ability to resolve internal conflicts is a key indicator of its maturity and sustainability as a self-governing body.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-058",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Organizational Management",
+    "bloom": "Evaluate",
+    "difficulty": "Difficult",
+    "stem": "A social worker's final report on a community project shows that the community's leadership has successfully taken over and is planning its next project independently. This is the strongest indicator of the project's:",
+    "choices": [
+      "Financial success",
+      "Short-term success",
+      "Sustainability and empowerment",
+      "Failure"
+    ],
+    "answerIndex": 2,
+    "rationale": "The ultimate goal of community organizing is to build a community's capacity and self-reliance, so its ability to continue working on its own is the strongest indicator of a successful intervention.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-059",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Documentation, Monitoring, and Evaluation",
+    "bloom": "Understand",
+    "difficulty": "Easy",
+    "stem": "Which of the following is an example of an 'outcome' of a community project?",
+    "choices": [
+      "The number of meetings held.",
+      "The number of community members who attended a training.",
+      "The increase in community members' knowledge of their rights.",
+      "The amount of money spent."
+    ],
+    "answerIndex": 2,
+    "rationale": "An outcome is a change in knowledge, behavior, or condition that results from a project. The other options are 'outputs,' which are activities or products of the project.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  },
+  {
+    "id": "P3-C-060",
+    "subject": "Practice III",
+    "topic": "C. Practice Skills and Techniques",
+    "subtopic": "Capability Building",
+    "bloom": "Apply",
+    "difficulty": "Moderate",
+    "stem": "A social worker organizes a series of workshops on basic bookkeeping for a community organization's treasurer. This is an example of a skill-building activity related to:",
+    "choices": [
+      "Community mapping",
+      "Financial management",
+      "Conflict resolution",
+      "Advocacy"
+    ],
+    "answerIndex": 1,
+    "rationale": "This training directly builds the community's financial management capacity, which is essential for organizational sustainability and accountability.",
+    "source": "Modeled after SWLE style",
+    "tags": []
+  }
+]

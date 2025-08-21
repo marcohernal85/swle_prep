@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "HBSE-Q2-001",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Easy",
+    "stem": "A social worker is assigned to a rural community that has been classified as a 'geographically isolated and disadvantaged area' (GIDA). What is the most common social reality faced by residents in this type of community?",
+    "choices": [
+      "Access to modern technology and high-speed internet is widespread.",
+      "The community has an oversupply of social workers and health professionals.",
+      "Limited access to basic social services and economic opportunities.",
+      "Residents have a strong preference for urban lifestyles and are moving to cities."
+    ],
+    "answerIndex": 2,
+    "rationale": "GIDA communities are typically characterized by their remoteness and lack of infrastructure, which results in limited access to essential social services such as healthcare, education, and economic opportunities.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-002",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Moderate",
+    "stem": "A social worker is explaining the concept of neoliberalism to a community group. She points to the privatization of water utilities as an example. What is the main implication of this policy on the social welfare of the community?",
+    "choices": [
+      "It ensures that water resources are equally distributed among all residents.",
+      "It leads to improved water quality and lower service costs for all.",
+      "It transforms water from a public good into a commodity, potentially increasing costs and limiting access for the poor.",
+      "It strengthens local government's control over essential services."
+    ],
+    "answerIndex": 2,
+    "rationale": "Neoliberal policies advocate for privatization and free-market principles. The privatization of essential services like water can lead to a shift in focus from public access to profit, which may result in higher prices and reduced accessibility for marginalized populations.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-003",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Difficult",
+    "stem": "The Philippine government implements a national policy to promote 'inclusive growth.' A social worker analyzes the policy's impact on indigenous communities and finds that while the national GDP has increased, the communities' traditional lands have been exploited, and their social structures have been disrupted. What is the most critical question the social worker should raise about this policy?",
+    "choices": [
+      "Whether the policy has boosted economic performance in other sectors.",
+      "If the policy’s definition of 'growth' adequately accounts for the well-being and rights of all sectors of society.",
+      "How many foreign investors the policy has attracted.",
+      "If the policy’s implementation is in line with standard government procedures."
+    ],
+    "answerIndex": 1,
+    "rationale": "An effective social work analysis of 'inclusive growth' must question whether the benefits of economic development are truly shared and if the policy respects the human rights and cultural integrity of all societal sectors, particularly the most vulnerable.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-004",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "difficulty": "Easy",
+    "stem": "A social worker notes that a Filipino client, who is seeking employment assistance, insists on getting help only from a relative who is also a social worker, despite being told about the agency's available services. This preference for seeking help from kin over a professional reflects what Filipino value?",
+    "choices": [
+      "Fatalism",
+      "Pakikipagkapwa-tao",
+      "Familialism",
+      "Colonial mentality"
+    ],
+    "answerIndex": 2,
+    "rationale": "Familialism is the Filipino value system that prioritizes family ties and loyalty, often leading individuals to trust and rely on family members over external, institutional structures.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-005",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "difficulty": "Moderate",
+    "stem": "A social worker is trying to gain the trust of a new client in a rural village. The client initially seems hesitant and withdrawn. The social worker adapts her approach by first spending time engaging in casual conversations, joining community gatherings, and sharing a meal with the client. Which Filipino cultural value is the social worker attempting to build on?",
+    "choices": [
+      "Utang na Loob",
+      "Pakikipagkapwa-tao",
+      "Amor Propio",
+      "Bahala Na"
+    ],
+    "answerIndex": 1,
+    "rationale": "Pakikipagkapwa-tao, meaning shared identity or humaneness, is the central value of 'shared inner self.' By engaging in these social activities, the social worker is attempting to establish a connection and build rapport based on a sense of mutual respect and shared experience.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-006",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Easy",
+    "stem": "A social worker is called to a community to address a high number of street children. The social worker's approach is to understand the issue not just as a problem of individual choice, but also as a result of societal failures like poverty and a lack of social safety nets. This perspective is most aligned with which of the following theories?",
+    "choices": [
+      "Individual responsibility theory",
+      "Sociological theory of deviance",
+      "Psychological behaviorism",
+      "Biological theory of deviance"
+    ],
+    "answerIndex": 1,
+    "rationale": "Sociological theories of deviance focus on the role of social structures and institutions in shaping behavior. This approach recognizes that societal factors like poverty and inequality contribute to deviant behaviors, such as children living on the street.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-007",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Moderate",
+    "stem": "A young Filipino man is caught using illegal drugs. A social worker identifies that the man's substance abuse is linked to the immense pressure he feels to support his family, a job he lost, and the lack of accessible mental health services in his community. This understanding of the individual's behavior aligns most with which theory of deviance?",
+    "choices": [
+      "Strain theory",
+      "Labeling theory",
+      "Social conflict theory",
+      "Social control theory"
+    ],
+    "answerIndex": 0,
+    "rationale": "Strain theory argues that deviance occurs when a person is unable to achieve socially acceptable goals (e.g., financial success, a stable job) through legitimate means, leading to a state of 'strain' and resort to deviant behaviors.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-008",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Difficult",
+    "stem": "A social worker is evaluating a government campaign against a certain type of 'deviant' behavior. The campaign uses strong, negative labels and public shaming. The social worker recommends a new approach that focuses on rehabilitation and integration. What is the most likely theoretical basis for this recommendation?",
+    "choices": [
+      "Social control theory, as it seeks to strengthen societal bonds through punishment.",
+      "Labeling theory, as it cautions that negative labels can lead to a self-fulfilling prophecy of further deviance.",
+      "Functionalism, as it views deviance as a necessary part of a healthy society.",
+      "Conflict theory, as it emphasizes the role of power dynamics in defining deviance."
+    ],
+    "answerIndex": 1,
+    "rationale": "Labeling theory suggests that stigmatizing and shaming individuals can lead to further deviance by internalizing the negative label. The social worker's recommendation to shift to a more rehabilitative approach is a direct application of this theory, aiming to prevent secondary deviance.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-009",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Easy",
+    "stem": "A social worker is working with a family experiencing conflict. The social worker maps out the family's relationships and communication patterns, identifying the roles each family member plays. This approach is rooted in which perspective?",
+    "choices": [
+      "Cognitive-behavioral perspective",
+      "Ecological perspective",
+      "Developmental perspective",
+      "Systems perspective"
+    ],
+    "answerIndex": 3,
+    "rationale": "The systems perspective views the family as a holistic system where the behavior of one member affects the entire family unit. The social worker's action of mapping relationships is a core technique of this perspective.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-010",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Moderate",
+    "stem": "A social worker is providing counseling to a young person struggling with anxiety. The social worker investigates how the client's anxiety is influenced by their relationships with their family, peers, school, and community. This broad approach is most characteristic of which theoretical framework?",
+    "choices": [
+      "Psychodynamic theory",
+      "Ecological perspective",
+      "Functionalist theory",
+      "Social learning theory"
+    ],
+    "answerIndex": 1,
+    "rationale": "The ecological perspective, developed by Urie Bronfenbrenner, emphasizes that human development is influenced by a series of interconnected systems, from the immediate micro-system (family, school) to the broader macro-system (culture, social policies). The social worker's comprehensive investigation aligns with this framework.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-011",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Difficult",
+    "stem": "A social worker is evaluating the long-term effectiveness of a community-based livelihood project. The social worker concludes that while the project provided income for participants, it failed to address the systemic barriers to economic stability, such as a lack of access to markets and exploitative intermediaries. What is the most effective recommendation the social worker can make?",
+    "choices": [
+      "To increase the number of project participants to maximize income generation.",
+      "To provide more individual-focused financial literacy training for participants.",
+      "To focus on micro-level issues rather than macro-level policies.",
+      "To advocate for policy changes that address the systemic barriers hindering long-term economic stability."
+    ],
+    "answerIndex": 3,
+    "rationale": "An effective social work evaluation goes beyond individual-level changes and identifies systemic barriers. Advocating for policy changes is the most appropriate recommendation because it targets the macro-level issues that are undermining the project's long-term success.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-012",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Easy",
+    "stem": "A social worker works with an indigenous community and supports them in reviving their traditional farming practices. This intervention aligns with which development perspective?",
+    "choices": [
+      "Industrialization model",
+      "Modernization theory",
+      "Indigenous development perspective",
+      "Social welfare approach"
+    ],
+    "answerIndex": 2,
+    "rationale": "The indigenous development perspective emphasizes the preservation of a community's culture, traditions, and self-determination as the foundation for development, rather than imposing external, modern solutions.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-013",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Moderate",
+    "stem": "A social worker is part of an international development agency working on a poverty reduction project in the Philippines. The agency focuses on providing micro-loans and skills training to individuals, but the social worker observes that this approach fails to address the root causes of poverty. The social worker's critique is most consistent with which theory of social change?",
+    "choices": [
+      "Modernization theory",
+      "Dependency theory",
+      "Human capital theory",
+      "Neoclassical economics"
+    ],
+    "answerIndex": 1,
+    "rationale": "Dependency theory posits that poverty and underdevelopment in the Global South are not due to internal failures but are a result of historical and ongoing economic exploitation by developed nations. The social worker's observation that micro-level interventions are insufficient aligns with this perspective, as it calls for a focus on structural issues.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-014",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Easy",
+    "stem": "A social worker is tasked with identifying and documenting social problems in a community. The social worker notes the high incidence of out-of-school youth. What is the most effective initial action for the social worker to take?",
+    "choices": [
+      "Immediately set up a new school in the community.",
+      "Organize a community-wide protest against poverty.",
+      "Conduct a needs assessment to understand the root causes and contributing factors.",
+      "Recommend that all out-of-school youth be placed in government institutions."
+    ],
+    "answerIndex": 2,
+    "rationale": "Before any intervention, a social worker's first step is to conduct a thorough needs assessment. This process involves gathering data to identify the causes of the problem and the community's capacity to address it, which is essential for effective and sustainable intervention.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-015",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a group session for Filipino parents on positive discipline. The social worker introduces the concept of 'I-statements' to help parents express feelings without placing blame. A parent responds, 'Hindi po ako sanay na ipahayag ang sarili ko ng ganyan.' (I'm not used to expressing myself like that.) This response is most likely influenced by which cultural value?",
+    "choices": [
+      "Filipino sense of humor",
+      "Pakikipagkapwa-tao and indirect communication",
+      "The value of 'Bahala Na'",
+      "The concept of 'Amor Propio'"
+    ],
+    "answerIndex": 1,
+    "rationale": "Filipino culture often favors indirect communication to maintain social harmony (pakikipagkapwa-tao) and avoid conflict. Direct 'I-statements' may feel confrontational or uncomfortable for someone accustomed to this communication style.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-016",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Easy",
+    "stem": "In the Philippines, the act of 'siga-siga' (being a tough guy or bully) is a form of social deviation. Which of the following is the most likely reason a social worker would address this behavior?",
+    "choices": [
+      "It is a necessary rite of passage for young men.",
+      "It promotes social cohesion and group loyalty.",
+      "It can lead to a breakdown of social norms and physical harm to others.",
+      "It is an expression of individual freedom and creativity."
+    ],
+    "answerIndex": 2,
+    "rationale": "Social workers address behaviors like 'siga-siga' because they deviate from pro-social norms and can result in negative consequences, such as violence, social friction, and a general breakdown of order within a community.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-017",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working in a community where a number of young people have joined a gang. The social worker learns that the gang provides a sense of belonging, protection, and identity that the community and family are not providing. Which theory of deviance best explains the behavior of these young people?",
+    "choices": [
+      "Labeling theory",
+      "Conflict theory",
+      "Social disorganization theory",
+      "Social control theory"
+    ],
+    "answerIndex": 3,
+    "rationale": "Social control theory posits that deviance is more likely to occur when an individual's bond to society is weak. In this case, the youth join a gang to find the belonging and security that their community and family are failing to provide, which is a form of a weak social bond.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-018",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Easy",
+    "stem": "The 'group life cycle' is an important concept in social work. Which stage of this cycle is characterized by members expressing anxiety about joining the group and testing out their roles within it?",
+    "choices": [
+      "Termination",
+      "Beginning",
+      "Middle",
+      "Ending"
+    ],
+    "answerIndex": 1,
+    "rationale": "The 'Beginning' stage of a group's life cycle is marked by member anxiety, getting to know each other, and establishing roles and norms. This is where the group members are learning how to interact and function as a unit.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-019",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a group for single mothers. During the middle phase of the group, a member starts to dominate discussions, and others become withdrawn. What is the most appropriate action for the social worker to take?",
+    "choices": [
+      "Exclude the dominant member from the group.",
+      "Let the group manage the conflict on its own.",
+      "Confront the dominant member and ask them to be quiet.",
+      "Facilitate a discussion about group norms and the importance of equal participation."
+    ],
+    "answerIndex": 3,
+    "rationale": "In the middle phase, the social worker's role is to help the group function more effectively. Facilitating a discussion about norms and participation is a way to empower the group to self-correct and address the imbalance in a constructive manner.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-020",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Easy",
+    "stem": "A social worker is involved in a campaign to encourage people in a community to recycle. This effort is aimed at changing individual behaviors for a collective benefit. This is an example of what type of social change?",
+    "choices": [
+      "Revolutionary change",
+      "Developmental change",
+      "Incremental change",
+      "Deviant change"
+    ],
+    "answerIndex": 2,
+    "rationale": "Incremental change refers to small, gradual changes in a society's norms, values, or behaviors. A campaign to encourage recycling is an example of this, as it aims to shift a specific behavior over time rather than a complete overhaul of the system.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-021",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Moderate",
+    "stem": "A social worker assists a group of farmers in a rural community to form a cooperative to sell their produce directly to consumers, bypassing traditional middlemen. What is the primary purpose of this intervention from a development perspective?",
+    "choices": [
+      "To attract foreign investors to the community.",
+      "To empower the farmers by giving them more control over their economic lives.",
+      "To increase the overall national GDP of the country.",
+      "To encourage the farmers to move to urban areas for better opportunities."
+    ],
+    "answerIndex": 1,
+    "rationale": "The formation of a cooperative is a strategy to empower the farmers by giving them collective bargaining power, enabling them to make their own economic decisions and gain control over their livelihoods, which is a core tenet of participatory development.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-022",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Moderate",
+    "stem": "In a social investigation, a social worker identifies that a family's persistent poverty is linked to historical land dispossession, discriminatory labor policies, and lack of political representation. This analysis aligns with which perspective on social realities?",
+    "choices": [
+      "Functionalist perspective",
+      "Conflict perspective",
+      "Symbolic interactionist perspective",
+      "Psychological perspective"
+    ],
+    "answerIndex": 1,
+    "rationale": "The conflict perspective views social problems as a result of power imbalances and inequalities within a society. By identifying that a family's poverty is due to systemic issues like land dispossession and discriminatory policies, the social worker is applying the principles of this perspective.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-023",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a Filipino family whose son, an overseas Filipino worker (OFW), is struggling with his mental health. The family insists that the son should 'magtiis' (endure) for the good of the family and not return home. The social worker should intervene by doing what?",
+    "choices": [
+      "Encouraging the family to force their son to seek medical help abroad.",
+      "Explaining that the family's expectations are harmful to their son and are a deviation from cultural norms.",
+      "Respecting the family's desire for the son to endure and not intervening further.",
+      "Gently helping the family understand the difference between healthy endurance and harmful sacrifice, and supporting their son’s right to seek help."
+    ],
+    "answerIndex": 3,
+    "rationale": "Social workers must respect cultural values like 'magtiis' but also have a professional responsibility to protect a client's well-being. The best approach is to bridge the gap between cultural expectations and the client's needs by helping the family reframe their values in a way that prioritizes the son's mental health.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-024",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Difficult",
+    "stem": "A social worker is involved in a program for young people who have been victims of online scams. The social worker's approach is to provide psycho-social support and empower them to report the crime and advocate for themselves. Which theory of deviance is the social worker's approach most focused on counteracting?",
+    "choices": [
+      "Strain theory",
+      "Social disorganization theory",
+      "Labeling theory",
+      "Social control theory"
+    ],
+    "answerIndex": 2,
+    "rationale": "Victims of crime, especially in online scams, can be subject to 'victim blaming' and stigmatization, which can be a form of labeling. The social worker's intervention counteracts this by providing support and empowerment, preventing the victims from internalizing a negative label.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-025",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a marginalized women's group to address gender-based violence in their community. The group decides to launch a 'consciousness-raising' campaign to challenge traditional patriarchal norms. What is the most accurate description of this group's goal from a social work perspective?",
+    "choices": [
+      "To reinforce existing social hierarchies.",
+      "To encourage individual therapy for victims of violence.",
+      "To disrupt the 'microsystem' without affecting the 'macrosystem.'",
+      "To promote a transformative social change by challenging power structures and norms."
+    ],
+    "answerIndex": 3,
+    "rationale": "Consciousness-raising campaigns and challenging patriarchal norms are aimed at transformative social change. The goal is to fundamentally alter the power structures and norms that perpetuate gender-based violence, which is a key task of social work at the macro level.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-026",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Difficult",
+    "stem": "A social worker is part of a multi-sectoral team working on disaster risk reduction in a coastal community. The team recommends moving the entire community inland due to rising sea levels. The community resists, citing their deep cultural and spiritual ties to the sea. The social worker should advocate for a solution that does what?",
+    "choices": [
+      "Ignores the community's cultural ties in favor of physical safety.",
+      "Respects the community's cultural ties while integrating sustainable and safe livelihood practices.",
+      "Forces the community to relocate for their own safety.",
+      "Allows the community to stay and take full responsibility for their safety."
+    ],
+    "answerIndex": 1,
+    "rationale": "A social worker must balance the need for safety with the community's right to self-determination and cultural integrity. Advocating for a solution that respects their cultural ties while also incorporating sustainable practices is the most ethical and effective approach.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-027",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Moderate",
+    "stem": "A social worker is conducting a community profile in a marginalized urban area. He notes a high unemployment rate, poor housing conditions, and a lack of access to basic health services. These social realities are a direct result of which macroeconomic policy?",
+    "choices": [
+      "The policy of import substitution",
+      "The policy of free trade",
+      "The policy of self-sufficiency",
+      "The policy of centralized planning"
+    ],
+    "answerIndex": 1,
+    "rationale": "Free trade policies, often associated with globalization and neoliberalism, can lead to the displacement of local industries and workers, which can contribute to high unemployment and poverty in marginalized urban areas.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-028",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "difficulty": "Easy",
+    "stem": "A social worker is preparing a Filipino client for a job interview. The client seems confident in her skills but is worried about being perceived as 'mayabang' (arrogant). What cultural concept is the client concerned with?",
+    "choices": [
+      "Pakikisama",
+      "Hiya",
+      "Amor Propio",
+      "Kanya-kanya syndrome"
+    ],
+    "answerIndex": 2,
+    "rationale": "Amor Propio is the Filipino concept of self-esteem or self-respect. The client's concern about being 'mayabang' is a fear of losing 'Amor Propio' by being perceived as arrogant or boastful.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-029",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Moderate",
+    "stem": "In a social work intervention for a group of young offenders, a social worker focuses on building their connection to their school, family, and community. The intervention is based on the idea that these connections will reduce their likelihood of committing future offenses. This is an application of which theory of deviance?",
+    "choices": [
+      "Strain theory",
+      "Social disorganization theory",
+      "Labeling theory",
+      "Social control theory"
+    ],
+    "answerIndex": 3,
+    "rationale": "Social control theory argues that deviance occurs when an individual's bond to society is weakened. By strengthening the bond between the young offenders and their community, the social worker is directly applying this theory to prevent future deviance.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-030",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Easy",
+    "stem": "A social worker is working with a family where a child is struggling academically. The social worker consults with the child's teacher and school counselor to understand the child's social environment at school. This is an example of the social worker engaging with which system level?",
+    "choices": [
+      "Micro-system",
+      "Meso-system",
+      "Exo-system",
+      "Macro-system"
+    ],
+    "answerIndex": 1,
+    "rationale": "The meso-system in Bronfenbrenner's ecological model refers to the interconnections between different microsystems. By consulting with the teacher and counselor, the social worker is examining the link between the child's family life (micro-system) and their school life (another micro-system).",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-031",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Easy",
+    "stem": "A social worker is facilitating a community meeting to address a local garbage problem. During the meeting, the social worker encourages everyone to voice their opinion and arrive at a solution together. What is the most accurate description of the social worker's role in this scenario?",
+    "choices": [
+      "As an expert who provides the best solution.",
+      "As a leader who dictates the terms of the meeting.",
+      "As a facilitator who empowers the community to find its own solution.",
+      "As a neutral observer who only documents the meeting."
+    ],
+    "answerIndex": 2,
+    "rationale": "In a community development approach, a social worker's role is to facilitate the process, empowering the community to identify its own problems and create its own solutions, rather than imposing external ideas.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-032",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Difficult",
+    "stem": "A social worker is conducting an analysis of the 'K to 12' education program. She finds that while the program is intended to produce globally competitive graduates, it has also led to an increased financial burden on low-income families and has not significantly improved employment rates. The social worker's analysis is most consistent with which perspective on social realities?",
+    "choices": [
+      "Functionalist perspective",
+      "Psychodynamic perspective",
+      "Symbolic interactionist perspective",
+      "Critical perspective"
+    ],
+    "answerIndex": 3,
+    "rationale": "A critical perspective analyzes social realities by questioning the underlying power structures and ideologies. The social worker's analysis goes beyond the stated goals of the program and examines its unintended, negative consequences on marginalized groups, which is a key tenet of critical theory.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-033",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a family where the eldest daughter is an OFW. The family expects her to send a large portion of her income home, even though it puts her in financial and emotional distress. The social worker's ethical duty is to balance the family's expectations with the daughter's well-being. What is the social worker's best course of action?",
+    "choices": [
+      "Tell the daughter to stop sending money home immediately.",
+      "Advise the family that their cultural expectations are wrong and should be changed.",
+      "Facilitate a family discussion to help them renegotiate their financial arrangements in a way that respects both the family and the daughter's well-being.",
+      "Recommend that the daughter seek individual counseling without involving the family."
+    ],
+    "answerIndex": 2,
+    "rationale": "The social worker's role is not to impose a Western solution or to condemn a cultural practice. Instead, the social worker should act as a mediator and facilitator, helping the family and the daughter communicate and find a solution that respects both the family's needs and the daughter's mental and financial health.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-034",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Easy",
+    "stem": "In the Philippines, the practice of 'tambay' (loitering) has been criminalized in some local ordinances. A social worker would most likely view this as a form of social deviation from which perspective?",
+    "choices": [
+      "As a form of leisure and relaxation.",
+      "As a harmless cultural practice.",
+      "As a violation of societal norms and expectations regarding public order.",
+      "As an expression of an individual's right to assemble."
+    ],
+    "answerIndex": 2,
+    "rationale": "From a social deviation perspective, 'tambay' is a form of deviance because it violates a social norm or ordinance regarding public order, even if it is a common cultural practice.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-035",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a group of young people who have been labeled as 'outcasts' by their community due to their non-traditional lifestyles. The social worker's first step is to help the group members understand how these labels have affected their self-perception. This intervention is based on which theory of deviance?",
+    "choices": [
+      "Social learning theory",
+      "Functionalist theory",
+      "Labeling theory",
+      "Conflict theory"
+    ],
+    "answerIndex": 2,
+    "rationale": "Labeling theory focuses on how society's labels and definitions of deviance influence an individual's identity and behavior. The social worker's approach directly addresses this by helping the group members understand how the 'outcast' label has affected them.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-036",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Easy",
+    "stem": "A social worker is trying to understand the challenges faced by a client. The social worker asks about the client's family, friends, and co-workers. This is an investigation into which component of the social environment?",
+    "choices": [
+      "The client's economic status",
+      "The client's physical health",
+      "The client's social networks and support systems",
+      "The client's personality traits"
+    ],
+    "answerIndex": 2,
+    "rationale": "The social environment includes a person's social networks, which are comprised of their family, friends, and other relationships that provide support, resources, and influence.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-037",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a group of parents who have children with disabilities. The social worker observes that the group members are sharing coping strategies, emotional support, and resources. What is the most accurate description of the group's function?",
+    "choices": [
+      "It is a task group to accomplish a specific goal.",
+      "It is a therapy group for individual counseling.",
+      "It is a support group providing mutual aid and emotional support.",
+      "It is a recreational group for social interaction."
+    ],
+    "answerIndex": 2,
+    "rationale": "A support group's primary function is to provide a safe space for members with a shared experience to offer each other mutual aid, emotional support, and practical advice, which is exactly what the parents are doing.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-038",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a community to address a high rate of teenage pregnancy. She discovers that the community has a strong belief that teenage marriage is a solution and that traditional elders are the primary decision-makers. The social worker should respond by doing what?",
+    "choices": [
+      "Directly challenge the elders' authority and traditional beliefs.",
+      "Bypass the elders and work directly with the teenagers.",
+      "Engage the elders in a dialogue to integrate modern sexual health education into their traditional decision-making process.",
+      "Provide a new set of rules for the community to follow."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker must respect a community's culture and power structures while also promoting the well-being of its members. The most effective approach is to work with the community's existing leaders and institutions to integrate new ideas and knowledge, rather than challenging them directly or bypassing them.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-039",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Easy",
+    "stem": "A social worker is helping a community to lobby their local government for the construction of a new health center. What is the most accurate description of the social worker's role in this activity?",
+    "choices": [
+      "To provide medical services to the community.",
+      "To act as a passive observer of the community's efforts.",
+      "To engage in social action to influence policy and resource allocation.",
+      "To document the community's failure to get a health center."
+    ],
+    "answerIndex": 2,
+    "rationale": "Social action is a social change strategy that involves organized efforts by a community to influence policy, institutions, or resource allocation in order to address a social problem. Lobbying for a new health center is a direct example of this.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-040",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Moderate",
+    "stem": "A social worker is implementing a sustainable development project that aims to balance economic growth with environmental protection. The project encourages the community to use solar panels for energy and plant trees. This approach aligns with which principle of sustainable development?",
+    "choices": [
+      "Economic prioritization",
+      "Environmental exploitation",
+      "Intergenerational equity",
+      "Technological dependence"
+    ],
+    "answerIndex": 2,
+    "rationale": "Intergenerational equity is a core principle of sustainable development that holds that current generations should not compromise the ability of future generations to meet their own needs. The project's focus on environmental protection and sustainable energy is a direct application of this principle.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-041",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a client who is afraid to admit to their family that they have lost their job due to the shame ('hiya') it would bring. The social worker's most ethical and effective course of action is to do what?",
+    "choices": [
+      "Tell the client to ignore their family's expectations and focus on their own well-being.",
+      "Tell the family about the job loss without the client's consent.",
+      "Work with the client to develop a communication strategy that allows them to share the news with their family in a way that minimizes shame and maintains 'hiya.'",
+      "Suggest that the client find another job immediately and hide the unemployment from their family."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker should respect a client's cultural values while also helping them address their problems. The most effective approach is to work with the client to find a solution that respects their cultural concept of 'hiya' while also allowing them to address a difficult situation.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-042",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Easy",
+    "stem": "A social worker is observing a group of young people from different backgrounds who have come together to form a band. The social worker notes that they are learning to cooperate and work together toward a common goal. This is an example of which of the following concepts?",
+    "choices": [
+      "Conflict",
+      "Social interaction",
+      "Deviance",
+      "Social stratification"
+    ],
+    "answerIndex": 1,
+    "rationale": "Social interaction refers to the way people act and react to each other. The act of forming a band and learning to cooperate is a form of social interaction that leads to the development of shared norms and goals.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-043",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Easy",
+    "stem": "A social worker is assisting a local government unit to develop a new feeding program for children in marginalized communities. This program aims to address the social problem of malnutrition. This is an example of which social change strategy?",
+    "choices": [
+      "Social action",
+      "Social planning",
+      "Social advocacy",
+      "Social development"
+    ],
+    "answerIndex": 1,
+    "rationale": "Social planning is a social change strategy that involves a rational, planned approach to addressing a social problem through the development of new programs, policies, or services. The development of a new feeding program is a direct example of this.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-044",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Easy",
+    "stem": "A social worker is analyzing poverty in the Philippines. She notes that a family is considered poor if their income is below a certain threshold required to meet their basic food needs. What is this measurement called?",
+    "choices": [
+      "Income poverty",
+      "Food threshold",
+      "Poverty line",
+      "Poverty incidence"
+    ],
+    "answerIndex": 1,
+    "rationale": "The food threshold is the minimum income required to satisfy a person's or family's basic food needs, while the poverty line is the income required to meet both basic food and non-food needs.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-045",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "difficulty": "Easy",
+    "stem": "A social worker notes that a Filipino client, when asked to express her opinion, often defers to the authority of her elder brother, saying, 'Si kuya na lang po.' (Brother should answer instead.) This is an example of which Filipino cultural value?",
+    "choices": [
+      "The value of seniority",
+      "The value of individuality",
+      "The value of independence",
+      "The value of 'pakikisama'"
+    ],
+    "answerIndex": 0,
+    "rationale": "The value of seniority is a cultural norm in which older individuals are respected and given authority, and their opinions and decisions are often deferred to by younger family members.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-046",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a group session for teenagers in a community. One of the topics is cyberbullying. The social worker explains that an act of cyberbullying is deviant not because of an inherent wrongness, but because the community has collectively agreed that it is harmful and unacceptable. This explanation is based on which theory of deviance?",
+    "choices": [
+      "Conflict theory",
+      "Social disorganization theory",
+      "Labeling theory",
+      "Social control theory"
+    ],
+    "answerIndex": 2,
+    "rationale": "Labeling theory posits that deviance is a social construct. An act is considered deviant only when a community, society, or group labels it as such. The social worker's explanation directly aligns with this, as it highlights the role of social agreement in defining an act as deviant.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-047",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Moderate",
+    "stem": "A social worker is working with a family where the father is an OFW and communicates with his family via video calls. From an ecological perspective, how is the father's job impacting the family?",
+    "choices": [
+      "It is a stressor in the family's microsystem.",
+      "It is a stressor in the family's exosystem.",
+      "It is a stressor in the family's macrosystem.",
+      "It is a stressor in the family's chronosystem."
+    ],
+    "answerIndex": 2,
+    "rationale": "The father's job as an OFW is part of the exosystem, which consists of the linkages and settings that indirectly affect a person's development. While it affects the microsystem (the family), the job itself is an exosystem factor.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-048",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Moderate",
+    "stem": "A social worker is facilitating a community meeting to address the lack of clean water. The social worker's role is to help the community create a plan to install a water pump and to mobilize their own resources to do so. This approach is most aligned with which development perspective?",
+    "choices": [
+      "Modernization theory",
+      "Human capital theory",
+      "Community-based development",
+      "Dependency theory"
+    ],
+    "answerIndex": 2,
+    "rationale": "Community-based development is a development perspective that empowers a community to take ownership of its own development by utilizing its own resources and strengths. The social worker's role as a facilitator is a key aspect of this approach.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-049",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Difficult",
+    "stem": "A social worker is analyzing the role of mass media in shaping the public's perception of poverty. She notes that the media often portrays the poor as lazy and unmotivated, which justifies the lack of government assistance. The social worker's analysis is most consistent with which perspective on social realities?",
+    "choices": [
+      "Functionalist perspective",
+      "Psychological perspective",
+      "Symbolic interactionist perspective",
+      "Biological perspective"
+    ],
+    "answerIndex": 2,
+    "rationale": "The symbolic interactionist perspective focuses on how people create meaning through their interactions with others. The social worker's analysis of how the media's symbols and messages shape public perception of poverty is a direct application of this perspective.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-050",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "difficulty": "Difficult",
+    "stem": "A social worker is working with a family whose eldest son has been diagnosed with a severe mental illness. The family, due to their strong sense of 'utang na loob' (debt of gratitude), feels obligated to care for him at home without seeking professional help, despite being ill-equipped to do so. The social worker's best course of action is to do what?",
+    "choices": [
+      "Advise the family to immediately place their son in a mental health facility.",
+      "Respect the family's 'utang na loob' and take no further action.",
+      "Work with the family to help them understand that seeking professional help is a way of caring for their son, and it does not negate their 'utang na loob.'",
+      "Tell the family that their cultural values are harmful to their son and should be changed."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker must respect a client's cultural values while also prioritizing their well-being. The most effective approach is to help the family reframe their 'utang na loob' by showing them that seeking professional help is a way of fulfilling their obligation and ensuring the best care for their son.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-051",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Easy",
+    "stem": "A social worker is analyzing the social reality of a community. He notes that the community is heavily reliant on a single employer, which makes the community vulnerable to economic downturns. This is an example of which of the following?",
+    "choices": [
+      "Economic stability",
+      "Social cohesion",
+      "Economic dependence",
+      "Social resilience"
+    ],
+    "answerIndex": 2,
+    "rationale": "Economic dependence refers to a community's reliance on a single economic source, which can lead to instability and vulnerability to economic shocks.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-052",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Easy",
+    "stem": "A social worker is working with a client who has been diagnosed with a mental illness. The social worker knows that in some cultures, mental illness is seen as a sign of spiritual weakness or a curse. How should the social worker approach this situation?",
+    "choices": [
+      "Challenge the client's cultural beliefs and explain the medical model of mental illness.",
+      "Refer the client to a spiritual healer instead of a medical professional.",
+      "Integrate the client's cultural beliefs into the treatment plan while also providing professional medical advice.",
+      "Ignore the client's cultural beliefs and focus only on the medical diagnosis."
+    ],
+    "answerIndex": 2,
+    "rationale": "A social worker must be culturally competent and respect a client's beliefs. The most effective approach is to integrate the client's cultural beliefs into the treatment plan, which can help the client feel more comfortable and engaged in the process.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-053",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Difficult",
+    "stem": "A social worker is facilitating a community meeting to address the problem of illegal drug use. A group of parents insists that the only solution is to impose strict curfews and punishments. A group of youth insists on having recreational activities and safe spaces. The social worker's most effective role in this conflict is to do what?",
+    "choices": [
+      "Take the side of the parents, as they are the authority figures.",
+      "Take the side of the youth, as they are the direct victims of the problem.",
+      "Help both groups understand each other's perspectives and find a common ground to create a comprehensive solution.",
+      "Tell both groups that their solutions are too simple and that a more complex approach is needed."
+    ],
+    "answerIndex": 2,
+    "rationale": "In a conflict situation, a social worker's role is to facilitate dialogue and help conflicting parties find a common ground. The social worker's action of helping both groups understand each other's perspectives is a key aspect of this role, which can lead to a more comprehensive and sustainable solution.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-054",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Difficult",
+    "stem": "A social worker is involved in a national poverty alleviation program. The social worker critiques the program for its top-down approach and for treating poor people as passive recipients of aid. The social worker is advocating for a new approach that empowers the poor to participate in the program's design and implementation. This aligns with which development perspective?",
+    "choices": [
+      "Welfare approach",
+      "Modernization approach",
+      "Participatory development",
+      "Human capital approach"
+    ],
+    "answerIndex": 2,
+    "rationale": "Participatory development is a development perspective that emphasizes the active participation of the people in their own development. The social worker's critique of the top-down approach and advocacy for a more empowering one is a direct application of this perspective.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-055",
+    "subject": "HBSE",
+    "topic": "A. Philippine Social Realities & Social Work",
+    "difficulty": "Easy",
+    "stem": "A social worker is working with a family that has been displaced from their home due to a major infrastructure project. The family is now living in temporary housing with limited access to clean water and sanitation. This social reality is most consistent with which of the following?",
+    "choices": [
+      "Social mobility",
+      "Forced migration",
+      "Urbanization",
+      "Social deviance"
+    ],
+    "answerIndex": 1,
+    "rationale": "Forced migration refers to the involuntary movement of people away from their home or region due to conflict, disaster, or in this case, a development project. This social reality is a key issue that social workers address.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-056",
+    "subject": "HBSE",
+    "topic": "B. Filipino Personality & Social Work",
+    "difficulty": "Moderate",
+    "stem": "A social worker is providing counseling to a young Filipino client who is struggling with feelings of loneliness and isolation. The social worker observes that the client is not comfortable expressing her feelings in a one-on-one session but is very open and communicative when a group of her friends is present. This behavior is most likely an expression of which Filipino cultural value?",
+    "choices": [
+      "Amor Propio",
+      "Pakikisama",
+      "Hiya",
+      "Utang na Loob"
+    ],
+    "answerIndex": 1,
+    "rationale": "Pakikisama, or 'smooth interpersonal relations,' is a Filipino cultural value that emphasizes the importance of getting along with others and being part of a group. The client's behavior is a direct expression of this, as she feels more comfortable and open when she is with her friends.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-057",
+    "subject": "HBSE",
+    "topic": "C. Social Work & Social Deviation",
+    "difficulty": "Difficult",
+    "stem": "A social worker is evaluating a community program that aims to reduce teenage gang membership. The program's intervention is to provide vocational skills training and job placement services to the teenagers. The program's theory of change is that by providing these teenagers with legitimate means to achieve success, they will be less likely to engage in deviant behavior. This approach is most consistent with which theory of deviance?",
+    "choices": [
+      "Social disorganization theory",
+      "Strain theory",
+      "Social control theory",
+      "Labeling theory"
+    ],
+    "answerIndex": 1,
+    "rationale": "Strain theory argues that deviance occurs when there is a 'strain' or a mismatch between a person's goals and the means to achieve them. The program's approach is to provide the teenagers with the legitimate means (vocational skills, jobs) to achieve socially acceptable goals, thereby reducing the 'strain' that leads to deviance.",
+    "bloom_level": "Evaluation",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-058",
+    "subject": "HBSE",
+    "topic": "D. Social Environment: Family/Group/Community/Org",
+    "difficulty": "Easy",
+    "stem": "A social worker is working with a family that is experiencing high levels of stress due to a parent's unemployment. The social worker recognizes that this stress is a result of the family's relationship with the external environment. This is an example of which of the following concepts?",
+    "choices": [
+      "Social pathology",
+      "Social breakdown",
+      "Person-in-environment perspective",
+      "Family dysfunction"
+    ],
+    "answerIndex": 2,
+    "rationale": "The person-in-environment perspective is a core social work concept that views a person's behavior as a result of the interaction between their internal psychological makeup and their external social environment. The social worker's recognition of the link between unemployment (an external factor) and family stress is a direct application of this perspective.",
+    "bloom_level": "Comprehension",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-059",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Easy",
+    "stem": "A social worker is assisting a group of urban poor residents to organize a peaceful protest to demand better housing from their local government. This activity is a form of which social change strategy?",
+    "choices": [
+      "Social planning",
+      "Social action",
+      "Community education",
+      "Social development"
+    ],
+    "answerIndex": 1,
+    "rationale": "Social action is a social change strategy that involves organized efforts to influence policy, institutions, or resource allocation. A peaceful protest is a direct example of this, as it is a form of organized action to demand change from the government.",
+    "bloom_level": "Application",
+    "philippine_setting": true
+  },
+  {
+    "id": "HBSE-Q2-060",
+    "subject": "HBSE",
+    "topic": "E. Social Change & Development Perspectives",
+    "difficulty": "Moderate",
+    "stem": "A social worker is evaluating a community development project that focused on building a new health clinic. While the clinic was built, the community did not feel a sense of ownership, and they were not trained to manage it. This project failed to follow the principles of which development approach?",
+    "choices": [
+      "Top-down approach",
+      "Participatory development",
+      "Human capital approach",
+      "Modernization approach"
+    ],
+    "answerIndex": 1,
+    "rationale": "Participatory development emphasizes the active involvement and ownership of the community in their own development. The project's failure to engage the community and train them to manage the clinic is a direct violation of this principle.",
+    "bloom_level": "Analysis",
+    "philippine_setting": true
+  }
+]
