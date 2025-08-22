@@ -1,462 +1,361 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>PRC-Aligned SWLE Exam Builder (All Subjects)</title>
-    <style>
-        :root{
-            --bg:#0f172a;--card:#111827;--muted:#1f2937;--text:#e5e7eb;--accent:#22d3ee;--good:#22c55e;--bad:#ef4444;--warn:#f59e0b;
-        }
-        *{box-sizing:border-box}
-        body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;background:var(--bg);color:var(--text)}
-        .wrap{max-width:1100px;margin:40px auto;padding:0 16px}
-        .row{display:flex;gap:16px;flex-wrap:wrap}
-        .card{background:linear-gradient(180deg,#111827, #0b1220);border:1px solid #1f2937;border-radius:18px;padding:16px;box-shadow:0 10px 25px rgba(0,0,0,.25)}
-        .card h2,.card h3{margin:0 0 12px}
-        .pill{display:inline-block;padding:4px 10px;border-radius:999px;background:#0b1220;border:1px solid #243141;color:#9fb0c5;font-size:12px}
-        button,select,input[type="file"]{background:#0b1220;color:var(--text);border:1px solid #233045;border-radius:12px;padding:10px 14px;cursor:pointer; transition: border-color 0.2s;}
-        button:hover, select:hover, input[type="file"]:hover {border-color:#3b82f6}
-        .primary{background:linear-gradient(180deg,#0ea5e9,#22d3ee);color:#001018;border:none}
-        .primary:hover{filter:brightness(1.1)}
-        .danger{background:#1a0b0b;color:#ffd8d8;border-color:#7f1d1d}
-        .success{background:#0b1a14;color:#d1fae5;border-color:#064e3b}
-        .warn{background:#1a140b;color:#ffedd5;border-color:#7c2d12}
-        .grid{display:grid;gap:16px}
-        .grid.g2{grid-template-columns:repeat(2,minmax(0,1fr))}
-        .grid.g3{grid-template-columns:repeat(3,minmax(0,1fr))}
-        @media(max-width:900px){.grid.g3{grid-template-columns:1fr}.row{flex-direction:column}}
-        .flex{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
-        .right{margin-left:auto}
-        .q{padding:16px;border:1px solid #223046;border-radius:14px;margin:8px 0;background:#0b1220}
-        .choice{padding:10px;border:1px solid #263246;border-radius:12px;margin:8px 0;cursor:pointer; transition: all 0.2s;}
-        .choice.correct{border-color:#14532d;background:#062014; color: var(--good);}
-        .choice.wrong{border-color:#7f1d1d;background:#1a0b0b; color: var(--bad);}
-        .choice.selected{border-color: var(--accent); background: #1c2e4a;}
-        .hide{display:none}
-        .rationale{border-left:3px solid #233045;margin-top:6px;padding-left:10px;color:#bcd; font-size: 14px;}
-        .progress{height:10px;background:#0b1220;border:1px solid #233045;border-radius:999px;overflow:hidden}
-        .bar{height:100%;background:linear-gradient(90deg,#22d3ee,#3b82f6); transition: width 0.3s ease-in-out;}
-        .small{font-size:12px}
-        .input{width:100%;background:#0b1220;border:1px solid #233045;border-radius:10px;padding:10px;color:var(--text)}
-        .help{font-size:12px;color:#9fb0c5; min-height: 16px;}
-        .pillbar{display:flex;gap:8px;flex-wrap:wrap}
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PRC-Aligned SWLE Exam Builder (All Subjects)</title>
+  <style>
+    :root{
+      --bg:#0f172a;--card:#111827;--muted:#1f2937;--text:#e5e7eb;--accent:#22d3ee;--good:#22c55e;--bad:#ef4444;--warn:#f59e0b;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;background:var(--bg);color:var(--text)}
+    .wrap{max-width:1100px;margin:40px auto;padding:0 16px}
+    .row{display:flex;gap:16px;flex-wrap:wrap}
+    .card{background:linear-gradient(180deg,#111827, #0b1220);border:1px solid #1f2937;border-radius:18px;padding:16px;box-shadow:0 10px 25px rgba(0,0,0,.25)}
+    .card h2,.card h3{margin:0 0 12px}
+    .pill{display:inline-block;padding:4px 10px;border-radius:999px;background:#0b1220;border:1px solid #243141;color:#9fb0c5;font-size:12px}
+    button,select,input[type="file"]{background:#0b1220;color:var(--text);border:1px solid #233045;border-radius:12px;padding:10px 14px;cursor:pointer; transition: border-color 0.2s;}
+    button:hover, select:hover, input[type="file"]:hover {border-color:#3b82f6}
+    .primary{background:linear-gradient(180deg,#0ea5e9,#22d3ee);color:#001018;border:none}
+    .primary:hover{filter:brightness(1.1)}
+    .danger{background:#1a0b0b;color:#ffd8d8;border-color:#7f1d1d}
+    .success{background:#0b1a14;color:#d1fae5;border-color:#064e3b}
+    .warn{background:#1a140b;color:#ffedd5;border-color:#7c2d12}
+    .grid{display:grid;gap:16px}
+    .grid.g2{grid-template-columns:repeat(2,minmax(0,1fr))}
+    .grid.g3{grid-template-columns:repeat(3,minmax(0,1fr))}
+    @media(max-width:900px){.grid.g3{grid-template-columns:1fr}.row{flex-direction:column}}
+    .flex{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+    .right{margin-left:auto}
+    .q{padding:16px;border:1px solid #223046;border-radius:14px;margin:8px 0;background:#0b1220}
+    .choice{padding:10px;border:1px solid #263246;border-radius:12px;margin:8px 0;cursor:pointer; transition: all 0.2s;}
+    .choice.correct{border-color:#14532d;background:#062014; color: var(--good);}
+    .choice.wrong{border-color:#7f1d1d;background:#1a0b0b; color: var(--bad);}
+    .choice.selected{border-color: var(--accent); background: #1c2e4a;}
+    .hide{display:none}
+    .rationale{border-left:3px solid #233045;margin-top:6px;padding-left:10px;color:#bcd; font-size: 14px;}
+    .progress{height:10px;background:#0b1220;border:1px solid #233045;border-radius:999px;overflow:hidden}
+    .bar{height:100%;background:linear-gradient(90deg,#22d3ee,#3b82f6); transition: width 0.3s ease-in-out;}
+    .small{font-size:12px}
+    .input{width:100%;background:#0b1220;border:1px solid #233045;border-radius:10px;padding:10px;color:var(--text)}
+    .help{font-size:12px;color:#9fb0c5; min-height: 16px;}
+    .pillbar{display:flex;gap:8px;flex-wrap:wrap}
+  </style>
 </head>
 <body>
-    <div class="wrap">
-        <div class="row">
-            <div class="card" style="flex:1 1 460px">
-                <h2>PRC-Aligned SWLE Exam Builder</h2>
-                <div class="pillbar">
-                    <span class="pill">Subjects: HBSE, SWPPS, Practice I-III</span>
-                    <span class="pill">Difficulty split: 30% E • 40% M • 30% D</span>
-                    <span class="pill">Local Data Bank via <b>localStorage</b></span>
-                </div>
-                <p class="muted">Build 100-item exams per subject aligned to the PRC Table of Specifications. Import your JSON files to populate the question bank and start practicing.</p>
-                <div class="grid g3">
-                    <div class="card">
-                        <h3>Build Exam</h3>
-                        <label>Subject
-                            <select id="subjectSelect" class="input">
-                                <option>HBSE</option>
-                                <option>SWPPS</option>
-                                <option>Practice I</option>
-                                <option>Practice II</option>
-                                <option>Practice III</option>
-                            </select>
-                        </label>
-                        <label>Target items <input id="targetCount" class="input" type="number" value="100" min="10" max="200"/></label>
-                        <div class="flex" style="margin-top:10px">
-                            <button class="primary" id="btnBuild">Build Exam</button>
-                        </div>
-                        <div id="buildMsg" class="help" style="margin-top:8px"></div>
-                    </div>
-                    <div class="card">
-                        <h3>Bank: Import / Export</h3>
-                        <div>
-                            <input type="file" id="importFile" accept="application/json"/>
-                        </div>
-                        <div class="flex" style="margin-top:10px">
-                            <button id="btnImport">Import</button>
-                            <button id="btnExport" class="right">Export All</button>
-                        </div>
-                        <div id="importMsg" class="help" style="margin-top:8px"></div>
-                    </div>
-                    <div class="card">
-                        <h3>Data Bank Status</h3>
-                        <div id="bankStatus" class="help">No data loaded. Import a file to begin.</div>
-                    </div>
-                </div>
-            </div>
+  <div class="wrap">
+    <div class="row">
+      <div class="card" style="flex:1 1 460px">
+        <h2>PRC-Aligned SWLE Exam Builder</h2>
+        <div class="pillbar">
+          <span class="pill">Subjects: HBSE, SWPPS, Practice I-III</span>
+          <span class="pill">Difficulty split: 30% E • 40% M • 30% D</span>
+          <span class="pill">Local Data Bank via <b>localStorage</b></span>
         </div>
-
-        <div class="card" id="examPanel" style="margin-top:16px" hidden>
-            <div class="flex">
-                <h3 style="margin:0" id="examTitle">Exam Mode</h3>
-                <div class="right pillbar">
-                    <span class="pill" id="metaCount">Question 1/100</span>
-                </div>
+        <p class="muted">Build 100-item exams per subject aligned to the PRC Table of Specifications. Import your JSON files to populate the question bank and start practicing.</p>
+        <div class="grid g3">
+          <div class="card">
+            <h3>Build Exam</h3>
+            <label>Subject
+              <select id="subjectSelect" class="input">
+                <option>HBSE</option>
+                <option>SWPPS</option>
+                <option>Practice I</option>
+                <option>Practice II</option>
+                <option>Practice III</option>
+              </select>
+            </label>
+            <label>Target items <input id="targetCount" class="input" type="number" value="100" min="10" max="200"/></label>
+            <div class="flex" style="margin-top:10px">
+              <button class="primary" id="btnBuild">Build Exam</button>
             </div>
-            <div id="examContainer" style="margin-top:12px">
-                </div>
-            <div class="flex" style="margin-top:12px">
-                <button id="btnNext" class="primary" disabled>Next</button>
-                <button id="btnResetExam" class="danger right">Reset Exam</button>
+            <div id="buildMsg" class="help" style="margin-top:8px"></div>
+          </div>
+          <div class="card">
+            <h3>Bank: Import / Export</h3>
+            <div>
+              <input type="file" id="importFile" accept="application/json"/>
             </div>
+            <div class="flex" style="margin-top:10px">
+              <button id="btnImport">Import</button>
+            </div>
+             <div id="importMsg" class="help" style="margin-top:8px"></div>
+          </div>
+          <div class="card">
+            <h3>Data Bank Status</h3>
+            <div id="bankStatus" class="help">No data loaded. Import a file to begin.</div>
+          </div>
         </div>
-        
-        <div class="card" id="resultsPanel" style="margin-top:16px" hidden>
-            <div class="flex">
-                <h3 style="margin:0">Exam Results</h3>
-                <div class="right pillbar">
-                    <span class="pill" id="resultsScore">Score: 0%</span>
-                </div>
-            </div>
-            <div class="progress" style="margin:12px 0 6px"><div class="bar" id="resultsBar" style="width:0%"></div></div>
-            <div id="resultsList">
-                </div>
-            <div class="flex" style="margin-top:12px">
-                <button id="btnResetResults" class="danger right">Reset Exam</button>
-            </div>
-        </div>
+      </div>
     </div>
 
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            /***** STATE AND DOM ELEMENTS *****/
-            let currentExamQuestions = [];
-            let userAnswers = {}; // Store user answers { questionId: answerIndex }
-            let currentQuestionIndex = 0;
+    <!-- Exam Panel -->
+    <div class="card" id="examPanel" style="margin-top:16px" hidden>
+      <div class="flex">
+        <h3 style="margin:0">Exam Mode</h3>
+        <div class="right pillbar">
+          <span class="pill" id="metaCount">Answered: 0/0</span>
+          <span class="pill" id="metaScore">Score: 0%</span>
+          <label class="pill small"><input type="checkbox" id="showRationale" style="margin-right:6px">Show rationales after answering</label>
+        </div>
+      </div>
+      <div class="progress" style="margin:12px 0 6px"><div class="bar" id="bar" style="width:0%"></div></div>
+      <div id="examList"></div>
+      <div class="flex" style="margin-top:12px">
+        <button id="btnAnswerKey">Show Answer Key</button>
+        <button id="btnResetExam" class="danger">Reset Exam</button>
+      </div>
+      <div id="answerKey" class="q hide"></div>
+    </div>
+  </div>
 
-            const subjectSelect = document.getElementById('subjectSelect');
-            const targetCount = document.getElementById('targetCount');
-            const btnBuild = document.getElementById('btnBuild');
-            const buildMsg = document.getElementById('buildMsg');
-            
-            const importFile = document.getElementById('importFile');
-            const btnImport = document.getElementById('btnImport');
-            const btnExport = document.getElementById('btnExport');
-            const importMsg = document.getElementById('importMsg');
-            const bankStatus = document.getElementById('bankStatus');
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      /***** STATE AND DOM ELEMENTS *****/
+      let currentExamQuestions = [];
+      let userAnswers = {}; // Store user answers { questionId: answerIndex }
 
-            const examPanel = document.getElementById('examPanel');
-            const examContainer = document.getElementById('examContainer');
-            const metaCount = document.getElementById('metaCount');
-            const btnNext = document.getElementById('btnNext');
-            const btnResetExam = document.getElementById('btnResetExam');
-            const examTitle = document.getElementById('examTitle');
-            
-            const resultsPanel = document.getElementById('resultsPanel');
-            const resultsScore = document.getElementById('resultsScore');
-            const resultsBar = document.getElementById('resultsBar');
-            const resultsList = document.getElementById('resultsList');
-            const btnResetResults = document.getElementById('btnResetResults');
+      const subjectSelect = document.getElementById('subjectSelect');
+      const targetCount = document.getElementById('targetCount');
+      const btnBuild = document.getElementById('btnBuild');
+      const buildMsg = document.getElementById('buildMsg');
+      
+      const importFile = document.getElementById('importFile');
+      const btnImport = document.getElementById('btnImport');
+      const importMsg = document.getElementById('importMsg');
+      const bankStatus = document.getElementById('bankStatus');
 
-            /***** SUBJECT ALLOCATION MATRICES (PRC TOS) *****/
-            const ALLOCATIONS = {
-                HBSE: {
-                    difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
-                    topics:[ { key:"A1", topic:"Philippine Social Realities & Social Work Concepts/Tools", count:17 }, { key:"A2", topic:"Anatomy of Social Problems & Theories", count:3 }, { key:"B", topic:"Filipino Personality & Social Work", count:20 }, { key:"C", topic:"Social Work & Social Deviation", count:20 }, { key:"D", topic:"Social Environment: Family/Group/Community/Org", count:20 }, { key:"E", topic:"Social Change & Development Perspectives", count:20 }, ]
-                },
-                SWPPS: {
-                    difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
-                    topics:[ { key:"A", topic:"Philippine Social Welfare & Development: History, Philosophy, Values", count:20 }, { key:"B", topic:"Social Welfare Policies, Laws, and Programs", count:30 }, { key:"C", topic:"Fields of Social Work & Delivery Systems", count:30 }, { key:"D", topic:"International and Regional Developments", count:20 } ]
-                },
-                "Practice I": {
-                    difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
-                    topics:[ { key:"A", topic:"Social Work Practice with Individuals (Casework)", count:40 }, { key:"B", topic:"Theories, Methods, and Approaches in Casework", count:30 }, { key:"C", topic:"Practice Skills and Techniques", count:30 } ]
-                },
-                "Practice II": {
-                    difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
-                    topics:[ { key:"A", topic:"Social Work Practice with Groups", count:40 }, { key:"B", topic:"Theories, Methods, and Approaches in Group Work", count:30 }, { key:"C", topic:"Practice Skills and Techniques in Group Work", count:30 } ]
-                },
-                "Practice III": {
-                    difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
-                    topics:[ { key:"A", topic:"Social Work Practice with Communities & Organizations", count:40 }, { key:"B", topic:"Theories, Methods, and Approaches in Community/Org Practice", count:30 }, { key:"C", topic:"Practice Skills and Techniques in Community/Org Practice", count:30 } ]
-                }
-            };
+      const examPanel = document.getElementById('examPanel');
+      const examList = document.getElementById('examList');
+      const metaCount = document.getElementById('metaCount');
+      const metaScore = document.getElementById('metaScore');
+      const bar = document.getElementById('bar');
+      const showRationale = document.getElementById('showRationale');
+      const btnAnswerKey = document.getElementById('btnAnswerKey');
+      const btnResetExam = document.getElementById('btnResetExam');
+      const answerKey = document.getElementById('answerKey');
 
-            /***** UTILITY FUNCTIONS *****/
-            const shuffle = (array) => {
-                for (let i = array.length - 1; i > 0; i--) {
-                    const j = Math.floor(Math.random() * (i + 1));
-                    [array[i], array[j]] = [array[j], array[i]];
-                }
-                return array;
-            };
+      /***** SUBJECT ALLOCATION MATRICES (PRC TOS) *****/
+      const ALLOCATIONS = {
+        HBSE: {
+          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
+          topics:[ { key:"A1", topic:"Philippine Social Realities & Social Work Concepts/Tools", count:17 }, { key:"A2", topic:"Anatomy of Social Problems & Theories", count:3 }, { key:"B", topic:"Filipino Personality & Social Work", count:20 }, { key:"C", topic:"Social Work & Social Deviation", count:20 }, { key:"D", topic:"Social Environment: Family/Group/Community/Org", count:20 }, { key:"E", topic:"Social Change & Development Perspectives", count:20 }, ]
+        },
+        SWPPS: {
+          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
+          topics:[ { key:"A", topic:"Philippine Social Welfare & Development: History, Philosophy, Values", count:20 }, { key:"B", topic:"Social Welfare Policies, Laws, and Programs", count:30 }, { key:"C", topic:"Fields of Social Work & Delivery Systems", count:30 }, { key:"D", topic:"International and Regional Developments", count:20 } ]
+        },
+        "Practice I": {
+          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
+          topics:[ { key:"A", topic:"Social Work Practice with Individuals (Casework)", count:40 }, { key:"B", topic:"Theories, Methods, and Approaches in Casework", count:30 }, { key:"C", topic:"Practice Skills and Techniques", count:30 } ]
+        },
+        "Practice II": {
+          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
+          topics:[ { key:"A", topic:"Social Work Practice with Groups", count:40 }, { key:"B", topic:"Theories, Methods, and Approaches in Group Work", count:30 }, { key:"C", topic:"Practice Skills and Techniques in Group Work", count:30 } ]
+        },
+        "Practice III": {
+          difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
+          topics:[ { key:"A", topic:"Social Work Practice with Communities & Organizations", count:40 }, { key:"B", topic:"Theories, Methods, and Approaches in Community/Org Practice", count:30 }, { key:"C", topic:"Practice Skills and Techniques in Community/Org Practice", count:30 } ]
+        }
+      };
 
-            const download = (filename, text) => {
-                const element = document.createElement('a');
-                element.setAttribute('href', 'data:text/json;charset=utf-8,' + encodeURIComponent(text));
-                element.setAttribute('download', filename);
-                element.style.display = 'none';
-                document.body.appendChild(element);
-                element.click();
-                document.body.removeChild(element);
-            }
+      /***** UTILITY FUNCTIONS *****/
+      // Function to shuffle an array
+      const shuffle = (array) => {
+        for (let i = array.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+      };
 
-            const updateBankStatus = () => {
-                let statusHTML = '';
-                Object.keys(ALLOCATIONS).forEach(subject => {
-                    const questions = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
-                    if (questions.length > 0) {
-                        statusHTML += `<div><b>${subject}:</b> ${questions.length} items</div>`;
-                    }
-                });
-                bankStatus.innerHTML = statusHTML || 'No data loaded. Import a file to begin.';
-            };
-
-            /***** IMPORT & EXPORT LOGIC *****/
-            btnImport.addEventListener('click', () => {
-                if (importFile.files.length === 0) {
-                    importMsg.textContent = 'Please select a file to import.';
-                    importMsg.style.color = 'var(--warn)';
-                    return;
-                }
-
-                const file = importFile.files[0];
-                const reader = new FileReader();
-
-                reader.onload = (event) => {
-                    try {
-                        const data = JSON.parse(event.target.result);
-                        if (!Array.isArray(data) || data.length === 0) {
-                            throw new Error('JSON must be a non-empty array.');
-                        }
-                        const subject = data[0].subject;
-                        if (!subject || !ALLOCATIONS[subject]) {
-                            throw new Error('JSON items must have a valid "subject" property.');
-                        }
-                        
-                        const existingData = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
-                        const combinedData = [...existingData, ...data];
-                        const uniqueData = Array.from(new Map(combinedData.map(item => [item.id, item])).values());
-
-                        localStorage.setItem(`questions_${subject}`, JSON.stringify(uniqueData));
-                        importMsg.textContent = `Imported and merged ${data.length} items for ${subject}. Total: ${uniqueData.length}.`;
-                        importMsg.style.color = 'var(--good)';
-                        updateBankStatus();
-                        importFile.value = '';
-                    } catch (e) {
-                        importMsg.textContent = `Error: ${e.message}`;
-                        importMsg.style.color = 'var(--bad)';
-                    }
-                };
-                reader.readAsText(file);
-            });
-
-            btnExport.addEventListener('click', () => {
-                let allData = [];
-                Object.keys(ALLOCATIONS).forEach(subject => {
-                    const questions = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
-                    allData = allData.concat(questions);
-                });
-                if (allData.length === 0) {
-                    importMsg.textContent = "No data to export.";
-                    importMsg.style.color = 'var(--warn)';
-                    return;
-                }
-                const filename = `SWLE_Question_Bank_${new Date().toISOString().slice(0,10)}.json`;
-                download(filename, JSON.stringify(allData, null, 2));
-                importMsg.textContent = `Exported ${allData.length} questions to ${filename}.`;
-                importMsg.style.color = 'var(--good)';
-            });
-
-            /***** EXAM BUILDING LOGIC - REVISED *****/
-            btnBuild.addEventListener('click', () => {
-                const subject = subjectSelect.value;
-                const totalItems = parseInt(targetCount.value);
-                const bank = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
-                
-                if (bank.length === 0) {
-                    buildMsg.textContent = `Question bank for ${subject} is empty. Please import a file.`;
-                    buildMsg.style.color = 'var(--warn)';
-                    return;
-                }
-                
-                const allocation = ALLOCATIONS[subject];
-                let selectedQuestions = [];
-                let questionsByTopic = {};
-                
-                bank.forEach(q => {
-                    if (!questionsByTopic[q.topicKey]) {
-                        questionsByTopic[q.topicKey] = [];
-                    }
-                    questionsByTopic[q.topicKey].push(q);
-                });
-                
-                let hasSufficientQuestions = true;
-                for (const topicAlloc of allocation.topics) {
-                    const topicKey = topicAlloc.key;
-                    const requiredTopicCount = Math.round(totalItems * (topicAlloc.count / 100));
-                    const topicQuestions = questionsByTopic[topicKey] || [];
-                    
-                    const easyQuestions = shuffle(topicQuestions.filter(q => q.difficulty === 'Easy'));
-                    const moderateQuestions = shuffle(topicQuestions.filter(q => q.difficulty === 'Moderate'));
-                    const difficultQuestions = shuffle(topicQuestions.filter(q => q.difficulty === 'Difficult'));
-                    
-                    const requiredEasy = Math.round(requiredTopicCount * allocation.difficultySplit.Easy);
-                    const requiredMod = Math.round(requiredTopicCount * allocation.difficultySplit.Moderate);
-                    const requiredDiff = requiredTopicCount - requiredEasy - requiredMod;
-                    
-                    // Check if there are enough questions for each topic/difficulty combo
-                    if (easyQuestions.length < requiredEasy || moderateQuestions.length < requiredMod || difficultQuestions.length < requiredDiff) {
-                        hasSufficientQuestions = false;
-                        break; // Exit the loop if a single topic is insufficient
-                    }
-
-                    selectedQuestions.push(...easyQuestions.slice(0, requiredEasy));
-                    selectedQuestions.push(...moderateQuestions.slice(0, requiredMod));
-                    selectedQuestions.push(...difficultQuestions.slice(0, requiredDiff));
-                }
-
-                if (!hasSufficientQuestions) {
-                    buildMsg.textContent = `Not enough questions in the bank to meet the ${totalItems} target with the required topic and difficulty distribution. Please import more questions for this subject.`;
-                    buildMsg.style.color = 'var(--bad)';
-                    examPanel.hidden = true;
-                    return;
-                }
-
-                // If we reach here, we have enough questions to build the perfect exam
-                selectedQuestions = selectedQuestions.slice(0, totalItems);
-                buildMsg.textContent = `Successfully built exam with ${selectedQuestions.length} items.`;
-                buildMsg.style.color = 'var(--good)';
-                
-                currentExamQuestions = shuffle(selectedQuestions);
-                userAnswers = {};
-                currentQuestionIndex = 0;
-                resultsPanel.hidden = true;
-                renderSingleQuestion();
-            });
-
-            /***** SINGLE-QUESTION EXAM LOGIC *****/
-            const renderSingleQuestion = () => {
-                examPanel.hidden = false;
-                const q = currentExamQuestions[currentQuestionIndex];
-                
-                if (!q) {
-                    finishExam();
-                    return;
-                }
-                
-                examContainer.innerHTML = ''; // Clear previous question
-                
-                const questionEl = document.createElement('div');
-                questionEl.className = 'q';
-                questionEl.dataset.id = q.id;
-
-                const shuffledChoices = shuffle([...q.choices.map((c, i) => ({ text: c, originalIndex: i }))]);
-                
-                const choicesHTML = shuffledChoices.map(choice => `
-                    <div class="choice" data-index="${choice.originalIndex}">
-                        ${choice.text}
-                    </div>
-                `).join('');
-
-                const topicLabel = ALLOCATIONS[q.subject].topics.find(t => t.key === q.topicKey)?.topic || 'Unknown Topic';
-                
-                questionEl.innerHTML = `
-                    <div class="flex small" style="margin-bottom:8px">
-                        <span class="pill">${topicLabel}</span>
-                        <span class="pill right">${q.difficulty}</span>
-                    </div>
-                    <div><b>${currentQuestionIndex + 1}.</b> ${q.stem}</div>
-                    <div class="choices">${choicesHTML}</div>
-                `;
-                examContainer.appendChild(questionEl);
-                
-                metaCount.textContent = `Question ${currentQuestionIndex + 1}/${currentExamQuestions.length}`;
-                btnNext.disabled = true; // Disable until a choice is made
-                btnNext.textContent = (currentQuestionIndex === currentExamQuestions.length - 1) ? "Finish Exam" : "Next";
-            };
-
-            examContainer.addEventListener('click', (e) => {
-                const target = e.target.closest('.choice');
-                if (target) {
-                    const questionEl = target.closest('.q');
-                    const questionId = questionEl.dataset.id;
-                    
-                    if (userAnswers[questionId] === undefined) {
-                        const selectedIndex = parseInt(target.dataset.index);
-                        userAnswers[questionId] = selectedIndex;
-                        
-                        // Highlight selected choice without revealing correctness
-                        questionEl.querySelectorAll('.choice').forEach(choice => choice.classList.remove('selected'));
-                        target.classList.add('selected');
-                        
-                        btnNext.disabled = false;
-                    }
-                }
-            });
-            
-            btnNext.addEventListener('click', () => {
-                currentQuestionIndex++;
-                renderSingleQuestion();
-            });
-            
-            const finishExam = () => {
-                examPanel.hidden = true;
-                resultsPanel.hidden = false;
-                
-                let correctCount = 0;
-                resultsList.innerHTML = '';
-                
-                currentExamQuestions.forEach((q, index) => {
-                    const userSelected = userAnswers[q.id];
-                    const isCorrect = userSelected === q.answerIndex;
-                    if (isCorrect) correctCount++;
-                    
-                    const resultEl = document.createElement('div');
-                    resultEl.className = 'q';
-                    
-                    const topicLabel = ALLOCATIONS[q.subject].topics.find(t => t.key === q.topicKey)?.topic || 'Unknown Topic';
-                    
-                    const choicesHTML = shuffle([...q.choices.map((c, i) => ({ text: c, originalIndex: i }))]).map(choice => {
-                        const isCorrectAnswer = choice.originalIndex === q.answerIndex;
-                        const isUserAnswer = choice.originalIndex === userSelected;
-                        
-                        let className = '';
-                        if (isUserAnswer && !isCorrectAnswer) className = 'wrong';
-                        if (isCorrectAnswer) className = 'correct';
-                        if (isUserAnswer && isCorrectAnswer) className = 'correct';
-                        
-                        return `<div class="choice ${className}">${choice.text}</div>`;
-                    }).join('');
-                    
-                    resultEl.innerHTML = `
-                        <div class="flex small" style="margin-bottom:8px">
-                            <span class="pill">${topicLabel}</span>
-                            <span class="pill right">${q.difficulty}</span>
-                        </div>
-                        <div><b>${index + 1}.</b> ${q.stem}</div>
-                        <div class="choices">${choicesHTML}</div>
-                        <div class="rationale"><b>Rationale:</b> ${q.rationale}</div>
-                    `;
-                    resultsList.appendChild(resultEl);
-                });
-                
-                const score = (correctCount / currentExamQuestions.length) * 100;
-                resultsScore.textContent = `Score: ${score.toFixed(2)}%`;
-                resultsBar.style.width = `${score}%`;
-            };
-
-            /***** RESET LOGIC *****/
-            btnResetExam.addEventListener('click', () => {
-                examPanel.hidden = true;
-                userAnswers = {};
-                currentQuestionIndex = 0;
-            });
-            
-            btnResetResults.addEventListener('click', () => {
-                resultsPanel.hidden = true;
-                userAnswers = {};
-                currentQuestionIndex = 0;
-            });
-
-            /***** INITIALIZATION *****/
-            updateBankStatus();
+      // Function to update the display of the question bank status
+      const updateBankStatus = () => {
+        let statusHTML = '';
+        Object.keys(ALLOCATIONS).forEach(subject => {
+          const questions = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
+          if (questions.length > 0) {
+            statusHTML += `<div><b>${subject}:</b> ${questions.length} items</div>`;
+          }
         });
-    </script>
+        bankStatus.innerHTML = statusHTML || 'No data loaded. Import a file to begin.';
+      };
+
+      /***** IMPORT LOGIC *****/
+      btnImport.addEventListener('click', () => {
+        if (importFile.files.length === 0) {
+          importMsg.textContent = 'Please select a file to import.';
+          importMsg.style.color = 'var(--warn)';
+          return;
+        }
+
+        const file = importFile.files[0];
+        const reader = new FileReader();
+
+        reader.onload = (event) => {
+          try {
+            const data = JSON.parse(event.target.result);
+            if (!Array.isArray(data) || data.length === 0) {
+              throw new Error('JSON must be a non-empty array.');
+            }
+            const subject = data[0].subject;
+            if (!subject || !ALLOCATIONS[subject]) {
+              throw new Error('JSON items must have a valid "subject" property.');
+            }
+            
+            // Merge with existing data if any
+            const existingData = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
+            const combinedData = [...existingData, ...data];
+            // Remove duplicates by ID
+            const uniqueData = Array.from(new Map(combinedData.map(item => [item.id, item])).values());
+
+            localStorage.setItem(`questions_${subject}`, JSON.stringify(uniqueData));
+            importMsg.textContent = `Imported and merged ${data.length} items for ${subject}. Total: ${uniqueData.length}.`;
+            importMsg.style.color = 'var(--good)';
+            updateBankStatus();
+            importFile.value = ''; // Reset file input
+          } catch (e) {
+            importMsg.textContent = `Error: ${e.message}`;
+            importMsg.style.color = 'var(--bad)';
+          }
+        };
+        reader.readAsText(file);
+      });
+
+      /***** EXAM BUILDING LOGIC *****/
+      btnBuild.addEventListener('click', () => {
+        const subject = subjectSelect.value;
+        const totalItems = parseInt(targetCount.value);
+        const bank = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
+
+        if (bank.length === 0) {
+          buildMsg.textContent = `Question bank for ${subject} is empty. Please import a file.`;
+          buildMsg.style.color = 'var(--warn)';
+          return;
+        }
+
+        const allocation = ALLOCATIONS[subject];
+        let selectedQuestions = [];
+        let tempBank = shuffle([...bank]); // Use a shuffled copy
+
+        // Distribute questions based on difficulty
+        const requiredEasy = Math.round(totalItems * allocation.difficultySplit.Easy);
+        const requiredMod = Math.round(totalItems * allocation.difficultySplit.Moderate);
+        const requiredDiff = totalItems - requiredEasy - requiredMod;
+
+        const easyQs = tempBank.filter(q => q.difficulty === 'Easy');
+        const modQs = tempBank.filter(q => q.difficulty === 'Moderate');
+        const diffQs = tempBank.filter(q => q.difficulty === 'Difficult');
+
+        selectedQuestions.push(...easyQs.slice(0, requiredEasy));
+        selectedQuestions.push(...modQs.slice(0, requiredMod));
+        selectedQuestions.push(...diffQs.slice(0, requiredDiff));
+
+        if (selectedQuestions.length < totalItems) {
+            buildMsg.textContent = `Warning: Not enough questions in the bank to meet the ${totalItems} target. Built with ${selectedQuestions.length}.`;
+            buildMsg.style.color = 'var(--warn)';
+        } else {
+            buildMsg.textContent = `Successfully built exam with ${selectedQuestions.length} items.`;
+            buildMsg.style.color = 'var(--good)';
+        }
+
+        currentExamQuestions = shuffle(selectedQuestions);
+        userAnswers = {};
+        renderExam();
+      });
+
+      /***** EXAM RENDERING AND INTERACTION *****/
+      const renderExam = () => {
+        examPanel.hidden = false;
+        examList.innerHTML = '';
+        currentExamQuestions.forEach((q, index) => {
+          const questionEl = document.createElement('div');
+          questionEl.className = 'q';
+          questionEl.dataset.id = q.id;
+
+          const choicesHTML = shuffle([...q.choices]).map((choice, choiceIndex) => `
+            <div class="choice" data-index="${q.choices.indexOf(choice)}">
+              ${choice}
+            </div>
+          `).join('');
+
+          questionEl.innerHTML = `
+            <div><b>${index + 1}.</b> ${q.stem}</div>
+            <div class="choices">${choicesHTML}</div>
+            <div class="rationale hide">${q.rationale}</div>
+          `;
+          examList.appendChild(questionEl);
+        });
+        updateStats();
+        answerKey.classList.add('hide');
+      };
+
+      examList.addEventListener('click', (e) => {
+        if (e.target.classList.contains('choice')) {
+          const questionEl = e.target.closest('.q');
+          const questionId = questionEl.dataset.id;
+          const selectedIndex = parseInt(e.target.dataset.index);
+
+          // Prevent changing answer once selected
+          if (userAnswers[questionId] !== undefined) return;
+
+          userAnswers[questionId] = selectedIndex;
+          
+          const question = currentExamQuestions.find(q => q.id === questionId);
+          const isCorrect = selectedIndex === question.answerIndex;
+
+          // Visual feedback
+          e.target.classList.add(isCorrect ? 'correct' : 'wrong');
+          if (!isCorrect) {
+            // Highlight the correct answer
+            questionEl.querySelector(`.choice[data-index="${question.answerIndex}"]`).classList.add('correct');
+          }
+
+          if (showRationale.checked) {
+            questionEl.querySelector('.rationale').classList.remove('hide');
+          }
+          
+          updateStats();
+        }
+      });
+
+      const updateStats = () => {
+        const answeredCount = Object.keys(userAnswers).length;
+        const totalCount = currentExamQuestions.length;
+        let correctCount = 0;
+        
+        for (const qId in userAnswers) {
+            const question = currentExamQuestions.find(q => q.id === qId);
+            if (question && userAnswers[qId] === question.answerIndex) {
+                correctCount++;
+            }
+        }
+
+        const score = totalCount > 0 ? Math.round((correctCount / totalCount) * 100) : 0;
+        const answeredScore = answeredCount > 0 ? Math.round((correctCount / answeredCount) * 100) : 0;
+
+        metaCount.textContent = `Answered: ${answeredCount}/${totalCount}`;
+        metaScore.textContent = `Score: ${answeredScore}%`;
+        bar.style.width = `${(answeredCount / totalCount) * 100}%`;
+      };
+
+      /***** EXAM CONTROLS *****/
+      btnResetExam.addEventListener('click', () => {
+        userAnswers = {};I 
+        renderExam(); // Re-render to clear selections
+      });
+
+      btnAnswerKey.addEventListener('click', () => {
+        answerKey.classList.toggle('hide');
+        answerKey.innerHTML = '<h3>Answer Key</h3>' + currentExamQuestions.map((q, i) => 
+          `<div><b>${i+1}.</b> ${q.choices[q.answerIndex]}</div>`
+        ).join('');
+      });
+
+      /***** INITIALIZATION *****/
+      updateBankStatus();
+    });
+  </script>
 </body>
 </html>
