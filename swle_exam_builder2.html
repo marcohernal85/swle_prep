@@ -93,20 +93,32 @@
 
         <div class="card" id="examPanel" style="margin-top:16px" hidden>
             <div class="flex">
-                <h3 style="margin:0">Exam Mode</h3>
+                <h3 style="margin:0" id="examTitle">Exam Mode</h3>
                 <div class="right pillbar">
-                    <span class="pill" id="metaCount">Answered: 0/0</span>
-                    <span class="pill" id="metaScore">Score: 0%</span>
-                    <label class="pill small"><input type="checkbox" id="showRationale" style="margin-right:6px">Show rationales after answering</label>
+                    <span class="pill" id="metaCount">Question 1/100</span>
                 </div>
             </div>
-            <div class="progress" style="margin:12px 0 6px"><div class="bar" id="bar" style="width:0%"></div></div>
-            <div id="examList"></div>
+            <div id="examContainer" style="margin-top:12px">
+                </div>
             <div class="flex" style="margin-top:12px">
-                <button id="btnAnswerKey">Show Answer Key</button>
+                <button id="btnNext" class="primary" disabled>Next</button>
                 <button id="btnResetExam" class="danger right">Reset Exam</button>
             </div>
-            <div id="answerKey" class="q hide"></div>
+        </div>
+        
+        <div class="card" id="resultsPanel" style="margin-top:16px" hidden>
+            <div class="flex">
+                <h3 style="margin:0">Exam Results</h3>
+                <div class="right pillbar">
+                    <span class="pill" id="resultsScore">Score: 0%</span>
+                </div>
+            </div>
+            <div class="progress" style="margin:12px 0 6px"><div class="bar" id="resultsBar" style="width:0%"></div></div>
+            <div id="resultsList">
+                </div>
+            <div class="flex" style="margin-top:12px">
+                <button id="btnResetResults" class="danger right">Reset Exam</button>
+            </div>
         </div>
     </div>
 
@@ -115,6 +127,7 @@
             /***** STATE AND DOM ELEMENTS *****/
             let currentExamQuestions = [];
             let userAnswers = {}; // Store user answers { questionId: answerIndex }
+            let currentQuestionIndex = 0;
 
             const subjectSelect = document.getElementById('subjectSelect');
             const targetCount = document.getElementById('targetCount');
@@ -128,14 +141,17 @@
             const bankStatus = document.getElementById('bankStatus');
 
             const examPanel = document.getElementById('examPanel');
-            const examList = document.getElementById('examList');
+            const examContainer = document.getElementById('examContainer');
             const metaCount = document.getElementById('metaCount');
-            const metaScore = document.getElementById('metaScore');
-            const bar = document.getElementById('bar');
-            const showRationale = document.getElementById('showRationale');
-            const btnAnswerKey = document.getElementById('btnAnswerKey');
+            const btnNext = document.getElementById('btnNext');
             const btnResetExam = document.getElementById('btnResetExam');
-            const answerKey = document.getElementById('answerKey');
+            const examTitle = document.getElementById('examTitle');
+            
+            const resultsPanel = document.getElementById('resultsPanel');
+            const resultsScore = document.getElementById('resultsScore');
+            const resultsBar = document.getElementById('resultsBar');
+            const resultsList = document.getElementById('resultsList');
+            const btnResetResults = document.getElementById('btnResetResults');
 
             /***** SUBJECT ALLOCATION MATRICES (PRC TOS) *****/
             const ALLOCATIONS = {
@@ -162,7 +178,6 @@
             };
 
             /***** UTILITY FUNCTIONS *****/
-            // Function to shuffle an array
             const shuffle = (array) => {
                 for (let i = array.length - 1; i > 0; i--) {
                     const j = Math.floor(Math.random() * (i + 1));
@@ -171,7 +186,6 @@
                 return array;
             };
 
-            // Function to download data as a JSON file
             const download = (filename, text) => {
                 const element = document.createElement('a');
                 element.setAttribute('href', 'data:text/json;charset=utf-8,' + encodeURIComponent(text));
@@ -182,7 +196,6 @@
                 document.body.removeChild(element);
             }
 
-            // Function to update the display of the question bank status
             const updateBankStatus = () => {
                 let statusHTML = '';
                 Object.keys(ALLOCATIONS).forEach(subject => {
@@ -216,17 +229,15 @@
                             throw new Error('JSON items must have a valid "subject" property.');
                         }
                         
-                        // Merge with existing data if any
                         const existingData = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
                         const combinedData = [...existingData, ...data];
-                        // Remove duplicates by ID
                         const uniqueData = Array.from(new Map(combinedData.map(item => [item.id, item])).values());
 
                         localStorage.setItem(`questions_${subject}`, JSON.stringify(uniqueData));
                         importMsg.textContent = `Imported and merged ${data.length} items for ${subject}. Total: ${uniqueData.length}.`;
                         importMsg.style.color = 'var(--good)';
                         updateBankStatus();
-                        importFile.value = ''; // Reset file input
+                        importFile.value = '';
                     } catch (e) {
                         importMsg.textContent = `Error: ${e.message}`;
                         importMsg.style.color = 'var(--bad)';
@@ -268,7 +279,6 @@
                 let selectedQuestions = [];
                 let questionsByTopic = {};
                 
-                // Group all questions by their topic
                 bank.forEach(q => {
                     if (!questionsByTopic[q.topicKey]) {
                         questionsByTopic[q.topicKey] = [];
@@ -276,7 +286,6 @@
                     questionsByTopic[q.topicKey].push(q);
                 });
                 
-                // Distribute questions based on topic and difficulty
                 for (const topicAlloc of allocation.topics) {
                     const topicKey = topicAlloc.key;
                     const requiredTopicCount = Math.round(totalItems * (topicAlloc.count / 100));
@@ -295,7 +304,6 @@
                     selectedQuestions.push(...difficultQuestions.slice(0, requiredDiff));
                 }
                 
-                // If not enough questions, fill the rest with random questions from the bank
                 let builtCount = selectedQuestions.length;
                 if (builtCount < totalItems) {
                     const remainingQuestions = shuffle(bank.filter(q => !selectedQuestions.includes(q)));
@@ -303,7 +311,6 @@
                     buildMsg.textContent = `Warning: Not enough questions in bank to meet ${totalItems}. Built with ${selectedQuestions.length} and filled remaining randomly.`;
                     buildMsg.style.color = 'var(--warn)';
                 } else {
-                    // Trim if we went over
                     selectedQuestions = selectedQuestions.slice(0, totalItems);
                     buildMsg.textContent = `Successfully built exam with ${selectedQuestions.length} items.`;
                     buildMsg.style.color = 'var(--good)';
@@ -311,104 +318,133 @@
                 
                 currentExamQuestions = shuffle(selectedQuestions);
                 userAnswers = {};
-                renderExam();
+                currentQuestionIndex = 0;
+                resultsPanel.hidden = true;
+                renderSingleQuestion();
             });
 
-            /***** EXAM RENDERING AND INTERACTION *****/
-            const renderExam = () => {
+            /***** SINGLE-QUESTION EXAM LOGIC *****/
+            const renderSingleQuestion = () => {
                 examPanel.hidden = false;
-                examList.innerHTML = '';
-                currentExamQuestions.forEach((q, index) => {
-                    const questionEl = document.createElement('div');
-                    questionEl.className = 'q';
-                    questionEl.dataset.id = q.id;
+                const q = currentExamQuestions[currentQuestionIndex];
+                
+                if (!q) {
+                    finishExam();
+                    return;
+                }
+                
+                examContainer.innerHTML = ''; // Clear previous question
+                
+                const questionEl = document.createElement('div');
+                questionEl.className = 'q';
+                questionEl.dataset.id = q.id;
 
-                    // Create a shuffled copy of choices for rendering
-                    const shuffledChoices = shuffle([...q.choices.map((c, i) => ({ text: c, originalIndex: i }))]);
+                const shuffledChoices = shuffle([...q.choices.map((c, i) => ({ text: c, originalIndex: i }))]);
+                
+                const choicesHTML = shuffledChoices.map(choice => `
+                    <div class="choice" data-index="${choice.originalIndex}">
+                        ${choice.text}
+                    </div>
+                `).join('');
+
+                const topicLabel = ALLOCATIONS[q.subject].topics.find(t => t.key === q.topicKey)?.topic || 'Unknown Topic';
+                
+                questionEl.innerHTML = `
+                    <div class="flex small" style="margin-bottom:8px">
+                        <span class="pill">${topicLabel}</span>
+                        <span class="pill right">${q.difficulty}</span>
+                    </div>
+                    <div><b>${currentQuestionIndex + 1}.</b> ${q.stem}</div>
+                    <div class="choices">${choicesHTML}</div>
+                `;
+                examContainer.appendChild(questionEl);
+                
+                metaCount.textContent = `Question ${currentQuestionIndex + 1}/${currentExamQuestions.length}`;
+                btnNext.disabled = true; // Disable until a choice is made
+                btnNext.textContent = (currentQuestionIndex === currentExamQuestions.length - 1) ? "Finish Exam" : "Next";
+            };
+
+            examContainer.addEventListener('click', (e) => {
+                const target = e.target.closest('.choice');
+                if (target) {
+                    const questionEl = target.closest('.q');
+                    const questionId = questionEl.dataset.id;
                     
-                    const choicesHTML = shuffledChoices.map(choice => `
-                        <div class="choice" data-index="${choice.originalIndex}">
-                            ${choice.text}
-                        </div>
-                    `).join('');
-
+                    if (userAnswers[questionId] === undefined) {
+                        const selectedIndex = parseInt(target.dataset.index);
+                        userAnswers[questionId] = selectedIndex;
+                        
+                        // Highlight selected choice without revealing correctness
+                        questionEl.querySelectorAll('.choice').forEach(choice => choice.classList.remove('selected'));
+                        target.classList.add('selected');
+                        
+                        btnNext.disabled = false;
+                    }
+                }
+            });
+            
+            btnNext.addEventListener('click', () => {
+                currentQuestionIndex++;
+                renderSingleQuestion();
+            });
+            
+            const finishExam = () => {
+                examPanel.hidden = true;
+                resultsPanel.hidden = false;
+                
+                let correctCount = 0;
+                resultsList.innerHTML = '';
+                
+                currentExamQuestions.forEach((q, index) => {
+                    const userSelected = userAnswers[q.id];
+                    const isCorrect = userSelected === q.answerIndex;
+                    if (isCorrect) correctCount++;
+                    
+                    const resultEl = document.createElement('div');
+                    resultEl.className = 'q';
+                    
                     const topicLabel = ALLOCATIONS[q.subject].topics.find(t => t.key === q.topicKey)?.topic || 'Unknown Topic';
                     
-                    questionEl.innerHTML = `
+                    const choicesHTML = shuffle([...q.choices.map((c, i) => ({ text: c, originalIndex: i }))]).map(choice => {
+                        const isCorrectAnswer = choice.originalIndex === q.answerIndex;
+                        const isUserAnswer = choice.originalIndex === userSelected;
+                        
+                        let className = '';
+                        if (isUserAnswer && !isCorrectAnswer) className = 'wrong';
+                        if (isCorrectAnswer) className = 'correct';
+                        if (isUserAnswer && isCorrectAnswer) className = 'correct';
+                        
+                        return `<div class="choice ${className}">${choice.text}</div>`;
+                    }).join('');
+                    
+                    resultEl.innerHTML = `
                         <div class="flex small" style="margin-bottom:8px">
                             <span class="pill">${topicLabel}</span>
                             <span class="pill right">${q.difficulty}</span>
                         </div>
                         <div><b>${index + 1}.</b> ${q.stem}</div>
                         <div class="choices">${choicesHTML}</div>
-                        <div class="rationale hide"><b>Rationale:</b> ${q.rationale}</div>
+                        <div class="rationale"><b>Rationale:</b> ${q.rationale}</div>
                     `;
-                    examList.appendChild(questionEl);
+                    resultsList.appendChild(resultEl);
                 });
-                updateStats();
-                answerKey.classList.add('hide');
-            };
-
-            examList.addEventListener('click', (e) => {
-                if (e.target.classList.contains('choice')) {
-                    const questionEl = e.target.closest('.q');
-                    const questionId = questionEl.dataset.id;
-                    const selectedIndex = parseInt(e.target.dataset.index);
-
-                    // Prevent changing answer once selected
-                    if (userAnswers[questionId] !== undefined) return;
-
-                    userAnswers[questionId] = selectedIndex;
-                    
-                    const question = currentExamQuestions.find(q => q.id === questionId);
-                    const isCorrect = selectedIndex === question.answerIndex;
-
-                    // Visual feedback
-                    e.target.classList.add(isCorrect ? 'correct' : 'wrong');
-                    if (!isCorrect) {
-                        // Highlight the correct answer
-                        questionEl.querySelector(`.choice[data-index="${question.answerIndex}"]`).classList.add('correct');
-                    }
-
-                    if (showRationale.checked) {
-                        questionEl.querySelector('.rationale').classList.remove('hide');
-                    }
-                    
-                    updateStats();
-                }
-            });
-
-            const updateStats = () => {
-                const answeredCount = Object.keys(userAnswers).length;
-                const totalCount = currentExamQuestions.length;
-                let correctCount = 0;
                 
-                for (const qId in userAnswers) {
-                    const question = currentExamQuestions.find(q => q.id === qId);
-                    if (question && userAnswers[qId] === question.answerIndex) {
-                        correctCount++;
-                    }
-                }
-
-                const score = totalCount > 0 ? Math.round((correctCount / totalCount) * 100) : 0;
-                const answeredScore = answeredCount > 0 ? Math.round((correctCount / answeredCount) * 100) : 0;
-
-                metaCount.textContent = `Answered: ${answeredCount}/${totalCount}`;
-                metaScore.textContent = `Score: ${answeredScore}%`;
-                bar.style.width = `${(answeredCount / totalCount) * 100}%`;
+                const score = (correctCount / currentExamQuestions.length) * 100;
+                resultsScore.textContent = `Score: ${score.toFixed(2)}%`;
+                resultsBar.style.width = `${score}%`;
             };
 
-            /***** EXAM CONTROLS *****/
+            /***** RESET LOGIC *****/
             btnResetExam.addEventListener('click', () => {
+                examPanel.hidden = true;
                 userAnswers = {};
-                renderExam(); // Re-render to clear selections
+                currentQuestionIndex = 0;
             });
-
-            btnAnswerKey.addEventListener('click', () => {
-                answerKey.classList.toggle('hide');
-                answerKey.innerHTML = '<h3>Answer Key</h3>' + currentExamQuestions.map((q, i) =>
-                    `<div><b>${i+1}.</b> ${q.choices[q.answerIndex]}</div>`
-                ).join('');
+            
+            btnResetResults.addEventListener('click', () => {
+                resultsPanel.hidden = true;
+                userAnswers = {};
+                currentQuestionIndex = 0;
             });
 
             /***** INITIALIZATION *****/
