@@ -3,52 +3,65 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>PRC-Aligned SWLE Exam Builder (All Subjects)</title>
+  <title>PRC SWLE Exam Builder</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/iconfont/tabler-icons.min.css">
   <style>
     :root{
       --bg:#0f172a;--card:#111827;--muted:#1f2937;--text:#e5e7eb;--accent:#22d3ee;--good:#22c55e;--bad:#ef4444;--warn:#f59e0b;
     }
     *{box-sizing:border-box}
-    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;background:var(--bg);color:var(--text)}
-    .wrap{max-width:1100px;margin:40px auto;padding:0 16px}
-    .row{display:flex;gap:16px;flex-wrap:wrap}
-    .card{background:linear-gradient(180deg,#111827, #0b1220);border:1px solid #1f2937;border-radius:18px;padding:16px;box-shadow:0 10px 25px rgba(0,0,0,.25)}
-    .card h2,.card h3{margin:0 0 12px}
-    .pill{display:inline-block;padding:4px 10px;border-radius:999px;background:#0b1220;border:1px solid #243141;color:#9fb0c5;font-size:12px}
-    button,select,input[type="file"]{background:#0b1220;color:var(--text);border:1px solid #233045;border-radius:12px;padding:10px 14px;cursor:pointer; transition: border-color 0.2s;}
-    button:hover, select:hover, input[type="file"]:hover {border-color:#3b82f6}
-    .primary{background:linear-gradient(180deg,#0ea5e9,#22d3ee);color:#001018;border:none}
+    body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--text)}
+    .header{padding:24px 0 12px;text-align:center}
+    .header h1{font-size:2.2rem;margin:0;font-weight:700;letter-spacing:-1px;}
+    .header .subtitle{color:var(--accent);font-size:1.1rem;margin-top:4px;}
+    .wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+    .row{display:flex;gap:24px;flex-wrap:wrap}
+    .card{background:linear-gradient(180deg,#111827, #0b1220);border:1px solid #1f2937;border-radius:18px;padding:20px 18px;box-shadow:0 10px 25px rgba(0,0,0,.12);transition:box-shadow 0.2s;}
+    .card:hover{box-shadow:0 14px 32px rgba(0,0,0,.16);}
+    .card h2,.card h3{margin:0 0 14px}
+    .pill{display:inline-block;padding:5px 12px;border-radius:999px;background:#0b1220;border:1px solid #243141;color:#9fb0c5;font-size:13px;margin-bottom:4px;}
+    button,select,input[type="file"]{background:#0b1220;color:var(--text);border:1px solid #233045;border-radius:12px;padding:12px 16px;cursor:pointer; transition: border-color 0.2s;}
+    button:hover, select:hover, input[type="file"]:hover {border-color:#22d3ee}
+    .primary{background:linear-gradient(180deg,#0ea5e9,#22d3ee);color:#001018;border:none;font-weight:500;}
     .primary:hover{filter:brightness(1.1)}
     .danger{background:#1a0b0b;color:#ffd8d8;border-color:#7f1d1d}
     .success{background:#0b1a14;color:#d1fae5;border-color:#064e3b}
     .warn{background:#1a140b;color:#ffedd5;border-color:#7c2d12}
-    .grid{display:grid;gap:16px}
-    .grid.g2{grid-template-columns:repeat(2,minmax(0,1fr))}
+    .grid{display:grid;gap:18px}
     .grid.g3{grid-template-columns:repeat(3,minmax(0,1fr))}
     @media(max-width:900px){.grid.g3{grid-template-columns:1fr}.row{flex-direction:column}}
-    .flex{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+    .flex{display:flex;gap:14px;align-items:center;flex-wrap:wrap}
     .right{margin-left:auto}
-    .q{padding:16px;border:1px solid #223046;border-radius:14px;margin:8px 0;background:#0b1220}
-    .choice{padding:10px;border:1px solid #263246;border-radius:12px;margin:8px 0;cursor:pointer; transition: all 0.2s;}
+    .q{padding:18px 16px;border:1px solid #223046;border-radius:14px;margin:10px 0;background:#0b1220;box-shadow:0 2px 10px rgba(0,0,0,.05);}
+    .q-meta{font-size:13px;color:#9fb0c5;margin-bottom:8px;display:flex;gap:16px;}
+    .choice{padding:12px;border:1px solid #263246;border-radius:12px;margin:8px 0;cursor:pointer; transition: all 0.18s;position:relative}
     .choice.correct{border-color:#14532d;background:#062014; color: var(--good);}
     .choice.wrong{border-color:#7f1d1d;background:#1a0b0b; color: var(--bad);}
     .choice.selected{border-color: var(--accent); background: #1c2e4a;}
+    .choice:focus{outline:2px solid var(--accent);}
     .hide{display:none}
-    .rationale{border-left:3px solid #233045;margin-top:6px;padding-left:10px;color:#bcd; font-size: 14px;}
-    .progress{height:10px;background:#0b1220;border:1px solid #233045;border-radius:999px;overflow:hidden}
+    .rationale{border-left:3px solid #233045;margin-top:8px;padding-left:12px;color:#bcd; font-size: 15px;}
+    .progress{height:12px;background:#0b1220;border:1px solid #233045;border-radius:999px;overflow:hidden;position:relative;}
     .bar{height:100%;background:linear-gradient(90deg,#22d3ee,#3b82f6); transition: width 0.3s ease-in-out;}
-    .small{font-size:12px}
+    .progress-label{position:absolute;top:-22px;left:0;width:100%;text-align:center;font-size:14px;color:var(--accent);}
+    .small{font-size:13px}
     .input{width:100%;background:#0b1220;border:1px solid #233045;border-radius:10px;padding:10px;color:var(--text)}
-    .help{font-size:12px;color:#9fb0c5; min-height: 16px;}
+    .help{font-size:13px;color:#9fb0c5; min-height: 16px;}
     .pillbar{display:flex;gap:8px;flex-wrap:wrap}
+    .sticky-controls{position:sticky;top:0;background:var(--card);z-index:2;padding:6px 0;}
+    .icon{vertical-align:middle;margin-right:6px;}
+    .toast{position:fixed;top:22px;right:22px;background:var(--accent);color:#001018;padding:12px 18px;border-radius:12px;box-shadow:0 5px 14px rgba(0,0,0,.16);font-weight:500;display:none;z-index:99;}
   </style>
 </head>
 <body>
+  <div class="header">
+    <h1><i class="ti ti-school icon"></i> PRC SWLE Exam Builder</h1>
+    <div class="subtitle">All Subjects • PRC Table of Specs • Practice Mode</div>
+  </div>
   <div class="wrap">
     <div class="row">
       <div class="card" style="flex:1 1 460px">
-        <h2>PRC-Aligned SWLE Exam Builder</h2>
-        <div class="pillbar">
+        <div class="pillbar" style="margin-bottom:10px;">
           <span class="pill">Subjects: HBSE, SWPPS, Practice I-III</span>
           <span class="pill">Difficulty split: 30% E • 40% M • 30% D</span>
           <span class="pill">Local Data Bank via <b>localStorage</b></span>
@@ -56,7 +69,7 @@
         <p class="muted">Build 100-item exams per subject aligned to the PRC Table of Specifications. Import your JSON files to populate the question bank and start practicing.</p>
         <div class="grid g3">
           <div class="card">
-            <h3>Build Exam</h3>
+            <h3><i class="ti ti-edit icon"></i>Build Exam</h3>
             <label>Subject
               <select id="subjectSelect" class="input">
                 <option>HBSE</option>
@@ -68,22 +81,23 @@
             </label>
             <label>Target items <input id="targetCount" class="input" type="number" value="100" min="10" max="200"/></label>
             <div class="flex" style="margin-top:10px">
-              <button class="primary" id="btnBuild">Build Exam</button>
+              <button class="primary" id="btnBuild"><i class="ti ti-play icon"></i>Build Exam</button>
             </div>
             <div id="buildMsg" class="help" style="margin-top:8px"></div>
           </div>
           <div class="card">
-            <h3>Bank: Import / Export</h3>
+            <h3><i class="ti ti-database icon"></i>Bank: Import / Export</h3>
             <div>
               <input type="file" id="importFile" accept="application/json"/>
             </div>
             <div class="flex" style="margin-top:10px">
-              <button id="btnImport">Import</button>
+              <button id="btnImport"><i class="ti ti-upload icon"></i>Import</button>
+              <button id="btnExport"><i class="ti ti-download icon"></i>Export</button>
             </div>
-             <div id="importMsg" class="help" style="margin-top:8px"></div>
+            <div id="importMsg" class="help" style="margin-top:8px"></div>
           </div>
           <div class="card">
-            <h3>Data Bank Status</h3>
+            <h3><i class="ti ti-list icon"></i>Data Bank Status</h3>
             <div id="bankStatus" class="help">No data loaded. Import a file to begin.</div>
           </div>
         </div>
@@ -91,52 +105,56 @@
     </div>
 
     <!-- Exam Panel -->
-    <div class="card" id="examPanel" style="margin-top:16px" hidden>
-     <div class="flex">
-        <h3 style="margin:0">Exam Mode</h3>
-        <div class="right pillbar">
-          <span class="pill" id="metaProgress">Question 0 of 0</span>
+    <div class="card" id="examPanel" style="margin-top:18px" hidden>
+      <div class="flex sticky-controls">
+        <h3 style="margin:0"><i class="ti ti-book icon"></i>Exam Mode</h3>
+        <div class="pillbar right">
           <span class="pill" id="metaCount">Answered: 0/0</span>
           <span class="pill" id="metaScore">Score: 0%</span>
+          <span class="pill" id="metaSubject"></span>
+        </div>
+        <div class="right">
+          <button id="btnAnswerKey" style="margin-right:6px;"><i class="ti ti-key icon"></i>Answer Key</button>
+          <button id="btnResetExam" class="danger"><i class="ti ti-refresh icon"></i>Reset</button>
         </div>
       </div>
-      <div class="progress" style="margin:12px 0 6px"><div class="bar" id="bar" style="width:0%"></div></div>
-      <div id="examList"></div>
-      <div class="flex" style="margin-top:12px">
-        <button id="btnAnswerKey">Show Answer Key</button>
-        <button id="btnResetExam" class="danger">Reset Exam</button>
+      <div class="progress" style="margin:14px 0 8px">
+        <div class="progress-label" id="barLabel">0%</div>
+        <div class="bar" id="bar" style="width:0%"></div>
       </div>
+      <div id="examList"></div>
       <div id="answerKey" class="q hide"></div>
     </div>
   </div>
-
+  <div class="toast" id="toast"></div>
   <script>
     document.addEventListener('DOMContentLoaded', () => {
-      /***** STATE AND DOM ELEMENTS *****/
       let currentExamQuestions = [];
-      let userAnswers = {}; // Store user answers { questionId: answerIndex }
-
+      let userAnswers = {};
+      let currentSubject = "";
+      // Elements
       const subjectSelect = document.getElementById('subjectSelect');
       const targetCount = document.getElementById('targetCount');
       const btnBuild = document.getElementById('btnBuild');
       const buildMsg = document.getElementById('buildMsg');
-      
       const importFile = document.getElementById('importFile');
       const btnImport = document.getElementById('btnImport');
+      const btnExport = document.getElementById('btnExport');
       const importMsg = document.getElementById('importMsg');
       const bankStatus = document.getElementById('bankStatus');
-
       const examPanel = document.getElementById('examPanel');
       const examList = document.getElementById('examList');
       const metaCount = document.getElementById('metaCount');
       const metaScore = document.getElementById('metaScore');
+      const metaSubject = document.getElementById('metaSubject');
       const bar = document.getElementById('bar');
-      const showRationale = document.getElementById('showRationale');
+      const barLabel = document.getElementById('barLabel');
       const btnAnswerKey = document.getElementById('btnAnswerKey');
       const btnResetExam = document.getElementById('btnResetExam');
       const answerKey = document.getElementById('answerKey');
+      const toast = document.getElementById('toast');
 
-      /***** SUBJECT ALLOCATION MATRICES (PRC TOS) *****/
+      // PRC Table of Specifications
       const ALLOCATIONS = {
         HBSE: {
           difficultySplit:{Easy:0.30, Moderate:0.40, Difficult:0.30},
@@ -160,8 +178,7 @@
         }
       };
 
-      /***** UTILITY FUNCTIONS *****/
-      // Function to shuffle an array
+      // Utility
       const shuffle = (array) => {
         for (let i = array.length - 1; i > 0; i--) {
           const j = Math.floor(Math.random() * (i + 1));
@@ -169,8 +186,13 @@
         }
         return array;
       };
-
-      // Function to update the display of the question bank status
+      const showToast = (msg, color="var(--accent)", timeout=2100) => {
+        toast.textContent = msg;
+        toast.style.background = color;
+        toast.style.display = "block";
+        setTimeout(()=>{toast.style.display="none";}, timeout);
+      };
+      // Update question bank status
       const updateBankStatus = () => {
         let statusHTML = '';
         Object.keys(ALLOCATIONS).forEach(subject => {
@@ -182,17 +204,32 @@
         bankStatus.innerHTML = statusHTML || 'No data loaded. Import a file to begin.';
       };
 
-      /***** IMPORT LOGIC *****/
-      btnImport.addEventListener('click', () => {
-        if (importFile.files.length === 0) {
-          importMsg.textContent = 'Please select a file to import.';
-          importMsg.style.color = 'var(--warn)';
+      // Export logic
+      btnExport.addEventListener('click', () => {
+        const subject = subjectSelect.value;
+        const bank = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
+        if (bank.length === 0) {
+          showToast(`No data to export for ${subject}`, "var(--warn)");
           return;
         }
+        const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(bank,null,2));
+        const dl = document.createElement('a');
+        dl.setAttribute('href', dataStr);
+        dl.setAttribute('download', `questions_${subject}.json`);
+        document.body.appendChild(dl);
+        dl.click();
+        dl.remove();
+        showToast(`Exported ${bank.length} items for ${subject}`, "var(--good)");
+      });
 
+      // Import logic
+      btnImport.addEventListener('click', () => {
+        if (importFile.files.length === 0) {
+          showToast('Please select a file to import.', "var(--warn)");
+          return;
+        }
         const file = importFile.files[0];
         const reader = new FileReader();
-
         reader.onload = (event) => {
           try {
             const data = JSON.parse(event.target.result);
@@ -203,84 +240,80 @@
             if (!subject || !ALLOCATIONS[subject]) {
               throw new Error('JSON items must have a valid "subject" property.');
             }
-            
-            // Merge with existing data if any
             const existingData = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
             const combinedData = [...existingData, ...data];
-            // Remove duplicates by ID
             const uniqueData = Array.from(new Map(combinedData.map(item => [item.id, item])).values());
-
             localStorage.setItem(`questions_${subject}`, JSON.stringify(uniqueData));
-            importMsg.textContent = `Imported and merged ${data.length} items for ${subject}. Total: ${uniqueData.length}.`;
-            importMsg.style.color = 'var(--good)';
+            showToast(`Imported and merged ${data.length} items for ${subject}. Total: ${uniqueData.length}.`, "var(--good)");
             updateBankStatus();
-            importFile.value = ''; // Reset file input
+            importFile.value = '';
           } catch (e) {
-            importMsg.textContent = `Error: ${e.message}`;
-            importMsg.style.color = 'var(--bad)';
+            showToast(`Import error: ${e.message}`, "var(--bad)", 3000);
           }
         };
         reader.readAsText(file);
       });
 
-      /***** EXAM BUILDING LOGIC *****/
+      // Build Exam
       btnBuild.addEventListener('click', () => {
         const subject = subjectSelect.value;
+        currentSubject = subject;
         const totalItems = parseInt(targetCount.value);
         const bank = JSON.parse(localStorage.getItem(`questions_${subject}`) || '[]');
-
         if (bank.length === 0) {
           buildMsg.textContent = `Question bank for ${subject} is empty. Please import a file.`;
           buildMsg.style.color = 'var(--warn)';
           return;
         }
-
         const allocation = ALLOCATIONS[subject];
         let selectedQuestions = [];
-        let tempBank = shuffle([...bank]); // Use a shuffled copy
-
-        // Distribute questions based on difficulty
+        let tempBank = shuffle([...bank]);
         const requiredEasy = Math.round(totalItems * allocation.difficultySplit.Easy);
         const requiredMod = Math.round(totalItems * allocation.difficultySplit.Moderate);
         const requiredDiff = totalItems - requiredEasy - requiredMod;
-
         const easyQs = tempBank.filter(q => q.difficulty === 'Easy');
         const modQs = tempBank.filter(q => q.difficulty === 'Moderate');
         const diffQs = tempBank.filter(q => q.difficulty === 'Difficult');
-
         selectedQuestions.push(...easyQs.slice(0, requiredEasy));
         selectedQuestions.push(...modQs.slice(0, requiredMod));
         selectedQuestions.push(...diffQs.slice(0, requiredDiff));
-
         if (selectedQuestions.length < totalItems) {
-            buildMsg.textContent = `Warning: Not enough questions in the bank to meet the ${totalItems} target. Built with ${selectedQuestions.length}.`;
-            buildMsg.style.color = 'var(--warn)';
+          buildMsg.textContent = `Warning: Not enough questions in the bank to meet the ${totalItems} target. Built with ${selectedQuestions.length}.`;
+          buildMsg.style.color = 'var(--warn)';
         } else {
-            buildMsg.textContent = `Successfully built exam with ${selectedQuestions.length} items.`;
-            buildMsg.style.color = 'var(--good)';
+          buildMsg.textContent = `Successfully built exam with ${selectedQuestions.length} items.`;
+          buildMsg.style.color = 'var(--good)';
         }
-
         currentExamQuestions = shuffle(selectedQuestions);
         userAnswers = {};
         renderExam();
       });
 
-      /***** EXAM RENDERING AND INTERACTION *****/
+      // Exam rendering
       const renderExam = () => {
         examPanel.hidden = false;
         examList.innerHTML = '';
+        metaSubject.textContent = `Subject: ${currentSubject}`;
         currentExamQuestions.forEach((q, index) => {
           const questionEl = document.createElement('div');
           questionEl.className = 'q';
           questionEl.dataset.id = q.id;
-
-          const choicesHTML = shuffle([...q.choices]).map((choice, choiceIndex) => `
-            <div class="choice" data-index="${q.choices.indexOf(choice)}">
+          questionEl.tabIndex = 0;
+          // metadata
+          let meta = `<div class="q-meta">
+            <span>Topic: ${q.topic || 'N/A'}</span>
+            <span>Difficulty: ${q.difficulty}</span>
+            <span>ID: ${q.id}</span>
+          </div>`;
+          // choices
+          const choiceOrder = shuffle([...q.choices]);
+          const choicesHTML = choiceOrder.map((choice) => `
+            <div class="choice" data-index="${q.choices.indexOf(choice)}" tabindex="0">
               ${choice}
             </div>
           `).join('');
-
           questionEl.innerHTML = `
+            ${meta}
             <div><b>${index + 1}.</b> ${q.stem}</div>
             <div class="choices">${choicesHTML}</div>
             <div class="rationale hide">${q.rationale}</div>
@@ -291,72 +324,69 @@
         answerKey.classList.add('hide');
       };
 
+      // Question answer logic
       examList.addEventListener('click', (e) => {
         if (e.target.classList.contains('choice')) {
           const questionEl = e.target.closest('.q');
           const questionId = questionEl.dataset.id;
           const selectedIndex = parseInt(e.target.dataset.index);
-
-          // Prevent changing answer once selected
           if (userAnswers[questionId] !== undefined) return;
-
           userAnswers[questionId] = selectedIndex;
-          
           const question = currentExamQuestions.find(q => q.id === questionId);
           const isCorrect = selectedIndex === question.answerIndex;
-
-          // Visual feedback
           e.target.classList.add(isCorrect ? 'correct' : 'wrong');
           if (!isCorrect) {
-            // Highlight the correct answer
             questionEl.querySelector(`.choice[data-index="${question.answerIndex}"]`).classList.add('correct');
           }
-
-          if (showRationale.checked) {
-            questionEl.querySelector('.rationale').classList.remove('hide');
-          }
-          
+          questionEl.querySelector('.rationale').classList.remove('hide');
           updateStats();
         }
       });
 
+      // Keyboard accessibility (Enter to select)
+      examList.addEventListener('keydown', (e) => {
+        if (e.target.classList.contains('choice') && (e.key === "Enter" || e.key === " ")){
+          e.preventDefault();
+          e.target.click();
+        }
+      });
+
+      // Stats
       const updateStats = () => {
         const answeredCount = Object.keys(userAnswers).length;
         const totalCount = currentExamQuestions.length;
         let correctCount = 0;
-        
         for (const qId in userAnswers) {
             const question = currentExamQuestions.find(q => q.id === qId);
             if (question && userAnswers[qId] === question.answerIndex) {
                 correctCount++;
             }
         }
-
         const score = totalCount > 0 ? Math.round((correctCount / totalCount) * 100) : 0;
         const answeredScore = answeredCount > 0 ? Math.round((correctCount / answeredCount) * 100) : 0;
-
         metaCount.textContent = `Answered: ${answeredCount}/${totalCount}`;
         metaScore.textContent = `Score: ${answeredScore}%`;
         bar.style.width = `${(answeredCount / totalCount) * 100}%`;
+        barLabel.textContent = `${Math.round((answeredCount / totalCount) * 100)}%`;
       };
 
-      /***** EXAM CONTROLS *****/
+      // Exam controls
       btnResetExam.addEventListener('click', () => {
-        userAnswers = {};I 
-        renderExam(); // Re-render to clear selections
+        userAnswers = {};
+        renderExam();
+        showToast("Exam reset.", "var(--warn)");
       });
 
       btnAnswerKey.addEventListener('click', () => {
         answerKey.classList.toggle('hide');
-        answerKey.innerHTML = '<h3>Answer Key</h3>' + currentExamQuestions.map((q, i) => 
+        answerKey.innerHTML = '<h3><i class="ti ti-key icon"></i>Answer Key</h3>' + currentExamQuestions.map((q, i) => 
           `<div><b>${i+1}.</b> ${q.choices[q.answerIndex]}</div>`
         ).join('');
       });
 
-      /***** INITIALIZATION *****/
+      // Initial
       updateBankStatus();
     });
   </script>
 </body>
 </html>
-
