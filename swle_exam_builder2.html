@@ -263,7 +263,7 @@
                 importMsg.style.color = 'var(--good)';
             });
 
-            /***** EXAM BUILDING LOGIC - REVISED TO PRESERVE TOS ACCURACY *****/
+            /***** EXAM BUILDING LOGIC - REVISED *****/
             btnBuild.addEventListener('click', () => {
                 const subject = subjectSelect.value;
                 const totalItems = parseInt(targetCount.value);
@@ -279,7 +279,6 @@
                 let selectedQuestions = [];
                 let questionsByTopic = {};
                 
-                // Group all questions by their topic
                 bank.forEach(q => {
                     if (!questionsByTopic[q.topicKey]) {
                         questionsByTopic[q.topicKey] = [];
@@ -287,7 +286,7 @@
                     questionsByTopic[q.topicKey].push(q);
                 });
                 
-                // Distribute questions based on topic and difficulty
+                let hasSufficientQuestions = true;
                 for (const topicAlloc of allocation.topics) {
                     const topicKey = topicAlloc.key;
                     const requiredTopicCount = Math.round(totalItems * (topicAlloc.count / 100));
@@ -301,21 +300,28 @@
                     const requiredMod = Math.round(requiredTopicCount * allocation.difficultySplit.Moderate);
                     const requiredDiff = requiredTopicCount - requiredEasy - requiredMod;
                     
+                    // Check if there are enough questions for each topic/difficulty combo
+                    if (easyQuestions.length < requiredEasy || moderateQuestions.length < requiredMod || difficultQuestions.length < requiredDiff) {
+                        hasSufficientQuestions = false;
+                        break; // Exit the loop if a single topic is insufficient
+                    }
+
                     selectedQuestions.push(...easyQuestions.slice(0, requiredEasy));
                     selectedQuestions.push(...moderateQuestions.slice(0, requiredMod));
                     selectedQuestions.push(...difficultQuestions.slice(0, requiredDiff));
                 }
-                
-                selectedQuestions = selectedQuestions.slice(0, totalItems); // Trim if we went over
-                const builtCount = selectedQuestions.length;
-                
-                if (builtCount < totalItems) {
-                    buildMsg.textContent = `Built exam with ${builtCount} questions. Not enough questions in the bank to build a complete ${totalItems}-item exam according to the TOS.`;
-                    buildMsg.style.color = 'var(--warn)';
-                } else {
-                    buildMsg.textContent = `Successfully built exam with ${builtCount} items.`;
-                    buildMsg.style.color = 'var(--good)';
+
+                if (!hasSufficientQuestions) {
+                    buildMsg.textContent = `Not enough questions in the bank to meet the ${totalItems} target with the required topic and difficulty distribution. Please import more questions for this subject.`;
+                    buildMsg.style.color = 'var(--bad)';
+                    examPanel.hidden = true;
+                    return;
                 }
+
+                // If we reach here, we have enough questions to build the perfect exam
+                selectedQuestions = selectedQuestions.slice(0, totalItems);
+                buildMsg.textContent = `Successfully built exam with ${selectedQuestions.length} items.`;
+                buildMsg.style.color = 'var(--good)';
                 
                 currentExamQuestions = shuffle(selectedQuestions);
                 userAnswers = {};
