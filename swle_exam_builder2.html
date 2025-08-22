@@ -263,7 +263,7 @@
                 importMsg.style.color = 'var(--good)';
             });
 
-            /***** EXAM BUILDING LOGIC - IMPROVED *****/
+            /***** EXAM BUILDING LOGIC - REVISED TO PRESERVE TOS ACCURACY *****/
             btnBuild.addEventListener('click', () => {
                 const subject = subjectSelect.value;
                 const totalItems = parseInt(targetCount.value);
@@ -279,6 +279,7 @@
                 let selectedQuestions = [];
                 let questionsByTopic = {};
                 
+                // Group all questions by their topic
                 bank.forEach(q => {
                     if (!questionsByTopic[q.topicKey]) {
                         questionsByTopic[q.topicKey] = [];
@@ -286,6 +287,7 @@
                     questionsByTopic[q.topicKey].push(q);
                 });
                 
+                // Distribute questions based on topic and difficulty
                 for (const topicAlloc of allocation.topics) {
                     const topicKey = topicAlloc.key;
                     const requiredTopicCount = Math.round(totalItems * (topicAlloc.count / 100));
@@ -304,15 +306,14 @@
                     selectedQuestions.push(...difficultQuestions.slice(0, requiredDiff));
                 }
                 
-                let builtCount = selectedQuestions.length;
+                selectedQuestions = selectedQuestions.slice(0, totalItems); // Trim if we went over
+                const builtCount = selectedQuestions.length;
+                
                 if (builtCount < totalItems) {
-                    const remainingQuestions = shuffle(bank.filter(q => !selectedQuestions.includes(q)));
-                    selectedQuestions.push(...remainingQuestions.slice(0, totalItems - builtCount));
-                    buildMsg.textContent = `Warning: Not enough questions in bank to meet ${totalItems}. Built with ${selectedQuestions.length} and filled remaining randomly.`;
+                    buildMsg.textContent = `Built exam with ${builtCount} questions. Not enough questions in the bank to build a complete ${totalItems}-item exam according to the TOS.`;
                     buildMsg.style.color = 'var(--warn)';
                 } else {
-                    selectedQuestions = selectedQuestions.slice(0, totalItems);
-                    buildMsg.textContent = `Successfully built exam with ${selectedQuestions.length} items.`;
+                    buildMsg.textContent = `Successfully built exam with ${builtCount} items.`;
                     buildMsg.style.color = 'var(--good)';
                 }
                 
