@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>PRC SWLE Exam Builder</title>
   <style>
-    /* Retain your previous CSS here */
     :root{--bg:#0f172a;--card:#111827;--muted:#1f2937;--text:#e5e7eb;--accent:#22d3ee;--good:#22c55e;--bad:#ef4444;--warn:#f59e0b;}
     *{box-sizing:border-box}
     body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--text)}
@@ -37,7 +36,6 @@
     .input{width:100%;background:#0b1220;border:1px solid #233045;border-radius:10px;padding:10px;color:var(--text)}
     .help{font-size:12px;color:#9fb0c5; min-height: 16px;}
     .pillbar{display:flex;gap:8px;flex-wrap:wrap}
-    /* New for finish panel */
     .results-summary {margin:18px 0 0 0;padding:16px;border-radius:14px;background:var(--muted);}
     .answer-review {margin:12px 0 0 0;}
     .answer-review .q {background:#171e2b;}
@@ -76,7 +74,7 @@
             </div>
             <div id="buildMsg" class="help" style="margin-top:8px"></div>
           </div>
-         <div class="card">
+          <div class="card">
             <h3>Bank: Import / Export</h3>
             <div>
               <input type="file" id="importFile" accept="application/json" style="width:100%;box-sizing:border-box;"/>
@@ -84,7 +82,7 @@
             <div class="flex" style="margin-top:10px">
               <button id="btnImport">Import</button>
             </div>
-            <div id="importMsg" class="help" style="margin-top:8px"></div>
+             <div id="importMsg" class="help" style="margin-top:8px"></div>
           </div>
           <div class="card">
             <h3>Data Bank Status</h3>
@@ -161,6 +159,17 @@
         return array;
       };
 
+      // Used questions logic
+      function getUsedQuestionIds(subject) {
+        return JSON.parse(localStorage.getItem(`used_questions_${subject}`) || '[]');
+      }
+      function setUsedQuestionIds(subject, ids) {
+        localStorage.setItem(`used_questions_${subject}`, JSON.stringify(ids));
+      }
+      function resetUsedQuestionIds(subject) {
+        localStorage.removeItem(`used_questions_${subject}`);
+      }
+
       const updateBankStatus = () => {
         let statusHTML = '';
         Object.keys(ALLOCATIONS).forEach(subject => {
@@ -203,7 +212,7 @@
         reader.readAsText(file);
       });
 
-      /*** Exam building ***/
+      /*** Exam building with non-repeating logic ***/
       btnBuild.addEventListener('click', () => {
         const subject = subjectSelect.value;
         const totalItems = parseInt(targetCount.value);
@@ -213,9 +222,24 @@
           buildMsg.style.color = 'var(--warn)';
           return;
         }
+        // Get used IDs for this subject
+        let usedIds = getUsedQuestionIds(subject);
+        // Filter out used questions
+        let unusedQuestions = bank.filter(q => !usedIds.includes(q.id));
+        // If not enough unused, reset used and start over
+        if (unusedQuestions.length < totalItems) {
+          resetUsedQuestionIds(subject);
+          usedIds = [];
+          unusedQuestions = bank;
+          buildMsg.textContent = `All questions have been used. The pool is reset.`;
+          buildMsg.style.color = 'var(--warn)';
+        } else {
+          buildMsg.textContent = '';
+        }
+        // Allocate by difficulty
         const allocation = ALLOCATIONS[subject];
         let selectedQuestions = [];
-        let tempBank = shuffle([...bank]);
+        let tempBank = shuffle([...unusedQuestions]);
         const requiredEasy = Math.round(totalItems * allocation.difficultySplit.Easy);
         const requiredMod = Math.round(totalItems * allocation.difficultySplit.Moderate);
         const requiredDiff = totalItems - requiredEasy - requiredMod;
@@ -228,7 +252,7 @@
         if (selectedQuestions.length < totalItems) {
             buildMsg.textContent = `Warning: Not enough questions in the bank to meet the ${totalItems} target. Built with ${selectedQuestions.length}.`;
             buildMsg.style.color = 'var(--warn)';
-        } else {
+        } else if (!buildMsg.textContent) {
             buildMsg.textContent = `Successfully built exam with ${selectedQuestions.length} items.`;
             buildMsg.style.color = 'var(--good)';
         }
@@ -245,6 +269,14 @@
         // If exam is done
         if (currentQuestionIndex >= currentExamQuestions.length) {
           examPanel.hidden = true;
+          // Record the used questions for this attempt
+          const subject = subjectSelect.value;
+          let usedIds = getUsedQuestionIds(subject);
+          let newUsedIds = [...usedIds];
+          currentExamQuestions.forEach(q => {
+            if (!newUsedIds.includes(q.id)) newUsedIds.push(q.id);
+          });
+          setUsedQuestionIds(subject, newUsedIds);
           showResultsPanel();
           return;
         }
@@ -308,12 +340,18 @@
             renderSingleQuestion();
           } else {
             examPanel.hidden = true;
+            // Record the used questions for this attempt
+            const subject = subjectSelect.value;
+            let usedIds = getUsedQuestionIds(subject);
+            let newUsedIds = [...usedIds];
+            currentExamQuestions.forEach(q => {
+              if (!newUsedIds.includes(q.id)) newUsedIds.push(q.id);
+            });
+            setUsedQuestionIds(subject, newUsedIds);
             showResultsPanel();
           }
         };
         singleQuestionPanel.appendChild(btnNext);
-
-        // Show finish button only at end
         btnFinishExam.classList.add('hide');
       }
 
@@ -372,4 +410,3 @@
   </script>
 </body>
 </html>
-
